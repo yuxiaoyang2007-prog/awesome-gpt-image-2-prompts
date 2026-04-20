@@ -35,6 +35,7 @@ If you find this useful, consider giving it a star. ⭐
 
 > [!NOTE]
 > This repository focuses on reusable prompt patterns, reference cases, and task-specific examples for GPT-Image-2 on Evolink.
+> Recent prompt-only updates are also tracked in `gpt_image_2_prompt.json`.
 
 <a href='https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
 <a href='https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
@@ -43,6 +44,7 @@ If you find this useful, consider giving it a star. ⭐
 
 ## News
 
+- **April 20, 2026:** Added `gpt_image_2_prompt.json` with 12 newly curated GPT-Image-2 prompts from the latest 24-hour update
 - **April 19, 2026:** Added 10 new GPT-Image-2 prompts across poster, UI, and comparison cases
 - **April 18, 2026:** First repository release with curated GPT-Image-2 case set
 
@@ -57,8 +59,11 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 3: Japanese Onsen Ryokan Portrait (by @BubbleBrain)](#case-3-japanese-onsen-ryokan-portrait-by-bubblebrain)
   - [Case 4: 35mm Flash Editorial Portrait (by @BubbleBrain)](#case-4-35mm-flash-editorial-portrait-by-bubblebrain)
   - [Case 5: Mirror Selfie Bedroom Portrait (by @Shinning1010)](#case-5-mirror-selfie-bedroom-portrait-by-shinning1010)
+  - [Case 6: Soft Airy 35mm Portrait (by @BubbleBrain)](#case-6-soft-airy-35mm-portrait-by-bubblebrain)
   - [Case 7: Luxury Glam Beauty Portrait (by @patrickassale)](#case-7-luxury-glam-beauty-portrait-by-patrickassale)
   - [Case 8: 9:16 Cosplayer Portrait Screenshot (by @Zoulinshen)](#case-8-916-cosplayer-portrait-screenshot-by-zoulinshen)
+  - [Case 9: Urban Turn-Back Street Portrait (by @Tz_2022)](#case-9-urban-turn-back-street-portrait-by-tz_2022)
+  - [Case 10: Sam Altman Skatepark Snapshot (by @Malek1173989)](#case-10-sam-altman-skatepark-snapshot-by-malek1173989)
 - [Poster & Illustration Cases](#poster-illustration-cases)
   - [Case 1: Boston Spring 2026 City Poster (by @BubbleBrain)](#case-1-boston-spring-2026-city-poster-by-bubblebrain)
   - [Case 2: Vintage Amalfi Travel Poster (by @WolfRiccardo)](#case-2-vintage-amalfi-travel-poster-by-wolfriccardo)
@@ -68,6 +73,13 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 7: Doodle Sketch AI Builder (by @blanplan)](#case-7-doodle-sketch-ai-builder-by-blanplan)
   - [Case 8: Futuristic Mandala Illustration (by @4WEB1)](#case-8-futuristic-mandala-illustration-by-4web1)
   - [Case 9: Super Famicom Poster Style (by @lilimliliychan)](#case-9-super-famicom-poster-style-by-lilimliliychan)
+  - [Case 10: Browser Game Ad Creative Poster (by @llllegend0620)](#case-10-browser-game-ad-creative-poster-by-llllegend0620)
+  - [Case 11: Surreal Koi Nebula Illustration (by @liyue_ai)](#case-11-surreal-koi-nebula-illustration-by-liyue_ai)
+  - [Case 12: Ink-Curve Guangzhou Aesthetics Poster (by @liyue_ai)](#case-12-ink-curve-guangzhou-aesthetics-poster-by-liyue_ai)
+  - [Case 13: Guangdong Super League Invitation Poster (by @liyue_ai)](#case-13-guangdong-super-league-invitation-poster-by-liyue_ai)
+  - [Case 14: Spring 2026 Guangzhou Promo Poster (by @grok)](#case-14-spring-2026-guangzhou-promo-poster-by-grok)
+  - [Case 15: Epic Silhouette World Poster (by @Ghhhh3owi)](#case-15-epic-silhouette-world-poster-by-ghhhh3owi)
+  - [Case 16: Summer Citrus Soda Ad Photo (by @old_pgmrs_will)](#case-16-summer-citrus-soda-ad-photo-by-old_pgmrs_will)
 - [Character Design Cases](#character-design-cases)
   - [Case 1: Anime Snapshot Conversion (by @Thereallo1026)](#case-1-anime-snapshot-conversion-by-thereallo1026)
   - [Case 2: Persona5 Character Reference Card (by @iamrednightS)](#case-2-persona5-character-reference-card-by-iamrednights)
@@ -82,6 +94,8 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 5: Multi-Platform Content Screenshots (by @MrLarus)](#case-5-multi-platform-content-screenshots-by-mrlarus)
   - [Case 7: Liu Yifei Douyin Livestream Screenshot (by @alanblogsooo)](#case-7-liu-yifei-douyin-livestream-screenshot-by-alanblogsooo)
   - [Case 8: King Taejo Yi Seong-gye's X Page (by @SKA_Neotype)](#case-8-king-taejo-yi-seong-gyes-x-page-by-ska_neotype)
+  - [Case 9: Style-to-UI Design System (by @stark_nico99)](#case-9-style-to-ui-design-system-by-stark_nico99)
+  - [Case 10: Momotaro Explainer Slide (by @yammamon)](#case-10-momotaro-explainer-slide-by-yammamon)
 - [Comparison & Community Examples](#comparison-community-examples)
   - [Case 1: Model Comparison: GPT Image 2 vs Nano Banana 2 (by @desds1678)](#case-1-model-comparison-gpt-image-2-vs-nano-banana-2-by-desds1678)
   - [Case 2: Direct-on-Reference Frame Directing (by @samifox_ai)](#case-2-direct-on-reference-frame-directing-by-samifox_ai)
@@ -156,8 +170,7 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 21: SeeDance 2.0 + GPT-Image-2 Combo (by @CEs7J0Mfn8x37k5)](#case-21-seedance-20-gpt-image-2-combo-by-ces7j0mfn8x37k5)
   - [Case 23: Silhouette Universe Narrative Poster (by @MrLarus)](#case-23-silhouette-universe-narrative-poster-by-mrlarus)
   - [Case 29: Lion Camel Ridge Dark Myth Scene (by @MANISH1027512)](#case-29-lion-camel-ridge-dark-myth-scene-by-manish1027512)
-  - [Case 30: Luxury Editorial Bookshelf (by @SRKDAN)](#case-30-luxury-editorial-bookshelf-by-srkdan)
-- [Acknowledge](#acknowledge)
+  - [Acknowledge](#acknowledge)
 
 ## Portrait & Photography Cases
 
@@ -223,6 +236,19 @@ A stunning 18-year-old Chinese girl with a youthful, pure face and realistic ski
 Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no watermark, no text, no cartoon/anime style. Aspect Ratio: 3:4.
 ```
 
+<!-- Case 6: Soft Airy 35mm Portrait (by @BubbleBrain) -->
+### Case 6: [Soft Airy 35mm Portrait](https://x.com/BubbleBrain/status/2046115431144902732) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Output |
+| :----: |
+| <img src="./images/comparison_case6/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffused natural window light, slight overexposure, pastel tones, low contrast, soft highlights, minimal indoor setting near a window with white curtains, clean light-colored wall, natural composition, eye-level, slightly closer full-body framing (mid-thigh to head), young East Asian woman, natural minimal makeup, soft realistic skin texture, long slightly messy dark hair, oversized white button-up shirt, light casual shorts, barefoot, simple and relaxed styling, standing naturally with relaxed posture, arms loosely at sides or slightly behind, facing camera, gentle soft smile, subtle stillness, focus on light, air, and quiet everyday mood, soft film grain, dreamy and understated atmosphere --ar 9:16
+```
+
 <!-- Case 7: Luxury Glam Beauty Portrait (by @patrickassale) -->
 ### Case 7: [Luxury Glam Beauty Portrait](https://x.com/patrickassale/status/2044581766309060765) (by [@patrickassale](https://x.com/patrickassale))
 
@@ -249,6 +275,33 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 ```
  生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演（角色名称）的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词，由你自动创作。再在对话框下方加一条操作栏，仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。
 ```
+
+<!-- Case 9: Urban Turn-Back Street Portrait (by @Tz_2022) -->
+### Case 9: [Urban Turn-Back Street Portrait](https://x.com/Tz_2022/status/2045892003775361198) (by [@Tz_2022](https://x.com/Tz_2022))
+
+| Output |
+| :----: |
+| <img src="./images/comparison_case9/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+该画面为中近景，采用平视镜头，聚焦于一位年轻女性。她以七分身镜头呈现，身体坐姿略带倾斜，臀部向后撅起，双腿自然交叠，左腿在前，右腿在后，膝盖微屈。她将上半身向右后方扭转，头部则转向镜头方向，形成一个经典的“回眸”姿态，目光直视镜头，眼神清澈而略带一丝俏皮。她的发型是蓬松的棕色齐肩短发，刘海自然垂落，发尾微卷，妆容清淡自然，仅在眼部有轻微眼线勾勒，唇色为自然裸粉。画面整体采用自然日光滤镜，光线从画面左上方斜射入，形成柔和的逆光轮廓，面部和身体右侧被温暖的金色光线照亮，左侧则形成自然的阴影过渡，增强了立体感。灯光效果是明亮的自然光，带有轻微的镜头眩光，营造出午后阳光的氛围。拍摄角度为平视，构图上，人物主体位于画面中偏右位置，背景中的斑马线与道路线条形成自然的引导线，将视线引向人物。背景为城市街道，包含道路、斑马线、绿化带和远处的车辆，背景被适度虚化，但依然可辨识出树木、护栏和停放的电动车等元素，构图上利用了三分法，人物位于右侧三分之一处，增强了画面的平衡感。主体穿着一件军绿色迷彩图案的连帽卫衣，下身搭配黑色短裤，脚穿白色高帮运动鞋配白色中筒袜。背包为黑色，带有橙黄色装饰条纹和一个橙色毛绒挂件，材质为帆布和皮革拼接。整体风格为街头休闲风，肢体语言放松自然，表情略带好奇与俏皮，整体呈现出一种随性、青春、充满活力的都市少女形象。
+```
+
+<!-- Case 10: Sam Altman Skatepark Snapshot (by @Malek1173989) -->
+### Case 10: [Sam Altman Skatepark Snapshot](https://x.com/Malek1173989/status/2045836887684694395) (by [@Malek1173989](https://x.com/Malek1173989))
+
+| Output |
+| :----: |
+| <img src="./images/comparison_case10/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+"Sam Altman on a skateboard at a skatepark with no people."
+```
+
 ## Poster & Illustration Cases
 
 <!-- Case 1: Boston Spring 2026 City Poster (by @BubbleBrain) -->
@@ -374,12 +427,106 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 このクオリティ　細かい説明呪文なし　すごいぜ！
 ```
 
+<!-- Case 10: Browser Game Ad Creative Poster (by @llllegend0620) -->
+### Case 10: [Browser Game Ad Creative Poster](https://x.com/llllegend0620/status/2045963764466688065) (by [@llllegend0620](https://x.com/llllegend0620))
+
+| Output |
+| :----: |
+| Output preview unavailable |
+
+**Prompt:**
+
+```
+広告クリエイティブ制作
+思いついたら、もう遊べる。 AI×ブラウザゲームづくりは、マジで楽しい。 むずかしそうで、実ははじめやすい。 コードがわからなくても、はじめの一本は作れる
+
+以下の文字を必ず入れて、1:1のポスターを作成してください。書籍・講座・イベント告知に使える、プロの広告デザイナーが作ったような高品質な仕上がりにしてください。
+```
+
+<!-- Case 11: Surreal Koi Nebula Illustration (by @liyue_ai) -->
+### Case 11: [Surreal Koi Nebula Illustration](https://x.com/liyue_ai/status/2045875219307655337) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Output |
+| :----: |
+| <img src="./images/comparison_case11/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+一幅超现实主义数字插画风格，采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中，四周环绕着色彩鲜艳的星云与气泡。画面中央还站着一个小人，背对观众，神情平静地仰望空中这条巨大的锦鲤，锦鲤头向下看着小人。整体画面呈现出强烈的大小对比，氛围空灵又梦幻。比例9:16
+```
+
+<!-- Case 12: Ink-Curve Guangzhou Aesthetics Poster (by @liyue_ai) -->
+### Case 12: [Ink-Curve Guangzhou Aesthetics Poster](https://x.com/liyue_ai/status/2045873940883808523) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Output |
+| :----: |
+| <img src="./images/comparison_case12/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+纯黑深邃底色，一条粗壮有力的墨色书法 S 型曲线自画面一端蜿蜒贯穿至另一端，构成整幅画面的视觉骨架与叙事动线。曲线上方是一只透明质感的画眉鸟，内部映射传统建筑叠影与蓝绿色光流；沿曲线错落分布广州地标与古典建筑序列，前景有白鹤与湖面，远景为层叠山峦。整体采用非线性透视、冷色调主导、暖色点缀，东方美学与现代意象交融，8K 超高清渲染，比例 9:16。
+```
+
+<!-- Case 13: Guangdong Super League Invitation Poster (by @liyue_ai) -->
+### Case 13: [Guangdong Super League Invitation Poster](https://x.com/liyue_ai/status/2045772039521542202) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Output |
+| :----: |
+| <img src="./images/comparison_case13/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+广东省城市足球超级联赛（粤超）邀请函海报设计，比例 9:16。S 型流动构图，以发光足球和动态能量流贯穿画面，沿动线融合广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑、佛山武术剪影、中山文化符号、潮汕英歌舞与清远山水。现代国潮高级海报风格，中国红主视觉，青蓝辅助，金色高光，带完整中文排版与电影级光影。
+```
+
+<!-- Case 14: Spring 2026 Guangzhou Promo Poster (by @grok) -->
+### Case 14: [Spring 2026 Guangzhou Promo Poster](https://x.com/grok/status/2046012437086818395) (by [@grok](https://x.com/grok))
+
+| Output |
+| :----: |
+| Output preview unavailable |
+
+**Prompt:**
+
+```
+一张充满新春喜庆但高雅的 2026 广州城市宣传海报，9:16 竖版，双重曝光，S 型流动构图。纯白纹理背景，右下角微缩传统服饰人物挥舞长红绸，红绸变形成山脉河流，内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 “SPRING 2026” 与竖排 “千年商都 魅力广州”。
+```
+
+<!-- Case 15: Epic Silhouette World Poster (by @Ghhhh3owi) -->
+### Case 15: [Epic Silhouette World Poster](https://x.com/Ghhhh3owi/status/2045803217251102897) (by [@Ghhhh3owi](https://x.com/Ghhhh3owi))
+
+| Output |
+| :----: |
+| <img src="./images/comparison_case15/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+收藏版史诗海报，人物侧脸剪影中生长出完整世界观与经典场景。整体偏电影海报加梦幻水彩插画风，安静、宏大、神圣、怀旧，带纸张颗粒、轻雾感、飞白刷痕与高级留白。
+```
+
+<!-- Case 16: Summer Citrus Soda Ad Photo (by @old_pgmrs_will) -->
+### Case 16: [Summer Citrus Soda Ad Photo](https://x.com/old_pgmrs_will/status/2045852114673635507) (by [@old_pgmrs_will](https://x.com/old_pgmrs_will))
+
+| Output |
+| :----: |
+| <img src="./images/comparison_case16/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+画像生成: 商品広告写真, 夏にぴったりの季節商品, 炭酸飲料, 名称="夏柑SODA", 形状=ペットボトル500ml, 2025年に飲料広告として高CTAだったデザインをリサーチしてから画像仕様をデザインして生成, アスペクト比=3:4
+```
+
 <!-- Case 22: Chengdu Food Map Illustration (by @Panda20230902) -->
 ### Case 22: [Chengdu Food Map Illustration](https://x.com/Panda20230902/status/2045396918965285111) (by [@Panda20230902](https://x.com/Panda20230902))
 
 | Output |
 | :----: |
-| <img src="https://pbs.twimg.com/media/HGKoqQ9bgAA3wLt.jpg" width="300" alt="Output image"> |
+| <img src="./images/comparison_case22/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -392,7 +539,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <img src="https://pbs.twimg.com/media/HGMFZP3asAEhQyj.jpg" width="300" alt="Output image"> |
+| <img src="./images/comparison_case24/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -411,7 +558,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <img src="https://pbs.twimg.com/media/HGMYmiXa0AA0iZu.jpg" width="300" alt="Output image"> |
+| <img src="./images/comparison_case26/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -428,7 +575,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <img src="https://pbs.twimg.com/media/HGMseVlbMAEe4DS.jpg" width="300" alt="Output image"> |
+| <img src="./images/comparison_case27/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -445,7 +592,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <img src="https://pbs.twimg.com/media/HGNH8hhbAAAPIYe.jpg" width="300" alt="Output image"> |
+| <img src="./images/comparison_case28/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -458,7 +605,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <img src="https://pbs.twimg.com/media/HGMe7mMXcAArOaA.jpg" width="300" alt="Output image"> |
+| <img src="./images/comparison_case31/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -666,12 +813,38 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 gpt-image-2
 ```
 
+<!-- Case 9: Style-to-UI Design System (by @stark_nico99) -->
+### Case 9: [Style-to-UI Design System](https://x.com/stark_nico99/status/2045836554451706125) (by [@stark_nico99](https://x.com/stark_nico99))
+
+| Output |
+| :----: |
+| <img src="./images/comparison_case9/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮以及其它。把这套视觉风格作为参考生成网页。我尝试了宇宙、飞行、蝴蝶主题。
+```
+
+<!-- Case 10: Momotaro Explainer Slide (by @yammamon) -->
+### Case 10: [Momotaro Explainer Slide](https://x.com/yammamon/status/2045778624092254603) (by [@yammamon](https://x.com/yammamon))
+
+| Output |
+| :----: |
+| <img src="./images/comparison_case10/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+「いらすとや」のほのぼのとした雰囲気と、「霞ヶ関スライド」の圧倒的な情報密度を融合させた、桃太郎の解説スライド（ポンチ絵）を作成して
+```
+
 <!-- Case 25: Museum-Style Hanfu Breakdown Infographic (by @MrLarus) -->
 ### Case 25: [Museum-Style Hanfu Breakdown Infographic](https://x.com/MrLarus/status/2045504669401653414) (by [@MrLarus](https://x.com/MrLarus))
 
 | Output |
 | :----: |
-| <img src="https://pbs.twimg.com/media/HGMWXPObQAAPnA0.jpg" width="300" alt="Output image"> |
+| <img src="./images/comparison_case25/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -930,13 +1103,6 @@ Skills化するか
 **Prompt:**
 
 ```
-をシェアします💗🤣
-GPT Image 2 はまだ正式リリースされてないと言っておりましたが、添付した 2 枚は「 A / B どちらが良いか」選ばせるタイプでした。
-よく見ると右下にサインまで…！
-これが噂の 2 なのでしょうか？
-懐かしの「私がどんなふうに扱ったか」シリーズです(笑)
---------------------
-✅#prompt : 
 私があなたをどんなふうに扱ってきたか、4 コマ漫画風に描いてください。まずは 800 字くらいのプロットをテキストで出して、私が「描いて」と言ったらプロットに沿った 4 コマ漫画を描いてください。
 --------------------
 まずテキストを生成しますので、そのあと「描いて」と送ってください。その前に画風など指定するのも良いかと思います。
@@ -1039,7 +1205,7 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 
 | Output |
 | :----: |
-| <img src="https://pbs.twimg.com/media/HGLIMdFWwAAVBD9.jpg" width="300" alt="Output image"> |
+| <img src="./images/comparison_case23/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1062,7 +1228,7 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 
 | Output |
 | :----: |
-| <img src="https://pbs.twimg.com/media/HGPvYyCaYAAAkeN.jpg" width="300" alt="Output image"> |
+| <img src="./images/comparison_case29/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1070,26 +1236,6 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 中式怪异，黑暗神秘风格融合中式美学，完美细节，多重管线渲染，完美建模。西游记背景，狮驼岭，千妖万怪，坐在左边巨大王座上的大象王重甲妖精，坐在中间巨大王座上的狮王重甲妖精，坐在右边巨大王座上大鹏鸟王重甲妖精。渺小的背对镜头孙悟空肩抗金箍棒步行前进，孙悟空身穿铠甲，近地仰拍镜头，长焦镜头，强烈阴影。极致细节刻画，多次修改，正确透视和主体线条，精致细节
 ```
 
-<!-- Case 30: Luxury Editorial Bookshelf (by @SRKDAN) -->
-### Case 30: [Luxury Editorial Bookshelf](https://x.com/SRKDAN/status/2045683829700964821) (by [@SRKDAN](https://x.com/SRKDAN))
-
-| Output |
-| :----: |
-| Output preview unavailable |
-
-**Prompt:**
-
-```
-PHASE 1, SCENE SETUP: Q1 marble counter with warm sunlight, scattered typography books, matte pen, coffee. Q2 dark oak shelving with gallery light, art deco frame, minimal. Q3 natural wood bench outdoor, woven basket, green foliage. Q4 luxury bathroom vanity, mirror, ceramic vessel, dried flowers.
-
-PHASE 2, PALETTE: Q1 warm golds and creams, Q2 charcoal and brass, Q3 sage green and natural wood, Q4 soft mauve and whites.
-
-PHASE 3, LIGHTING: Q1 golden hour window shadows, Q2 dramatic gallery spots, Q3 dappled leaf light, Q4 moody bathroom light.
-
-PHASE 4, MOOD: Q1 luxury lifestyle, Q2 editorial art, Q3 natural and organic, Q4 spa and intimate.
-
-Swap variables: [SUBJECT] / [STYLE] / [CONTEXT]
-```
 
 ## Acknowledge
 

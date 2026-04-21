@@ -278,7 +278,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 | Output |
 | :----: |
-| <img src="./images/comparison_case10/output.jpg" width="300" alt="Output image"> |
+| <img src="./images/portrait_case10/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -428,10 +428,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 **Prompt:**
 
 ```
+以下の文字を必ず入れて、1:1のポスターを作成してください。書籍・講座・イベント告知に使える、プロの広告デザイナーが作ったような高品質な仕上がりにしてください。
+
 広告クリエイティブ制作
 思いついたら、もう遊べる。 AI×ブラウザゲームづくりは、マジで楽しい。 むずかしそうで、実ははじめやすい。 コードがわからなくても、はじめの一本は作れる
-
-以下の文字を必ず入れて、1:1のポスターを作成してください。書籍・講座・イベント告知に使える、プロの広告デザイナーが作ったような高品質な仕上がりにしてください。
 ```
 
 <!-- Case 11: Surreal Koi Nebula Illustration (by @liyue_ai) -->
@@ -850,7 +850,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <img src="./images/comparison_case10/output.jpg" width="300" alt="Output image"> |
+| <img src="./images/ui_case10/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 

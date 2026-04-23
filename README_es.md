@@ -6,6 +6,7 @@
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts)
 [![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts)
 [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts)
+[![🎬 GPT-Image-2 × Seedance 2.0 — Flujo Cinemático](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Flujo_Cinemático-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -127,16 +128,16 @@ Si esto te resulta util, considera darle una estrella. ⭐
   - [Case 56: Cinematic Infographic Concept Poster (by @A9Quant)](#case-56-cinematic-infographic-concept-poster-by-a9quant)
   - [Case 58: A full-body outdoor shot captures a young Caucasian woman, possibly in her la... (by @AIwithSarah_)](#case-58-a-full-body-outdoor-shot-captures-a-young-caucasian-woman-possibly-in-her-la-by-aiwithsarah_)
   - [Case 59: A professional product photography shot of a cold sparkling water (by @meng_dagg695)](#case-59-a-professional-product-photography-shot-of-a-cold-sparkling-water-by-meng_dagg695)
-  - [Case 60: 360度 equirectangular （正距円筒図法）画像を2:1で生成 (by @rs_elwood)](#case-60-360度-equirectangular-正距円筒図法画像を21で生成-by-rs_elwood)
+  - [Case 60: 360 Equirectangular Panorama Image (by @rs_elwood)](#case-60-360-equirectangular-panorama-image)
   - [Case 61: Soft poetic children's book illustration with watercolor and gouache textures... (by @dotey)](#case-61-soft-poetic-childrens-book-illustration-with-watercolor-and-gouache-textures-by-dotey)
   - [Case 62: Aspect Ratio: 9:16 Vertical (by @GeekCatX)](#case-62-aspect-ratio-916-vertical-by-geekcatx)
-  - [Case 63: 帮我生成一个介绍杭州西湖的海报 (by @BNBOKBt5)](#case-63-帮我生成一个介绍杭州西湖的海报-by-bnbokbt5)
-  - [Case 64: 图片1：电影角色海报，东方不败红衣饮酒，悬崖落日，武侠意境 (by @songguoxiansen)](#case-64-图片1电影角色海报东方不败红衣饮酒悬崖落日武侠意境-by-songguoxiansen)
-  - [Case 65: 图片1：大话西游海报重制为90年代港片风格，至尊宝紫霞城墙拥吻，胶片颗粒 (by @songguoxiansen)](#case-65-图片1大话西游海报重制为90年代港片风格至尊宝紫霞城墙拥吻胶片颗粒-by-songguoxiansen)
-  - [Case 66: 西游记女儿国诱惑海报，六位艳丽的女儿国大臣在后宫温泉中，迷雾朦胧妖冶，生成图片 (by @cj858cjsoul)](#case-66-西游记女儿国诱惑海报六位艳丽的女儿国大臣在后宫温泉中迷雾朦胧妖冶生成图片-by-cj858cjsoul)
-  - [Case 67: 生成鹿鼎记海报，展现韦小宝跟老婆XXX，忠于原著的描述，夸大特点，强调女性的美艳和男性的气质 (by @caiziboshi)](#case-67-生成鹿鼎记海报展现韦小宝跟老婆xxx忠于原著的描述夸大特点强调女性的美艳和男性的气质-by-caiziboshi)
+  - [Case 63: Hangzhou West Lake Travel Poster (by @BNBOKBt5)](#case-63-hangzhou-west-lake-travel-poster)
+  - [Case 64: Dongfang Bubai Wuxia Character Poster (by @songguoxiansen)](#case-64-dongfang-bubai-wuxia-character-poster)
+  - [Case 65: A Chinese Odyssey 90s Hong Kong Poster (by @songguoxiansen)](#case-65-a-chinese-odyssey-90s-hong-kong-poster)
+  - [Case 66: Journey to the West Daughter Kingdom Poster (by @cj858cjsoul)](#case-66-journey-to-the-west-daughter-kingdom-poster)
+  - [Case 67: Royal Tramp Character Poster (by @caiziboshi)](#case-67-royal-tramp-character-poster)
   - [Case 68: generate an image of a racing car poster with its spec and pricing (by @verysmallwoods)](#case-68-generate-an-image-of-a-racing-car-poster-with-its-spec-and-pricing-by-verysmallwoods)
-  - [Case 69: 重新生成一张海报，卓别林拿着商品图里的止痒膏，面露微笑。风格要简约干净。” (by @chenenpei)](#case-69-重新生成一张海报卓别林拿着商品图里的止痒膏面露微笑风格要简约干净-by-chenenpei)
+  - [Case 69: Charlie Chaplin Product Poster Redesign (by @chenenpei)](#case-69-charlie-chaplin-product-poster-redesign)
 - [Casos de Diseno de Personajes](#casos-de-diseno-de-personajes)
   - [Case 1: Anime Snapshot Conversion (by @Thereallo1026)](#case-1-anime-snapshot-conversion-by-thereallo1026)
   - [Case 2: Persona5 Character Reference Card (by @iamrednightS)](#case-2-persona5-character-reference-card-by-iamrednights)
@@ -173,7 +174,7 @@ Si esto te resulta util, considera darle una estrella. ⭐
   - [Case 40: Japanese AI Game Dev Overview Slide Prompt (by @ailovedirector)](#case-40-japanese-ai-game-dev-overview-slide-prompt-by-ailovedirector)
   - [Case 41: based on the generated character help me generate a screenshot of screenshot ... (by @khaiinit)](#case-41-based-on-the-generated-character-help-me-generate-a-screenshot-of-screenshot-by-khaiinit)
   - [Case 42: Create a landing page using this image as a reference for style and color gra... (by @D_studioproject)](#case-42-create-a-landing-page-using-this-image-as-a-reference-for-style-and-color-gra-by-d_studioproject)
-  - [Case 43: 李佳琦直播间背景，口红矩阵展示墙，暖光氛围灯，文案"OMG买它 (by @songguoxiansen)](#case-43-李佳琦直播间背景口红矩阵展示墙暖光氛围灯文案omg买它-by-songguoxiansen)
+  - [Case 43: Li Jiaqi Lipstick Livestream Background (by @songguoxiansen)](#case-43-li-jiaqi-lipstick-livestream-background)
 - [Comparativas y Ejemplos de la Comunidad](#comparativas-y-ejemplos-de-la-comunidad)
   - [Case 5: Wooden Bookshelf Prompt Test (by @chetaslua)](#case-5-wooden-bookshelf-prompt-test-by-chetaslua)
   - [Case 10: GPT-Image-2 Detail Showcase (by @liyue_ai)](#case-10-gpt-image-2-detail-showcase-by-liyue_ai)
@@ -195,35 +196,35 @@ Si esto te resulta util, considera darle una estrella. ⭐
   - [Case 42: Edit this image so that total amount changes to 244.5 baht. You can change th... (by @elliscrosby)](#case-42-edit-this-image-so-that-total-amount-changes-to-2445-baht-you-can-change-th-by-elliscrosby)
   - [Case 43: Generate an image of the most significant event of 2001 (by @Rufus87078959)](#case-43-generate-an-image-of-the-most-significant-event-of-2001-by-rufus87078959)
   - [Case 44: Generate an image of the most significant event of 2025. (by @Rufus87078959)](#case-44-generate-an-image-of-the-most-significant-event-of-2025-by-rufus87078959)
-  - [Case 45: Wykorzystaj wszystko, co o mnie wiesz, i stwórz infografikę przedstawiającą m... (by @andis13)](#case-45-wykorzystaj-wszystko-co-o-mnie-wiesz-i-stwórz-infografikę-przedstawiającą-m-by-andis13)
-  - [Case 46: 360度 equirectangular （正距円筒図法）画像を2:1で生成 (by @rs_elwood)](#case-46-360度-equirectangular-正距円筒図法画像を21で生成-by-rs_elwood)
-  - [Case 47: Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una ima... (by @aitorwilzig)](#case-47-conociendo-todo-lo-que-sabes-sobre-mí-crea-una-infografía-de-mí-haz-una-ima-by-aitorwilzig)
+  - [Case 45: Personal Profile Infographic Generator (by @andis13)](#case-45-personal-profile-infographic-generator)
+  - [Case 46: 360 Equirectangular Panorama Image (by @rs_elwood)](#case-46-360-equirectangular-panorama-image)
+  - [Case 47: Personal Knowledge Infographic Portrait (by @aitorwilzig)](#case-47-personal-knowledge-infographic-portrait)
   - [Case 48: Research LIME Drug Design and make a detailed infographic about it (by @WillSpagnoli)](#case-48-research-lime-drug-design-and-make-a-detailed-infographic-about-it-by-willspagnoli)
-  - [Case 49: 生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物 (by @laogeai)](#case-49-生成一个抖音直播的截图-里面是一个美女在直播在卖丝袜和内衣她的在线人数是99996热度是18有个叫小互的大哥给她刷了一个飞机礼物-by-laogeai)
-  - [Case 50: 社交App匹配成功界面，两个用户资料卡碰撞爱心特效 (by @songguoxiansen)](#case-50-社交app匹配成功界面两个用户资料卡碰撞爱心特效-by-songguoxiansen)
-  - [Case 51: 吕布游戏Boss设定，赤兔马方天画戟，暗黑进化形态双形态对比 (by @songguoxiansen)](#case-51-吕布游戏boss设定赤兔马方天画戟暗黑进化形态双形态对比-by-songguoxiansen)
-  - [Case 52: 玄幻小说封面，哪吒三头六臂悬浮虚空，火焰莲台底座，暗黑史诗风 (by @songguoxiansen)](#case-52-玄幻小说封面哪吒三头六臂悬浮虚空火焰莲台底座暗黑史诗风-by-songguoxiansen)
-  - [Case 53: 新中式极简东方美学 × 高端商业插画，主题“一花一世界”， (by @liyue_ai)](#case-53-新中式极简东方美学-高端商业插画主题一花一世界-by-liyue_ai)
-  - [Case 54: 苏妲己古风写真，红色纱衣半透，狐耳若隐若现，媚态撩人 (by @nidiedeba)](#case-54-苏妲己古风写真红色纱衣半透狐耳若隐若现媚态撩人-by-nidiedeba)
-  - [Case 55: 结合鲁迅的《朝花夕拾》里的内容，生成一副图片，要求图片背景符合《朝花夕拾》的意境，背景图可以使用蒙版，前景是 鲁迅的全身画像位于图片左侧或右侧 (by @Aurora_62340)](#case-55-结合鲁迅的朝花夕拾里的内容生成一副图片要求图片背景符合朝花夕拾的意境背景图可以使用蒙版前景是-鲁迅的全身画像位于图片左侧或右侧-by-aurora_62340)
-  - [Case 56: 地铁上低头看手机的美丽女人，偷拍照片。 (by @AntCaveClub)](#case-56-地铁上低头看手机的美丽女人偷拍照片-by-antcaveclub)
-  - [Case 57: 中国航天纪念邮票小全张，火箭发射场景，烫金边框工艺 (by @songguoxiansen)](#case-57-中国航天纪念邮票小全张火箭发射场景烫金边框工艺-by-songguoxiansen)
-  - [Case 58: 9:16 竖版，极致武侠风，绝美东方女侠，20岁出头，冷艳锐利丹凤眼，眉宇英气逼人，肤白如玉，长直黑发湿漉漉随狂风剧烈飞舞，几缕发丝贴在脸颊和颈侧，穿着湿... (by @CoderDaMing)](#case-58-916-竖版极致武侠风绝美东方女侠20岁出头冷艳锐利丹凤眼眉宇英气逼人肤白如玉长直黑发湿漉漉随狂风剧烈飞舞几缕发丝贴在脸颊和颈侧穿着湿-by-coderdaming)
-  - [Case 59: 根据佛经对观音菩萨的形象描述，原原本本的还原一张真实的观音菩萨形象照片，皮肤与衣服接近真实，画质iPhone 15 pro (by @Zhaoge01)](#case-59-根据佛经对观音菩萨的形象描述原原本本的还原一张真实的观音菩萨形象照片皮肤与衣服接近真实画质iphone-15-pro-by-zhaoge01)
-  - [Case 60: 唐代长安城元宵灯会全景，万盏花灯照亮夜空，工笔重彩长卷 (by @songguoxiansen)](#case-60-唐代长安城元宵灯会全景万盏花灯照亮夜空工笔重彩长卷-by-songguoxiansen)
-  - [Case 61: 根据真实历史对杨玉环的形象描述，生成一张杨贵妃真实照片，画质为iPhone 15 pro (by @Zhaoge01)](#case-61-根据真实历史对杨玉环的形象描述生成一张杨贵妃真实照片画质为iphone-15-pro-by-zhaoge01)
-  - [Case 62: 参考这张图的透视和风格，绘制一张更加精细的超高清插画，表现超现实主义的日式未来都市，要能看清很小的细节，包括街道上的传统文化游行的人，小巷里的黑帮，烟花巷... (by @Tresmort)](#case-62-参考这张图的透视和风格绘制一张更加精细的超高清插画表现超现实主义的日式未来都市要能看清很小的细节包括街道上的传统文化游行的人小巷里的黑帮烟花巷-by-tresmort)
-  - [Case 63: 狐妖小红娘涂山雅雅写真大片，粉色九尾狐裘紧身裙，媚眼如丝，红唇微张，极致妖媚 (by @sdjn_wgc)](#case-63-狐妖小红娘涂山雅雅写真大片粉色九尾狐裘紧身裙媚眼如丝红唇微张极致妖媚-by-sdjn_wgc)
-  - [Case 64: 生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物 (by @LVWANGJI_0327)](#case-64-生成一个抖音直播的截图-里面是一个美女在直播在卖丝袜和内衣她的在线人数是99996热度是18有个叫小互的大哥给她刷了一个飞机礼物-by-lvwangji_0327)
-  - [Case 65: 东方幻想风格女性，半身肖像，回眸侧脸，气质空灵优雅，柔和神性美感，细腻五官，微垂眼神，冷白细腻肌肤，淡雅橘粉妆容，金色高光点缀 (by @liyue_ai)](#case-65-东方幻想风格女性半身肖像回眸侧脸气质空灵优雅柔和神性美感细腻五官微垂眼神冷白细腻肌肤淡雅橘粉妆容金色高光点缀-by-liyue_ai)
-  - [Case 66: 9:16 竖向构图，单人女性艺术肖像，年轻东方女生，五官清秀，脸部线条柔和，皮肤自然通透，保留真实肌理，气质安静高级，带一点疏离感和故事感。 (by @zhiyangzhu22222)](#case-66-916-竖向构图单人女性艺术肖像年轻东方女生五官清秀脸部线条柔和皮肤自然通透保留真实肌理气质安静高级带一点疏离感和故事感-by-zhiyangzhu22222)
-  - [Case 67: 图片1：汽车人全员月球基地集结，地球悬于身后星空，赛博坦旗帜飘扬 (by @songguoxiansen)](#case-67-图片1汽车人全员月球基地集结地球悬于身后星空赛博坦旗帜飘扬-by-songguoxiansen)
-  - [Case 68: 一颗/一块/一枚【食物名称】，以博物学大师发现野外标本的方式解剖。 (by @GeekCatX)](#case-68-一颗一块一枚食物名称以博物学大师发现野外标本的方式解剖-by-geekcatx)
-  - [Case 69: ポラロイド写真の中に人が写っていて、その人がフレームから外に飛び出している画像。日本語が書いてある画像生成して (by @MajaDesignJP)](#case-69-ポラロイド写真の中に人が写っていてその人がフレームから外に飛び出している画像日本語が書いてある画像生成して-by-majadesignjp)
-  - [Case 70: 参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。 (by @seiiiiiiiiiiru)](#case-70-参照画像の２dセルアニメキャラクターを使ってリアル世界で色んなことしてるグリッド分割した画像作ってぇ-by-seiiiiiiiiiiru)
-  - [Case 71: 「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」 (by @os_shim)](#case-71-このポスターを見みて自分で妄想してトレーラー映像を作ってくれ-by-os_shim)
-  - [Case 72: 可愛いラバーダックの男の子「ルヒア(RUHiA)」が日本を目指して大冒険をして日本人女性の「ミライ」と出会うまでの物語。それを実写映画のポスターのようにして。 (by @mirai_ai2050)](#case-72-可愛いラバーダックの男の子ルヒアruhiaが日本を目指して大冒険をして日本人女性のミライと出会うまでの物語それを実写映画のポスターのようにして-by-mirai_ai2050)
-  - [Case 73: /gpt-image-2 帮我生成关于西红柿的全套产品电商介绍图片 (by @Adam38363368936)](#case-73-gpt-image-2-帮我生成关于西红柿的全套产品电商介绍图片-by-adam38363368936)
+  - [Case 49: Douyin Livestream Sales Screenshot (by @laogeai)](#case-49-douyin-livestream-sales-screenshot)
+  - [Case 50: Social App Match Success Screen (by @songguoxiansen)](#case-50-social-app-match-success-screen)
+  - [Case 51: Lu Bu Boss Design Sheet (by @songguoxiansen)](#case-51-lu-bu-boss-design-sheet)
+  - [Case 52: Nezha Dark Fantasy Novel Cover (by @songguoxiansen)](#case-52-nezha-dark-fantasy-novel-cover)
+  - [Case 53: New Chinese Minimalist Floral Illustration (by @liyue_ai)](#case-53-new-chinese-minimalist-floral-illustration)
+  - [Case 54: Su Daji Ancient-Style Glamour Portrait (by @nidiedeba)](#case-54-su-daji-ancient-style-glamour-portrait)
+  - [Case 55: Lu Xun Morning Flowers Illustration (by @Aurora_62340)](#case-55-lu-xun-morning-flowers-illustration)
+  - [Case 56: Subway Candid Phone Snapshot (by @AntCaveClub)](#case-56-subway-candid-phone-snapshot)
+  - [Case 57: China Aerospace Commemorative Stamp Sheet (by @songguoxiansen)](#case-57-china-aerospace-commemorative-stamp-sheet)
+  - [Case 58: Vertical Wuxia Heroine Portrait (by @CoderDaMing)](#case-58-vertical-wuxia-heroine-portrait)
+  - [Case 59: Realistic Guanyin Portrait from Buddhist Texts (by @Zhaoge01)](#case-59-realistic-guanyin-portrait-from-buddhist-texts)
+  - [Case 60: Tang Dynasty Chang'an Lantern Festival Panorama (by @songguoxiansen)](#case-60-tang-dynasty-changan-lantern-festival-panorama)
+  - [Case 61: Historical Yang Guifei Realistic Portrait (by @Zhaoge01)](#case-61-historical-yang-guifei-realistic-portrait)
+  - [Case 62: Surreal Japanese Futuristic City Illustration (by @Tresmort)](#case-62-surreal-japanese-futuristic-city-illustration)
+  - [Case 63: Tushan Yaya Fantasy Glamour Portrait (by @sdjn_wgc)](#case-63-tushan-yaya-fantasy-glamour-portrait)
+  - [Case 64: Douyin Livestream Sales Screenshot (by @LVWANGJI_0327)](#case-64-douyin-livestream-sales-screenshot)
+  - [Case 65: Eastern Fantasy Female Half-Portrait (by @liyue_ai)](#case-65-eastern-fantasy-female-half-portrait)
+  - [Case 66: Vertical Artistic Portrait of a Young Eastern Woman (by @zhiyangzhu22222)](#case-66-vertical-artistic-portrait-of-a-young-eastern-woman)
+  - [Case 67: Autobots Assembled at Lunar Base (by @songguoxiansen)](#case-67-autobots-assembled-at-lunar-base)
+  - [Case 68: Naturalist-Style Food Specimen Cross-Section (by @GeekCatX)](#case-68-naturalist-style-food-specimen-cross-section)
+  - [Case 69: Polaroid Frame Breakout Scene (by @MajaDesignJP)](#case-69-polaroid-frame-breakout-scene)
+  - [Case 70: 2D Anime Character Real-World Grid Scenes (by @seiiiiiiiiiiru)](#case-70-2d-anime-character-real-world-grid-scenes)
+  - [Case 71: Poster-to-Trailer Concept Prompt (by @os_shim)](#case-71-poster-to-trailer-concept-prompt)
+  - [Case 72: Rubber Duck Boy Live-Action Movie Poster (by @mirai_ai2050)](#case-72-rubber-duck-boy-live-action-movie-poster)
+  - [Case 73: Tomato E-Commerce Product Image Set (by @Adam38363368936)](#case-73-tomato-e-commerce-product-image-set)
 - [Agradecimientos](#agradecimientos)
 - [Star History](#star-history)
 
@@ -1501,8 +1502,8 @@ background softly blurred. Mood: summer, tropical, fresh, refreshing.
 Commercial product photography, ultra-detailed, 8K.
 ```
 
-<!-- Case 60: 360度 equirectangular （正距円筒図法）画像を2:1で生成 (by @rs_elwood) -->
-### Case 60: [360度 equirectangular （正距円筒図法）画像を2:1で生成](https://x.com/rs_elwood/status/2047192228758692036?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@rs_elwood](https://x.com/rs_elwood))
+<!-- Case 60: 360 Equirectangular Panorama Image (by @rs_elwood) -->
+### Case 60: [360 Equirectangular Panorama Image](https://x.com/rs_elwood/status/2047192228758692036?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@rs_elwood](https://x.com/rs_elwood))
 
 | Output |
 | :----: |
@@ -1582,8 +1583,8 @@ Structure: A visible, crisp white standing inner collar provides a clean boundar
 Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with palpable fiber texture. The embroidery is heavy industry—using panjin goldwork, couched gold
 ```
 
-<!-- Case 63: 帮我生成一个介绍杭州西湖的海报 (by @BNBOKBt5) -->
-### Case 63: [帮我生成一个介绍杭州西湖的海报](https://x.com/BNBOKBt5/status/2047210189741605082?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@BNBOKBt5](https://x.com/BNBOKBt5))
+<!-- Case 63: Hangzhou West Lake Travel Poster (by @BNBOKBt5) -->
+### Case 63: [Hangzhou West Lake Travel Poster](https://x.com/BNBOKBt5/status/2047210189741605082?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@BNBOKBt5](https://x.com/BNBOKBt5))
 
 | Output |
 | :----: |
@@ -1595,8 +1596,8 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 帮我生成一个介绍杭州西湖的海报
 ```
 
-<!-- Case 64: 图片1：电影角色海报，东方不败红衣饮酒，悬崖落日，武侠意境 (by @songguoxiansen) -->
-### Case 64: [图片1：电影角色海报，东方不败红衣饮酒，悬崖落日，武侠意境](https://x.com/songguoxiansen/status/2047204566559756707?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+<!-- Case 64: Dongfang Bubai Wuxia Character Poster (by @songguoxiansen) -->
+### Case 64: [Dongfang Bubai Wuxia Character Poster](https://x.com/songguoxiansen/status/2047204566559756707?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -1610,8 +1611,8 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 图片2：东方不败绣花针如飞，红衣长发立于悬崖，黑木崖夕阳如血
 ```
 
-<!-- Case 65: 图片1：大话西游海报重制为90年代港片风格，至尊宝紫霞城墙拥吻，胶片颗粒 (by @songguoxiansen) -->
-### Case 65: [图片1：大话西游海报重制为90年代港片风格，至尊宝紫霞城墙拥吻，胶片颗粒](https://x.com/songguoxiansen/status/2047201597697245252?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+<!-- Case 65: A Chinese Odyssey 90s Hong Kong Poster (by @songguoxiansen) -->
+### Case 65: [A Chinese Odyssey 90s Hong Kong Poster](https://x.com/songguoxiansen/status/2047201597697245252?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -1625,8 +1626,8 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 图片2：杜蕾斯吉祥物×猪八戒，八戒害羞脸红遮面，文案取经路上要安全
 ```
 
-<!-- Case 66: 西游记女儿国诱惑海报，六位艳丽的女儿国大臣在后宫温泉中，迷雾朦胧妖冶，生成图片 (by @cj858cjsoul) -->
-### Case 66: [西游记女儿国诱惑海报，六位艳丽的女儿国大臣在后宫温泉中，迷雾朦胧妖冶，生成图片](https://x.com/cj858cjsoul/status/2047103956535697822?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@cj858cjsoul](https://x.com/cj858cjsoul))
+<!-- Case 66: Journey to the West Daughter Kingdom Poster (by @cj858cjsoul) -->
+### Case 66: [Journey to the West Daughter Kingdom Poster](https://x.com/cj858cjsoul/status/2047103956535697822?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@cj858cjsoul](https://x.com/cj858cjsoul))
 
 | Output |
 | :----: |
@@ -1640,8 +1641,8 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 4.23早上测试成功
 ```
 
-<!-- Case 67: 生成鹿鼎记海报，展现韦小宝跟老婆XXX，忠于原著的描述，夸大特点，强调女性的美艳和男性的气质 (by @caiziboshi) -->
-### Case 67: [生成鹿鼎记海报，展现韦小宝跟老婆XXX，忠于原著的描述，夸大特点，强调女性的美艳和男性的气质](https://x.com/caiziboshi/status/2047091751731519744?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@caiziboshi](https://x.com/caiziboshi))
+<!-- Case 67: Royal Tramp Character Poster (by @caiziboshi) -->
+### Case 67: [Royal Tramp Character Poster](https://x.com/caiziboshi/status/2047091751731519744?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@caiziboshi](https://x.com/caiziboshi))
 
 | Output |
 | :----: |
@@ -1666,8 +1667,8 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 generate an image of a racing car poster with its spec and pricing
 ```
 
-<!-- Case 69: 重新生成一张海报，卓别林拿着商品图里的止痒膏，面露微笑。风格要简约干净。” (by @chenenpei) -->
-### Case 69: [重新生成一张海报，卓别林拿着商品图里的止痒膏，面露微笑。风格要简约干净。”](https://x.com/chenenpei/status/2046985783715025135?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@chenenpei](https://x.com/chenenpei))
+<!-- Case 69: Charlie Chaplin Product Poster Redesign (by @chenenpei) -->
+### Case 69: [Charlie Chaplin Product Poster Redesign](https://x.com/chenenpei/status/2046985783715025135?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@chenenpei](https://x.com/chenenpei))
 
 | Output |
 | :----: |
@@ -2251,8 +2252,8 @@ based on the generated character help me generate a screenshot of screenshot of 
 Create a landing page using this image as a reference for style and color grading.
 ```
 
-<!-- Case 43: 李佳琦直播间背景，口红矩阵展示墙，暖光氛围灯，文案"OMG买它 (by @songguoxiansen) -->
-### Case 43: [李佳琦直播间背景，口红矩阵展示墙，暖光氛围灯，文案"OMG买它](https://x.com/songguoxiansen/status/2047207826913972518?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+<!-- Case 43: Li Jiaqi Lipstick Livestream Background (by @songguoxiansen) -->
+### Case 43: [Li Jiaqi Lipstick Livestream Background](https://x.com/songguoxiansen/status/2047207826913972518?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -2623,8 +2624,8 @@ Generate an image of the most significant event of 2001
 Generate an image of the most significant event of 2025.
 ```
 
-<!-- Case 45: Wykorzystaj wszystko, co o mnie wiesz, i stwórz infografikę przedstawiającą m... (by @andis13) -->
-### Case 45: [Wykorzystaj wszystko, co o mnie wiesz, i stwórz infografikę przedstawiającą m...](https://x.com/andis13/status/2047197275525701937?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@andis13](https://x.com/andis13))
+<!-- Case 45: Personal Profile Infographic Generator (by @andis13) -->
+### Case 45: [Personal Profile Infographic Generator](https://x.com/andis13/status/2047197275525701937?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@andis13](https://x.com/andis13))
 
 | Output |
 | :----: |
@@ -2637,8 +2638,8 @@ Wykorzystaj wszystko, co o mnie wiesz, i stwórz infografikę przedstawiającą 
 Idea: @icreatelife
 ```
 
-<!-- Case 46: 360度 equirectangular （正距円筒図法）画像を2:1で生成 (by @rs_elwood) -->
-### Case 46: [360度 equirectangular （正距円筒図法）画像を2:1で生成](https://x.com/rs_elwood/status/2047194375000932456?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@rs_elwood](https://x.com/rs_elwood))
+<!-- Case 46: 360 Equirectangular Panorama Image (by @rs_elwood) -->
+### Case 46: [360 Equirectangular Panorama Image](https://x.com/rs_elwood/status/2047194375000932456?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@rs_elwood](https://x.com/rs_elwood))
 
 | Output |
 | :----: |
@@ -2651,8 +2652,8 @@ Idea: @icreatelife
 参照画像だと正確な円筒図にならない？もっと試してみないと。
 ```
 
-<!-- Case 47: Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una ima... (by @aitorwilzig) -->
-### Case 47: [Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una ima...](https://x.com/aitorwilzig/status/2047190320064925845?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@aitorwilzig](https://x.com/aitorwilzig))
+<!-- Case 47: Personal Knowledge Infographic Portrait (by @aitorwilzig) -->
+### Case 47: [Personal Knowledge Infographic Portrait](https://x.com/aitorwilzig/status/2047190320064925845?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@aitorwilzig](https://x.com/aitorwilzig))
 
 | Output |
 | :----: |
@@ -2677,8 +2678,8 @@ Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una ima
 Research LIME Drug Design and make a detailed infographic about it
 ```
 
-<!-- Case 49: 生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物 (by @laogeai) -->
-### Case 49: [生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物](https://x.com/laogeai/status/2047228458351120625?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@laogeai](https://x.com/laogeai))
+<!-- Case 49: Douyin Livestream Sales Screenshot (by @laogeai) -->
+### Case 49: [Douyin Livestream Sales Screenshot](https://x.com/laogeai/status/2047228458351120625?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@laogeai](https://x.com/laogeai))
 
 | Output |
 | :----: |
@@ -2690,8 +2691,8 @@ Research LIME Drug Design and make a detailed infographic about it
 生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物
 ```
 
-<!-- Case 50: 社交App匹配成功界面，两个用户资料卡碰撞爱心特效 (by @songguoxiansen) -->
-### Case 50: [社交App匹配成功界面，两个用户资料卡碰撞爱心特效](https://x.com/songguoxiansen/status/2047220490486612450?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+<!-- Case 50: Social App Match Success Screen (by @songguoxiansen) -->
+### Case 50: [Social App Match Success Screen](https://x.com/songguoxiansen/status/2047220490486612450?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -2703,8 +2704,8 @@ Research LIME Drug Design and make a detailed infographic about it
 社交App匹配成功界面，两个用户资料卡碰撞爱心特效
 ```
 
-<!-- Case 51: 吕布游戏Boss设定，赤兔马方天画戟，暗黑进化形态双形态对比 (by @songguoxiansen) -->
-### Case 51: [吕布游戏Boss设定，赤兔马方天画戟，暗黑进化形态双形态对比](https://x.com/songguoxiansen/status/2047198090009190441?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+<!-- Case 51: Lu Bu Boss Design Sheet (by @songguoxiansen) -->
+### Case 51: [Lu Bu Boss Design Sheet](https://x.com/songguoxiansen/status/2047198090009190441?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -2716,8 +2717,8 @@ Research LIME Drug Design and make a detailed infographic about it
 吕布游戏Boss设定，赤兔马方天画戟，暗黑进化形态双形态对比
 ```
 
-<!-- Case 52: 玄幻小说封面，哪吒三头六臂悬浮虚空，火焰莲台底座，暗黑史诗风 (by @songguoxiansen) -->
-### Case 52: [玄幻小说封面，哪吒三头六臂悬浮虚空，火焰莲台底座，暗黑史诗风](https://x.com/songguoxiansen/status/2047196508270084104?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+<!-- Case 52: Nezha Dark Fantasy Novel Cover (by @songguoxiansen) -->
+### Case 52: [Nezha Dark Fantasy Novel Cover](https://x.com/songguoxiansen/status/2047196508270084104?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -2729,8 +2730,8 @@ Research LIME Drug Design and make a detailed infographic about it
 玄幻小说封面，哪吒三头六臂悬浮虚空，火焰莲台底座，暗黑史诗风
 ```
 
-<!-- Case 53: 新中式极简东方美学 × 高端商业插画，主题“一花一世界”， (by @liyue_ai) -->
-### Case 53: [新中式极简东方美学 × 高端商业插画，主题“一花一世界”，](https://x.com/liyue_ai/status/2047180347448914195?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@liyue_ai](https://x.com/liyue_ai))
+<!-- Case 53: New Chinese Minimalist Floral Illustration (by @liyue_ai) -->
+### Case 53: [New Chinese Minimalist Floral Illustration](https://x.com/liyue_ai/status/2047180347448914195?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
@@ -2766,8 +2767,8 @@ Research LIME Drug Design and make a detailed infographic about it
 高端CG商业插画，电影级真实光影，高动态范围，超精细，8K细节，ArtStation 级画质，强化分色，干净调色，青橙对比，暖高光冷暗部，仅城市灯光提亮饱和度，色调柔和通透，光影锐利明亮，无灰雾、无暗沉、无低饱和雾化。
 ```
 
-<!-- Case 54: 苏妲己古风写真，红色纱衣半透，狐耳若隐若现，媚态撩人 (by @nidiedeba) -->
-### Case 54: [苏妲己古风写真，红色纱衣半透，狐耳若隐若现，媚态撩人](https://x.com/nidiedeba/status/2047147223281270878?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@nidiedeba](https://x.com/nidiedeba))
+<!-- Case 54: Su Daji Ancient-Style Glamour Portrait (by @nidiedeba) -->
+### Case 54: [Su Daji Ancient-Style Glamour Portrait](https://x.com/nidiedeba/status/2047147223281270878?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@nidiedeba](https://x.com/nidiedeba))
 
 | Output |
 | :----: |
@@ -2779,8 +2780,8 @@ Research LIME Drug Design and make a detailed infographic about it
 苏妲己古风写真，红色纱衣半透，狐耳若隐若现，媚态撩人
 ```
 
-<!-- Case 55: 结合鲁迅的《朝花夕拾》里的内容，生成一副图片，要求图片背景符合《朝花夕拾》的意境，背景图可以使用蒙版，前景是 鲁迅的全身画像位于图片左侧或右侧 (by @Aurora_62340) -->
-### Case 55: [结合鲁迅的《朝花夕拾》里的内容，生成一副图片，要求图片背景符合《朝花夕拾》的意境，背景图可以使用蒙版，前景是 鲁迅的全身画像位于图片左侧或右侧](https://x.com/Aurora_62340/status/2047139992355680530?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Aurora_62340](https://x.com/Aurora_62340))
+<!-- Case 55: Lu Xun Morning Flowers Illustration (by @Aurora_62340) -->
+### Case 55: [Lu Xun Morning Flowers Illustration](https://x.com/Aurora_62340/status/2047139992355680530?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Aurora_62340](https://x.com/Aurora_62340))
 
 | Output |
 | :----: |
@@ -2792,8 +2793,8 @@ Research LIME Drug Design and make a detailed infographic about it
 结合鲁迅的《朝花夕拾》里的内容，生成一副图片，要求图片背景符合《朝花夕拾》的意境，背景图可以使用蒙版，前景是 鲁迅的全身画像位于图片左侧或右侧
 ```
 
-<!-- Case 56: 地铁上低头看手机的美丽女人，偷拍照片。 (by @AntCaveClub) -->
-### Case 56: [地铁上低头看手机的美丽女人，偷拍照片。](https://x.com/AntCaveClub/status/2047136306485133428?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@AntCaveClub](https://x.com/AntCaveClub))
+<!-- Case 56: Subway Candid Phone Snapshot (by @AntCaveClub) -->
+### Case 56: [Subway Candid Phone Snapshot](https://x.com/AntCaveClub/status/2047136306485133428?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@AntCaveClub](https://x.com/AntCaveClub))
 
 | Output |
 | :----: |
@@ -2807,8 +2808,8 @@ Research LIME Drug Design and make a detailed infographic about it
 能免费试一次 ⬇️
 ```
 
-<!-- Case 57: 中国航天纪念邮票小全张，火箭发射场景，烫金边框工艺 (by @songguoxiansen) -->
-### Case 57: [中国航天纪念邮票小全张，火箭发射场景，烫金边框工艺](https://x.com/songguoxiansen/status/2047129703702802811?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+<!-- Case 57: China Aerospace Commemorative Stamp Sheet (by @songguoxiansen) -->
+### Case 57: [China Aerospace Commemorative Stamp Sheet](https://x.com/songguoxiansen/status/2047129703702802811?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -2820,8 +2821,8 @@ Research LIME Drug Design and make a detailed infographic about it
 中国航天纪念邮票小全张，火箭发射场景，烫金边框工艺
 ```
 
-<!-- Case 58: 9:16 竖版，极致武侠风，绝美东方女侠，20岁出头，冷艳锐利丹凤眼，眉宇英气逼人，肤白如玉，长直黑发湿漉漉随狂风剧烈飞舞，几缕发丝贴在脸颊和颈侧，穿着湿... (by @CoderDaMing) -->
-### Case 58: [9:16 竖版，极致武侠风，绝美东方女侠，20岁出头，冷艳锐利丹凤眼，眉宇英气逼人，肤白如玉，长直黑发湿漉漉随狂风剧烈飞舞，几缕发丝贴在脸颊和颈侧，穿着湿...](https://x.com/CoderDaMing/status/2047127585256358221?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@CoderDaMing](https://x.com/CoderDaMing))
+<!-- Case 58: Vertical Wuxia Heroine Portrait (by @CoderDaMing) -->
+### Case 58: [Vertical Wuxia Heroine Portrait](https://x.com/CoderDaMing/status/2047127585256358221?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@CoderDaMing](https://x.com/CoderDaMing))
 
 | Output |
 | :----: |
@@ -2833,8 +2834,8 @@ Research LIME Drug Design and make a detailed infographic about it
 9:16 竖版，极致武侠风，绝美东方女侠，20岁出头，冷艳锐利丹凤眼，眉宇英气逼人，肤白如玉，长直黑发湿漉漉随狂风剧烈飞舞，几缕发丝贴在脸颊和颈侧，穿着湿透的深黑改良武侠劲装，外披宽袖玄色长袍，衣袍和长袖被风吹得剧烈飘扬翻飞，紧身劲装勾勒身材，腰束软剑带，足踏长靴，右手持一把古剑，剑身散发幽蓝剑气光芒，动态姿势：身体微侧回眸，衣袂猎猎，背景为月夜雨雾笼罩的竹林古道，巨大明月高悬，石板小径，古灯笼，薄雾雨丝，戏剧性冷月光与蓝光剑气结合，湿身水光效果，超强动态感，细腻布料褶皱、头发丝飘动、真实水珠反光，电影级光影，8k，masterpiece, best quality, ultra realistic, cinematic, dramatic atmosphere
 ```
 
-<!-- Case 59: 根据佛经对观音菩萨的形象描述，原原本本的还原一张真实的观音菩萨形象照片，皮肤与衣服接近真实，画质iPhone 15 pro (by @Zhaoge01) -->
-### Case 59: [根据佛经对观音菩萨的形象描述，原原本本的还原一张真实的观音菩萨形象照片，皮肤与衣服接近真实，画质iPhone 15 pro](https://x.com/Zhaoge01/status/2047123570485260753?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Zhaoge01](https://x.com/Zhaoge01))
+<!-- Case 59: Realistic Guanyin Portrait from Buddhist Texts (by @Zhaoge01) -->
+### Case 59: [Realistic Guanyin Portrait from Buddhist Texts](https://x.com/Zhaoge01/status/2047123570485260753?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Zhaoge01](https://x.com/Zhaoge01))
 
 | Output |
 | :----: |
@@ -2846,8 +2847,8 @@ Research LIME Drug Design and make a detailed infographic about it
 根据佛经对观音菩萨的形象描述，原原本本的还原一张真实的观音菩萨形象照片，皮肤与衣服接近真实，画质iPhone 15 pro
 ```
 
-<!-- Case 60: 唐代长安城元宵灯会全景，万盏花灯照亮夜空，工笔重彩长卷 (by @songguoxiansen) -->
-### Case 60: [唐代长安城元宵灯会全景，万盏花灯照亮夜空，工笔重彩长卷](https://x.com/songguoxiansen/status/2047122441454096527?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+<!-- Case 60: Tang Dynasty Chang'an Lantern Festival Panorama (by @songguoxiansen) -->
+### Case 60: [Tang Dynasty Chang'an Lantern Festival Panorama](https://x.com/songguoxiansen/status/2047122441454096527?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -2859,8 +2860,8 @@ Research LIME Drug Design and make a detailed infographic about it
 唐代长安城元宵灯会全景，万盏花灯照亮夜空，工笔重彩长卷
 ```
 
-<!-- Case 61: 根据真实历史对杨玉环的形象描述，生成一张杨贵妃真实照片，画质为iPhone 15 pro (by @Zhaoge01) -->
-### Case 61: [根据真实历史对杨玉环的形象描述，生成一张杨贵妃真实照片，画质为iPhone 15 pro](https://x.com/Zhaoge01/status/2047110776897638568?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Zhaoge01](https://x.com/Zhaoge01))
+<!-- Case 61: Historical Yang Guifei Realistic Portrait (by @Zhaoge01) -->
+### Case 61: [Historical Yang Guifei Realistic Portrait](https://x.com/Zhaoge01/status/2047110776897638568?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Zhaoge01](https://x.com/Zhaoge01))
 
 | Output |
 | :----: |
@@ -2872,8 +2873,8 @@ Research LIME Drug Design and make a detailed infographic about it
 根据真实历史对杨玉环的形象描述，生成一张杨贵妃真实照片，画质为iPhone 15 pro
 ```
 
-<!-- Case 62: 参考这张图的透视和风格，绘制一张更加精细的超高清插画，表现超现实主义的日式未来都市，要能看清很小的细节，包括街道上的传统文化游行的人，小巷里的黑帮，烟花巷... (by @Tresmort) -->
-### Case 62: [参考这张图的透视和风格，绘制一张更加精细的超高清插画，表现超现实主义的日式未来都市，要能看清很小的细节，包括街道上的传统文化游行的人，小巷里的黑帮，烟花巷...](https://x.com/Tresmort/status/2047105322863460496?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Tresmort](https://x.com/Tresmort))
+<!-- Case 62: Surreal Japanese Futuristic City Illustration (by @Tresmort) -->
+### Case 62: [Surreal Japanese Futuristic City Illustration](https://x.com/Tresmort/status/2047105322863460496?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Tresmort](https://x.com/Tresmort))
 
 | Output |
 | :----: |
@@ -2885,8 +2886,8 @@ Research LIME Drug Design and make a detailed infographic about it
 参考这张图的透视和风格，绘制一张更加精细的超高清插画，表现超现实主义的日式未来都市，要能看清很小的细节，包括街道上的传统文化游行的人，小巷里的黑帮，烟花巷的舞女，疲惫的社畜，楼房的窗户里也有各式各样的人物，学习的学生，吵架的夫妻，玩游戏的宅男，以及更多的发挥细节。讽刺现实拥挤中的无聊，都市繁华下的孤独，无意义的人生中又有一种病态的美感。画面要有极高的审美价值 ，不能因为拼内容而损失美和协调感，比例是9:16
 ```
 
-<!-- Case 63: 狐妖小红娘涂山雅雅写真大片，粉色九尾狐裘紧身裙，媚眼如丝，红唇微张，极致妖媚 (by @sdjn_wgc) -->
-### Case 63: [狐妖小红娘涂山雅雅写真大片，粉色九尾狐裘紧身裙，媚眼如丝，红唇微张，极致妖媚](https://x.com/sdjn_wgc/status/2046981757325475954?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@sdjn_wgc](https://x.com/sdjn_wgc))
+<!-- Case 63: Tushan Yaya Fantasy Glamour Portrait (by @sdjn_wgc) -->
+### Case 63: [Tushan Yaya Fantasy Glamour Portrait](https://x.com/sdjn_wgc/status/2046981757325475954?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@sdjn_wgc](https://x.com/sdjn_wgc))
 
 | Output |
 | :----: |
@@ -2898,8 +2899,8 @@ Research LIME Drug Design and make a detailed infographic about it
 狐妖小红娘涂山雅雅写真大片，粉色九尾狐裘紧身裙，媚眼如丝，红唇微张，极致妖媚
 ```
 
-<!-- Case 64: 生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物 (by @LVWANGJI_0327) -->
-### Case 64: [生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物](https://x.com/LVWANGJI_0327/status/2046974302227206525?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@LVWANGJI_0327](https://x.com/LVWANGJI_0327))
+<!-- Case 64: Douyin Livestream Sales Screenshot (by @LVWANGJI_0327) -->
+### Case 64: [Douyin Livestream Sales Screenshot](https://x.com/LVWANGJI_0327/status/2046974302227206525?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@LVWANGJI_0327](https://x.com/LVWANGJI_0327))
 
 | Output |
 | :----: |
@@ -2911,8 +2912,8 @@ Research LIME Drug Design and make a detailed infographic about it
 生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物
 ```
 
-<!-- Case 65: 东方幻想风格女性，半身肖像，回眸侧脸，气质空灵优雅，柔和神性美感，细腻五官，微垂眼神，冷白细腻肌肤，淡雅橘粉妆容，金色高光点缀 (by @liyue_ai) -->
-### Case 65: [东方幻想风格女性，半身肖像，回眸侧脸，气质空灵优雅，柔和神性美感，细腻五官，微垂眼神，冷白细腻肌肤，淡雅橘粉妆容，金色高光点缀](https://x.com/liyue_ai/status/2046962895775580442?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@liyue_ai](https://x.com/liyue_ai))
+<!-- Case 65: Eastern Fantasy Female Half-Portrait (by @liyue_ai) -->
+### Case 65: [Eastern Fantasy Female Half-Portrait](https://x.com/liyue_ai/status/2046962895775580442?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
@@ -2934,8 +2935,8 @@ Research LIME Drug Design and make a detailed infographic about it
 风格：高端CG插画，超精细，电影级光影，柔光渲染，8K细节，artstation 热门作品风格
 ```
 
-<!-- Case 66: 9:16 竖向构图，单人女性艺术肖像，年轻东方女生，五官清秀，脸部线条柔和，皮肤自然通透，保留真实肌理，气质安静高级，带一点疏离感和故事感。 (by @zhiyangzhu22222) -->
-### Case 66: [9:16 竖向构图，单人女性艺术肖像，年轻东方女生，五官清秀，脸部线条柔和，皮肤自然通透，保留真实肌理，气质安静高级，带一点疏离感和故事感。](https://x.com/zhiyangzhu22222/status/2046952985562062888?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@zhiyangzhu22222](https://x.com/zhiyangzhu22222))
+<!-- Case 66: Vertical Artistic Portrait of a Young Eastern Woman (by @zhiyangzhu22222) -->
+### Case 66: [Vertical Artistic Portrait of a Young Eastern Woman](https://x.com/zhiyangzhu22222/status/2046952985562062888?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@zhiyangzhu22222](https://x.com/zhiyangzhu22222))
 
 | Output |
 | :----: |
@@ -2955,8 +2956,8 @@ Research LIME Drug Design and make a detailed infographic about it
 画面强调细腻质感、柔和色调、轻法式与韩系杂志感结合，真实摄影感，电影级肤色，细节丰富，层次分明，构图克制，高级审美，时尚 编辑人像，柔和的电影感人像，细腻的质感，超高细节，逼真，优雅，精致，高端时尚摄影，含蓄的性感，简洁的构图。
 ```
 
-<!-- Case 67: 图片1：汽车人全员月球基地集结，地球悬于身后星空，赛博坦旗帜飘扬 (by @songguoxiansen) -->
-### Case 67: [图片1：汽车人全员月球基地集结，地球悬于身后星空，赛博坦旗帜飘扬](https://x.com/songguoxiansen/status/2046952548469530716?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+<!-- Case 67: Autobots Assembled at Lunar Base (by @songguoxiansen) -->
+### Case 67: [Autobots Assembled at Lunar Base](https://x.com/songguoxiansen/status/2046952548469530716?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -2970,8 +2971,8 @@ Research LIME Drug Design and make a detailed infographic about it
 图片2：霸天虎全员列阵外星战舰甲板，威震天坐于王座俯视全军
 ```
 
-<!-- Case 68: 一颗/一块/一枚【食物名称】，以博物学大师发现野外标本的方式解剖。 (by @GeekCatX) -->
-### Case 68: [一颗/一块/一枚【食物名称】，以博物学大师发现野外标本的方式解剖。](https://x.com/GeekCatX/status/2046939656244318676?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@GeekCatX](https://x.com/GeekCatX))
+<!-- Case 68: Naturalist-Style Food Specimen Cross-Section (by @GeekCatX) -->
+### Case 68: [Naturalist-Style Food Specimen Cross-Section](https://x.com/GeekCatX/status/2046939656244318676?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@GeekCatX](https://x.com/GeekCatX))
 
 | Output |
 | :----: |
@@ -3028,8 +3029,8 @@ Research LIME Drug Design and make a detailed infographic about it
 粗糙的、光滑的、湿润的、干燥的、致密的、疏松的。
 ```
 
-<!-- Case 69: ポラロイド写真の中に人が写っていて、その人がフレームから外に飛び出している画像。日本語が書いてある画像生成して (by @MajaDesignJP) -->
-### Case 69: [ポラロイド写真の中に人が写っていて、その人がフレームから外に飛び出している画像。日本語が書いてある画像生成して](https://x.com/MajaDesignJP/status/2047235632934928765?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@MajaDesignJP](https://x.com/MajaDesignJP))
+<!-- Case 69: Polaroid Frame Breakout Scene (by @MajaDesignJP) -->
+### Case 69: [Polaroid Frame Breakout Scene](https://x.com/MajaDesignJP/status/2047235632934928765?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@MajaDesignJP](https://x.com/MajaDesignJP))
 
 | Output |
 | :----: |
@@ -3044,8 +3045,8 @@ Research LIME Drug Design and make a detailed infographic about it
 GPT Image-2で生成したやつ→
 ```
 
-<!-- Case 70: 参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。 (by @seiiiiiiiiiiru) -->
-### Case 70: [参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。](https://x.com/seiiiiiiiiiiru/status/2047227021156356500?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru))
+<!-- Case 70: 2D Anime Character Real-World Grid Scenes (by @seiiiiiiiiiiru) -->
+### Case 70: [2D Anime Character Real-World Grid Scenes](https://x.com/seiiiiiiiiiiru/status/2047227021156356500?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru))
 
 | Output |
 | :----: |
@@ -3057,8 +3058,8 @@ GPT Image-2で生成したやつ→
 参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。
 ```
 
-<!-- Case 71: 「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」 (by @os_shim) -->
-### Case 71: [「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」](https://x.com/os_shim/status/2047130379409400148?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@os_shim](https://x.com/os_shim))
+<!-- Case 71: Poster-to-Trailer Concept Prompt (by @os_shim) -->
+### Case 71: [Poster-to-Trailer Concept Prompt](https://x.com/os_shim/status/2047130379409400148?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@os_shim](https://x.com/os_shim))
 
 | Output |
 | :----: |
@@ -3070,8 +3071,8 @@ GPT Image-2で生成したやつ→
 「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」
 ```
 
-<!-- Case 72: 可愛いラバーダックの男の子「ルヒア(RUHiA)」が日本を目指して大冒険をして日本人女性の「ミライ」と出会うまでの物語。それを実写映画のポスターのようにして。 (by @mirai_ai2050) -->
-### Case 72: [可愛いラバーダックの男の子「ルヒア(RUHiA)」が日本を目指して大冒険をして日本人女性の「ミライ」と出会うまでの物語。それを実写映画のポスターのようにして。](https://x.com/mirai_ai2050/status/2046944941583270341?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@mirai_ai2050](https://x.com/mirai_ai2050))
+<!-- Case 72: Rubber Duck Boy Live-Action Movie Poster (by @mirai_ai2050) -->
+### Case 72: [Rubber Duck Boy Live-Action Movie Poster](https://x.com/mirai_ai2050/status/2046944941583270341?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@mirai_ai2050](https://x.com/mirai_ai2050))
 
 | Output |
 | :----: |
@@ -3085,8 +3086,8 @@ GPT Image-2で生成したやつ→
 参照画像入れてないのに女性もミライの雰囲気に似てない？
 ```
 
-<!-- Case 73: /gpt-image-2 帮我生成关于西红柿的全套产品电商介绍图片 (by @Adam38363368936) -->
-### Case 73: [/gpt-image-2 帮我生成关于西红柿的全套产品电商介绍图片](https://x.com/Adam38363368936/status/2047165092253532461?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Adam38363368936](https://x.com/Adam38363368936))
+<!-- Case 73: Tomato E-Commerce Product Image Set (by @Adam38363368936) -->
+### Case 73: [Tomato E-Commerce Product Image Set](https://x.com/Adam38363368936/status/2047165092253532461?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Adam38363368936](https://x.com/Adam38363368936))
 
 | Output |
 | :----: |

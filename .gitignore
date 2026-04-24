@@ -35,3 +35,4 @@ gpt_image_2_prompt.json
 gpt_image2_prompt.json
 merge_prompt_sources.py
 integrate_categorized_cases.py
+data/

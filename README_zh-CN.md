@@ -6,6 +6,7 @@
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts)
 [![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts)
 [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts)
+[![🎬 GPT-Image-2 × Seedance 2.0 — 电影级工作流](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-电影级工作流-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -44,17 +45,17 @@
 
 ## 最新动态
 
+- **2026 年 4 月 23 日：** 已统一 `README.md` 及所有本地化 README 中的 case title，并同步更新目录项、锚点与案例标题
 - **2026 年 4 月 21 日：** 已将 48 个新 prompt 案例整理归入图库分区，并下载对应链接输出图像
 - **2026 年 4 月 21 日：** 新增 12 个 GPT-Image-2 prompts，涵盖人像、海报、UI 与对比案例
 - **2026 年 4 月 20 日：** 新增 10 个精选 GPT-Image-2 prompts，并同步补充本地图片资源与 README 更新。
 - **2026 年 4 月 19 日：** 新增 10 个 GPT-Image-2 prompts，涵盖海报、UI 与对比案例
 - **2026 年 4 月 18 日：** 仓库首次发布，收录精选 GPT-Image-2 案例集
 
-## 目录
+## 📑 Menu
 
 - [简介](#简介)
 - [最新动态](#最新动态)
-- [目录](#目录)
 - [人像与摄影案例](#人像与摄影案例)
   - [Case 1: Convenience Store Neon Portrait (by @BubbleBrain)](#case-1-convenience-store-neon-portrait-by-bubblebrain)
   - [Case 2: Cinematic Minimal Portrait (by @iam_miharbi)](#case-2-cinematic-minimal-portrait-by-iam_miharbi)
@@ -74,6 +75,13 @@
   - [Case 16: Soft Black Mist Idol Portrait (by @BubbleBrain)](#case-16-soft-black-mist-idol-portrait-by-bubblebrain)
   - [Case 17: Fujifilm Couple Portrait (by @BubbleBrain)](#case-17-fujifilm-couple-portrait-by-bubblebrain)
   - [Case 18: AI Self-Perception Portrait (by @80vul)](#case-18-ai-self-perception-portrait-by-80vul)
+  - [Case 19: Create the most realistic front page design of a vintage newspaper featuring ... (by @Naiknelofar788)](#case-19-create-the-most-realistic-front-page-design-of-a-vintage-newspaper-featuring-by-naiknelofar788)
+  - [Case 20: Create image of Magazine feature article [travel (by @andis13)](#case-20-create-image-of-magazine-feature-article-travel-by-andis13)
+  - [Case 21: analyze this photo and give me a detailed JSON prompt that recreates it. brea... (by @pavellaslov)](#case-21-analyze-this-photo-and-give-me-a-detailed-json-prompt-that-recreates-it-brea-by-pavellaslov)
+  - [Case 22: CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-... (by @ZaraIrahh)](#case-22-calming-green-tea-film-kit-displayed-frontally-the-open-box-shows-soft-sage-by-zarairahh)
+  - [Case 23: Ultra-realistic product photography of a rich strawberry soft-serve ice cream... (by @ZaraIrahh)](#case-23-ultra-realistic-product-photography-of-a-rich-strawberry-soft-serve-ice-cream-by-zarairahh)
+  - [Case 24: A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ... (by @ZaraIrahh)](#case-24-a-hyper-realistic-uiux-mockup-displayed-on-a-slim-modern-laptop-placed-on-a-by-zarairahh)
+  - [Case 25: Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young ma... (by @harboriis)](#case-25-ultra-realistic-cinematic-dslr-photograph-of-an-18-year-old-handsome-young-ma-by-harboriis)
 - [海报与插画案例](#海报与插画案例)
   - [Case 1: Boston Spring 2026 City Poster (by @BubbleBrain)](#case-1-boston-spring-2026-city-poster-by-bubblebrain)
   - [Case 2: Vintage Amalfi Travel Poster (by @WolfRiccardo)](#case-2-vintage-amalfi-travel-poster-by-wolfriccardo)
@@ -104,8 +112,6 @@
   - [Case 40: Fictional Anime Movie Poster (by @seiiiiiiiiiiru)](#case-40-fictional-anime-movie-poster-by-seiiiiiiiiiiru)
   - [Case 41: Product Ad Redesign (by @genel_ai)](#case-41-product-ad-redesign-by-genel_ai)
   - [Case 42: Dark-Fantasy Guangzhou City Poster (by @liyue_ai)](#case-42-dark-fantasy-guangzhou-city-poster-by-liyue_ai)
-  - [Case 43: Backpropagation Diagram Poster (by @itnavi2022)](#case-43-backpropagation-diagram-poster-by-itnavi2022)
-  - [Case 44: Barreleye Fish Anatomy Encyclopedia (by @itnavi2022)](#case-44-barreleye-fish-anatomy-encyclopedia-by-itnavi2022)
   - [Case 45: Science Fiction Movie Poster (by @underwoodxie96)](#case-45-science-fiction-movie-poster-by-underwoodxie96)
   - [Case 46: Refreshing Summer Udon Ad (by @genel_ai)](#case-46-refreshing-summer-udon-ad-by-genel_ai)
   - [Case 47: Handwritten Medical Prescription Sheet (by @MrLarus)](#case-47-handwritten-medical-prescription-sheet-by-mrlarus)
@@ -113,11 +119,26 @@
   - [Case 49: Japanese Supermarket Sale Flyer (by @weel_corp)](#case-49-japanese-supermarket-sale-flyer-by-weel_corp)
   - [Case 50: Dark Epic Concept Poster (by @A9Quant)](#case-50-dark-epic-concept-poster-by-a9quant)
   - [Case 51: Pilates Studio Ad Poster (by @ck_igarashi)](#case-51-pilates-studio-ad-poster-by-ck_igarashi)
-  - [Case 52: Ultra-Dense Information Design (by @EchoraContinuum)](#case-52-ultra-dense-information-design-by-echoracontinuum)
-  - [Case 53: Cute Chinese Expeditionary Force Storyboard (by @RainHuangapp)](#case-53-cute-chinese-expeditionary-force-storyboard-by-rainhuangapp)
-  - [Case 54: Theme Science Encyclopedia Card (by @alanlovelq)](#case-54-theme-science-encyclopedia-card-by-alanlovelq)
+  - [Case 52: 6-Block Fashion Campaign Prompt Formula (by @anacoding)](#case-52-6-block-fashion-campaign-prompt-formula-by-anacoding)
+  - [Case 53: Sony A7 Exploded View Breakdown Prompt (by @iaPulse_)](#case-53-sony-a7-exploded-view-breakdown-prompt-by-iapulse_)
+  - [Case 54: 1900 Istiklal Street Panorama Prompt (by @ai_gezgini)](#case-54-1900-istiklal-street-panorama-prompt-by-ai_gezgini)
+  - [Case 55: Ultra-Dense Information Design (by @EchoraContinuum)](#case-55-ultra-dense-information-design-by-echoracontinuum)
+  - [Case 56: Cute Chinese Expeditionary Force Storyboard (by @RainHuangapp)](#case-56-cute-chinese-expeditionary-force-storyboard-by-rainhuangapp)
+  - [Case 57: Theme Science Encyclopedia Card (by @alanlovelq)](#case-57-theme-science-encyclopedia-card-by-alanlovelq)
   - [Case 55: Chili Pork Cooking Flowchart (by @Kurt_Rousey466)](#case-55-chili-pork-cooking-flowchart-by-kurt_rousey466)
   - [Case 56: Cinematic Infographic Concept Poster (by @A9Quant)](#case-56-cinematic-infographic-concept-poster-by-a9quant)
+  - [Case 58: A full-body outdoor shot captures a young Caucasian woman, possibly in her la... (by @AIwithSarah_)](#case-58-a-full-body-outdoor-shot-captures-a-young-caucasian-woman-possibly-in-her-la-by-aiwithsarah_)
+  - [Case 59: A professional product photography shot of a cold sparkling water (by @meng_dagg695)](#case-59-a-professional-product-photography-shot-of-a-cold-sparkling-water-by-meng_dagg695)
+  - [Case 60: 360 Equirectangular Panorama Image (by @rs_elwood)](#case-60-360-equirectangular-panorama-image)
+  - [Case 61: Soft poetic children's book illustration with watercolor and gouache textures... (by @dotey)](#case-61-soft-poetic-childrens-book-illustration-with-watercolor-and-gouache-textures-by-dotey)
+  - [Case 62: Aspect Ratio: 9:16 Vertical (by @GeekCatX)](#case-62-aspect-ratio-916-vertical-by-geekcatx)
+  - [Case 63: Hangzhou West Lake Travel Poster (by @BNBOKBt5)](#case-63-hangzhou-west-lake-travel-poster)
+  - [Case 64: Dongfang Bubai Wuxia Character Poster (by @songguoxiansen)](#case-64-dongfang-bubai-wuxia-character-poster)
+  - [Case 65: A Chinese Odyssey 90s Hong Kong Poster (by @songguoxiansen)](#case-65-a-chinese-odyssey-90s-hong-kong-poster)
+  - [Case 66: Journey to the West Daughter Kingdom Poster (by @cj858cjsoul)](#case-66-journey-to-the-west-daughter-kingdom-poster)
+  - [Case 67: Royal Tramp Character Poster (by @caiziboshi)](#case-67-royal-tramp-character-poster)
+  - [Case 68: generate an image of a racing car poster with its spec and pricing (by @verysmallwoods)](#case-68-generate-an-image-of-a-racing-car-poster-with-its-spec-and-pricing-by-verysmallwoods)
+  - [Case 69: Charlie Chaplin Product Poster Redesign (by @chenenpei)](#case-69-charlie-chaplin-product-poster-redesign)
 - [角色设计案例](#角色设计案例)
   - [Case 1: Anime Snapshot Conversion (by @Thereallo1026)](#case-1-anime-snapshot-conversion-by-thereallo1026)
   - [Case 2: Persona5 Character Reference Card (by @iamrednightS)](#case-2-persona5-character-reference-card-by-iamrednights)
@@ -151,6 +172,10 @@
   - [Case 37: Liu Yifei Douyin Livestream Screenshot (by @kylegeeks)](#case-37-liu-yifei-douyin-livestream-screenshot-by-kylegeeks)
   - [Case 38: Cyberpunk Neon UI Design System (by @AZLnfvp)](#case-38-cyberpunk-neon-ui-design-system-by-azlnfvp)
   - [Case 39: Trump and Kim Livestream PK Screenshot (by @alanlovelq)](#case-39-trump-and-kim-livestream-pk-screenshot-by-alanlovelq)
+  - [Case 40: Japanese AI Game Dev Overview Slide Prompt (by @ailovedirector)](#case-40-japanese-ai-game-dev-overview-slide-prompt-by-ailovedirector)
+  - [Case 41: based on the generated character help me generate a screenshot of screenshot ... (by @khaiinit)](#case-41-based-on-the-generated-character-help-me-generate-a-screenshot-of-screenshot-by-khaiinit)
+  - [Case 42: Create a landing page using this image as a reference for style and color gra... (by @D_studioproject)](#case-42-create-a-landing-page-using-this-image-as-a-reference-for-style-and-color-gra-by-d_studioproject)
+  - [Case 43: Li Jiaqi Lipstick Livestream Background (by @songguoxiansen)](#case-43-li-jiaqi-lipstick-livestream-background)
 - [模型对比与社区案例](#模型对比与社区案例)
   - [Case 5: Wooden Bookshelf Prompt Test (by @chetaslua)](#case-5-wooden-bookshelf-prompt-test-by-chetaslua)
   - [Case 10: GPT-Image-2 Detail Showcase (by @liyue_ai)](#case-10-gpt-image-2-detail-showcase-by-liyue_ai)
@@ -167,18 +192,53 @@
   - [Case 37: Retro Programming Museum Cartoon (by @XiaohuiAI666)](#case-37-retro-programming-museum-cartoon-by-xiaohuiai666)
   - [Case 38: 14th-Dimension Projection Scene (by @workingclassbud)](#case-38-14th-dimension-projection-scene-by-workingclassbud)
   - [Case 39: Sam Altman Baseball Broadcast (by @16kthir0GRXgNqn)](#case-39-sam-altman-baseball-broadcast-by-16kthir0grxgnqn)
+  - [Case 40: Based on the video content and this current frame, use GPT to generate a YouT... (by @chatcutapp)](#case-40-based-on-the-video-content-and-this-current-frame-use-gpt-to-generate-a-yout-by-chatcutapp)
+  - [Case 41: Generate an image of the most significant event of 2020 (by @Rufus87078959)](#case-41-generate-an-image-of-the-most-significant-event-of-2020-by-rufus87078959)
+  - [Case 42: Edit this image so that total amount changes to 244.5 baht. You can change th... (by @elliscrosby)](#case-42-edit-this-image-so-that-total-amount-changes-to-2445-baht-you-can-change-th-by-elliscrosby)
+  - [Case 43: Generate an image of the most significant event of 2001 (by @Rufus87078959)](#case-43-generate-an-image-of-the-most-significant-event-of-2001-by-rufus87078959)
+  - [Case 44: Generate an image of the most significant event of 2025. (by @Rufus87078959)](#case-44-generate-an-image-of-the-most-significant-event-of-2025-by-rufus87078959)
+  - [Case 45: Personal Profile Infographic Generator (by @andis13)](#case-45-personal-profile-infographic-generator)
+  - [Case 46: 360 Equirectangular Panorama Image (by @rs_elwood)](#case-46-360-equirectangular-panorama-image)
+  - [Case 47: Personal Knowledge Infographic Portrait (by @aitorwilzig)](#case-47-personal-knowledge-infographic-portrait)
+  - [Case 48: Research LIME Drug Design and make a detailed infographic about it (by @WillSpagnoli)](#case-48-research-lime-drug-design-and-make-a-detailed-infographic-about-it-by-willspagnoli)
+  - [Case 49: Douyin Livestream Sales Screenshot (by @laogeai)](#case-49-douyin-livestream-sales-screenshot)
+  - [Case 50: Social App Match Success Screen (by @songguoxiansen)](#case-50-social-app-match-success-screen)
+  - [Case 51: Lu Bu Boss Design Sheet (by @songguoxiansen)](#case-51-lu-bu-boss-design-sheet)
+  - [Case 52: Nezha Dark Fantasy Novel Cover (by @songguoxiansen)](#case-52-nezha-dark-fantasy-novel-cover)
+  - [Case 53: New Chinese Minimalist Floral Illustration (by @liyue_ai)](#case-53-new-chinese-minimalist-floral-illustration)
+  - [Case 54: Su Daji Ancient-Style Glamour Portrait (by @nidiedeba)](#case-54-su-daji-ancient-style-glamour-portrait)
+  - [Case 55: Lu Xun Morning Flowers Illustration (by @Aurora_62340)](#case-55-lu-xun-morning-flowers-illustration)
+  - [Case 56: Subway Candid Phone Snapshot (by @AntCaveClub)](#case-56-subway-candid-phone-snapshot)
+  - [Case 57: China Aerospace Commemorative Stamp Sheet (by @songguoxiansen)](#case-57-china-aerospace-commemorative-stamp-sheet)
+  - [Case 58: Vertical Wuxia Heroine Portrait (by @CoderDaMing)](#case-58-vertical-wuxia-heroine-portrait)
+  - [Case 59: Realistic Guanyin Portrait from Buddhist Texts (by @Zhaoge01)](#case-59-realistic-guanyin-portrait-from-buddhist-texts)
+  - [Case 60: Tang Dynasty Chang'an Lantern Festival Panorama (by @songguoxiansen)](#case-60-tang-dynasty-changan-lantern-festival-panorama)
+  - [Case 61: Historical Yang Guifei Realistic Portrait (by @Zhaoge01)](#case-61-historical-yang-guifei-realistic-portrait)
+  - [Case 62: Surreal Japanese Futuristic City Illustration (by @Tresmort)](#case-62-surreal-japanese-futuristic-city-illustration)
+  - [Case 63: Tushan Yaya Fantasy Glamour Portrait (by @sdjn_wgc)](#case-63-tushan-yaya-fantasy-glamour-portrait)
+  - [Case 64: Douyin Livestream Sales Screenshot (by @LVWANGJI_0327)](#case-64-douyin-livestream-sales-screenshot)
+  - [Case 65: Eastern Fantasy Female Half-Portrait (by @liyue_ai)](#case-65-eastern-fantasy-female-half-portrait)
+  - [Case 66: Vertical Artistic Portrait of a Young Eastern Woman (by @zhiyangzhu22222)](#case-66-vertical-artistic-portrait-of-a-young-eastern-woman)
+  - [Case 67: Autobots Assembled at Lunar Base (by @songguoxiansen)](#case-67-autobots-assembled-at-lunar-base)
+  - [Case 68: Naturalist-Style Food Specimen Cross-Section (by @GeekCatX)](#case-68-naturalist-style-food-specimen-cross-section)
+  - [Case 69: Polaroid Frame Breakout Scene (by @MajaDesignJP)](#case-69-polaroid-frame-breakout-scene)
+  - [Case 70: 2D Anime Character Real-World Grid Scenes (by @seiiiiiiiiiiru)](#case-70-2d-anime-character-real-world-grid-scenes)
+  - [Case 71: Poster-to-Trailer Concept Prompt (by @os_shim)](#case-71-poster-to-trailer-concept-prompt)
+  - [Case 72: Rubber Duck Boy Live-Action Movie Poster (by @mirai_ai2050)](#case-72-rubber-duck-boy-live-action-movie-poster)
+  - [Case 73: Tomato E-Commerce Product Image Set (by @Adam38363368936)](#case-73-tomato-e-commerce-product-image-set)
 - [致谢](#致谢)
+- [Star History](#star-history)
 
 ## 人像与摄影案例
 
 <!-- Case 1: Convenience Store Neon Portrait (by @BubbleBrain) -->
 ### Case 1: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case1/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case1/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light, subtle skin texture and micro pores, natural dewy makeup with soft flush on cheeks, glossy natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair in a messy high ponytail with many loose strands falling around face and neck, wearing an oversized white button-up shirt as the only top, unbuttoned at the top with deep cleavage and loosely tied at the waist, paired with a tiny black pleated mini skirt, barefoot in simple white slides, seductive casual leaning pose against the glass door of a 24-hour convenience store at late night, body slightly arched, one leg bent with foot resting against the door frame, the other leg straight, one hand holding a bottle of iced drink, the other hand lightly pulling the hem of her mini skirt, intensely seductive playful yet slightly vulnerable gaze straight at the viewer with soft doe eyes full of quiet temptation and teasing smile, bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs, realistic reflections on glass door, blurred convenience store interior with shelves and snacks in background, authentic 35mm film color grading with harsh lighting and neon accents, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the oversized shirt and mini skirt, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic late-night convenience store atmosphere
@@ -186,11 +246,11 @@
 <!-- Case 2: Cinematic Minimal Portrait (by @iam_miharbi) -->
 ### Case 2: [Cinematic Minimal Portrait](https://x.com/iam_miharbi/status/2045151354679665101) (by [@iam_miharbi](https://x.com/iam_miharbi))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case2/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case2/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 Generate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment, strong silhouette lighting, deep shadow contrast, reflective glossy floor, symmetrical composition, minimal
@@ -198,11 +258,11 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 <!-- Case 3: Japanese Onsen Ryokan Portrait (by @BubbleBrain) -->
 ### Case 3: [Japanese Onsen Ryokan Portrait](https://x.com/BubbleBrain/status/2045092449803284923) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case3/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case3/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, the fabric slightly open revealing smooth skin and subtle cleavage, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back to gently accentuate curves, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere
@@ -210,11 +270,11 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 <!-- Case 4: 35mm Flash Editorial Portrait (by @BubbleBrain) -->
 ### Case 4: [35mm Flash Editorial Portrait](https://x.com/BubbleBrain/status/2045052982728016131) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case4/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case4/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 35mm color film photography with harsh direct on-camera flash, specular highlights on skin and clothing, strong catchlights in eyes, high contrast flash illumination, authentic film grain and color shift, high fashion fresh innocent basketball court editorial style, intimate first-person low-angle POV shot from below, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless realistic porcelain skin with cool ivory undertone and visible flash specular highlights, fine delicate skin texture with subtle pores micro details and natural dewy glow under flash, fresh natural sporty makeup with soft dewy glow, subtle natural flush on cheeks, natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair tied in a high playful ponytail with some loose strands framing the face and realistic loose strands, wearing a loose white tank top and white high-waisted basketball shorts, white knee-high sports socks, seductive natural leaning pose against the basketball hoop pole on the outdoor court at dusk, body angled sideways with naturally arched back and hips gently pushed back to accentuate perky round hips and sexy butt curve, one leg naturally extended forward toward the camera and the other leg slightly bent to emphasize long sexy legs, both hands lightly resting on the basketball pole at shoulder height, intensely seductive playful yet pitiable doe-eyed gaze straight at the viewer with soft vulnerable longing eyes and a gentle teasing smile full of quiet temptation and desire, harsh direct on-camera flash creating sharp specular highlights and strong catchlights, background with blurred basketball court and hoop under dusk sky, high contrast film color grading with natural flash look, extremely sharp yet soft skin rendering with authentic 35mm direct flash aesthetic, natural hair strands, realistic fabric texture on tank top and shorts with socks detail, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm direct flash film basketball court look --ar 9:16
@@ -222,11 +282,11 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 <!-- Case 5: Mirror Selfie Bedroom Portrait (by @Shinning1010) -->
 ### Case 5: [Mirror Selfie Bedroom Portrait](https://x.com/Shinning1010/status/2045002808903020962) (by [@Shinning1010](https://x.com/Shinning1010))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case5/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case5/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 A stunning 18-year-old Chinese girl with a youthful, pure face and realistic skin texture, sitting on a cozy, slightly messy bed in her bedroom. She is taking a mirror selfie with a smartphone, capturing a natural and intimate moment. Wearing casual gray loungewear and neat white crew socks. Soft natural light (golden hour) streams in from a side window, creating a warm, moody, and cinematic atmosphere. 35mm lens, sharp focus on the subject in the mirror, depth of field with a beautifully blurred background (bokeh). Photorealistic, 8K, high resolution, studio quality, masterpiece.
@@ -236,11 +296,11 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 <!-- Case 6: Soft Airy 35mm Portrait (by @BubbleBrain) -->
 ### Case 6: [Soft Airy 35mm Portrait](https://x.com/BubbleBrain/status/2046115431144902732) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case6/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case6/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffused natural window light, slight overexposure, pastel tones, low contrast, soft highlights, minimal indoor setting near a window with white curtains, clean light-colored wall, natural composition, eye-level, slightly closer full-body framing (mid-thigh to head), young East Asian woman, natural minimal makeup, soft realistic skin texture, long slightly messy dark hair, oversized white button-up shirt, light casual shorts, barefoot, simple and relaxed styling, standing naturally with relaxed posture, arms loosely at sides or slightly behind, facing camera, gentle soft smile, subtle stillness, focus on light, air, and quiet everyday mood, soft film grain, dreamy and understated atmosphere --ar 9:16
@@ -249,11 +309,11 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 <!-- Case 7: Luxury Glam Beauty Portrait (by @patrickassale) -->
 ### Case 7: [Luxury Glam Beauty Portrait](https://x.com/patrickassale/status/2044581766309060765) (by [@patrickassale](https://x.com/patrickassale))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case7/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case7/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy vanilla, silk press, mahogany red, subtle confidence, textured fabric, sapphire blue, minimal jewelry, beachside breeze, lens flare effect, nostalgic, cinematic lens, symmetrical composition, soft focus, high fashion photography, monochromatic, dewy finish, mysterious tension, layered elements
@@ -261,11 +321,11 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 <!-- Case 8: 9:16 Cosplayer Portrait Screenshot (by @Zoulinshen) -->
 ### Case 8: [9:16 Cosplayer Portrait Screenshot](https://x.com/Zoulinshen/status/2045082518089810073) (by [@Zoulinshen](https://x.com/Zoulinshen))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case8/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case8/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
  生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演（角色名称）的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词，由你自动创作。再在对话框下方加一条操作栏，仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。
@@ -274,11 +334,11 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 <!-- Case 9: Urban Turn-Back Street Portrait (by @Tz_2022) -->
 ### Case 9: [Urban Turn-Back Street Portrait](https://x.com/Tz_2022/status/2045892003775361198) (by [@Tz_2022](https://x.com/Tz_2022))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case9/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case9/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 该画面为中近景，采用平视镜头，聚焦于一位年轻女性。她以七分身镜头呈现，身体坐姿略带倾斜，臀部向后撅起，双腿自然交叠，左腿在前，右腿在后，膝盖微屈。她将上半身向右后方扭转，头部则转向镜头方向，形成一个经典的“回眸”姿态，目光直视镜头，眼神清澈而略带一丝俏皮。她的发型是蓬松的棕色齐肩短发，刘海自然垂落，发尾微卷，妆容清淡自然，仅在眼部有轻微眼线勾勒，唇色为自然裸粉。画面整体采用自然日光滤镜，光线从画面左上方斜射入，形成柔和的逆光轮廓，面部和身体右侧被温暖的金色光线照亮，左侧则形成自然的阴影过渡，增强了立体感。灯光效果是明亮的自然光，带有轻微的镜头眩光，营造出午后阳光的氛围。拍摄角度为平视，构图上，人物主体位于画面中偏右位置，背景中的斑马线与道路线条形成自然的引导线，将视线引向人物。背景为城市街道，包含道路、斑马线、绿化带和远处的车辆，背景被适度虚化，但依然可辨识出树木、护栏和停放的电动车等元素，构图上利用了三分法，人物位于右侧三分之一处，增强了画面的平衡感。主体穿着一件军绿色迷彩图案的连帽卫衣，下身搭配黑色短裤，脚穿白色高帮运动鞋配白色中筒袜。背包为黑色，带有橙黄色装饰条纹和一个橙色毛绒挂件，材质为帆布和皮革拼接。整体风格为街头休闲风，肢体语言放松自然，表情略带好奇与俏皮，整体呈现出一种随性、青春、充满活力的都市少女形象。
@@ -287,11 +347,11 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 <!-- Case 10: Sam Altman Skatepark Snapshot (by @Malek1173989) -->
 ### Case 10: [Sam Altman Skatepark Snapshot](https://x.com/Malek1173989/status/2045836887684694395) (by [@Malek1173989](https://x.com/Malek1173989))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case10/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case10/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 "Sam Altman on a skateboard at a skatepark with no people."
@@ -300,11 +360,11 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 <!-- Case 11: Korean Idol 3x3 Grid Portrait (by @BubbleBrain) -->
 ### Case 11: [Korean Idol 3x3 Grid Portrait](https://x.com/BubbleBrain/status/2046268941941850575) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case11/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case11/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 9:16 vertical, Korean idol portrait photoshoot, 3x3 grid (nine frames), same person in all images, consistent facial features and styling, soft black mist filter effect, lowered contrast, blooming highlights, subtle glow around light sources
@@ -313,11 +373,11 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 <!-- Case 12: CCD Camera Flash Korean Idol (by @BubbleBrain) -->
 ### Case 12: [CCD Camera Flash Korean Idol](https://x.com/BubbleBrain/status/2046190539213885806) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case12/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case12/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur, young Korean female idol, soft innocent look
@@ -326,11 +386,11 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 <!-- Case 13: Korean Idol 3x3 Collage Portrait (by @BubbleBrain) -->
 ### Case 13: [Korean Idol 3x3 Collage Portrait](https://x.com/BubbleBrain/status/2046151898621993364) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case13/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case13/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol, maintaining 100% consistency in facial features, proportions, hairstyle, and identity across all nine shots.   Natural, ultra-realistic skin texture, no retouching, no smoothing. Clean idol-style minimal makeup, soft glow, subtle imperfections.   Hair: long, voluminous dark hair, slightly tousled, consistent across all frames (natural loose flow, slight movement).  Outfit: cohesive Korean idol photoshoot styling — white shirt + short bottoms (or simple neutral-toned outfit), youthful, clean, slightly casual but styled. Same outfit across all frames.  Setting: minimal studio or simple indoor environment (plain wall, soft window light, clean background). Focus on subject, not environment.  Lighting: soft diffused natural light, gentle highlights, low contrast, slightly airy tones, subtle film-like softness.  Camera style: intimate portrait photography, slightly handheld feel, subtle imperfections (minor grain, slight blur in motion frames, imperfect framing).  Frame breakdown (3x3 grid):  Top row: - Top left: standing naturally, looking slightly away, relaxed expression - Top center: facing camera, casual mid-motion (hair or body slight movement) - Top right: slight side angle, soft gaze, natural candid feel  Middle row: - Center left: looking slightly upward, soft thoughtful expression - Center: close-up portrait, direct eye contact, gentle idol smile - Center right: turning body slightly, mid-motion candid frame  Bottom row: - Bottom left: seated or leaning casually, relaxed posture - Bottom center: back partially turned, looking over shoulder toward camera - Bottom right: standing close to frame, slightly playful or soft expression  Mood: Korean idol photobook / photocard aesthetic, intimate, soft, natural, everyday charm.  Quality: ultra-realistic, 8K detail, subtle analog film grain, natural imperfections, soft dreamy tone
@@ -339,11 +399,11 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 <!-- Case 14: Soft Black Mist Editorial Portrait (by @BubbleBrain) -->
 ### Case 14: [Soft Black Mist Editorial Portrait](https://x.com/BubbleBrain/status/2046434670724907395) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case14/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case14/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 9:16 vertical — editorial portrait, single subject  soft black mist filter, subtle haze, gentle highlight bloom, muted tones  minimal indoor space, clean background, slight texture  young Korean woman, minimal makeup, natural skin texture  outfit: fitted ribbed knit top or soft camisole layered under a loose shirt, paired with high-waisted shorts or skirt; fabric slightly clings to body shape, soft and natural, no revealing elements  hair: slightly messy, natural volume  pose: sitting on floor with one leg bent and the other relaxed, body slightly leaning, shoulders not aligned, head tilted  composition: subject slightly off-center, negative space present  expression: calm, slightly distant, natural lips  lighting: soft side light, gentle shadow falloff  mood: understated, quiet, subtly sensual through natural body lines, relaxed and unposed  quality: fine grain, slight softness, realistic look
@@ -352,11 +412,11 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 <!-- Case 15: Fujifilm Strawberry School Portrait (by @BubbleBrain) -->
 ### Case 15: [Fujifilm Strawberry School Portrait](https://x.com/BubbleBrain/status/2046483268019884384) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case15/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case15/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 9:16 vertical — Japanese Fuji film style portrait, single subject  Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation, slight vignette  bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere  young Japanese female idol, natural minimal makeup, fresh glowing skin, realistic texture, slight imperfections  outfit: Japanese school uniform (sailor-style or blazer uniform), neatly styled, non-revealing, youthful and clean  hair: natural dark hair, straight or softly flowing, a few loose strands  pose: front-facing or slight angle toward camera, relaxed posture; one hand gently holding a strawberry near lips, mid-action as if about to take a bite; shoulders relaxed, subtle natural body curve  expression: soft playful gaze, light smile or neutral lips, gentle eye contact with camera  setting: minimal indoor near window or simple outdoor corner, clean background, everyday atmosphere  composition: slightly off-center framing, intimate distance, candid feel  mood: fresh, youthful, sweet everyday moment, understated charm  quality: ultra-realistic, analog film look, natural imperfections, soft dreamy finish
@@ -365,11 +425,11 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 <!-- Case 16: Soft Black Mist Idol Portrait (by @BubbleBrain) -->
 ### Case 16: [Soft Black Mist Idol Portrait](https://x.com/BubbleBrain/status/2046518189509734903) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case16/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case16/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 9:16 vertical — Korean idol portrait photography, single subject  soft black mist filter effect, lowered contrast, gentle highlight bloom, subtle glow, soft diffusion, slightly faded blacks  minimal indoor setting near window, white curtains, clean light-toned background  young Korean female idol, natural minimal makeup, dewy realistic skin texture, subtle imperfections  outfit: oversized white button-up shirt + short bottoms, slightly loose fit, soft and casual styling, no revealing elements  hair: long dark hair, slightly messy, natural volume, softly flowing  pose: relaxed standing or slight lean, body subtly angled, one leg slightly forward, shoulders relaxed; one hand lightly touching collar or resting near neckline, the other relaxed; gentle body curve without exaggeration  expression: soft cute smile, slightly playful eyes, direct or slightly off-camera gaze  camera: close to mid-body framing, eye-level, intimate distance, slight handheld feel  lighting: diffused natural daylight, soft shadows, gentle light wrapping around face and body  mood: cute yet subtly sensual, intimate, everyday softness, quiet romantic atmosphere  quality: ultra-realistic, fine film grain, slight softness at edges, natural imperfections, dreamy understated tone
@@ -378,11 +438,11 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 <!-- Case 17: Fujifilm Couple Portrait (by @BubbleBrain) -->
 ### Case 17: [Fujifilm Couple Portrait](https://x.com/BubbleBrain/status/2046502288102170757) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case17/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case17/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 9:16 vertical — Japanese Fuji film style couple portrait, two subjects  Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation  bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere  young Japanese couple, natural minimal makeup, realistic skin texture, slight imperfections  female outfit: oversized button-up shirt with loose shorts, relaxed fit, soft casual styling   male outfit: simple t-shirt or light shirt, clean and understated  hair: natural, slightly tousled for both  pose: close intimate distance — sitting or standing close together; the girl gently leaning toward him, one hand lightly resting on his shoulder or chest; the boy slightly leaning in, faces close, almost touching, capturing the moment just before a kiss  expression: soft smiles or gentle gaze toward each other, relaxed and natural, emotional connection visible  camera: close framing (waist-up), eye-level, intimate distance, slight handheld feel  setting: minimal indoor near window, light curtains, clean soft background  lighting: diffused daylight, gentle highlight bloom, soft shadow transitions  mood: warm, romantic, intimate everyday moment, natural affection  quality: ultra-realistic, analog film look, fine grain, slight softness, natural imperfections
@@ -391,14 +451,172 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 <!-- Case 18: AI Self-Perception Portrait (by @80vul) -->
 ### Case 18: [AI Self-Perception Portrait](https://x.com/80vul/status/2046218165961753047) (by [@80vul](https://x.com/80vul))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case18/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case18/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 根据你对我的认知 给我生成一个“你认识的我”的 图片
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Case 19: Create the most realistic front page design of a vintage newspaper featuring ... (by @Naiknelofar788) -->
+### Case 19: [Create the most realistic front page design of a vintage newspaper featuring ...](https://x.com/Naiknelofar788/status/2047207812800147647?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+
+| Output |
+| :----: |
+| <img src="images/portrait_case70/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+Create the most realistic front page design of a vintage newspaper featuring the main character. The layout should be made in the style of a real printed newspaper with a cinematic black-and-white aesthetic.
+The main photo should be prominently placed in the center, framed, like the image in the title of the article. The subject in the photo should remain unchanged and clearly distinguishable in natural light and slightly increased contrast in order to match the spectacular editorial style.
+Create a bold, attention-grabbing headline at the top (create a unique title that matches the spirit of the photo - it can be romantic, mysterious, funny, or dramatic). Add a smaller subtitle under it, which will look like a real newspaper caption.
+Add realistic newspaper elements:
+Columns of small text (in the style of lorem ipsum, but framed like real news)
+At the top is the fictitious name of the publication (for example, The Daily Prompts, AI Times or similar - think creatively, according to the picture)
+Date, issue number and location
+Decorative lines, dividers, and vintage typography
+Small additional articles or captions to the main image
+Optional stamps, doodles, or editorial notes to add personality.
+Style:
+Black and white or slightly faded monochrome paper
+Fine paper texture, grain, and ink defects
+Small shadows and creases that mimic real printed paper
+The aesthetics of a clean but slightly worn vintage newspaper
+Mood: Give the design personality, expressiveness and plot, as if the plot is part of the main article.
+Aspect ratio: 4:5 or 1:1
+High-detail, ultra-realistic hybrid of editorial photography and print design.
+```
+
+<!-- Case 20: Create image of Magazine feature article [travel] guide page, cute, informati... (by @andis13) -->
+### Case 20: [Create image of Magazine feature article [travel] guide page, cute, informati...](https://x.com/andis13/status/2047204384811921764?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@andis13](https://x.com/andis13))
+
+| Output |
+| :----: |
+| <img src="images/portrait_case71/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+Create image of Magazine feature article [travel] guide page, cute, information dense photo book style magazine feature article page. Add all necessary sections, tips, recommendations, information. add photos for any sections and recommendations if you like. Place the attached person at the precise location of [city, country]. Seamlessly blend the attached person as if they are sightseeing. Approach this task with the understanding that this is a critical, information rich page that will significantly influence visitor numbers, text accuracy is important. Fully use the entire [9:16] page. NEGATIVE PROMPT: coordinate texts @swiat_ai @ProfitAII
+```
+
+<!-- Case 21: analyze this photo and give me a detailed JSON prompt that recreates it. brea... (by @pavellaslov) -->
+### Case 21: [analyze this photo and give me a detailed JSON prompt that recreates it. brea...](https://x.com/pavellaslov/status/2047182214304055339?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@pavellaslov](https://x.com/pavellaslov))
+
+| Output |
+| :----: |
+| <img src="images/portrait_case77/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+analyze this photo and give me a detailed JSON prompt that recreates it. break down the color grading and every exact color in the photo
+
+(use Opus, not Sonnet. Opus has stronger visual analysis and writes more detailed JSON)
+
+paste that JSON into ChatGPT
+upload your product image and prompt:
+using this JSON as reference, generate a person holding my product
+save that generated photo as your character reference
+
+attach it to every future generation for facial consistency
+
+you now have a consistent UGC model that works across any product
+
+the JSON controls the lighting and color grading. GPT image-2 handles the character. you control the product placement.
+
+the #1 tell on AI photos is flat colors and a grainy look. this method removes both.
+5 minutes to set up. unlimited variations after.
+```
+
+<!-- Case 22: CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-... (by @ZaraIrahh) -->
+### Case 22: [CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-...](https://x.com/ZaraIrahh/status/2047180061657452601?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+
+| Output |
+| :----: |
+| <img src="images/portrait_case78/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-green film pouches and translucent ampoules with matte silver caps, product placed centrally with clear branding CALMING GREEN TEA -- 7 Days to Soothed Skin, pastel green background with botanical graphic accents, three minimal icons (leaf, wave, balance) floating around the product to emphasize benefits, photographic, hyper detailed, ultra realistic, lifelike, 8k, high detail, soft professional lighting.
+```
+
+<!-- Case 23: Ultra-realistic product photography of a rich strawberry soft-serve ice cream... (by @ZaraIrahh) -->
+### Case 23: [Ultra-realistic product photography of a rich strawberry soft-serve ice cream...](https://x.com/ZaraIrahh/status/2047179916161212542?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+
+| Output |
+| :----: |
+| <img src="images/portrait_case79/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+Ultra-realistic product photography of a rich strawberry soft-serve ice cream in a crispy waffle cone, styled with a clean, modern premium aesthetic. The soft serve is a vibrant natural pink, thick and creamy, sculpted into a smooth swirl with a softly curled peak, lightly topped with delicate strawberry dust or tiny fruit specks for a fresh, appetizing look. The cone has a rustic, crunchy texture with slightly uneven edges for an artisanal feel.
+The background is soft beige with natural sunlight casting subtle leaf shadows, creating a calm, organic atmosphere. Include softly blurred greenery in the foreground for depth. The composition is minimal, balanced, and uses negative space effectively, similar to high-end American food brand ads.
+On the left side, include modern English typography in a clean, elegant layout (not vertical).
+Main headline:
+Sweet Strawberry Bliss.
+Supporting line (smaller text):
+Made with real strawberries. Smooth. Creamy. Irresistible.
+Add a small circular badge showing the price:
+$5.80.
+Lighting: soft natural daylight, warm highlights, shallow depth of field, high-end commercial food photography style.
+Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert branding.
+```
+
+<!-- Case 24: A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ... (by @ZaraIrahh) -->
+### Case 24: [A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ...](https://x.com/ZaraIrahh/status/2047179669011616172?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+
+| Output |
+| :----: |
+| <img src="images/portrait_case80/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a minimal wooden desk with soft natural daylight. The screen shows a clean SaaS dashboard with elegant typography, glassmorphism cards, smooth gradients, subtle drop shadows, and neatly spaced components. Visible charts, analytics panels, sidebar navigation, and micro-interactions. Realistic macOS-style window frame, soft reflections on the screen, shallow depth of field, cozy workspace atmosphere, shot in photorealistic product photography style, ultra-detailed.
+```
+
+<!-- Case 25: Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young ma... (by @harboriis) -->
+### Case 25: [Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young ma...](https://x.com/harboriis/status/2047175250761433416?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@harboriis](https://x.com/harboriis))
+
+| Output |
+| :----: |
+| <img src="images/portrait_case81/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young man with a slim skinny body, lean physique, narrow shoulders and waist, standing confidently in front of a blue 2017 Ford Mustang GT Convertible with a bold red soft top roof, captured from a high-angle aerial perspective exactly like a luxury driveway photoshoot. Keep face 100% identical to reference image with exact facial structure, natural skin texture, realistic pores, authentic expression, no beautification, no facial modification. Same modern textured side-swept quiff hairstyle with heavy natural volume on top, deep side flow, messy yet controlled texture, soft matte finish, visible natural hair strands, softly blended sides.
+
+The subject stands centered near the front bumper of the Mustang GT, hands inside hoodie pockets, relaxed shoulders, straight posture, slight head tilt upward toward camera, confident calm expression, wearing oversized premium black hoodie with realistic cotton texture, natural folds, hanging drawstrings, loose dark washed black denim jeans with soft wrinkles and stacked hems, clean white sneakers with realistic leather texture and sole details, black slim rectangular sunglasses.
+
+Car must be a detailed 2017 Ford Mustang GT Convertible, metallic electric blue paint, glossy reflections on hood, visible Mustang pony grille emblem, aggressive headlights, muscular hood sculpting, aerodynamic front bumper, black alloy wheels, premium red convertible fabric roof, realistic windshield reflections, detailed side mirrors, authentic tire tread, showroom-clean finish
+
+Scene set in an upscale villa driveway with light beige hexagonal stone pavement, curved border with fresh green grass on left side, tropical palm leaves entering frame from top corners, subtle luxury outdoor atmosphere. Soft natural daylight, diffused afternoon lighting, realistic shadows under car and body, soft reflections on paintwork, cinematic premium color grading, natural contrast, shallow depth separation while maintaining environment clarity. Shot on 35mm lens, vertical composition, full body framing, crisp details, hyper-realistic DSLR quality, zero Al look, natural skin rendering, realistic hair strands, fabric texture, stone surface texture, luxury lifestyle mood. stylish text AmanZaid at the bottom-left corner, signature style
+
+Negative Prompt:
+
+face changed, different identity, beautified face, edited face, smooth plastic skin, fake skin glow, wrong hairstyle, short hair, fade haircut, buzzcut, messy deformed hair, female features, muscular body, fat body, broad shoulders, bad anatomy, long neck, short legs, extra fingers, missing fingers, mutated hands, distorted arms, broken posture, crossed eyes, lazy eye, bad sunglasses, blurry face, low resolution, pixelated, noisy image, overexposed, underexposed, harsh shadows, unrealistic reflections, fake car shape, wrong car model, damaged car, extra wheels, warped Mustang logo, incorrect. proportions, bad pavement texture, background artifacts, duplicate objects, watermark, logo errors, text artifacts, cropped feet, cut car, unnatural perspective, CGI render, cartoon style, painting, Al artifacts, oversaturated colors, motion blur, lens distortion 1664x2080-ar 4:5
 ```
 
 ## 海报与插画案例
@@ -406,11 +624,11 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 <!-- Case 1: Boston Spring 2026 City Poster (by @BubbleBrain) -->
 ### Case 1: [Boston Spring 2026 City Poster](https://x.com/BubbleBrain/status/2045358053831172358) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case1/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case1/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city’s waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”, text clear and beautifully composed, premium graphic design, 9:16
@@ -418,11 +636,11 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 <!-- Case 2: Vintage Amalfi Travel Poster (by @WolfRiccardo) -->
 ### Case 2: [Vintage Amalfi Travel Poster](https://x.com/WolfRiccardo/status/2044562722491121718) (by [@WolfRiccardo](https://x.com/WolfRiccardo))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case2/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case2/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.
@@ -430,11 +648,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 3: Chengdu Food Map Illustration (by @Panda20230902) -->
 ### Case 3: [Chengdu Food Map Illustration](https://x.com/Panda20230902/status/2045396918965285111) (by [@Panda20230902](https://x.com/Panda20230902))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case3/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case3/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语"凌晨两点还在排队的那家"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题"成都·吃货暴走地图"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以暖色系（辣椒红、姜黄、翠绿）为主，图片比例 1:1。
@@ -442,11 +660,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 4: Chinese Minimalist S-Shaped Poster (by @liyue_ai) -->
 ### Case 4: [Chinese Minimalist S-Shaped Poster](https://x.com/liyue_ai/status/2045368305079447853) (by [@liyue_ai](https://x.com/liyue_ai))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case4/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case4/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 极简新中式美学风格，画面以淡雅的灰白色为底，呈现出一种纸艺剪影般的立体感。
@@ -462,11 +680,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 5: 2026 Spring Guangzhou City Poster (by @liyue_ai) -->
 ### Case 5: [2026 Spring Guangzhou City Poster](https://x.com/liyue_ai/status/2045332620352119274) (by [@liyue_ai](https://x.com/liyue_ai))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case5/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case5/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。
@@ -481,11 +699,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 7: Doodle Sketch AI Builder (by @blanplan) -->
 ### Case 7: [Doodle Sketch AI Builder](https://x.com/blanplan/status/2045190582453350748) (by [@blanplan](https://x.com/blanplan))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case7/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case7/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 以涂鸦速写风表现【一个厉害的AI builder】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。  背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。  画面内容不需要预先写清楚，由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名“BlanPlan”，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。
@@ -493,11 +711,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 8: Futuristic Mandala Illustration (by @4WEB1) -->
 ### Case 8: [Futuristic Mandala Illustration](https://x.com/4WEB1/status/2045390207072256179) (by [@4WEB1](https://x.com/4WEB1))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case8/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case8/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 曼荼羅の近未来SF版を描いて
@@ -505,11 +723,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 9: Super Famicom Poster Style (by @lilimliliychan) -->
 ### Case 9: [Super Famicom Poster Style](https://x.com/lilimliliychan/status/2045114760937804187) (by [@lilimliliychan](https://x.com/lilimliliychan))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case9/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case9/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて
@@ -518,11 +736,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 10: Browser Game Ad Creative Poster (by @llllegend0620) -->
 ### Case 10: [Browser Game Ad Creative Poster](https://x.com/llllegend0620/status/2045963764466688065) (by [@llllegend0620](https://x.com/llllegend0620))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case10/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case10/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 以下の文字を必ず入れて、1:1のポスターを作成してください。書籍・講座・イベント告知に使える、プロの広告デザイナーが作ったような高品質な仕上がりにしてください。
@@ -534,11 +752,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 11: Surreal Koi Nebula Illustration (by @liyue_ai) -->
 ### Case 11: [Surreal Koi Nebula Illustration](https://x.com/liyue_ai/status/2045875219307655337) (by [@liyue_ai](https://x.com/liyue_ai))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case11/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case11/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 一幅超现实主义数字插画风格，采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中，四周环绕着色彩鲜艳的星云与气泡。画面中央还站着一个小人，背对观众，神情平静地仰望空中这条巨大的锦鲤，锦鲤头向下看着小人。整体画面呈现出强烈的大小对比，氛围空灵又梦幻。比例9:16
@@ -547,11 +765,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 12: Ink-Curve Guangzhou Aesthetics Poster (by @liyue_ai) -->
 ### Case 12: [Ink-Curve Guangzhou Aesthetics Poster](https://x.com/liyue_ai/status/2045873940883808523) (by [@liyue_ai](https://x.com/liyue_ai))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case12/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case12/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 纯黑深邃底色，一条粗壮有力的墨色书法 S 型曲线自画面一端蜿蜒贯穿至另一端，构成整幅画面的视觉骨架与叙事动线。曲线上方是一只透明质感的画眉鸟，内部映射传统建筑叠影与蓝绿色光流；沿曲线错落分布广州地标与古典建筑序列，前景有白鹤与湖面，远景为层叠山峦。整体采用非线性透视、冷色调主导、暖色点缀，东方美学与现代意象交融，8K 超高清渲染，比例 9:16。
@@ -560,11 +778,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 13: Guangdong Super League Invitation Poster (by @liyue_ai) -->
 ### Case 13: [Guangdong Super League Invitation Poster](https://x.com/liyue_ai/status/2045772039521542202) (by [@liyue_ai](https://x.com/liyue_ai))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case13/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case13/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 广东省城市足球超级联赛（粤超）邀请函海报设计，比例 9:16。S 型流动构图，以发光足球和动态能量流贯穿画面，沿动线融合广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑、佛山武术剪影、中山文化符号、潮汕英歌舞与清远山水。现代国潮高级海报风格，中国红主视觉，青蓝辅助，金色高光，带完整中文排版与电影级光影。
@@ -573,11 +791,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 14: Spring 2026 Guangzhou Promo Poster (by @grok) -->
 ### Case 14: [Spring 2026 Guangzhou Promo Poster](https://x.com/grok/status/2046012437086818395) (by [@grok](https://x.com/grok))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case14/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case14/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 一张充满新春喜庆但高雅的 2026 广州城市宣传海报，9:16 竖版，双重曝光，S 型流动构图。纯白纹理背景，右下角微缩传统服饰人物挥舞长红绸，红绸变形成山脉河流，内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 “SPRING 2026” 与竖排 “千年商都 魅力广州”。
@@ -586,11 +804,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 15: Epic Silhouette World Poster (by @Ghhhh3owi) -->
 ### Case 15: [Epic Silhouette World Poster](https://x.com/Ghhhh3owi/status/2045803217251102897) (by [@Ghhhh3owi](https://x.com/Ghhhh3owi))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case15/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case15/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 收藏版史诗海报，人物侧脸剪影中生长出完整世界观与经典场景。整体偏电影海报加梦幻水彩插画风，安静、宏大、神圣、怀旧，带纸张颗粒、轻雾感、飞白刷痕与高级留白。
@@ -599,11 +817,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 24: Spring Guangzhou City Poster (by @alanlovelq) -->
 ### Case 24: [Spring Guangzhou City Poster](https://x.com/alanlovelq/status/2045484598487060917) (by [@alanlovelq](https://x.com/alanlovelq))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case24/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case24/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。
@@ -618,11 +836,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 26: Qiongqi Eastern Aesthetics Poster (by @liyue_ai) -->
 ### Case 26: [Qiongqi Eastern Aesthetics Poster](https://x.com/liyue_ai/status/2045506567735558336) (by [@liyue_ai](https://x.com/liyue_ai))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case26/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case26/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 极简主义，新中式风格立体图形设计，图像下端有楷体中国文字：“东方美学”，“2026/04/18”，署名 “CHINA”，和“@LIYUE"；
@@ -635,11 +853,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 27: Guangzhou Paper-Cut City Poster (by @liyue_ai) -->
 ### Case 27: [Guangzhou Paper-Cut City Poster](https://x.com/liyue_ai/status/2045527750606487877) (by [@liyue_ai](https://x.com/liyue_ai))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case27/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case27/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 以珠江新城现代都市景观为灵感的剪纸艺术，通过精巧的镂空手法在一整幅纸上，立体刻画广州塔、东西双塔等地标建筑与繁华城景。
@@ -652,11 +870,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 28: Extreme Perspective Typography Bridge (by @xpg0970) -->
 ### Case 28: [Extreme Perspective Typography Bridge](https://x.com/xpg0970/status/2045560665071579160) (by [@xpg0970](https://x.com/xpg0970))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case28/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case28/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 ①场景 跨海大桥的侧面，dramatic cinematic angle。 巨型 bold sans-serif 文字「___②文字内容 跨海大桥」painted onto the surface of ___③主体物 无，从靠近镜头的前端开始，沿表面向远端 progressively foreshortens 逐渐透视压缩，letterforms conform to surface curvature 贴合物体曲面，surface-integrated not floating。 文字部分区域被 无___④前景遮挡物 无___ occluded and hidden，在间隙中露出， 形成 depth-layering 纵深穿插效果。 Oversized bright yellow + sharp orange outline，extreme perspective distortion aligned to vanishing point。Cinematic lighting, motion blur, poster-grade dynamic integrated typography, modern advertising aesthetics。
@@ -665,11 +883,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <!-- Case 31: Dreamy Watercolor Editorial Illustration (by @hmontilla_) -->
 ### Case 31: [Dreamy Watercolor Editorial Illustration](https://x.com/hmontilla_/status/2045513933096636575) (by [@hmontilla_](https://x.com/hmontilla_))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case31/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case31/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 Ilustración en acuarela de estilo onírico de [sujeto], con estética impresionista ligera, pinceladas sueltas y lavados translúcidos en tonos [color1] y [color2]. Difuminado suave sobre textura de papel prensado en frío, iluminación delicada, composición limpia, enfoque minimalista, sensación de calma, ligereza y belleza efímera, alta calidad, estilo editorial.
@@ -678,11 +896,11 @@ Ilustración en acuarela de estilo onírico de [sujeto], con estética impresion
 <!-- Case 32: Science Encyclopedia Vertical Poster (by @pfanis) -->
 ### Case 32: [Science Encyclopedia Vertical Poster](https://x.com/pfanis/status/2046413660147314714) (by [@pfanis](https://x.com/pfanis))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case32/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case32/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 Generate a high-quality vertical science popularization encyclopedia image based on [Theme].
@@ -691,11 +909,11 @@ Generate a high-quality vertical science popularization encyclopedia image based
 <!-- Case 33: Journey to the West Chinese Comic (by @overseas58) -->
 ### Case 33: [Journey to the West Chinese Comic](https://x.com/overseas58/status/2046271877577097376) (by [@overseas58](https://x.com/overseas58))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case33/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case33/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 以中国连环画（小人书）的风格帮我绘制大闹天空
@@ -704,11 +922,11 @@ Generate a high-quality vertical science popularization encyclopedia image based
 <!-- Case 34: Character Relationship Map Poster (by @MrLarus) -->
 ### Case 34: [Character Relationship Map Poster](https://x.com/MrLarus/status/2046263153546174935) (by [@MrLarus](https://x.com/MrLarus))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case34/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case34/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 请根据【主题】生成一张高设计感的人物关系图海报。
@@ -717,11 +935,11 @@ Generate a high-quality vertical science popularization encyclopedia image based
 <!-- Case 35: New Chinese Ink Landscape Poster (by @liyue_ai) -->
 ### Case 35: [New Chinese Ink Landscape Poster](https://x.com/liyue_ai/status/2046215276249993720) (by [@liyue_ai](https://x.com/liyue_ai))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case35/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case35/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 新中式水墨山水海报，竖版9:16构图，东方极简美学风格，大面积留白，主题是春岚一叶红。
@@ -730,11 +948,11 @@ Generate a high-quality vertical science popularization encyclopedia image based
 <!-- Case 36: AI Builder Doodle Sketch (by @opc_8838) -->
 ### Case 36: [AI Builder Doodle Sketch](https://x.com/opc_8838/status/2046162334440448339) (by [@opc_8838](https://x.com/opc_8838))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case36/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case36/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 以涂鸦速写风表现【一个厉害的AI builder】。
@@ -743,11 +961,11 @@ Generate a high-quality vertical science popularization encyclopedia image based
 <!-- Case 38: Character Visual Vertical Poster (by @tebasaki3D) -->
 ### Case 38: [Character Visual Vertical Poster](https://x.com/tebasaki3D/status/2046371076402503709) (by [@tebasaki3D](https://x.com/tebasaki3D))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case38/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case38/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 『神層37区 特級執行官 神巫サバト』この名称のキャラクターと世界観に合ったビジュアルイメージを、プロのデザイナーとして縦長のポスターイメージとして制作して
@@ -756,11 +974,11 @@ Generate a high-quality vertical science popularization encyclopedia image based
 <!-- Case 39: Science Encyclopedia Infographic (by @MrLarus) -->
 ### Case 39: [Science Encyclopedia Infographic](https://x.com/MrLarus/status/2046231542817497392) (by [@MrLarus](https://x.com/MrLarus))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case39/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case39/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 请根据【主题】生成一张高质量竖版「科普百科图」。 
@@ -787,11 +1005,11 @@ Generate a high-quality vertical science popularization encyclopedia image based
 <!-- Case 40: Fictional Anime Movie Poster (by @seiiiiiiiiiiru) -->
 ### Case 40: [Fictional Anime Movie Poster](https://x.com/seiiiiiiiiiiru/status/2046509734954741780) (by [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case40/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case40/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 架空のアニメ映画のポスターをGPT image2で作成。
@@ -800,11 +1018,11 @@ Generate a high-quality vertical science popularization encyclopedia image based
 <!-- Case 41: Product Ad Redesign (by @genel_ai) -->
 ### Case 41: [Product Ad Redesign](https://x.com/genel_ai/status/2046498264774791514) (by [@genel_ai](https://x.com/genel_ai))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case41/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case41/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 この商品広告をプロのデザイナー目線でリデザインして。
@@ -814,11 +1032,11 @@ Generate a high-quality vertical science popularization encyclopedia image based
 <!-- Case 42: Dark-Fantasy Guangzhou City Poster (by @liyue_ai) -->
 ### Case 42: [Dark-Fantasy Guangzhou City Poster](https://x.com/liyue_ai/status/2046243132774494607) (by [@liyue_ai](https://x.com/liyue_ai))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case42/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case42/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 平面插画,东方幻想风格高端城市海报设计,竖版9:16构图,整体采用对角线+S型流动构图,从左下向右上延展,画面以深邃黑色为背景,自上而下渐变至浓烈暗红色,形成强烈冷暖对比与空间纵深,背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿,自底部向上延伸,具有流体质感、粒子光效与渐变高光,局部带细微能量碎屑与体积光。
@@ -831,29 +1049,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 页面文字与画面融合排版:顶部居中宋体大字“广州·中国”,下方小字“2026/04/20”,再下方小字“LIYUE”,文字采用淡金色或柔和暖白色,与整体光影统一。高品质细节,电影级光影表现,体积光与粒子细节丰富,画面干净无噪点,超高清8K分辨率,商业级海报质感。
 ```
-
-<!-- Case 43: Backpropagation Diagram Poster (by @itnavi2022) -->
-### Case 43: [Backpropagation Diagram Poster](https://x.com/itnavi2022/status/2046494262158930154) (by [@itnavi2022](https://x.com/itnavi2022))
-
-| 输出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case43/output.jpg" width="300" alt="输出图像"></a> |
-
-**提示词：**
-
-```
 バックプロパゲーションについて詳しく図解して
-```
-
-<!-- Case 44: Barreleye Fish Anatomy Encyclopedia (by @itnavi2022) -->
-### Case 44: [Barreleye Fish Anatomy Encyclopedia](https://x.com/itnavi2022/status/2046500429786402973) (by [@itnavi2022](https://x.com/itnavi2022))
-
-| 输出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case44/output.jpg" width="300" alt="输出图像"></a> |
-
-**提示词：**
-
 ```
 デメニギスの体の構造を解説するカラー図鑑のページ
 ```
@@ -861,11 +1057,11 @@ Generate a high-quality vertical science popularization encyclopedia image based
 <!-- Case 45: Science Fiction Movie Poster (by @underwoodxie96) -->
 ### Case 45: [Science Fiction Movie Poster](https://x.com/underwoodxie96/status/2046514205529088501) (by [@underwoodxie96](https://x.com/underwoodxie96))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case45/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case45/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 Create a Science fiction movie poster
@@ -874,11 +1070,11 @@ Create a Science fiction movie poster
 <!-- Case 46: Refreshing Summer Udon Ad (by @genel_ai) -->
 ### Case 46: [Refreshing Summer Udon Ad](https://x.com/genel_ai/status/2046501692246470871) (by [@genel_ai](https://x.com/genel_ai))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case46/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case46/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 少し暑くなってきた今の時期に、さわやかにさっぱりしたい、みずみずしさ、みたいなところをもっと強く感じたい。冷たいうどんやナス、つゆを口に含んだ時の爽快感、みたいなものをもっと感じるように
@@ -887,11 +1083,11 @@ Create a Science fiction movie poster
 <!-- Case 47: Handwritten Medical Prescription Sheet (by @MrLarus) -->
 ### Case 47: [Handwritten Medical Prescription Sheet](https://x.com/MrLarus/status/2046514998965371144) (by [@MrLarus](https://x.com/MrLarus))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case47/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case47/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 生成一张手写中/西医药方图
@@ -900,11 +1096,11 @@ Create a Science fiction movie poster
 <!-- Case 48: Silicon Valley 2026 Promo Poster (by @carsonyungos) -->
 ### Case 48: [Silicon Valley 2026 Promo Poster](https://x.com/carsonyungos/status/2046523198116889064) (by [@carsonyungos](https://x.com/carsonyungos))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case48/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case48/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 A refined 2026 Silicon Valley city promotional poster with a futuristic yet elegant atmosphere.
@@ -923,11 +1119,11 @@ In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” wit
 <!-- Case 49: Japanese Supermarket Sale Flyer (by @weel_corp) -->
 ### Case 49: [Japanese Supermarket Sale Flyer](https://x.com/weel_corp/status/2046514558064586782) (by [@weel_corp](https://x.com/weel_corp))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case49/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case49/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 『賑やかで魅力的なスーパーマーケットの折り込みチラシの画像。上部には「特売」の大きな文字と今週の日付。カラフルな商品写真(野菜・果物・牛肉・鮮魚)、赤枠の価格タグ、「超目玉商品」「家計応援」のキャッチ...』
@@ -936,11 +1132,11 @@ In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” wit
 <!-- Case 50: Dark Epic Concept Poster (by @A9Quant) -->
 ### Case 50: [Dark Epic Concept Poster](https://x.com/A9Quant/status/2046224777208361126) (by [@A9Quant](https://x.com/A9Quant))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case50/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case50/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 围绕【主题】自动生成一张顶级暗黑史诗概念海报 / 电影感信息图海报。
@@ -1033,51 +1229,93 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 <!-- Case 51: Pilates Studio Ad Poster (by @ck_igarashi) -->
 ### Case 51: [Pilates Studio Ad Poster](https://x.com/ck_igarashi/status/2046528889124728993) (by [@ck_igarashi](https://x.com/ck_igarashi))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case51/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case51/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 ピラティス教室の広告画像を作成したい テキストはよりユーザーが登録をするのに惹かれるような文言にし、画像内には女性がピラティスを実際に行っている様子を映して
 ```
 
-<!-- Case 52: Ultra-Dense Information Design (by @EchoraContinuum) -->
-### Case 52: [Ultra-Dense Information Design](https://x.com/EchoraContinuum/status/2046517163826246133) (by [@EchoraContinuum](https://x.com/EchoraContinuum))
+<!-- Case 52: 6-Block Fashion Campaign Prompt Formula (by @anacoding) -->
+### Case 52: [6-Block Fashion Campaign Prompt Formula](https://x.com/anacoding/status/2046904999045628114) (by [@anacoding](https://x.com/anacoding))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case52/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case57/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
+
+```
+Old money Hamptons editorial, tall blonde woman late 20s, serene elegant expression, wearing cream cashmere cable sweater, pleated beige tennis skirt, pearl earrings, Hermès silk scarf, leather flats, Slim Aarons photography style, medium format film photography, sitting on a white wooden porch of a Cape Cod house, golden hour light, ocean in the background
+```
+
+> [!NOTE]
+> Prompt structure shared in the thread: `[character] [person description] [outfit] [quality 1] [quality 2] [place]`.
+
+<!-- Case 53: Sony A7 Exploded View Breakdown Prompt (by @iaPulse_) -->
+### Case 53: [Sony A7 Exploded View Breakdown Prompt](https://x.com/iaPulse_/status/2046903739429097660) (by [@iaPulse_](https://x.com/iaPulse_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case58/output.jpg" width="300" alt="Output image"></a> |
+
+**提示词:**
+
+```
+Descomposición detallada de una cámara de la marca Sony modelo A7 indicando todas sus piezas y con sus nombres.
+```
+
+<!-- Case 54: 1900 Istiklal Street Panorama Prompt (by @ai_gezgini) -->
+### Case 54: [1900 Istiklal Street Panorama Prompt](https://x.com/ai_gezgini/status/2046903631509705030) (by [@ai_gezgini](https://x.com/ai_gezgini))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case59/output.jpg" width="300" alt="Output image"></a> |
+
+**提示词:**
+
+```
+360 equirectangular image of Istiklal Street, Istanbul in 1900
+```
+
+<!-- Case 55: Ultra-Dense Information Design (by @EchoraContinuum) -->
+### Case 55: [Ultra-Dense Information Design](https://x.com/EchoraContinuum/status/2046517163826246133) (by [@EchoraContinuum](https://x.com/EchoraContinuum))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case52/output.jpg" width="300" alt="Output image"></a> |
+
+**提示词:**
 
 ```
 Generate somthing super complex and info dense...
 ```
 
-<!-- Case 53: Cute Chinese Expeditionary Force Storyboard (by @RainHuangapp) -->
-### Case 53: [Cute Chinese Expeditionary Force Storyboard](https://x.com/RainHuangapp/status/2046507931907080330) (by [@RainHuangapp](https://x.com/RainHuangapp))
+<!-- Case 56: Cute Chinese Expeditionary Force Storyboard (by @RainHuangapp) -->
+### Case 56: [Cute Chinese Expeditionary Force Storyboard](https://x.com/RainHuangapp/status/2046507931907080330) (by [@RainHuangapp](https://x.com/RainHuangapp))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case53/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case53/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 用可爱的风格讲述中国远征军的历史故事
 用波普风格讲述金刚经
 ```
 
-<!-- Case 54: Theme Science Encyclopedia Card (by @alanlovelq) -->
-### Case 54: [Theme Science Encyclopedia Card](https://x.com/alanlovelq/status/2046378199681257920) (by [@alanlovelq](https://x.com/alanlovelq))
+<!-- Case 57: Theme Science Encyclopedia Card (by @alanlovelq) -->
+### Case 57: [Theme Science Encyclopedia Card](https://x.com/alanlovelq/status/2046378199681257920) (by [@alanlovelq](https://x.com/alanlovelq))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case54/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case54/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 请根据【主题】生成一张高质量竖版「科普百科图」。 
@@ -1104,11 +1342,11 @@ Generate somthing super complex and info dense...
 <!-- Case 55: Chili Pork Cooking Flowchart (by @Kurt_Rousey466) -->
 ### Case 55: [Chili Pork Cooking Flowchart](https://x.com/Kurt_Rousey466/status/2046267707881029934) (by [@Kurt_Rousey466](https://x.com/Kurt_Rousey466))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case55/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case55/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 帮我制作辣椒炒肉这道菜的详细制作流程图,真实风格,适用于小红书图文比例
@@ -1117,11 +1355,11 @@ Generate somthing super complex and info dense...
 <!-- Case 56: Cinematic Infographic Concept Poster (by @A9Quant) -->
 ### Case 56: [Cinematic Infographic Concept Poster](https://x.com/A9Quant/status/2046228485841334559) (by [@A9Quant](https://x.com/A9Quant))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case56/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case56/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 请围绕【主题】自动生成一张顶级概念海报 / 信息图式电影海报。
@@ -1199,6 +1437,250 @@ AI 必须依据【主题】自动决定最合适的:
 自动根据【主题】完成全部视觉决策。
 画面必须具备史诗感、秩序感、控制力、仪式感、商业完成度。
 最大细节密度,超清,电影级,印刷级,高端成片质感。
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Case 58: A full-body outdoor shot captures a young Caucasian woman, possibly in her la... (by @AIwithSarah_) -->
+### Case 58: [A full-body outdoor shot captures a young Caucasian woman, possibly in her la...](https://x.com/AIwithSarah_/status/2047234995627172229?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@AIwithSarah_](https://x.com/AIwithSarah_))
+
+| Output |
+| :----: |
+| <img src="images/poster_case60/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+A full-body outdoor shot captures a young Caucasian woman, possibly in her late 20s, striding through a city crosswalk. She wears an oversized, matte chocolate-brown leather jacket paired with a free-flowing black skirt and sleek knee-high black boots, conveying a sense of high fashion street style. Her long, dark brown hair is wind-swept, complementing her poised and confident expression as she glances sideways. Behind her, a blurred urban backdrop features a yellow taxi and pedestrians, with buildings displaying varied architectural details in neutral tones. The scene utilizes soft ambient daylight filtering through light cloud cover, producing a muted, overcast lighting effect. The warm, earthy color palette consists of brown, black, and touches of beige. The image, likely from a high-resolution digital camera, presents a wide-angle view that maintains focus throughout, emphasizing a dynamic and fashionable feel.
+```
+
+<!-- Case 59: A professional product photography shot of a cold sparkling water (by @meng_dagg695) -->
+### Case 59: [A professional product photography shot of a cold sparkling water](https://x.com/meng_dagg695/status/2047227172486824002?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@meng_dagg695](https://x.com/meng_dagg695))
+
+| Output |
+| :----: |
+| <img src="images/poster_case62/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+A professional product photography shot of a cold sparkling water
+can placed upright in golden beach sand. The can is silver and teal,
+covered in realistic water droplets condensation, with a pineapple
+illustration and tropical branding. The can is slightly tilted,
+planted in a small mound of fine golden sand with tiny white pebbles
+and small green tropical leaves/grass scattered around the base.
+Background features a bold split composition - bright sky-blue on
+the left and vivid yellow on the right, with a large blurred real
+pineapple placed behind the can on the right side. A blurred tropical
+palm leaf drapes in from the upper left corner, adding depth and
+framing. Macro-level water condensation droplets visible on the
+can surface. Lighting is bright, vibrant, commercial studio lighting
+with clean shadows. Shallow depth of field - can in sharp focus,
+background softly blurred. Mood: summer, tropical, fresh, refreshing.
+Commercial product photography, ultra-detailed, 8K.
+```
+
+<!-- Case 60: 360 Equirectangular Panorama Image (by @rs_elwood) -->
+### Case 60: [360 Equirectangular Panorama Image](https://x.com/rs_elwood/status/2047192228758692036?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@rs_elwood](https://x.com/rs_elwood))
+
+| Output |
+| :----: |
+| <img src="images/poster_case75/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+360度 equirectangular （正距円筒図法）画像を2:1で生成
+
+Online 360° Panorama Viewer VR
+```
+
+<!-- Case 61: Soft poetic children's book illustration with watercolor and gouache textures... (by @dotey) -->
+### Case 61: [Soft poetic children's book illustration with watercolor and gouache textures...](https://x.com/dotey/status/2047174895293849972?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@dotey](https://x.com/dotey))
+
+| Output |
+| :----: |
+| <img src="images/poster_case82/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+Soft poetic children's book illustration with watercolor and gouache textures.Clear gentle daylight with slightly brighter highlights.Muted pastel colors with soft blue and warm tones.Visible brush strokes and paper grain.Minimalist composition with large negative space.Calm, thoughtful, slightly open-ended atmosphere.
+
+Child character (around 12 years old).Subtle visual metaphors like light, shadow, perspective, reflection.Hand-painted picture book style, not cartoon, not anime, not 3D.
+
+Two children in calm conversation,soft connection forming.
+```
+
+<!-- Case 62: Aspect Ratio: 9:16 Vertical (by @GeekCatX) -->
+### Case 62: [Aspect Ratio: 9:16 Vertical](https://x.com/GeekCatX/status/2047220831491858766?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@GeekCatX](https://x.com/GeekCatX))
+
+| Output |
+| :----: |
+| <img src="images/poster_case85/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+Aspect Ratio: 9:16 Vertical
+
+【IDENTITY & REALISM (CRITICAL PRIORITY)】
+
+The subject is an adult female whose facial features and bone structure must 100% perfectly match the provided FACE_REF image. Eye spacing, nose bridge, jawline, and cheekbone structure must be exact; no identity drift is allowed. Skin texture must be photorealistic, showing pores and fine details—do not over-smooth or apply an Instagram filter look.
+
+【PHOTOGRAPHY & CINEMATOGRAPHY】
+
+A high-end editorial fashion photograph with a cinematic quality, rivaling covers of Vogue, Harper’s Bazaar, or ELLE.
+
+Lens & Focus: Use an 85mm lens (for medium shot) or 50mm/70mm (for full body) with a shallow depth of field. The subject's eyes must be perfectly sharp.
+
+Lighting: Natural winter daylight supplemented by soft, professional fill light. Gold ornaments and precious stones should have realistic specular highlights without being blown out. Embroidery textures must be incredibly sharp and tactile.
+
+Color Grading: Rich, cinematic colors. The red walls and the attire's main color must be distinct and clean, not muddy. The overall image should feel deep, textured, and expensive.
+
+Composition: A clean magazine cover layout with deliberate negative space at the top or sides for typography. No torn paper or hand-drawn effects.
+
+【SETTING: FORBIDDEN CITY WINTER】
+
+The location is a red-walled long corridor in the Beijing Forbidden City.
+
+Environment: Visible details include vermilion walls, red pillars, intricate carved windows, and painted wooden beams with strong perspective depth. The scene must be clean: no tourists, modern signs, or watermarks.
+
+Weather Condition (Selected Randomly):
+
+[If Snowfall selected]: Fine snowflakes are gently falling.
+
+[If Post-Snow selected]: The air is crisp and clear, with remnant snow on the eaves and steps.
+
+【WARDROBE: MING DYNASTY HEAVY INDUSTRY COUTURE】
+
+The subject wears opulent, multi-layered Ming Dynasty ceremonial Hanfu. The aesthetic is gold-heavy, dense tassels, phoenix crown, large-area woven gold embroidery, complex layering, dignified and luxurious.
+
+Structure: A visible, crisp white standing inner collar provides a clean boundary. Over this is a structured duijin ao (jacket) with wide sleeves, topped by a heavy xiapei/pibo (stole) structure held by a large central yajin ornament.
+
+Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with palpable fiber texture. The embroidery is heavy industry—using panjin goldwork, couched gold
+```
+
+<!-- Case 63: Hangzhou West Lake Travel Poster (by @BNBOKBt5) -->
+### Case 63: [Hangzhou West Lake Travel Poster](https://x.com/BNBOKBt5/status/2047210189741605082?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@BNBOKBt5](https://x.com/BNBOKBt5))
+
+| Output |
+| :----: |
+| <img src="images/poster_case87/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+帮我生成一个介绍杭州西湖的海报
+```
+
+<!-- Case 64: Dongfang Bubai Wuxia Character Poster (by @songguoxiansen) -->
+### Case 64: [Dongfang Bubai Wuxia Character Poster](https://x.com/songguoxiansen/status/2047204566559756707?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+
+| Output |
+| :----: |
+| <img src="images/poster_case89/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+图片1：电影角色海报，东方不败红衣饮酒，悬崖落日，武侠意境
+
+图片2：东方不败绣花针如飞，红衣长发立于悬崖，黑木崖夕阳如血
+```
+
+<!-- Case 65: A Chinese Odyssey 90s Hong Kong Poster (by @songguoxiansen) -->
+### Case 65: [A Chinese Odyssey 90s Hong Kong Poster](https://x.com/songguoxiansen/status/2047201597697245252?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+
+| Output |
+| :----: |
+| <img src="images/poster_case90/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+图片1：大话西游海报重制为90年代港片风格，至尊宝紫霞城墙拥吻，胶片颗粒
+
+图片2：杜蕾斯吉祥物×猪八戒，八戒害羞脸红遮面，文案取经路上要安全
+```
+
+<!-- Case 66: Journey to the West Daughter Kingdom Poster (by @cj858cjsoul) -->
+### Case 66: [Journey to the West Daughter Kingdom Poster](https://x.com/cj858cjsoul/status/2047103956535697822?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@cj858cjsoul](https://x.com/cj858cjsoul))
+
+| Output |
+| :----: |
+| <img src="images/poster_case103/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+西游记女儿国诱惑海报，六位艳丽的女儿国大臣在后宫温泉中，迷雾朦胧妖冶，生成图片
+
+4.23早上测试成功
+```
+
+<!-- Case 67: Royal Tramp Character Poster (by @caiziboshi) -->
+### Case 67: [Royal Tramp Character Poster](https://x.com/caiziboshi/status/2047091751731519744?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@caiziboshi](https://x.com/caiziboshi))
+
+| Output |
+| :----: |
+| <img src="images/poster_case104/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+生成鹿鼎记海报，展现韦小宝跟老婆XXX，忠于原著的描述，夸大特点，强调女性的美艳和男性的气质
+```
+
+<!-- Case 68: generate an image of a racing car poster with its spec and pricing (by @verysmallwoods) -->
+### Case 68: [generate an image of a racing car poster with its spec and pricing](https://x.com/verysmallwoods/status/2047033599229137126?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@verysmallwoods](https://x.com/verysmallwoods))
+
+| Output |
+| :----: |
+| <img src="images/poster_case105/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+generate an image of a racing car poster with its spec and pricing
+```
+
+<!-- Case 69: Charlie Chaplin Product Poster Redesign (by @chenenpei) -->
+### Case 69: [Charlie Chaplin Product Poster Redesign](https://x.com/chenenpei/status/2046985783715025135?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@chenenpei](https://x.com/chenenpei))
+
+| Output |
+| :----: |
+| <img src="images/poster_case106/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+重新生成一张海报，卓别林拿着商品图里的止痒膏，面露微笑。风格要简约干净。
+
+左边是 GPT-image-2 右边是
 ```
 
 ## 角色设计案例
@@ -1353,11 +1835,11 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 <!-- Case 1: One-Prompt UI Design Generation (by @austinit) -->
 ### Case 1: [One-Prompt UI Design Generation](https://x.com/austinit/status/2044968740782272596) (by [@austinit](https://x.com/austinit))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case1/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case1/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它
@@ -1365,11 +1847,11 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 <!-- Case 2: Amateur iPhone Keynote Snapshot (by @patrickassale) -->
 ### Case 2: [Amateur iPhone Keynote Snapshot](https://x.com/patrickassale/status/2044687244368441742) (by [@patrickassale](https://x.com/patrickassale))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case2/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case2/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance
@@ -1377,11 +1859,11 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 <!-- Case 3: Handwritten Notebook Photo (by @patrickassale) -->
 ### Case 3: [Handwritten Notebook Photo](https://x.com/patrickassale/status/2044569086013718958) (by [@patrickassale](https://x.com/patrickassale))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case3/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case3/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. Casual desk setting, shot on iPhone
@@ -1389,11 +1871,11 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 <!-- Case 4: Song Dynasty Social Media Feed (by @Panda20230902) -->
 ### Case 4: [Song Dynasty Social Media Feed](https://x.com/Panda20230902/status/2045385588065313057) (by [@Panda20230902](https://x.com/Panda20230902))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case4/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case4/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 "宋朝人的朋友圈"/"SONG DYNASTY SOCIAL MEDIA FEED"，古今穿越幽默融合界面设计风格，画面模拟手机社交媒体界面，但内容全部是宋朝场景头像是宋代文人画像，用户名"苏东坡SuShi_Official"，发布内容"刚到黄州，被贬了但心情还行。今天自己做了东坡肉，味道绝了，附菜谱："，配图为工笔画风格的东坡肉特写，点赞列表"黄庭坚、秦观、佛印等126人"，评论区"王安石：呵呵""司马光：还是那个味道"，界面元素如点赞图标用宋代花纹替代，状态栏显示"大宋移动 5G"和"元丰三年"，配色为手机深色模式搭配宋代雅致色调，历史与社交媒体的趣味碰撞杰作
@@ -1401,11 +1883,11 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 <!-- Case 5: Multi-Platform Content Screenshots (by @MrLarus) -->
 ### Case 5: [Multi-Platform Content Screenshots](https://x.com/MrLarus/status/2045373105041007013) (by [@MrLarus](https://x.com/MrLarus))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case5/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case5/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 1、生成视频号内容截图，主题：中老年不要盲目催婚，iPhone尺寸
@@ -1417,11 +1899,11 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 <!-- Case 7: Liu Yifei Douyin Livestream Screenshot (by @alanblogsooo) -->
 ### Case 7: [Liu Yifei Douyin Livestream Screenshot](https://x.com/alanblogsooo/status/2044784762594918516) (by [@alanblogsooo](https://x.com/alanblogsooo))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case7/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case7/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 9:16 的图片比例，生成一张抖音直播的截图，里面是 刘亦菲 在直播，刘亦菲 手里拿着牌子，牌子里写着 今晚直播，欢迎来参亦菲畅聊！
@@ -1429,11 +1911,11 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 <!-- Case 8: King Taejo Yi Seong-gye's X Page (by @SKA_Neotype) -->
 ### Case 8: [King Taejo Yi Seong-gye's X Page](https://x.com/SKA_Neotype/status/2044637900978217334) (by [@SKA_Neotype](https://x.com/SKA_Neotype))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case8/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case8/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.
@@ -1442,11 +1924,11 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 <!-- Case 9: Style-to-UI Design System (by @stark_nico99) -->
 ### Case 9: [Style-to-UI Design System](https://x.com/stark_nico99/status/2045836554451706125) (by [@stark_nico99](https://x.com/stark_nico99))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case9/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case9/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮以及其它。把这套视觉风格作为参考生成网页。我尝试了宇宙、飞行、蝴蝶主题。
@@ -1455,11 +1937,11 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 <!-- Case 10: Momotaro Explainer Slide (by @yammamon) -->
 ### Case 10: [Momotaro Explainer Slide](https://x.com/yammamon/status/2045778624092254603) (by [@yammamon](https://x.com/yammamon))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case10/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case10/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 「いらすとや」のほのぼのとした雰囲気と、「霞ヶ関スライド」の圧倒的な情報密度を融合させた、桃太郎の解説スライド（ポンチ絵）を作成して
@@ -1468,11 +1950,11 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 <!-- Case 25: Museum-Style Hanfu Breakdown Infographic (by @MrLarus) -->
 ### Case 25: [Museum-Style Hanfu Breakdown Infographic](https://x.com/MrLarus/status/2045504669401653414) (by [@MrLarus](https://x.com/MrLarus))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case25/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case25/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。
@@ -1496,7 +1978,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 <!-- Case 26: Glassy UI Design System (by @pfanis) -->
 ### Case 26: [Glassy UI Design System](https://x.com/pfanis/status/2046414546378584558) (by [@pfanis](https://x.com/pfanis))
 
-**提示词：**
+**提示词:**
 
 ```
 Generate for me a UI design system with a very cutting-edge, bold, and unique theme that includes glassy visuals and transparencies
@@ -1505,11 +1987,11 @@ Generate for me a UI design system with a very cutting-edge, bold, and unique th
 <!-- Case 27: Japanese RPG Status Screen (by @Kashiko_AIart) -->
 ### Case 27: [Japanese RPG Status Screen](https://x.com/Kashiko_AIart/status/2046154976159035613) (by [@Kashiko_AIart](https://x.com/Kashiko_AIart))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case27/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case27/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 この画像からゲームのステータス画面を作ってください。情報量多め。言語は日本語。
@@ -1518,11 +2000,11 @@ Generate for me a UI design system with a very cutting-edge, bold, and unique th
 <!-- Case 28: Xuanwu Gate Social Feed (by @Tz_2022) -->
 ### Case 28: [Xuanwu Gate Social Feed](https://x.com/Tz_2022/status/2046523491940225366) (by [@Tz_2022](https://x.com/Tz_2022))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case28/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case28/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 玄武门之变的朋友圈
@@ -1531,11 +2013,11 @@ Generate for me a UI design system with a very cutting-edge, bold, and unique th
 <!-- Case 29: City Travel Guide Infographic (by @MrLarus) -->
 ### Case 29: [City Travel Guide Infographic](https://x.com/MrLarus/status/2046523494003851300) (by [@MrLarus](https://x.com/MrLarus))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case29/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case29/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 生成【城市】三天旅游攻略,就这么简单一句话
@@ -1544,11 +2026,11 @@ Generate for me a UI design system with a very cutting-edge, bold, and unique th
 <!-- Case 30: 3D X Profile Mockup (by @GoSailGlobal) -->
 ### Case 30: [3D X Profile Mockup](https://x.com/GoSailGlobal/status/2046491397424111659) (by [@GoSailGlobal](https://x.com/GoSailGlobal))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case30/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case30/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 创作一幅超逼真的 3D 插画,描绘一个略微倾斜的 Twitter/X 个人资料页面,背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X 截图相似,包含真实的布局、认证徽章、粉丝统计、个人资料横幅和推文部分。
@@ -1577,11 +2059,11 @@ Generate for me a UI design system with a very cutting-edge, bold, and unique th
 <!-- Case 31: Empress Dowager Cixi X Page (by @Cryptohaifeng_) -->
 ### Case 31: [Empress Dowager Cixi X Page](https://x.com/Cryptohaifeng_/status/2046165776055546341) (by [@Cryptohaifeng_](https://x.com/Cryptohaifeng_))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case31/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case31/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 生成一张慈禧的X主页
@@ -1590,11 +2072,11 @@ Generate for me a UI design system with a very cutting-edge, bold, and unique th
 <!-- Case 32: Palm Reading Diagnosis Report (by @agi_aibusi) -->
 ### Case 32: [Palm Reading Diagnosis Report](https://x.com/agi_aibusi/status/2046530764871696750) (by [@agi_aibusi](https://x.com/agi_aibusi))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case32/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case32/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 GPT-image-2でこの手相を診断して詳細な鑑定書を作って
@@ -1605,11 +2087,11 @@ GPT-image-2でこの手相を診断して詳細な鑑定書を作って
 <!-- Case 33: Calligraphy Copybook Sheet (by @MrLarus) -->
 ### Case 33: [Calligraphy Copybook Sheet](https://x.com/MrLarus/status/2046510310253539764) (by [@MrLarus](https://x.com/MrLarus))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case33/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case33/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 生成一张【字体】书法临摹字帖
@@ -1618,11 +2100,11 @@ GPT-image-2でこの手相を診断して詳細な鑑定書を作って
 <!-- Case 34: Don Quijote Promo Pop Poster (by @loglogrog) -->
 ### Case 34: [Don Quijote Promo Pop Poster](https://x.com/loglogrog/status/2046437230127034774) (by [@loglogrog](https://x.com/loglogrog))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case34/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case34/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください
@@ -1631,11 +2113,11 @@ GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポッ�
 <!-- Case 35: Japanese Gacha Game Screen (by @the_wheel_2024) -->
 ### Case 35: [Japanese Gacha Game Screen](https://x.com/the_wheel_2024/status/2046519658166317160) (by [@the_wheel_2024](https://x.com/the_wheel_2024))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case35/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case35/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 日本のソシャゲのガチャ画面を生成して、
@@ -1644,11 +2126,11 @@ GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポッ�
 <!-- Case 36: Elon Musk Douyin Livestream Screenshot (by @Shinning1010) -->
 ### Case 36: [Elon Musk Douyin Livestream Screenshot](https://x.com/Shinning1010/status/2046501587762188535) (by [@Shinning1010](https://x.com/Shinning1010))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case36/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case36/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 A 9:16 vertical version, high-detail realistic style Chinese TikTok live screenshot, Elon Musk is talking to the mobile phone camera in the live broadcast room, excited, smiling, and the live atmosphere is warm and real. He held a white handwritten sign in one hand, which clearly said: "Thank you Shinning". There are obvious Chinese TikTok interface elements in the live broadcast screen, including likes, comments and share icons arranged vertically on the right, scrolling Chinese bullet screens and interactive comments below, and the "live broadcast" logo at the top, which looks like a real mobile phone screenshot. There is an eye-catching gift prompt special effect in the screen: "Shinning sent TikTok No. 1", with gift animation light effect and platform-style prompt box. Musk is in a professional live broadcast environment, with a mobile phone holder, a ring fill light and a desktop microphone in front of him. The background is a modern technology live broadcast room with bright lights and a slight neon atmosphere. The composition is real and natural, like the ongoing live screenshot of the Chinese short video platform. The interface information is rich but not messy, the characters are clear, the expression is vivid, the details are rich, the sense of real photography, the depth of field, high definition, cinematic, photorealistic, realistic livestream screenshot, social media UI, Chinese Douyin live room, detailed lighting, natural skin texture.
@@ -1665,11 +2147,11 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 <!-- Case 37: Liu Yifei Douyin Livestream Screenshot (by @kylegeeks) -->
 ### Case 37: [Liu Yifei Douyin Livestream Screenshot](https://x.com/kylegeeks/status/2046479783765397629) (by [@kylegeeks](https://x.com/kylegeeks))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case37/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case37/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊!
@@ -1678,11 +2160,11 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 <!-- Case 38: Cyberpunk Neon UI Design System (by @AZLnfvp) -->
 ### Case 38: [Cyberpunk Neon UI Design System](https://x.com/AZLnfvp/status/2046468976092533180) (by [@AZLnfvp](https://x.com/AZLnfvp))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case38/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case38/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 用未来都市风格生成UI设计系统,灵感来自赛博朋克城市夜景,包含霓虹灯、玻璃建筑反射、高对比光影,配色以紫色、蓝色、粉色霓虹为主,设计网页Dashboard、移动端界面、卡片、按钮、控件等,视觉炫酷、层次丰富、科技感极强
@@ -1691,11 +2173,11 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 <!-- Case 39: Trump and Kim Livestream PK Screenshot (by @alanlovelq) -->
 ### Case 39: [Trump and Kim Livestream PK Screenshot](https://x.com/alanlovelq/status/2046048929490612464) (by [@alanlovelq](https://x.com/alanlovelq))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case39/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case39/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 1、生成特朗普和金正恩在抖音直播间打PK的截图  
@@ -1704,17 +2186,97 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 4、生成图片: T-800机器人的淘宝商品详情页,展示: 机器人的正面侧面背面三视图, 产品价格, 产品细节, 功能和使用场景等
 ```
 
+<!-- Case 40: Japanese AI Game Dev Overview Slide Prompt (by @ailovedirector) -->
+### Case 40: [Japanese AI Game Dev Overview Slide Prompt](https://x.com/ailovedirector/status/2046905387274891296) (by [@ailovedirector](https://x.com/ailovedirector))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case40/output.jpg" width="300" alt="Output image"></a> |
+
+**提示词:**
+
+```
+横長のパワポ画像ここで生成してみて　どのモデル使ってるか判定するから、今のAIゲーム開発の概要をまとめた1枚パワポで　日本語で
+
+ゲーム開発の技術に関して、工数ベースでどこにパワーかかるかの分析資料といかに量産が大事かについての説明とかのパワポ画も作って
+```
+
+
+
+
+
+
+
+
+**提示词:**
+```
+a Final Fantasy VIII Remake gameplay screenshot at next-gen fidelity (FF16 / GTA6 / RE9).
+```
+
+---
+
+
+
+
+**提示词:**
+```
+Create a commercial ad from the storyboard @[image1]
+```
+
+---
+
+
+
+<!-- Case 41: based on the generated character help me generate a screenshot of screenshot ... (by @khaiinit) -->
+### Case 41: [based on the generated character help me generate a screenshot of screenshot ...](https://x.com/khaiinit/status/2047219694130827273?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@khaiinit](https://x.com/khaiinit))
+
+| Output |
+| :----: |
+| <img src="images/ui_case63/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+based on the generated character help me generate a screenshot of screenshot of an pvp game themed around *zelda: wind breaker*
+```
+
+<!-- Case 42: Create a landing page using this image as a reference for style and color gra... (by @D_studioproject) -->
+### Case 42: [Create a landing page using this image as a reference for style and color gra...](https://x.com/D_studioproject/status/2047212826264211540?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@D_studioproject](https://x.com/D_studioproject))
+
+| Output |
+| :----: |
+| <img src="images/ui_case64/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+Create a landing page using this image as a reference for style and color grading.
+```
+
+<!-- Case 43: Li Jiaqi Lipstick Livestream Background (by @songguoxiansen) -->
+### Case 43: [Li Jiaqi Lipstick Livestream Background](https://x.com/songguoxiansen/status/2047207826913972518?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+
+| Output |
+| :----: |
+| <img src="images/ui_case88/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+李佳琦直播间背景，口红矩阵展示墙，暖光氛围灯，文案OMG买它
+```
+
 ## 模型对比与社区案例
 
 
 <!-- Case 5: Wooden Bookshelf Prompt Test (by @chetaslua) -->
 ### Case 5: [Wooden Bookshelf Prompt Test](https://x.com/chetaslua/status/2044331451077013749) (by [@chetaslua](https://x.com/chetaslua))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case5/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case5/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 A wooden bookshelf consisting of three shelves: On the top shelf, there should be one book, on the second shelf, there should be three books, and on the bottom shelf, there should be seven books.
@@ -1724,11 +2286,11 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 <!-- Case 10: GPT-Image-2 Detail Showcase (by @liyue_ai) -->
 ### Case 10: [GPT-Image-2 Detail Showcase](https://x.com/liyue_ai/status/2045000106919997637) (by [@liyue_ai](https://x.com/liyue_ai))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case10/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case10/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 以眼部特写图片为基础，生成3:4的四屏构图超写实眼部特写，四屏按春夏秋冬上下排序。
@@ -1748,11 +2310,11 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 <!-- Case 16: A/B Test Signed Output (by @saskr_13) -->
 ### Case 16: [A/B Test Signed Output](https://x.com/saskr_13/status/2044744396932079934) (by [@saskr_13](https://x.com/saskr_13))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case16/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case16/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 私があなたをどんなふうに扱ってきたか、4 コマ漫画風に描いてください。まずは 800 字くらいのプロットをテキストで出して、私が「描いて」と言ったらプロットに沿った 4 コマ漫画を描いてください。
@@ -1762,11 +2324,11 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 <!-- Case 23: Silhouette Universe Narrative Poster (by @MrLarus) -->
 ### Case 23: [Silhouette Universe Narrative Poster](https://x.com/MrLarus/status/2045418028733538620) (by [@MrLarus](https://x.com/MrLarus))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case23/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case23/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 请根据【主题：xxx】自动生成一张高审美的“轮廓宇宙 / 收藏版叙事海报”风格作品。不要将画面局限于固定器物或常见容器，不要优先默认瓶子、沙漏、玻璃罩、怀表之类的常规载体，而是由 AI 根据主题自行判断并选择一个最契合、最有象征意义、轮廓最强、最适合承载完整叙事世界的主轮廓载体。这个主轮廓可以是器物、建筑、门、塔、拱门、穹顶、楼梯井、长廊、雕像、侧脸、眼睛、手掌、头骨、羽翼、面具、镜面、王座、圆环、裂缝、光幕、阴影、几何结构、空间切面、舞台框景、抽象符号或其他更有创意与主题代表性的视觉轮廓，要求合理布局。优先选择最能放大主题气质、最能形成强烈视觉记忆点、最能体现史诗感、神秘感、诗意感或设计感的轮廓，而不是最安全、最普通、最常见的容器。
@@ -1785,11 +2347,11 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 <!-- Case 29: Lion Camel Ridge Dark Myth Scene (by @MANISH1027512) -->
 ### Case 29: [Lion Camel Ridge Dark Myth Scene](https://x.com/MANISH1027512/status/2045743158860878312) (by [@MANISH1027512](https://x.com/MANISH1027512))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case29/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case29/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 中式怪异，黑暗神秘风格融合中式美学，完美细节，多重管线渲染，完美建模。西游记背景，狮驼岭，千妖万怪，坐在左边巨大王座上的大象王重甲妖精，坐在中间巨大王座上的狮王重甲妖精，坐在右边巨大王座上大鹏鸟王重甲妖精。渺小的背对镜头孙悟空肩抗金箍棒步行前进，孙悟空身穿铠甲，近地仰拍镜头，长焦镜头，强烈阴影。极致细节刻画，多次修改，正确透视和主体线条，精致细节
@@ -1798,11 +2360,11 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 <!-- Case 30: Counter-Strike x Terraria Screenshot Mashup (by @yssrski) -->
 ### Case 30: [Counter-Strike x Terraria Screenshot Mashup](https://x.com/yssrski/status/2046410519595348397) (by [@yssrski](https://x.com/yssrski))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case30/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case30/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 counter strike in game screenshot, mixed with Terraria
@@ -1811,11 +2373,11 @@ counter strike in game screenshot, mixed with Terraria
 <!-- Case 31: Pre-war Japan Lab Minecraft Screenshot (by @RitaStar1128) -->
 ### Case 31: [Pre-war Japan Lab Minecraft Screenshot](https://x.com/RitaStar1128/status/2046406024303976904) (by [@RitaStar1128](https://x.com/RitaStar1128))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case31/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case31/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 戦前日本の怪しげな研究所を探検しているマイクラのスクリーンショット画像を作成して
@@ -1824,11 +2386,11 @@ counter strike in game screenshot, mixed with Terraria
 <!-- Case 32: Forged Masterpiece Prompt Test (by @MrLarus) -->
 ### Case 32: [Forged Masterpiece Prompt Test](https://x.com/MrLarus/status/2046201836525302032) (by [@MrLarus](https://x.com/MrLarus))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case32/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case32/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 帮我生成xxxx真迹图片
@@ -1837,11 +2399,11 @@ counter strike in game screenshot, mixed with Terraria
 <!-- Case 33: Multi-Concept Battle Poster Set (by @joshesye) -->
 ### Case 33: [Multi-Concept Battle Poster Set](https://x.com/joshesye/status/2046493442428039212) (by [@joshesye](https://x.com/joshesye))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case33/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case33/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 1、生成不知火舞和貂蝉的游戏对战海报图
@@ -1853,11 +2415,11 @@ counter strike in game screenshot, mixed with Terraria
 <!-- Case 34: Rust In-Game Screenshot (by @FixlationAI) -->
 ### Case 34: [Rust In-Game Screenshot](https://x.com/FixlationAI/status/2046272578705068476) (by [@FixlationAI](https://x.com/FixlationAI))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case34/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case34/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 an ingame screenshot of rust
@@ -1866,11 +2428,11 @@ an ingame screenshot of rust
 <!-- Case 35: Sam Altman Bear Selfie (by @JustinGorya) -->
 ### Case 35: [Sam Altman Bear Selfie](https://x.com/JustinGorya/status/2046510831832006970) (by [@JustinGorya](https://x.com/JustinGorya))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case35/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case35/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 generate image: Selfie of Sam Altman riding a bear
@@ -1881,11 +2443,11 @@ Edit prompt: Remove the background make it transparent
 <!-- Case 36: Among Us Realistic Screenshot (by @ReYYYYoking) -->
 ### Case 36: [Among Us Realistic Screenshot](https://x.com/ReYYYYoking/status/2046502217843376292) (by [@ReYYYYoking](https://x.com/ReYYYYoking))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case36/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case36/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 AmongUsの精密な実際のゲーム画像を生成して
@@ -1894,11 +2456,11 @@ AmongUsの精密な実際のゲーム画像を生成して
 <!-- Case 37: Retro Programming Museum Cartoon (by @XiaohuiAI666) -->
 ### Case 37: [Retro Programming Museum Cartoon](https://x.com/XiaohuiAI666/status/2046515319947354603) (by [@XiaohuiAI666](https://x.com/XiaohuiAI666))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case37/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case37/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 在计算机博物馆里,一个程序员在展厅中央,正在演示C语言编程,很多参观者在围观,屏幕上的代码清晰可见。旁边的牌子写着:古法编程,现场表演。2D卡通画风,16:9
@@ -1907,11 +2469,11 @@ AmongUsの精密な実際のゲーム画像を生成して
 <!-- Case 38: 14th-Dimension Projection Scene (by @workingclassbud) -->
 ### Case 38: [14th-Dimension Projection Scene](https://x.com/workingclassbud/status/2046506783850815703) (by [@workingclassbud](https://x.com/workingclassbud))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case38/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case38/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 A dusk shindig  with multiple fake imagination projections all aligned in the 14th dimensions
@@ -1920,14 +2482,624 @@ A dusk shindig  with multiple fake imagination projections all aligned in the 14
 <!-- Case 39: Sam Altman Baseball Broadcast (by @16kthir0GRXgNqn) -->
 ### Case 39: [Sam Altman Baseball Broadcast](https://x.com/16kthir0GRXgNqn/status/2046507362266259832) (by [@16kthir0GRXgNqn](https://x.com/16kthir0GRXgNqn))
 
-| 输出效果 |
+| Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case39/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case39/output.jpg" width="300" alt="Output image"></a> |
 
-**提示词：**
+**提示词:**
 
 ```
 サムアルトマンがメジャーリーガーでバットを構えている。よくあるようなテレビ画面の構図
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Case 40: Based on the video content and this current frame, use GPT to generate a YouT... (by @chatcutapp) -->
+### Case 40: [Based on the video content and this current frame, use GPT to generate a YouT...](https://x.com/chatcutapp/status/2047228386117128475?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@chatcutapp](https://x.com/chatcutapp))
+
+| Output |
+| :----: |
+| <img src="images/case_case61/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+Based on the video content and this current frame, use GPT to generate a YouTube thumbnail that fits the video. You can reference the style of the image I gave you, but replace the logo on the right side of AE with theChatCut logo. I'll attach the logo for you.
+```
+
+<!-- Case 41: Generate an image of the most significant event of 2020 (by @Rufus87078959) -->
+### Case 41: [Generate an image of the most significant event of 2020](https://x.com/Rufus87078959/status/2047211900769878234?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Rufus87078959](https://x.com/Rufus87078959))
+
+| Output |
+| :----: |
+| <img src="images/case_case65/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+Generate an image of the most significant event of 2020
+```
+
+<!-- Case 42: Edit this image so that total amount changes to 244.5 baht. You can change th... (by @elliscrosby) -->
+### Case 42: [Edit this image so that total amount changes to 244.5 baht. You can change th...](https://x.com/elliscrosby/status/2047211507596071235?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@elliscrosby](https://x.com/elliscrosby))
+
+| Output |
+| :----: |
+| <img src="images/case_case66/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+Edit this image so that total amount changes to 244.5 baht. You can change the quantity of each of the stacks of coins until we hit the target total.
+```
+
+<!-- Case 43: Generate an image of the most significant event of 2001 (by @Rufus87078959) -->
+### Case 43: [Generate an image of the most significant event of 2001](https://x.com/Rufus87078959/status/2047210051216011682?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Rufus87078959](https://x.com/Rufus87078959))
+
+| Output |
+| :----: |
+| <img src="images/case_case67/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+Generate an image of the most significant event of 2001
+```
+
+<!-- Case 44: Generate an image of the most significant event of 2025. (by @Rufus87078959) -->
+### Case 44: [Generate an image of the most significant event of 2025.](https://x.com/Rufus87078959/status/2047207923005227078?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Rufus87078959](https://x.com/Rufus87078959))
+
+| Output |
+| :----: |
+| <img src="images/case_case69/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+Generate an image of the most significant event of 2025.
+```
+
+<!-- Case 45: Personal Profile Infographic Generator (by @andis13) -->
+### Case 45: [Personal Profile Infographic Generator](https://x.com/andis13/status/2047197275525701937?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@andis13](https://x.com/andis13))
+
+| Output |
+| :----: |
+| <img src="images/case_case73/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+Wykorzystaj wszystko, co o mnie wiesz, i stwórz infografikę przedstawiającą mnie. Zrób to w stylu komiksu franko-belgijskiego.
+Idea: @icreatelife
+```
+
+<!-- Case 46: 360 Equirectangular Panorama Image (by @rs_elwood) -->
+### Case 46: [360 Equirectangular Panorama Image](https://x.com/rs_elwood/status/2047194375000932456?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@rs_elwood](https://x.com/rs_elwood))
+
+| Output |
+| :----: |
+| <img src="images/case_case74/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+360度 equirectangular （正距円筒図法）画像を2:1で生成
+参照画像だと正確な円筒図にならない？もっと試してみないと。
+```
+
+<!-- Case 47: Personal Knowledge Infographic Portrait (by @aitorwilzig) -->
+### Case 47: [Personal Knowledge Infographic Portrait](https://x.com/aitorwilzig/status/2047190320064925845?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@aitorwilzig](https://x.com/aitorwilzig))
+
+| Output |
+| :----: |
+| <img src="images/case_case76/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una imagen en estilo cartoon anime.
+```
+
+<!-- Case 48: Research LIME Drug Design and make a detailed infographic about it (by @WillSpagnoli) -->
+### Case 48: [Research LIME Drug Design and make a detailed infographic about it](https://x.com/WillSpagnoli/status/2047172976463040851?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@WillSpagnoli](https://x.com/WillSpagnoli))
+
+| Output |
+| :----: |
+| <img src="images/case_case83/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+Research LIME Drug Design and make a detailed infographic about it
+```
+
+<!-- Case 49: Douyin Livestream Sales Screenshot (by @laogeai) -->
+### Case 49: [Douyin Livestream Sales Screenshot](https://x.com/laogeai/status/2047228458351120625?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@laogeai](https://x.com/laogeai))
+
+| Output |
+| :----: |
+| <img src="images/case_case84/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物
+```
+
+<!-- Case 50: Social App Match Success Screen (by @songguoxiansen) -->
+### Case 50: [Social App Match Success Screen](https://x.com/songguoxiansen/status/2047220490486612450?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+
+| Output |
+| :----: |
+| <img src="images/case_case86/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+社交App匹配成功界面，两个用户资料卡碰撞爱心特效
+```
+
+<!-- Case 51: Lu Bu Boss Design Sheet (by @songguoxiansen) -->
+### Case 51: [Lu Bu Boss Design Sheet](https://x.com/songguoxiansen/status/2047198090009190441?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+
+| Output |
+| :----: |
+| <img src="images/case_case91/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+吕布游戏Boss设定，赤兔马方天画戟，暗黑进化形态双形态对比
+```
+
+<!-- Case 52: Nezha Dark Fantasy Novel Cover (by @songguoxiansen) -->
+### Case 52: [Nezha Dark Fantasy Novel Cover](https://x.com/songguoxiansen/status/2047196508270084104?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+
+| Output |
+| :----: |
+| <img src="images/case_case92/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+玄幻小说封面，哪吒三头六臂悬浮虚空，火焰莲台底座，暗黑史诗风
+```
+
+<!-- Case 53: New Chinese Minimalist Floral Illustration (by @liyue_ai) -->
+### Case 53: [New Chinese Minimalist Floral Illustration](https://x.com/liyue_ai/status/2047180347448914195?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Output |
+| :----: |
+| <img src="images/case_case93/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+新中式极简东方美学 × 高端商业插画，主题一花一世界，
+极简，克制，空灵，高级商业视觉，超现实东方意境，
+画面干净通透，无灰雾、无脏色，
+
+一朵巨大的荷花作为空间容器，从平静水面自然生长，轻微倾斜，构图优雅留白充足，
+
+低饱和干净粉色，柔和胭脂调，花瓣半透明，轻盈通透，
+哑光低对比，边缘柔化 + 轻微景深，
+
+荷花内部为唯一视觉焦点：发光的3D微缩广州城市，包含：广州塔，珠江新城建筑群，猎德大桥，珠江水岸，少量岭南建筑，
+
+城市超精细结构，真实材质，极高细节清晰度，城市高光是暖金色，城市阴影是冷青蓝，形成冷暖对比，
+
+灯光通透有能量，局部高饱和但不泛滥，城市亮度明显高于荷花，
+
+水面清澈极简平静，仅少量柔和涟漪，弱反射，
+
+背景暖米白宣纸质感，无水墨、无笔触，大面积留白，
+中心有极轻微光晕渐变，整体通透、不灰、不闷，
+
+画面下方一艘极简小船，船上一位红衣渔女，极小比例，
+静立仰望荷花，红色为唯一高纯度点缀，
+
+整体光线通透、干净、有层次，无灰雾、无泛白，
+高端CG商业插画，电影级真实光影，高动态范围，超精细，8K细节，ArtStation 级画质，强化分色，干净调色，青橙对比，暖高光冷暗部，仅城市灯光提亮饱和度，色调柔和通透，光影锐利明亮，无灰雾、无暗沉、无低饱和雾化。
+```
+
+<!-- Case 54: Su Daji Ancient-Style Glamour Portrait (by @nidiedeba) -->
+### Case 54: [Su Daji Ancient-Style Glamour Portrait](https://x.com/nidiedeba/status/2047147223281270878?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@nidiedeba](https://x.com/nidiedeba))
+
+| Output |
+| :----: |
+| <img src="images/case_case94/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+苏妲己古风写真，红色纱衣半透，狐耳若隐若现，媚态撩人
+```
+
+<!-- Case 55: Lu Xun Morning Flowers Illustration (by @Aurora_62340) -->
+### Case 55: [Lu Xun Morning Flowers Illustration](https://x.com/Aurora_62340/status/2047139992355680530?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Aurora_62340](https://x.com/Aurora_62340))
+
+| Output |
+| :----: |
+| <img src="images/case_case95/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+结合鲁迅的《朝花夕拾》里的内容，生成一副图片，要求图片背景符合《朝花夕拾》的意境，背景图可以使用蒙版，前景是 鲁迅的全身画像位于图片左侧或右侧
+```
+
+<!-- Case 56: Subway Candid Phone Snapshot (by @AntCaveClub) -->
+### Case 56: [Subway Candid Phone Snapshot](https://x.com/AntCaveClub/status/2047136306485133428?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@AntCaveClub](https://x.com/AntCaveClub))
+
+| Output |
+| :----: |
+| <img src="images/case_case96/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+地铁上低头看手机的美丽女人，偷拍照片。
+
+能免费试一次 ⬇️
+```
+
+<!-- Case 57: China Aerospace Commemorative Stamp Sheet (by @songguoxiansen) -->
+### Case 57: [China Aerospace Commemorative Stamp Sheet](https://x.com/songguoxiansen/status/2047129703702802811?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+
+| Output |
+| :----: |
+| <img src="images/case_case97/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+中国航天纪念邮票小全张，火箭发射场景，烫金边框工艺
+```
+
+<!-- Case 58: Vertical Wuxia Heroine Portrait (by @CoderDaMing) -->
+### Case 58: [Vertical Wuxia Heroine Portrait](https://x.com/CoderDaMing/status/2047127585256358221?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@CoderDaMing](https://x.com/CoderDaMing))
+
+| Output |
+| :----: |
+| <img src="images/case_case98/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+9:16 竖版，极致武侠风，绝美东方女侠，20岁出头，冷艳锐利丹凤眼，眉宇英气逼人，肤白如玉，长直黑发湿漉漉随狂风剧烈飞舞，几缕发丝贴在脸颊和颈侧，穿着湿透的深黑改良武侠劲装，外披宽袖玄色长袍，衣袍和长袖被风吹得剧烈飘扬翻飞，紧身劲装勾勒身材，腰束软剑带，足踏长靴，右手持一把古剑，剑身散发幽蓝剑气光芒，动态姿势：身体微侧回眸，衣袂猎猎，背景为月夜雨雾笼罩的竹林古道，巨大明月高悬，石板小径，古灯笼，薄雾雨丝，戏剧性冷月光与蓝光剑气结合，湿身水光效果，超强动态感，细腻布料褶皱、头发丝飘动、真实水珠反光，电影级光影，8k，masterpiece, best quality, ultra realistic, cinematic, dramatic atmosphere
+```
+
+<!-- Case 59: Realistic Guanyin Portrait from Buddhist Texts (by @Zhaoge01) -->
+### Case 59: [Realistic Guanyin Portrait from Buddhist Texts](https://x.com/Zhaoge01/status/2047123570485260753?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Zhaoge01](https://x.com/Zhaoge01))
+
+| Output |
+| :----: |
+| <img src="images/case_case99/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+根据佛经对观音菩萨的形象描述，原原本本的还原一张真实的观音菩萨形象照片，皮肤与衣服接近真实，画质iPhone 15 pro
+```
+
+<!-- Case 60: Tang Dynasty Chang'an Lantern Festival Panorama (by @songguoxiansen) -->
+### Case 60: [Tang Dynasty Chang'an Lantern Festival Panorama](https://x.com/songguoxiansen/status/2047122441454096527?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+
+| Output |
+| :----: |
+| <img src="images/case_case100/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+唐代长安城元宵灯会全景，万盏花灯照亮夜空，工笔重彩长卷
+```
+
+<!-- Case 61: Historical Yang Guifei Realistic Portrait (by @Zhaoge01) -->
+### Case 61: [Historical Yang Guifei Realistic Portrait](https://x.com/Zhaoge01/status/2047110776897638568?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Zhaoge01](https://x.com/Zhaoge01))
+
+| Output |
+| :----: |
+| <img src="images/case_case101/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+根据真实历史对杨玉环的形象描述，生成一张杨贵妃真实照片，画质为iPhone 15 pro
+```
+
+<!-- Case 62: Surreal Japanese Futuristic City Illustration (by @Tresmort) -->
+### Case 62: [Surreal Japanese Futuristic City Illustration](https://x.com/Tresmort/status/2047105322863460496?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Tresmort](https://x.com/Tresmort))
+
+| Output |
+| :----: |
+| <img src="images/case_case102/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+参考这张图的透视和风格，绘制一张更加精细的超高清插画，表现超现实主义的日式未来都市，要能看清很小的细节，包括街道上的传统文化游行的人，小巷里的黑帮，烟花巷的舞女，疲惫的社畜，楼房的窗户里也有各式各样的人物，学习的学生，吵架的夫妻，玩游戏的宅男，以及更多的发挥细节。讽刺现实拥挤中的无聊，都市繁华下的孤独，无意义的人生中又有一种病态的美感。画面要有极高的审美价值 ，不能因为拼内容而损失美和协调感，比例是9:16
+```
+
+<!-- Case 63: Tushan Yaya Fantasy Glamour Portrait (by @sdjn_wgc) -->
+### Case 63: [Tushan Yaya Fantasy Glamour Portrait](https://x.com/sdjn_wgc/status/2046981757325475954?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@sdjn_wgc](https://x.com/sdjn_wgc))
+
+| Output |
+| :----: |
+| <img src="images/case_case107/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+狐妖小红娘涂山雅雅写真大片，粉色九尾狐裘紧身裙，媚眼如丝，红唇微张，极致妖媚
+```
+
+<!-- Case 64: Douyin Livestream Sales Screenshot (by @LVWANGJI_0327) -->
+### Case 64: [Douyin Livestream Sales Screenshot](https://x.com/LVWANGJI_0327/status/2046974302227206525?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@LVWANGJI_0327](https://x.com/LVWANGJI_0327))
+
+| Output |
+| :----: |
+| <img src="images/case_case108/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物
+```
+
+<!-- Case 65: Eastern Fantasy Female Half-Portrait (by @liyue_ai) -->
+### Case 65: [Eastern Fantasy Female Half-Portrait](https://x.com/liyue_ai/status/2046962895775580442?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Output |
+| :----: |
+| <img src="images/case_case109/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+东方幻想风格女性，半身肖像，回眸侧脸，气质空灵优雅，柔和神性美感，细腻五官，微垂眼神，冷白细腻肌肤，淡雅橘粉妆容，金色高光点缀
+
+长发飘动，发丝中融入彩色花朵与光粒（红、蓝、橙、紫），头发具有流动感与空气感
+
+身穿半透明丝绸礼服与披肩，材质轻盈通透，布料随风飘动，表面带有鎏金纹理与闪耀颗粒。
+
+整体光影为暖金色逆光，强边缘光，体积光明显，光粒漂浮，柔光泛光，梦幻氛围
+
+背景干净浅色渐变，带微光与粒子效果，整体氛围空灵、梦境、神圣
+
+风格：高端CG插画，超精细，电影级光影，柔光渲染，8K细节，artstation 热门作品风格
+```
+
+<!-- Case 66: Vertical Artistic Portrait of a Young Eastern Woman (by @zhiyangzhu22222) -->
+### Case 66: [Vertical Artistic Portrait of a Young Eastern Woman](https://x.com/zhiyangzhu22222/status/2046952985562062888?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@zhiyangzhu22222](https://x.com/zhiyangzhu22222))
+
+| Output |
+| :----: |
+| <img src="images/case_case110/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+9:16 竖向构图，单人女性艺术肖像，年轻东方女生，五官清秀，脸部线条柔和，皮肤自然通透，保留真实肌理，气质安静高级，带一点疏离感和故事感。
+摄影棚风格与自然光融合，柔和侧光，面部有细腻高光，阴影轻柔，整体光线通透不刺眼，带轻微黑雾滤镜效果，微朦胧、微泛光、空气感强。
+背景极简干净，奶油灰、米白、浅卡其或雾感暖灰色墙面，留有大面积负空间，整体画面简洁、有呼吸感。
+模特坐在地面或低台上，一条腿自然弯曲，一条腿放松伸展，身体轻微前倾或侧倾，肩膀不对称，头部轻轻倾斜，动作自然松弛，不刻意摆拍。
+表情平静克制，眼神柔和，略微疏离，带一点若有所思的情绪，嘴唇自然微张或轻闭，状态慵懒、安静、细腻。
+发型为自然蓬松的长发，微凌乱碎发，发丝轻柔，有空气感和层次感，像刚整理过但保留自然随性感。
+妆容为高级淡妆，韩系清透底妆，皮肤柔雾光泽，鼻梁与面颊有自然高光，眉形干净，眼妆淡雅但有神，睫毛纤长，唇色为低饱和玫瑰豆沙色或奶茶裸粉色。
+服装为简约高级风：米白色紧身罗纹针织背心，外搭宽松白衬衫或柔软针织开衫，下装为高腰半裙或简约短裤，布料柔软贴合身形但不过分暴露，呈现自然身体线条与文艺感。
+画面强调细腻质感、柔和色调、轻法式与韩系杂志感结合，真实摄影感，电影级肤色，细节丰富，层次分明，构图克制，高级审美，时尚 编辑人像，柔和的电影感人像，细腻的质感，超高细节，逼真，优雅，精致，高端时尚摄影，含蓄的性感，简洁的构图。
+```
+
+<!-- Case 67: Autobots Assembled at Lunar Base (by @songguoxiansen) -->
+### Case 67: [Autobots Assembled at Lunar Base](https://x.com/songguoxiansen/status/2046952548469530716?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+
+| Output |
+| :----: |
+| <img src="images/case_case111/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+图片1：汽车人全员月球基地集结，地球悬于身后星空，赛博坦旗帜飘扬
+
+图片2：霸天虎全员列阵外星战舰甲板，威震天坐于王座俯视全军
+```
+
+<!-- Case 68: Naturalist-Style Food Specimen Cross-Section (by @GeekCatX) -->
+### Case 68: [Naturalist-Style Food Specimen Cross-Section](https://x.com/GeekCatX/status/2046939656244318676?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@GeekCatX](https://x.com/GeekCatX))
+
+| Output |
+| :----: |
+| <img src="images/case_case112/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+一颗/一块/一枚【食物名称】，以博物学大师发现野外标本的方式解剖。
+剖开、展开、固定——如同博物馆的珍贵藏品，
+却以卡拉瓦乔为《国家地理》掌镜时的光线照亮。
+每一个内部结构都以自身的材质真相发光。
+截面锋利得近乎暴力。内部美丽得近乎神圣。
+画面中呈现完整标本：
+一半保持原状，展示【外表面描述：质感/颜色/纹理】；
+另一半剖开至核心，【内部核心结构描述：最重要的1—2个内部视觉特征】清晰可见。
+【补充1—2句该食物最具视觉张力的横截面细节描述】
+背景：纯粹的黑丝绒。
+【食物名称】悬浮其中，如同某件珍贵而危险的事物。
+标注文字紧贴结构边缘，手写感衬线字体，绝不悬空飘浮。
+画面包含以下标注，每处标注三行：第一行结构名称，第二行成分数据，第三行一句人话：
+【结构01名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+
+【结构02名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+【结构03名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+【结构04名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+【结构05名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+
+【结构06名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+省略其他如果有继续保持这个格式
+主标题，左上角，暖象牙白大写字体：
+【食物名称】·解剖
+
+斜体副标题紧随其下：
+【一句揭示这种食物本质的话，不超过15字】
+
+整体气质：奥杜邦博物插画×卡拉瓦乔光影×有史以来最美的科学摄影。
+4K精度，标本照明，极致内部细节。
+没有任何临床感，一切都鲜活。
+写实风格，非示意图，非卡通，非简化图解。
+每一种材质都有真实的物理质感：
+粗糙的、光滑的、湿润的、干燥的、致密的、疏松的。
+```
+
+<!-- Case 69: Polaroid Frame Breakout Scene (by @MajaDesignJP) -->
+### Case 69: [Polaroid Frame Breakout Scene](https://x.com/MajaDesignJP/status/2047235632934928765?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@MajaDesignJP](https://x.com/MajaDesignJP))
+
+| Output |
+| :----: |
+| <img src="images/case_case113/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+ポラロイド写真の中に人が写っていて、その人がフレームから外に飛び出している画像。日本語が書いてある画像生成して
+
+←下の画像
+GPT Image-2で生成したやつ→
+```
+
+<!-- Case 70: 2D Anime Character Real-World Grid Scenes (by @seiiiiiiiiiiru) -->
+### Case 70: [2D Anime Character Real-World Grid Scenes](https://x.com/seiiiiiiiiiiru/status/2047227021156356500?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru))
+
+| Output |
+| :----: |
+| <img src="images/case_case114/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。
+```
+
+<!-- Case 71: Poster-to-Trailer Concept Prompt (by @os_shim) -->
+### Case 71: [Poster-to-Trailer Concept Prompt](https://x.com/os_shim/status/2047130379409400148?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@os_shim](https://x.com/os_shim))
+
+| Output |
+| :----: |
+| <img src="images/case_case115/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」
+```
+
+<!-- Case 72: Rubber Duck Boy Live-Action Movie Poster (by @mirai_ai2050) -->
+### Case 72: [Rubber Duck Boy Live-Action Movie Poster](https://x.com/mirai_ai2050/status/2046944941583270341?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@mirai_ai2050](https://x.com/mirai_ai2050))
+
+| Output |
+| :----: |
+| <img src="images/case_case116/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+可愛いラバーダックの男の子「ルヒア(RUHiA)」が日本を目指して大冒険をして日本人女性の「ミライ」と出会うまでの物語。それを実写映画のポスターのようにして。
+
+参照画像入れてないのに女性もミライの雰囲気に似てない？
+```
+
+<!-- Case 73: Tomato E-Commerce Product Image Set (by @Adam38363368936) -->
+### Case 73: [Tomato E-Commerce Product Image Set](https://x.com/Adam38363368936/status/2047165092253532461?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Adam38363368936](https://x.com/Adam38363368936))
+
+| Output |
+| :----: |
+| <img src="images/case_case117/output.jpg" width="300" alt="Output image"> |
+
+**提示词:**
+
+```
+/gpt-image-2 帮我生成关于西红柿的全套产品电商介绍图片
+
+使用地址
 ```
 
 ## 致谢

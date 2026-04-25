@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/logo.png" alt="專案 Logo"></a>
+<a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/logo.png" alt="專案 Logo"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts)
-[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts)
-[![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts)
+[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-prompts)
+[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-prompts)
+[![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-prompts)
 [![🎬 GPT-Image-2 × Seedance 2.0 — 電影級工作流](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-電影級工作流-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
@@ -30,7 +30,7 @@
 
 本倉庫中的大多數案例整理自 X/Twitter、創作者社群、公開示範與社群分享實驗。
 
-在 Evolink 上體驗：[GPT-Image-2](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts)
+在 Evolink 上體驗：[GPT-Image-2](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
 
 如果你覺得這個倉庫有幫助，歡迎給個 Star。⭐
 
@@ -38,10 +38,10 @@
 > 本倉庫專注於 GPT-Image-2 在 Evolink 上的可重用提示詞模式、參考案例與任務型示例。
 > 最近僅含提示詞的更新也會同步記錄在 `gpt_image_2_prompt.json` 中。
 
-<a href='https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
-<a href='https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
-<a href='https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/📘 Docs-Evolink-blue' height="25"></a>
-<a href='https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/🤗 Dataset-Evolink-yellow' height="25"></a>
+<a href='https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
+<a href='https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
+<a href='https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/📘 Docs-Evolink-blue' height="25"></a>
+<a href='https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/🤗 Dataset-Evolink-yellow' height="25"></a>
 
 ## 最新動態
 
@@ -178,7 +178,7 @@
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case1/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case1/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -190,7 +190,7 @@
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case2/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case2/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -202,7 +202,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case3/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case3/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -214,7 +214,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case4/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case4/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -226,7 +226,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case5/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case5/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -240,7 +240,7 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case6/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case6/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -253,7 +253,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case7/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case7/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -265,7 +265,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case8/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case8/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -278,7 +278,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case9/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case9/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -291,7 +291,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case10/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case10/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -304,7 +304,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case11/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case11/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -317,7 +317,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case12/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case12/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -330,7 +330,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case13/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case13/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -343,7 +343,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case14/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case14/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -356,7 +356,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case15/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case15/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -369,7 +369,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case16/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case16/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -382,7 +382,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case17/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case17/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -395,7 +395,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case18/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case18/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -418,7 +418,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 
 <!-- Case 19: Create the most realistic front page design of a vintage newspaper featuring ... (by @Naiknelofar788) -->
-### Case 19: [Create the most realistic front page design of a vintage newspaper featuring ...](https://x.com/Naiknelofar788/status/2047207812800147647?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+### Case 19: [復古報紙頭版設計](https://x.com/Naiknelofar788/status/2047207812800147647) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
 
 | Output |
 | :----: |
@@ -447,8 +447,8 @@ Aspect ratio: 4:5 or 1:1
 High-detail, ultra-realistic hybrid of editorial photography and print design.
 ```
 
-<!-- Case 20: Create image of Magazine feature article [travel] guide page, cute, informati... (by @andis13) -->
-### Case 20: [Create image of Magazine feature article [travel] guide page, cute, informati...](https://x.com/andis13/status/2047204384811921764?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@andis13](https://x.com/andis13))
+<!-- Case 20: Magazine Travel Guide Feature Article (by @andis13) -->
+### Case 20: [旅遊雜誌專題文章](https://x.com/andis13/status/2047204384811921764) (by [@andis13](https://x.com/andis13))
 
 | Output |
 | :----: |
@@ -461,7 +461,7 @@ Create image of Magazine feature article [travel] guide page, cute, information 
 ```
 
 <!-- Case 21: analyze this photo and give me a detailed JSON prompt that recreates it. brea... (by @pavellaslov) -->
-### Case 21: [analyze this photo and give me a detailed JSON prompt that recreates it. brea...](https://x.com/pavellaslov/status/2047182214304055339?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@pavellaslov](https://x.com/pavellaslov))
+### Case 21: [照片分析與 JSON Prompt 重建](https://x.com/pavellaslov/status/2047182214304055339) (by [@pavellaslov](https://x.com/pavellaslov))
 
 | Output |
 | :----: |
@@ -490,7 +490,7 @@ the #1 tell on AI photos is flat colors and a grainy look. this method removes b
 ```
 
 <!-- Case 22: CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-... (by @ZaraIrahh) -->
-### Case 22: [CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-...](https://x.com/ZaraIrahh/status/2047180061657452601?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+### Case 22: [綠茶膠片套裝產品攝影](https://x.com/ZaraIrahh/status/2047180061657452601) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
 
 | Output |
 | :----: |
@@ -503,7 +503,7 @@ CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-gre
 ```
 
 <!-- Case 23: Ultra-realistic product photography of a rich strawberry soft-serve ice cream... (by @ZaraIrahh) -->
-### Case 23: [Ultra-realistic product photography of a rich strawberry soft-serve ice cream...](https://x.com/ZaraIrahh/status/2047179916161212542?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+### Case 23: [草莓霜淇淋超寫實產品攝影](https://x.com/ZaraIrahh/status/2047179916161212542) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
 
 | Output |
 | :----: |
@@ -526,7 +526,7 @@ Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert
 ```
 
 <!-- Case 24: A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ... (by @ZaraIrahh) -->
-### Case 24: [A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ...](https://x.com/ZaraIrahh/status/2047179669011616172?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+### Case 24: [筆電上的超寫實 UI/UX 模型](https://x.com/ZaraIrahh/status/2047179669011616172) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
 
 | Output |
 | :----: |
@@ -539,7 +539,7 @@ A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a min
 ```
 
 <!-- Case 25: Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young ma... (by @harboriis) -->
-### Case 25: [Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young ma...](https://x.com/harboriis/status/2047175250761433416?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@harboriis](https://x.com/harboriis))
+### Case 25: [超寫實電影感 DSLR 人像攝影](https://x.com/harboriis/status/2047175250761433416) (by [@harboriis](https://x.com/harboriis))
 
 | Output |
 | :----: |
@@ -568,7 +568,7 @@ face changed, different identity, beautified face, edited face, smooth plastic s
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case1/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case1/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -580,7 +580,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case2/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case2/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -592,7 +592,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case3/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case3/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -604,7 +604,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case4/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case4/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -624,7 +624,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case5/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case5/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -643,7 +643,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case7/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case7/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -655,7 +655,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case8/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case8/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -667,7 +667,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case9/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case9/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -680,7 +680,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case10/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case10/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -696,7 +696,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case11/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case11/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -709,7 +709,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case12/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case12/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -722,7 +722,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case13/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case13/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -735,7 +735,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case14/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case14/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -748,7 +748,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case15/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case15/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -761,7 +761,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case24/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case24/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -780,7 +780,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case26/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case26/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -797,7 +797,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case27/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case27/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -814,7 +814,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case28/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case28/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -827,7 +827,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case31/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case31/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -840,7 +840,7 @@ Ilustración en acuarela de estilo onírico de [sujeto], con estética impresion
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case32/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case32/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -853,7 +853,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case33/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case33/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -866,7 +866,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case34/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case34/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -879,7 +879,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case35/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case35/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -892,7 +892,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case36/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case36/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -905,7 +905,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case38/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case38/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -918,7 +918,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case39/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case39/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -949,7 +949,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case40/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case40/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -962,7 +962,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case41/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case41/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -976,7 +976,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case42/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case42/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1001,7 +1001,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case45/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case45/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1014,7 +1014,7 @@ Create a Science fiction movie poster
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case46/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case46/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1027,7 +1027,7 @@ Create a Science fiction movie poster
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case47/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case47/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1040,7 +1040,7 @@ Create a Science fiction movie poster
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case48/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case48/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1063,7 +1063,7 @@ In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” wit
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case49/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case49/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1076,7 +1076,7 @@ In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” wit
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case50/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case50/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1173,7 +1173,7 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case51/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case51/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1186,7 +1186,7 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case57/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case57/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1202,7 +1202,7 @@ Old money Hamptons editorial, tall blonde woman late 20s, serene elegant express
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case58/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case58/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1215,36 +1215,14 @@ Descomposición detallada de una cámara de la marca Sony modelo A7 indicando to
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case59/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case59/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
 ```
 360 equirectangular image of Istiklal Street, Istanbul in 1900
 ```
-
-<!-- Case 55: Ultra-Dense Information Design (by @EchoraContinuum) -->
-### Case 55: [Ultra-Dense Information Design](https://x.com/EchoraContinuum/status/2046517163826246133) (by [@EchoraContinuum](https://x.com/EchoraContinuum))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case52/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
 Generate somthing super complex and info dense...
-```
-
-<!-- Case 56: Cute Chinese Expeditionary Force Storyboard (by @RainHuangapp) -->
-### Case 56: [Cute Chinese Expeditionary Force Storyboard](https://x.com/RainHuangapp/status/2046507931907080330) (by [@RainHuangapp](https://x.com/RainHuangapp))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case53/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
 ```
 用可爱的风格讲述中国远征军的历史故事
 用波普风格讲述金刚经
@@ -1255,7 +1233,7 @@ Generate somthing super complex and info dense...
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case54/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case54/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1286,7 +1264,7 @@ Generate somthing super complex and info dense...
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case55/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case55/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1299,7 +1277,7 @@ Generate somthing super complex and info dense...
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case56/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case56/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1406,7 +1384,7 @@ AI 必须依据【主题】自动决定最合适的:
 
 
 <!-- Case 58: A full-body outdoor shot captures a young Caucasian woman, possibly in her la... (by @AIwithSarah_) -->
-### Case 58: [A full-body outdoor shot captures a young Caucasian woman, possibly in her la...](https://x.com/AIwithSarah_/status/2047234995627172229?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@AIwithSarah_](https://x.com/AIwithSarah_))
+### Case 58: [街頭時尚全身人像攝影](https://x.com/AIwithSarah_/status/2047234995627172229) (by [@AIwithSarah_](https://x.com/AIwithSarah_))
 
 | Output |
 | :----: |
@@ -1419,7 +1397,7 @@ A full-body outdoor shot captures a young Caucasian woman, possibly in her late 
 ```
 
 <!-- Case 59: A professional product photography shot of a cold sparkling water (by @meng_dagg695) -->
-### Case 59: [A professional product photography shot of a cold sparkling water](https://x.com/meng_dagg695/status/2047227172486824002?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@meng_dagg695](https://x.com/meng_dagg695))
+### Case 59: [氣泡水專業產品攝影](https://x.com/meng_dagg695/status/2047227172486824002) (by [@meng_dagg695](https://x.com/meng_dagg695))
 
 | Output |
 | :----: |
@@ -1446,7 +1424,7 @@ Commercial product photography, ultra-detailed, 8K.
 ```
 
 <!-- Case 60: 360 Equirectangular Panorama Image (by @rs_elwood) -->
-### Case 60: [360 Equirectangular Panorama Image](https://x.com/rs_elwood/status/2047192228758692036?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@rs_elwood](https://x.com/rs_elwood))
+### Case 60: [360度等距柱狀投影全景圖](https://x.com/rs_elwood/status/2047192228758692036) (by [@rs_elwood](https://x.com/rs_elwood))
 
 | Output |
 | :----: |
@@ -1461,7 +1439,7 @@ Online 360° Panorama Viewer VR
 ```
 
 <!-- Case 61: Soft poetic children's book illustration with watercolor and gouache textures... (by @dotey) -->
-### Case 61: [Soft poetic children's book illustration with watercolor and gouache textures...](https://x.com/dotey/status/2047174895293849972?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@dotey](https://x.com/dotey))
+### Case 61: [水彩詩意兒童繪本插畫](https://x.com/dotey/status/2047174895293849972) (by [@dotey](https://x.com/dotey))
 
 | Output |
 | :----: |
@@ -1478,7 +1456,7 @@ Two children in calm conversation,soft connection forming.
 ```
 
 <!-- Case 62: Aspect Ratio: 9:16 Vertical (by @GeekCatX) -->
-### Case 62: [Aspect Ratio: 9:16 Vertical](https://x.com/GeekCatX/status/2047220831491858766?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@GeekCatX](https://x.com/GeekCatX))
+### Case 62: [9:16 豎版格式](https://x.com/GeekCatX/status/2047220831491858766) (by [@GeekCatX](https://x.com/GeekCatX))
 
 | Output |
 | :----: |
@@ -1527,7 +1505,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 ```
 
 <!-- Case 63: Hangzhou West Lake Travel Poster (by @BNBOKBt5) -->
-### Case 63: [Hangzhou West Lake Travel Poster](https://x.com/BNBOKBt5/status/2047210189741605082?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@BNBOKBt5](https://x.com/BNBOKBt5))
+### Case 63: [杭州西湖旅遊海報](https://x.com/BNBOKBt5/status/2047210189741605082) (by [@BNBOKBt5](https://x.com/BNBOKBt5))
 
 | Output |
 | :----: |
@@ -1540,7 +1518,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 ```
 
 <!-- Case 64: Dongfang Bubai Wuxia Character Poster (by @songguoxiansen) -->
-### Case 64: [Dongfang Bubai Wuxia Character Poster](https://x.com/songguoxiansen/status/2047204566559756707?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+### Case 64: [東方不敗武俠角色海報](https://x.com/songguoxiansen/status/2047204566559756707) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -1555,7 +1533,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 ```
 
 <!-- Case 65: A Chinese Odyssey 90s Hong Kong Poster (by @songguoxiansen) -->
-### Case 65: [A Chinese Odyssey 90s Hong Kong Poster](https://x.com/songguoxiansen/status/2047201597697245252?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+### Case 65: [大話西遊90年代港片風格海報](https://x.com/songguoxiansen/status/2047201597697245252) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -1570,7 +1548,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 ```
 
 <!-- Case 66: Journey to the West Daughter Kingdom Poster (by @cj858cjsoul) -->
-### Case 66: [Journey to the West Daughter Kingdom Poster](https://x.com/cj858cjsoul/status/2047103956535697822?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@cj858cjsoul](https://x.com/cj858cjsoul))
+### Case 66: [西遊記女兒國海報](https://x.com/cj858cjsoul/status/2047103956535697822) (by [@cj858cjsoul](https://x.com/cj858cjsoul))
 
 | Output |
 | :----: |
@@ -1585,7 +1563,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 ```
 
 <!-- Case 67: Royal Tramp Character Poster (by @caiziboshi) -->
-### Case 67: [Royal Tramp Character Poster](https://x.com/caiziboshi/status/2047091751731519744?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@caiziboshi](https://x.com/caiziboshi))
+### Case 67: [鹿鼎記角色海報](https://x.com/caiziboshi/status/2047091751731519744) (by [@caiziboshi](https://x.com/caiziboshi))
 
 | Output |
 | :----: |
@@ -1598,7 +1576,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 ```
 
 <!-- Case 68: generate an image of a racing car poster with its spec and pricing (by @verysmallwoods) -->
-### Case 68: [generate an image of a racing car poster with its spec and pricing](https://x.com/verysmallwoods/status/2047033599229137126?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@verysmallwoods](https://x.com/verysmallwoods))
+### Case 68: [賽車規格海報](https://x.com/verysmallwoods/status/2047033599229137126) (by [@verysmallwoods](https://x.com/verysmallwoods))
 
 | Output |
 | :----: |
@@ -1611,7 +1589,7 @@ generate an image of a racing car poster with its spec and pricing
 ```
 
 <!-- Case 69: Charlie Chaplin Product Poster Redesign (by @chenenpei) -->
-### Case 69: [Charlie Chaplin Product Poster Redesign](https://x.com/chenenpei/status/2046985783715025135?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@chenenpei](https://x.com/chenenpei))
+### Case 69: [卓別林產品海報重新設計](https://x.com/chenenpei/status/2046985783715025135) (by [@chenenpei](https://x.com/chenenpei))
 
 | Output |
 | :----: |
@@ -1632,7 +1610,7 @@ generate an image of a racing car poster with its spec and pricing
 
 | 輸出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case1/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case1/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -1644,7 +1622,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | 輸出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case2/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case2/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -1660,7 +1638,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | 輸出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case3/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case3/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -1684,7 +1662,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | 輸出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case5/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case5/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -1704,7 +1682,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | 輸出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case7/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case7/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -1717,7 +1695,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 | 輸出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case8/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case8/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -1730,7 +1708,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 | 輸出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case9/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case9/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -1779,7 +1757,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case1/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case1/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1791,7 +1769,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case2/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case2/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1803,7 +1781,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case3/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case3/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1815,7 +1793,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case4/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case4/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1827,7 +1805,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case5/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case5/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1843,7 +1821,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case7/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case7/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1855,7 +1833,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case8/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case8/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1868,7 +1846,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case9/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case9/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1881,7 +1859,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case10/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case10/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1894,7 +1872,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case25/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case25/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1931,7 +1909,7 @@ Generate for me a UI design system with a very cutting-edge, bold, and unique th
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case27/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case27/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1944,7 +1922,7 @@ Generate for me a UI design system with a very cutting-edge, bold, and unique th
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case28/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case28/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1957,7 +1935,7 @@ Generate for me a UI design system with a very cutting-edge, bold, and unique th
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case29/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case29/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1970,7 +1948,7 @@ Generate for me a UI design system with a very cutting-edge, bold, and unique th
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case30/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case30/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2003,7 +1981,7 @@ Generate for me a UI design system with a very cutting-edge, bold, and unique th
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case31/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case31/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2016,7 +1994,7 @@ Generate for me a UI design system with a very cutting-edge, bold, and unique th
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case32/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case32/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2031,7 +2009,7 @@ GPT-image-2でこの手相を診断して詳細な鑑定書を作って
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case33/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case33/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2044,7 +2022,7 @@ GPT-image-2でこの手相を診断して詳細な鑑定書を作って
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case34/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case34/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2057,7 +2035,7 @@ GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポッ�
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case35/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case35/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2070,7 +2048,7 @@ GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポッ�
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case36/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case36/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2091,7 +2069,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case37/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case37/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2104,7 +2082,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case38/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case38/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2117,7 +2095,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case39/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case39/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2133,7 +2111,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case40/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case40/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2170,7 +2148,7 @@ Create a commercial ad from the storyboard @[image1]
 
 
 <!-- Case 41: based on the generated character help me generate a screenshot of screenshot ... (by @khaiinit) -->
-### Case 41: [based on the generated character help me generate a screenshot of screenshot ...](https://x.com/khaiinit/status/2047219694130827273?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@khaiinit](https://x.com/khaiinit))
+### Case 41: [角色 PVP 遊戲截圖](https://x.com/khaiinit/status/2047219694130827273) (by [@khaiinit](https://x.com/khaiinit))
 
 | Output |
 | :----: |
@@ -2183,7 +2161,7 @@ based on the generated character help me generate a screenshot of screenshot of 
 ```
 
 <!-- Case 42: Create a landing page using this image as a reference for style and color gra... (by @D_studioproject) -->
-### Case 42: [Create a landing page using this image as a reference for style and color gra...](https://x.com/D_studioproject/status/2047212826264211540?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@D_studioproject](https://x.com/D_studioproject))
+### Case 42: [風格參考著陸頁設計](https://x.com/D_studioproject/status/2047212826264211540) (by [@D_studioproject](https://x.com/D_studioproject))
 
 | Output |
 | :----: |
@@ -2196,7 +2174,7 @@ Create a landing page using this image as a reference for style and color gradin
 ```
 
 <!-- Case 43: Li Jiaqi Lipstick Livestream Background (by @songguoxiansen) -->
-### Case 43: [Li Jiaqi Lipstick Livestream Background](https://x.com/songguoxiansen/status/2047207826913972518?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+### Case 43: [李佳琦口紅直播間背景](https://x.com/songguoxiansen/status/2047207826913972518) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -2216,7 +2194,7 @@ Create a landing page using this image as a reference for style and color gradin
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case5/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case5/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2230,7 +2208,7 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case10/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case10/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2254,7 +2232,7 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case16/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case16/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2268,7 +2246,7 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case23/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case23/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2291,7 +2269,7 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case29/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case29/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2304,7 +2282,7 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case30/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case30/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2317,7 +2295,7 @@ counter strike in game screenshot, mixed with Terraria
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case31/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case31/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2330,7 +2308,7 @@ counter strike in game screenshot, mixed with Terraria
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case32/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case32/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2343,7 +2321,7 @@ counter strike in game screenshot, mixed with Terraria
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case33/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case33/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2359,7 +2337,7 @@ counter strike in game screenshot, mixed with Terraria
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case34/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case34/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2372,7 +2350,7 @@ an ingame screenshot of rust
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case35/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case35/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2387,7 +2365,7 @@ Edit prompt: Remove the background make it transparent
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case36/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case36/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2400,7 +2378,7 @@ AmongUsの精密な実際のゲーム画像を生成して
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case37/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case37/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2413,7 +2391,7 @@ AmongUsの精密な実際のゲーム画像を生成して
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case38/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case38/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2426,7 +2404,7 @@ A dusk shindig  with multiple fake imagination projections all aligned in the 14
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case39/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case39/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2503,7 +2481,7 @@ A dusk shindig  with multiple fake imagination projections all aligned in the 14
 
 
 <!-- Case 40: Based on the video content and this current frame, use GPT to generate a YouT... (by @chatcutapp) -->
-### Case 40: [Based on the video content and this current frame, use GPT to generate a YouT...](https://x.com/chatcutapp/status/2047228386117128475?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@chatcutapp](https://x.com/chatcutapp))
+### Case 40: [Based on the video content and this current frame, use GPT to generate a YouT...](https://x.com/chatcutapp/status/2047228386117128475) (by [@chatcutapp](https://x.com/chatcutapp))
 
 | Output |
 | :----: |
@@ -2516,7 +2494,7 @@ Based on the video content and this current frame, use GPT to generate a YouTube
 ```
 
 <!-- Case 41: Generate an image of the most significant event of 2020 (by @Rufus87078959) -->
-### Case 41: [Generate an image of the most significant event of 2020](https://x.com/Rufus87078959/status/2047211900769878234?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Rufus87078959](https://x.com/Rufus87078959))
+### Case 41: [2020年最重大事件](https://x.com/Rufus87078959/status/2047211900769878234) (by [@Rufus87078959](https://x.com/Rufus87078959))
 
 | Output |
 | :----: |
@@ -2529,7 +2507,7 @@ Generate an image of the most significant event of 2020
 ```
 
 <!-- Case 42: Edit this image so that total amount changes to 244.5 baht. You can change th... (by @elliscrosby) -->
-### Case 42: [Edit this image so that total amount changes to 244.5 baht. You can change th...](https://x.com/elliscrosby/status/2047211507596071235?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@elliscrosby](https://x.com/elliscrosby))
+### Case 42: [Edit this image so that total amount changes to 244.5 baht. You can change th...](https://x.com/elliscrosby/status/2047211507596071235) (by [@elliscrosby](https://x.com/elliscrosby))
 
 | Output |
 | :----: |
@@ -2542,7 +2520,7 @@ Edit this image so that total amount changes to 244.5 baht. You can change the q
 ```
 
 <!-- Case 43: Generate an image of the most significant event of 2001 (by @Rufus87078959) -->
-### Case 43: [Generate an image of the most significant event of 2001](https://x.com/Rufus87078959/status/2047210051216011682?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Rufus87078959](https://x.com/Rufus87078959))
+### Case 43: [2001年最重大事件](https://x.com/Rufus87078959/status/2047210051216011682) (by [@Rufus87078959](https://x.com/Rufus87078959))
 
 | Output |
 | :----: |
@@ -2555,7 +2533,7 @@ Generate an image of the most significant event of 2001
 ```
 
 <!-- Case 44: Generate an image of the most significant event of 2025. (by @Rufus87078959) -->
-### Case 44: [Generate an image of the most significant event of 2025.](https://x.com/Rufus87078959/status/2047207923005227078?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Rufus87078959](https://x.com/Rufus87078959))
+### Case 44: [2025年最重大事件](https://x.com/Rufus87078959/status/2047207923005227078) (by [@Rufus87078959](https://x.com/Rufus87078959))
 
 | Output |
 | :----: |
@@ -2568,7 +2546,7 @@ Generate an image of the most significant event of 2025.
 ```
 
 <!-- Case 45: Personal Profile Infographic Generator (by @andis13) -->
-### Case 45: [Personal Profile Infographic Generator](https://x.com/andis13/status/2047197275525701937?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@andis13](https://x.com/andis13))
+### Case 45: [個人檔案資訊圖表](https://x.com/andis13/status/2047197275525701937) (by [@andis13](https://x.com/andis13))
 
 | Output |
 | :----: |
@@ -2582,7 +2560,7 @@ Idea: @icreatelife
 ```
 
 <!-- Case 46: 360 Equirectangular Panorama Image (by @rs_elwood) -->
-### Case 46: [360 Equirectangular Panorama Image](https://x.com/rs_elwood/status/2047194375000932456?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@rs_elwood](https://x.com/rs_elwood))
+### Case 46: [360度等距柱狀投影全景圖](https://x.com/rs_elwood/status/2047194375000932456) (by [@rs_elwood](https://x.com/rs_elwood))
 
 | Output |
 | :----: |
@@ -2596,7 +2574,7 @@ Idea: @icreatelife
 ```
 
 <!-- Case 47: Personal Knowledge Infographic Portrait (by @aitorwilzig) -->
-### Case 47: [Personal Knowledge Infographic Portrait](https://x.com/aitorwilzig/status/2047190320064925845?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@aitorwilzig](https://x.com/aitorwilzig))
+### Case 47: [個人知識資訊圖表肖像](https://x.com/aitorwilzig/status/2047190320064925845) (by [@aitorwilzig](https://x.com/aitorwilzig))
 
 | Output |
 | :----: |
@@ -2609,7 +2587,7 @@ Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una ima
 ```
 
 <!-- Case 48: Research LIME Drug Design and make a detailed infographic about it (by @WillSpagnoli) -->
-### Case 48: [Research LIME Drug Design and make a detailed infographic about it](https://x.com/WillSpagnoli/status/2047172976463040851?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@WillSpagnoli](https://x.com/WillSpagnoli))
+### Case 48: [LIME 藥物設計資訊圖表](https://x.com/WillSpagnoli/status/2047172976463040851) (by [@WillSpagnoli](https://x.com/WillSpagnoli))
 
 | Output |
 | :----: |
@@ -2622,7 +2600,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 49: Douyin Livestream Sales Screenshot (by @laogeai) -->
-### Case 49: [Douyin Livestream Sales Screenshot](https://x.com/laogeai/status/2047228458351120625?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@laogeai](https://x.com/laogeai))
+### Case 49: [抖音直播帶貨截圖](https://x.com/laogeai/status/2047228458351120625) (by [@laogeai](https://x.com/laogeai))
 
 | Output |
 | :----: |
@@ -2635,7 +2613,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 50: Social App Match Success Screen (by @songguoxiansen) -->
-### Case 50: [Social App Match Success Screen](https://x.com/songguoxiansen/status/2047220490486612450?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+### Case 50: [社交App配對成功畫面](https://x.com/songguoxiansen/status/2047220490486612450) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -2648,7 +2626,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 51: Lu Bu Boss Design Sheet (by @songguoxiansen) -->
-### Case 51: [Lu Bu Boss Design Sheet](https://x.com/songguoxiansen/status/2047198090009190441?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+### Case 51: [呂布遊戲Boss設定圖](https://x.com/songguoxiansen/status/2047198090009190441) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -2661,7 +2639,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 52: Nezha Dark Fantasy Novel Cover (by @songguoxiansen) -->
-### Case 52: [Nezha Dark Fantasy Novel Cover](https://x.com/songguoxiansen/status/2047196508270084104?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+### Case 52: [哪吒暗黑玄幻小說封面](https://x.com/songguoxiansen/status/2047196508270084104) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -2674,7 +2652,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 53: New Chinese Minimalist Floral Illustration (by @liyue_ai) -->
-### Case 53: [New Chinese Minimalist Floral Illustration](https://x.com/liyue_ai/status/2047180347448914195?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@liyue_ai](https://x.com/liyue_ai))
+### Case 53: [新中式極簡花卉插畫](https://x.com/liyue_ai/status/2047180347448914195) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
@@ -2711,7 +2689,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 54: Su Daji Ancient-Style Glamour Portrait (by @nidiedeba) -->
-### Case 54: [Su Daji Ancient-Style Glamour Portrait](https://x.com/nidiedeba/status/2047147223281270878?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@nidiedeba](https://x.com/nidiedeba))
+### Case 54: [蘇妲己古風寫真](https://x.com/nidiedeba/status/2047147223281270878) (by [@nidiedeba](https://x.com/nidiedeba))
 
 | Output |
 | :----: |
@@ -2724,7 +2702,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 55: Lu Xun Morning Flowers Illustration (by @Aurora_62340) -->
-### Case 55: [Lu Xun Morning Flowers Illustration](https://x.com/Aurora_62340/status/2047139992355680530?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Aurora_62340](https://x.com/Aurora_62340))
+### Case 55: [魯迅《朝花夕拾》插畫](https://x.com/Aurora_62340/status/2047139992355680530) (by [@Aurora_62340](https://x.com/Aurora_62340))
 
 | Output |
 | :----: |
@@ -2737,7 +2715,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 56: Subway Candid Phone Snapshot (by @AntCaveClub) -->
-### Case 56: [Subway Candid Phone Snapshot](https://x.com/AntCaveClub/status/2047136306485133428?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@AntCaveClub](https://x.com/AntCaveClub))
+### Case 56: [地鐵低頭看手機抓拍](https://x.com/AntCaveClub/status/2047136306485133428) (by [@AntCaveClub](https://x.com/AntCaveClub))
 
 | Output |
 | :----: |
@@ -2752,7 +2730,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 57: China Aerospace Commemorative Stamp Sheet (by @songguoxiansen) -->
-### Case 57: [China Aerospace Commemorative Stamp Sheet](https://x.com/songguoxiansen/status/2047129703702802811?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+### Case 57: [中國航天紀念郵票小全張](https://x.com/songguoxiansen/status/2047129703702802811) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -2765,7 +2743,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 58: Vertical Wuxia Heroine Portrait (by @CoderDaMing) -->
-### Case 58: [Vertical Wuxia Heroine Portrait](https://x.com/CoderDaMing/status/2047127585256358221?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@CoderDaMing](https://x.com/CoderDaMing))
+### Case 58: [東方女俠武俠豎版肖像](https://x.com/CoderDaMing/status/2047127585256358221) (by [@CoderDaMing](https://x.com/CoderDaMing))
 
 | Output |
 | :----: |
@@ -2778,7 +2756,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 59: Realistic Guanyin Portrait from Buddhist Texts (by @Zhaoge01) -->
-### Case 59: [Realistic Guanyin Portrait from Buddhist Texts](https://x.com/Zhaoge01/status/2047123570485260753?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Zhaoge01](https://x.com/Zhaoge01))
+### Case 59: [佛經觀音菩薩寫實肖像](https://x.com/Zhaoge01/status/2047123570485260753) (by [@Zhaoge01](https://x.com/Zhaoge01))
 
 | Output |
 | :----: |
@@ -2791,7 +2769,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 60: Tang Dynasty Chang'an Lantern Festival Panorama (by @songguoxiansen) -->
-### Case 60: [Tang Dynasty Chang'an Lantern Festival Panorama](https://x.com/songguoxiansen/status/2047122441454096527?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+### Case 60: [唐代長安城元宵燈會全景](https://x.com/songguoxiansen/status/2047122441454096527) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -2804,7 +2782,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 61: Historical Yang Guifei Realistic Portrait (by @Zhaoge01) -->
-### Case 61: [Historical Yang Guifei Realistic Portrait](https://x.com/Zhaoge01/status/2047110776897638568?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Zhaoge01](https://x.com/Zhaoge01))
+### Case 61: [楊貴妃歷史寫實肖像](https://x.com/Zhaoge01/status/2047110776897638568) (by [@Zhaoge01](https://x.com/Zhaoge01))
 
 | Output |
 | :----: |
@@ -2817,7 +2795,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 62: Surreal Japanese Futuristic City Illustration (by @Tresmort) -->
-### Case 62: [Surreal Japanese Futuristic City Illustration](https://x.com/Tresmort/status/2047105322863460496?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Tresmort](https://x.com/Tresmort))
+### Case 62: [超現實日式未來都市插畫](https://x.com/Tresmort/status/2047105322863460496) (by [@Tresmort](https://x.com/Tresmort))
 
 | Output |
 | :----: |
@@ -2830,7 +2808,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 63: Tushan Yaya Fantasy Glamour Portrait (by @sdjn_wgc) -->
-### Case 63: [Tushan Yaya Fantasy Glamour Portrait](https://x.com/sdjn_wgc/status/2046981757325475954?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@sdjn_wgc](https://x.com/sdjn_wgc))
+### Case 63: [塗山雅雅奇幻寫真](https://x.com/sdjn_wgc/status/2046981757325475954) (by [@sdjn_wgc](https://x.com/sdjn_wgc))
 
 | Output |
 | :----: |
@@ -2843,7 +2821,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 64: Douyin Livestream Sales Screenshot (by @LVWANGJI_0327) -->
-### Case 64: [Douyin Livestream Sales Screenshot](https://x.com/LVWANGJI_0327/status/2046974302227206525?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@LVWANGJI_0327](https://x.com/LVWANGJI_0327))
+### Case 64: [抖音直播帶貨截圖](https://x.com/LVWANGJI_0327/status/2046974302227206525) (by [@LVWANGJI_0327](https://x.com/LVWANGJI_0327))
 
 | Output |
 | :----: |
@@ -2856,7 +2834,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 65: Eastern Fantasy Female Half-Portrait (by @liyue_ai) -->
-### Case 65: [Eastern Fantasy Female Half-Portrait](https://x.com/liyue_ai/status/2046962895775580442?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@liyue_ai](https://x.com/liyue_ai))
+### Case 65: [東方幻想風格女性半身肖像](https://x.com/liyue_ai/status/2046962895775580442) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
@@ -2879,7 +2857,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 66: Vertical Artistic Portrait of a Young Eastern Woman (by @zhiyangzhu22222) -->
-### Case 66: [Vertical Artistic Portrait of a Young Eastern Woman](https://x.com/zhiyangzhu22222/status/2046952985562062888?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@zhiyangzhu22222](https://x.com/zhiyangzhu22222))
+### Case 66: [年輕東方女性豎版藝術肖像](https://x.com/zhiyangzhu22222/status/2046952985562062888) (by [@zhiyangzhu22222](https://x.com/zhiyangzhu22222))
 
 | Output |
 | :----: |
@@ -2900,7 +2878,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 67: Autobots Assembled at Lunar Base (by @songguoxiansen) -->
-### Case 67: [Autobots Assembled at Lunar Base](https://x.com/songguoxiansen/status/2046952548469530716?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+### Case 67: [汽車人月球基地集結](https://x.com/songguoxiansen/status/2046952548469530716) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -2915,7 +2893,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 68: Naturalist-Style Food Specimen Cross-Section (by @GeekCatX) -->
-### Case 68: [Naturalist-Style Food Specimen Cross-Section](https://x.com/GeekCatX/status/2046939656244318676?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@GeekCatX](https://x.com/GeekCatX))
+### Case 68: [博物學風格食物標本解剖圖](https://x.com/GeekCatX/status/2046939656244318676) (by [@GeekCatX](https://x.com/GeekCatX))
 
 | Output |
 | :----: |
@@ -2973,7 +2951,7 @@ Research LIME Drug Design and make a detailed infographic about it
 ```
 
 <!-- Case 69: Polaroid Frame Breakout Scene (by @MajaDesignJP) -->
-### Case 69: [Polaroid Frame Breakout Scene](https://x.com/MajaDesignJP/status/2047235632934928765?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@MajaDesignJP](https://x.com/MajaDesignJP))
+### Case 69: [寶麗來相框突破場景](https://x.com/MajaDesignJP/status/2047235632934928765) (by [@MajaDesignJP](https://x.com/MajaDesignJP))
 
 | Output |
 | :----: |
@@ -2989,7 +2967,7 @@ GPT Image-2で生成したやつ→
 ```
 
 <!-- Case 70: 2D Anime Character Real-World Grid Scenes (by @seiiiiiiiiiiru) -->
-### Case 70: [2D Anime Character Real-World Grid Scenes](https://x.com/seiiiiiiiiiiru/status/2047227021156356500?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru))
+### Case 70: [2D動漫角色現實世界網格場景](https://x.com/seiiiiiiiiiiru/status/2047227021156356500) (by [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru))
 
 | Output |
 | :----: |
@@ -3002,7 +2980,7 @@ GPT Image-2で生成したやつ→
 ```
 
 <!-- Case 71: Poster-to-Trailer Concept Prompt (by @os_shim) -->
-### Case 71: [Poster-to-Trailer Concept Prompt](https://x.com/os_shim/status/2047130379409400148?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@os_shim](https://x.com/os_shim))
+### Case 71: [海報轉預告片概念](https://x.com/os_shim/status/2047130379409400148) (by [@os_shim](https://x.com/os_shim))
 
 | Output |
 | :----: |
@@ -3015,7 +2993,7 @@ GPT Image-2で生成したやつ→
 ```
 
 <!-- Case 72: Rubber Duck Boy Live-Action Movie Poster (by @mirai_ai2050) -->
-### Case 72: [Rubber Duck Boy Live-Action Movie Poster](https://x.com/mirai_ai2050/status/2046944941583270341?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@mirai_ai2050](https://x.com/mirai_ai2050))
+### Case 72: [橡皮鴨男孩真人電影海報](https://x.com/mirai_ai2050/status/2046944941583270341) (by [@mirai_ai2050](https://x.com/mirai_ai2050))
 
 | Output |
 | :----: |
@@ -3030,7 +3008,7 @@ GPT Image-2で生成したやつ→
 ```
 
 <!-- Case 73: Tomato E-Commerce Product Image Set (by @Adam38363368936) -->
-### Case 73: [Tomato E-Commerce Product Image Set](https://x.com/Adam38363368936/status/2047165092253532461?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Adam38363368936](https://x.com/Adam38363368936))
+### Case 73: [番茄電商產品圖片套組](https://x.com/Adam38363368936/status/2047165092253532461) (by [@Adam38363368936](https://x.com/Adam38363368936))
 
 | Output |
 | :----: |

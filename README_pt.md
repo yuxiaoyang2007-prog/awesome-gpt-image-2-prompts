@@ -45,6 +45,7 @@ Se isso for util, considere dar uma estrela. ⭐
 
 ## Novidades
 
+- **25 de abril de 2026:** Adicionados 22 novos casos de prompts de GPT-Image-2 nas secoes de retrato, poster e UI
 - **23 de abril de 2026:** Os titulos dos casos foram padronizados em `README.md` e em todos os READMEs localizados, incluindo entradas de menu, ancoras e titulos dos casos
 - **21 de abril de 2026:** Foram categorizados 48 novos casos de prompts nas secoes da galeria e baixadas as imagens de saida vinculadas
 - **21 de abril de 2026:** Adicionados 12 novos prompts de GPT-Image-2 em casos de retrato, poster, UI e comparacao

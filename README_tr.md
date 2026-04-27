@@ -45,6 +45,7 @@ Faydali bulduysaniz bir yildiz vermeyi dusunun. ⭐
 
 ## Haberler
 
+- **25 Nisan 2026:** Portre, poster ve UI bolumlerine 22 yeni GPT-Image-2 prompt vakasi eklendi
 - **23 Nisan 2026:** `README.md` ve tum yerellestirilmis README dosyalarinda case title'lar standartlastirildi; menu ogeleri, anchor'lar ve vaka basliklari guncellendi
 - **21 Nisan 2026:** 48 yeni prompt vakasi galeri bolumlerine kategorilendi ve baglantili cikti gorselleri indirildi
 - **21 Nisan 2026:** Portre, poster, UI ve karsilastirma vakalarina 12 yeni GPT-Image-2 promptu eklendi

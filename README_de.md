@@ -45,6 +45,7 @@ Wenn dir das nuetzt, gib dem Repository gern einen Star. ⭐
 
 ## Neuigkeiten
 
+- **25. April 2026:** 22 neue GPT-Image-2-Prompt-Faelle in den Bereichen Portraet, Poster und UI hinzugefuegt
 - **23. April 2026:** Case-Titel in `README.md` und allen lokalisierten README-Dateien vereinheitlicht, einschliesslich Menueeintraegen, Ankern und Fallueberschriften
 - **21. April 2026:** 48 neue Prompt-Faelle in die Galerieabschnitte einsortiert und verlinkte Ausgabebilder heruntergeladen
 - **21. April 2026:** 12 neue GPT-Image-2-Prompts fuer Portraet-, Poster-, UI- und Vergleichsfaelle hinzugefuegt

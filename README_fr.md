@@ -45,6 +45,7 @@ Si cela vous est utile, pensez a mettre une etoile. ⭐
 
 ## Actualites
 
+- **25 avril 2026 :** Ajout de 22 nouveaux cas de prompts GPT-Image-2 dans les categories portrait, affiche et UI
 - **23 avril 2026 :** Standardisation des titres de cas dans `README.md` et dans tous les README localises, y compris les entrees de menu, les ancres et les titres de cas
 - **21 avril 2026 :** 48 nouveaux cas de prompts ont ete classes dans les sections de la galerie et les images de sortie liees ont ete telechargees
 - **21 avril 2026 :** Ajout de 12 nouveaux prompts GPT-Image-2 dans les categories portrait, affiche, UI et comparaison

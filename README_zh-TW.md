@@ -120,6 +120,31 @@
   - [Case 54: Theme Science Encyclopedia Card (by @alanlovelq)](#case-54-theme-science-encyclopedia-card-by-alanlovelq)
   - [Case 55: Chili Pork Cooking Flowchart (by @Kurt_Rousey466)](#case-55-chili-pork-cooking-flowchart-by-kurt_rousey466)
   - [Case 56: Cinematic Infographic Concept Poster (by @A9Quant)](#case-56-cinematic-infographic-concept-poster-by-a9quant)
+  - [Case 57: 主題科學百科卡片 (by @alanlovelq)](#case-57-theme-science-encyclopedia-card-by-alanlovelq)
+  - [Case 58: 街頭時尚全身人像攝影 (by @AIwithSarah_)](#case-58-a-full-body-outdoor-shot-captures-a-young-caucasian-woman-possibly-in-her-la-by-aiwithsarah_)
+  - [Case 59: 氣泡水專業產品攝影 (by @meng_dagg695)](#case-59-a-professional-product-photography-shot-of-a-cold-sparkling-water-by-meng_dagg695)
+  - [Case 60: 360度等距柱狀投影全景圖 (by @rs_elwood)](#case-60-360-equirectangular-panorama-image-by-rs_elwood)
+  - [Case 61: 柔和詩意的兒童繪本水彩插畫 (by @dotey)](#case-61-soft-poetic-childrens-book-illustration-with-watercolor-and-gouache-textures-by-dotey)
+  - [Case 62: 9:16 直式構圖格式 (by @GeekCatX)](#case-62-aspect-ratio-916-vertical-by-geekcatx)
+  - [Case 63: 杭州西湖旅遊海報 (by @BNBOKBt5)](#case-63-hangzhou-west-lake-travel-poster-by-bnbokbt5)
+  - [Case 64: 東方不敗武俠角色海報 (by @songguoxiansen)](#case-64-dongfang-bubai-wuxia-character-poster-by-songguoxiansen)
+  - [Case 65: 大話西遊90年代港片風格海報 (by @songguoxiansen)](#case-65-a-chinese-odyssey-90s-hong-kong-poster-by-songguoxiansen)
+  - [Case 66: 西遊記女兒國海報 (by @cj858cjsoul)](#case-66-journey-to-the-west-daughter-kingdom-poster-by-cj858cjsoul)
+  - [Case 67: 鹿鼎記角色海報 (by @caiziboshi)](#case-67-royal-tramp-character-poster-by-caiziboshi)
+  - [Case 68: 賽車規格海報 (by @verysmallwoods)](#case-68-generate-an-image-of-a-racing-car-poster-with-its-spec-and-pricing-by-verysmallwoods)
+  - [Case 69: 卓別林產品海報重新設計 (by @chenenpei)](#case-69-charlie-chaplin-product-poster-redesign-by-chenenpei)
+  - [Case 70: 奢華運動服籃球運動員廣告海報 (by @Shorelyn_)](#case-70-luxury-sportswear-basketball-athlete-campaign-poster-by-shorelyn_)
+  - [Case 71: 街頭潮流服飾亞洲模特海報 (by @harboriis)](#case-71-streetwear-fashion-campaign-asian-apparel-poster-by-harboriis)
+  - [Case 72: 生涯高光時刻電影感海報模板 (by @Goodmanprotocol)](#case-72-epic-career-moments-cinematic-poster-template-by-goodmanprotocol)
+  - [Case 73: 前衛籃球雕塑時尚廣告 (by @AIwithkhan)](#case-73-avant-garde-basketball-sculpture-sports-fashion-ad-by-aiwithkhan)
+  - [Case 74: 前衛網球拍雕塑時尚廣告 (by @AIwithSynthia)](#case-74-avant-garde-tennis-racket-sculpture-sports-fashion-ad-by-aiwithsynthia)
+  - [Case 75: 超現實酒類品牌高級時尚海報 (by @hmontilla_)](#case-75-surrealist-liquor-brand-high-fashion-poster-by-hmontilla_)
+  - [Case 76: 高端美食食譜海報優雅排版 (by @Preda2005)](#case-76-premium-food-recipe-poster-elegant-layout-by-preda2005)
+  - [Case 77: 黑白高級時尚雜誌封面 (by @iamrealsnow)](#case-77-luxury-fashion-magazine-cover-black-and-white-by-iamrealsnow)
+  - [Case 78: 超現實 Rolex 奢華腕錶時尚海報 (by @Sheldon056)](#case-78-surrealist-rolex-luxury-watch-fashion-poster-by-sheldon056)
+  - [Case 79: 孔雀植物學復古對稱藝術畫 (by @dotey)](#case-79-peacock-botanical-vintage-symmetrical-art-print-by-dotey)
+  - [Case 80: SPLASH 時尚品牌超寫實廣告海報 (by @miratechtool)](#case-80-splash-fashion-brand-hyper-realistic-campaign-poster-by-miratechtool)
+  - [Case 81: 前衛吉他雕塑時尚廣告 (by @QamarRiaz1)](#case-81-avant-garde-guitar-sculpture-fashion-advertisement-by-qamarriaz1)
 - [角色設計案例](#角色設計案例)
   - [Case 1: Anime Snapshot Conversion (by @Thereallo1026)](#case-1-anime-snapshot-conversion-by-thereallo1026)
   - [Case 2: Persona5 Character Reference Card (by @iamrednightS)](#case-2-persona5-character-reference-card-by-iamrednights)
@@ -559,6 +584,106 @@ Scene set in an upscale villa driveway with light beige hexagonal stone pavement
 Negative Prompt:
 
 face changed, different identity, beautified face, edited face, smooth plastic skin, fake skin glow, wrong hairstyle, short hair, fade haircut, buzzcut, messy deformed hair, female features, muscular body, fat body, broad shoulders, bad anatomy, long neck, short legs, extra fingers, missing fingers, mutated hands, distorted arms, broken posture, crossed eyes, lazy eye, bad sunglasses, blurry face, low resolution, pixelated, noisy image, overexposed, underexposed, harsh shadows, unrealistic reflections, fake car shape, wrong car model, damaged car, extra wheels, warped Mustang logo, incorrect. proportions, bad pavement texture, background artifacts, duplicate objects, watermark, logo errors, text artifacts, cropped feet, cut car, unnatural perspective, CGI render, cartoon style, painting, Al artifacts, oversaturated colors, motion blur, lens distortion 1664x2080-ar 4:5
+```
+
+
+<!-- Case 26: Candid Bedroom Selfie Photorealistic Portrait (by @charliejhills) -->
+### Case 26: [臥室抓拍自拍寫實人像](https://x.com/charliejhills/status/2047969988368314526) (by [@charliejhills](https://x.com/charliejhills))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case26/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+Candid selfie of a young woman with shoulder-length honey-blonde hair with lighter highlights, green-grey eyes, rosy cheeks, and a natural no-makeup makeup look. She is wearing a light grey hoodie and looking slightly off-camera with a relaxed expression. Background shows a cosy bedroom with warm fairy lights strung on a pink wall, a unmade bed with tan bedding, and a small white desk with stacked books. Soft, warm ambient lighting. Photo-realistic, casual, intimate feel.
+```
+
+
+<!-- Case 27: Musician Leaving Bodega Night Cinematic Portrait (by @commanderdgr8) -->
+### Case 27: [夜晚雜貨店門口音樂人電影感人像](https://x.com/commanderdgr8/status/2047934886124867684) (by [@commanderdgr8](https://x.com/commanderdgr8))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case27/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+A candid, magazine-cover quality documentary photograph of a young musician with curly hair, casually carrying a worn guitar case, stepping out of a classic downtown bodega at 11 PM. The lighting features a complex mixed color temperature: a bright neon "OPEN" sign casts an intense, warm red glow across his face, while a yellow streetlamp provides a striking backlight behind him. The image perfectly emulates 35mm film shot on a Canon AE-1 with a 50mm f/1.4 lens wide open, exhibiting a shallow depth of field with the background beautifully blurred. It captures the exact aesthetics of CineStill 800T film, specifically featuring the distinctive soft red halation bloom radiating outward from the neon light sources, a tungsten white balance, and moody, slightly green-tinted shadows in the darkest areas. Cinematic night photography, photorealistic, highly detailed.
+```
+
+
+<!-- Case 28: Old Delhi Sweet Shop Storefront Documentary Photo (by @commanderdgr8) -->
+### Case 28: [舊德里糖果店門面紀實照片](https://x.com/commanderdgr8/status/2047889839123521635) (by [@commanderdgr8](https://x.com/commanderdgr8))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case28/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+Create a photorealistic travel-documentary image of a small sweet-shop storefront in Old Delhi at midday. A painted shop signboard above the door reads "मिठाई की दुकान" in large bold yellow hand-painted Devanagari on a deep red background, with "SWEET SHOP" in smaller roman letters beneath. Realistic hand-painted texture, slight wear, natural shadow. Authentic script proportion. Spelling and characters exact. No extra signage in frame, no watermark.
+```
+
+
+<!-- Case 29: Cyberpunk Sci-Fi Side Profile Portrait (by @iamsofiaijaz) -->
+### Case 29: [賽博龐克科幻側臉人像](https://x.com/iamsofiaijaz/status/2047882171336253928) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case29/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+A cinematic side-profile portrait of a rugged man with a tied-back bun and full beard, wearing round dark sunglasses and a textured leather jacket. His skin is detailed and slightly weathered. The background is a futuristic sci-fi interface filled with glowing orange and red data streams, star maps, celestial navigation diagrams, grids, and holographic UI elements. Fiery particle effects and ember-like energy swirl around him, creating a cosmic, high-tech atmosphere. Dark color palette with strong contrast, dramatic lighting, ultra-detailed, sharp focus, 8K, cyberpunk aesthetic, cinematic composition, depth of field.
+```
+
+
+<!-- Case 30: Realistic Candid Bedroom Recording Portrait (by @ChillaiKalan__) -->
+### Case 30: [臥室錄音隨拍寫實人像](https://x.com/ChillaiKalan__/status/2047862141894681076) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case30/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+A realistic young woman sitting casually in a softly lit bedroom during late afternoon.
+
+She is holding her phone very close to her face as if recording a private video or voice note.
+
+Framing is tight and slightly imperfect.
+
+Expression: thoughtful, slightly shy, natural.
+
+Minimal makeup, natural skin texture, relaxed clothing.
+
+Lighting: warm natural light fading from a window, soft shadows.
+
+Environment: simple bedroom, calm and lived-in.
+
+Style: ultra-realistic, looks like a real phone recording, slightly grainy, not cinematic.
+```
+
+
+<!-- Case 31: Toddler Crayon Scribble Art Style Portrait (by @akakageAI) -->
+### Case 31: [幼兒蠟筆塗鴉風格人像](https://x.com/akakageAI/status/2047812983389356276) (by [@akakageAI](https://x.com/akakageAI))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case31/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+(被写体) in the style of super bad child drawing, toddler art, scribbles, messy crayon lines on white background, completely lack of technique, terrible composition, chaotic colors, barely recognizable shapes, very raw, honest art, pure naivety, unrefined style, 4:3
+Negative:
+good drawing, nice lines, clear shapes, neat, pretty, smooth, realistic, talented art, coherent composition, artistic style, professional, skilled, masterpiece, beautiful, detailed
 ```
 
 ## 海報與插畫案例
@@ -1603,6 +1728,205 @@ generate an image of a racing car poster with its spec and pricing
 左边是 GPT-image-2 右边是
 ```
 
+
+<!-- Case 70: Luxury Sportswear Basketball Athlete Campaign Poster (by @Shorelyn_) -->
+### Case 70: [奢華運動服籃球運動員宣傳海報](https://x.com/Shorelyn_/status/2047949711181832558) (by [@Shorelyn_](https://x.com/Shorelyn_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case70/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+Create a premium luxury sportswear campaign poster featuring a confident female athlete in a modern studio environment. Full body pose with strong fashion attitude, standing tall while holding a basketball at her side, chin raised slightly, direct powerful expression. Athletic toned physique, sleek pulled back hair, clean glowing skin, sharp editorial posture.
+
+Outfit includes an oversized cropped varsity jacket, fitted sports bra, tailored biker shorts, white crew socks, and modern high top sneakers. Neutral monochrome styling with subtle premium branding.
+
+Background is a clean light gray studio wall with giant bold condensed black typography reading “POWER” stretched vertically across the backdrop behind the model. Text should feel oversized and dominant, framing the athlete in the center.
+
+Floor is glossy reflective studio surface with subtle court markings and soft reflections. A few basketballs placed naturally around the floor for depth and campaign styling.
+
+Lighting is bright luxury studio lighting with crisp highlights, soft shadows, and polished commercial finish. Sharp focus, ultra realistic skin texture, premium fabric texture, cinematic contrast.
+
+Style should feel modern, minimal, elite, bold, high fashion sports campaign, luxury brand advertisement, clean composition, balanced negative space, strong visual impact, high resolution, square format.
+```
+
+
+<!-- Case 71: Streetwear Fashion Campaign Asian Apparel Poster (by @harboriis) -->
+### Case 71: [街頭潮流時尚亞洲服飾海報](https://x.com/harboriis/status/2047921293123895520) (by [@harboriis](https://x.com/harboriis))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case71/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+Create a premium streetwear fashion campaign poster inspired by modern Asian apparel advertising. Full body portrait of a stylish young male model standing confidently with legs crossed at the ankles, hands inside jacket pockets, head turned slightly upward and sideways with a calm thoughtful expression. Curly tousled medium length hair with soft volume. Slim athletic build.
+
+Outfit includes a dark olive green padded hooded jacket worn open, clean white crewneck sweatshirt underneath with a tiny chest logo, relaxed black cargo style trousers, and minimal white sneakers. Styling is clean, youthful, and contemporary.
+
+Background is a vibrant electric blue seamless studio backdrop with subtle gradient lighting, soft glow streaks, and glossy floor reflection. Lighting is soft studio light with gentle shadows and polished commercial finish.
+
+Graphic poster layout with giant bold condensed sans serif text reading “JEANSWEST” vertically stretched across the background behind the model in light gray white. Add large text on lower right reading “JW26”. 
+
+Composition should feel premium, trendy, clean, commercial, youthful, modern fashion ad campaign. Sharp focus, ultra realistic fabric texture, cinematic lighting, balanced negative space, sleek branding design, high resolution, vertical poster ratio.
+```
+
+
+<!-- Case 72: Epic Career Moments Cinematic Poster Template (by @Goodmanprotocol) -->
+### Case 72: [史詩職業生涯電影感海報模板](https://x.com/Goodmanprotocol/status/2047900470921040270) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case72/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+Create an epic poster showcasing the most iconic moments of [Insert Name]'s career. Cinematic style, lens flare. Portrait orientation. A1 poster size. aspect ratio 4:5 https://t.co/L9OHPKUNRp
+```
+
+
+<!-- Case 73: Avant-Garde Basketball Sculpture Sports Fashion Ad (by @AIwithkhan) -->
+### Case 73: [前衛籃球雕塑運動時尚廣告](https://x.com/AIwithkhan/status/2047886964037398989) (by [@AIwithkhan](https://x.com/AIwithkhan))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case73/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+Avant-garde sports fashion advertisement, oversized basketball posed like a monumental sculpture, female athlete reclining across the ball’s curved surface as if modern furniture, giant word “ELEVATE” in bold typography behind, burnt orange studio backdrop, glossy reflective floor, luxury athletic editorial aesthetic, cinematic lighting, ultra-clean composition, 1:1
+```
+
+
+<!-- Case 74: Avant-Garde Tennis Racket Sculpture Sports Fashion Ad (by @AIwithSynthia) -->
+### Case 74: [前衛網球拍雕塑運動時尚廣告](https://x.com/AIwithSynthia/status/2047884609321619831) (by [@AIwithSynthia](https://x.com/AIwithSynthia))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case74/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+Avant-garde sports fashion advertisement, oversized tennis racket positioned like monumental sculpture, female athlete seated casually on the strings as if a suspended lounge, giant word “PRECISION” in bold typography behind, crisp white studio backdrop, reflective court-like floor, luxury sportswear editorial aesthetic, cinematic lighting, ultra-clean composition, 1:1
+```
+
+
+<!-- Case 75: Surrealist Liquor Brand High Fashion Poster (by @hmontilla_) -->
+### Case 75: [超現實主義烈酒品牌高級時尚海報](https://x.com/hmontilla_/status/2047884126343032995) (by [@hmontilla_](https://x.com/hmontilla_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case75/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+Un póster publicitario surrealista de alta costura para Aguardiente Amarillo. La escena se sitúa en un estudio minimalista y monocromático de color naranja claro, con un suelo semirreflectante.
+El foco central es una botella de Aguardiente Amarillo de tamaño descomunal y gigante, colocada en ángulo diagonal y que sirve como respaldo. Un modelo masculino de moda, de cabello largo y oscuro, vestido con un conjunto impecable y totalmente blanco —compuesto por una sudadera y pantalones de pierna ancha—, apoya toda su espalda contra la botella gigante en una postura relajada e inclinada. Mira hacia la derecha, de perfil, con la vista al frente y una expresión serena; calza zapatillas blancas de tamaño estándar.
+En el fondo, la palabra "AGUARDIENTE" aparece escrita con una tipografía sans-serif condensada, blanca, masiva y en negrita, parcialmente oculta por la botella gigante y por el modelo para crear una sensación de profundidad. En la esquina superior derecha se lee: "Creado por @HMontilla_".
+En la parte inferior central, una frase publicitaria en tipografía sans-serif blanca reza: "El Aguardiente Amarillo de Manzanares es un icónico licor colombiano, originario de 1885 en Manzanares, Caldas". La iluminación es suave, fría y uniforme, proyectando sombras tenues y un reflejo sutil de los sujetos sobre el suelo azul brillante. La estética general es limpia, moderna y de alto concepto.
+
+Establecer la relación de aspecto en 3:4.
+```
+
+
+<!-- Case 76: Premium Food Recipe Poster Elegant Layout (by @Preda2005) -->
+### Case 76: [高端美食食譜海報優雅排版](https://x.com/Preda2005/status/2047883394152088004) (by [@Preda2005](https://x.com/Preda2005))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case76/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+Create a premium food preparation poster for
+ [ DISH NAME ], with a beautiful hero dish, warm natural lighting, cream background, elegant step-by-step recipe layout, ingredients, cooking process, premium food photography, refined English typography, luxury restaurant advertisement style, clean design, rich colors, highly detailed, visually irresistible, cinematic masterpiece.
+```
+
+
+<!-- Case 77: Luxury Fashion Magazine Cover Black and White (by @iamrealsnow) -->
+### Case 77: [奢華時尚雜誌封面黑白攝影](https://x.com/iamrealsnow/status/2047883187527856345) (by [@iamrealsnow](https://x.com/iamrealsnow))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case77/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+Create a high fashion editorial magazine cover inspired by luxury fashion publications. Use the reference image of the male subject. Black and white portrait photography with a clean off white studio background. Subject is posed confidently from a low angle, looking slightly upward, sharp jawline, soft parted lips, tousled wavy hair with natural volume. Outfit includes a dark turtleneck layered under a textured tailored plaid blazer. Lighting is soft yet dramatic, creating sculpted facial shadows and elegant contrast.
+Magazine layout design with oversized serif masthead text at the top reading “VOGUE”, partially hidden behind the subject’s head. Minimal premium typography across the page. Add side text “FASHION”, issue date “2026 MAY”, left side headline “27 DIFFERENT STYLES”, and bold bottom right cover line “LOOK FAMOUS”. Include a small red translucent square overlay on one eye area with the word “CATCHY”.
+Style should feel premium, modern, cinematic, clean composition, sharp focus, ultra realistic skin texture, editorial luxury aesthetic, balanced negative space, timeless fashion cover design. Vertical magazine ratio, high resolution.
+```
+
+
+<!-- Case 78: Surrealist Rolex Luxury Watch Fashion Poster (by @Sheldon056) -->
+### Case 78: [超現實主義勞力士奢華腕錶時尚海報](https://x.com/Sheldon056/status/2047873913049538927) (by [@Sheldon056](https://x.com/Sheldon056))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case78/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+A high-fashion surrealist poster for Rolex. A deep emerald green minimalist studio with a polished reflective floor. A massive Rolex watch stands upright like a monument. A male model in a tailored dark green suit leans casually against the watch face, wearing a matching Rolex.
+```
+
+
+<!-- Case 79: Peacock Botanical Vintage Symmetrical Art Print (by @dotey) -->
+### Case 79: [孔雀植物復古對稱藝術版畫](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case79/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+symmetrical design featuring two elegant blue peacocks with detailed feather patterns, surrounded by blue floral elements, intricate vintage botanical ornament, soft beige background, classical floral decor style with rich navy and sky blue details, decorative art illustration --ar 3:2
+```
+
+
+<!-- Case 80: SPLASH Fashion Brand Hyper-Realistic Campaign Poster (by @miratechtool) -->
+### Case 80: [SPLASH時尚品牌超寫實宣傳海報](https://x.com/miratechtool/status/2047780974709346606) (by [@miratechtool](https://x.com/miratechtool))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case80/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+Create a hyper-realistic fashion poster for “SPLASH” featuring the same girl from the reference image (keep her face 100% identical). She is sitting confidently on a glossy, liquid-style 3D SPLASH logo with water splash effects. One leg relaxed, one bent, strong editorial pose.
+Background has massive bold “SPLASH” text filling the frame, partially behind her. Add small tagline: “Own Your Style.”
+Outfit: modern black street-fashion (blazer, fitted top, trousers, sneakers).
+Lighting: cinematic studio, soft key light + rim light, reflective highlights on liquid logo.
+Style: luxury brand campaign (Zara / H&M), clean glossy environment.
+Camera: 85mm lens, shallow depth of field, 8K, ultra-detailed, photorealistic.
+```
+
+
+<!-- Case 81: Avant-Garde Guitar Sculpture Fashion Advertisement (by @QamarRiaz1) -->
+### Case 81: [前衛吉他雕塑時尚廣告](https://x.com/QamarRiaz1/status/2047777016733110722) (by [@QamarRiaz1](https://x.com/QamarRiaz1))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case81/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a guitarist in jeans casually seated on the a button as if furniture, giant word "Plism Art" behind in bold white typography, powder pastel studio background, reflective floor, luxury eyewear campaign aesthetic, ultra-clean layout, editorial magazine styling, Bold quote " What are you listening"   Tag : Create Own Change
+```
+
 ## 角色設計案例
 
 <!-- Case 1: Anime Snapshot Conversion (by @Thereallo1026) -->
@@ -2186,6 +2510,153 @@ Create a landing page using this image as a reference for style and color gradin
 李佳琦直播间背景，口红矩阵展示墙，暖光氛围灯，文案OMG买它
 ```
 
+
+<!-- Case 44: Apple Pods Pro 3 Headphone E-Commerce Infographic (by @meng_dagg695) -->
+### Case 44: [Apple Pods Pro 3 頭戴耳機電商資訊圖](https://x.com/meng_dagg695/status/2047935217231663186) (by [@meng_dagg695](https://x.com/meng_dagg695))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case44/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+High-impact e-commerce infographic for "Apple Pods Pro 3" 
+premium wireless over-ear headphones.
+
+FOREGROUND - PRODUCT HERO SHOT
+Extreme close-up of a hand holding a sleek, 
+matte-white premium over-ear headphone toward the camera 
+at a slight angle. The headphone features:
+- Glossy white ear cushions with soft memory foam padding
+- Brushed aluminum silver headband with subtle Apple Pods 
+  Pro 3 embossed branding
+- Black mesh speaker grille visible on the ear cup face
+- A tiny glowing green LED status indicator on the 
+  right ear cup edge
+- Subtle touch-control icons etched on the outer cup surface
+
+Macro-lens shallow depth of field — hand and headphone 
+slightly blurred at edges to create cinematic depth. 
+Product remains razor-sharp in center frame.
+
+CENTRAL SUBJECT — MODEL
+In the mid-ground: a smiling young woman with freckles 
+and wavy pastel-pink hair. She wears:
+- A vibrant lime-green knit beanie
+- A psychedelic black and white-striped long-sleeve shirt
+- The white over-ear headphones resting stylishly 
+  around her neck (not on ears) — one hand casually 
+  touching the ear cup
+
+Expression: relaxed, confident, joyful. 
+She is glancing slightly off-camera with a natural smile.
+
+BACKGROUND & ATMOSPHERE
+Clean soft-focus studio backdrop — light gray gradient 
+fading to warm white at center. 
+
+Atmospheric overlays:
+- Diagonal rainbow prism lens flares cutting across 
+  upper-left to lower-right
+- Soft pastel light leaks in pink and yellow at corners
+- 4–5 blurred white over-ear headphones floating 
+  artistically in the background at various depths 
+  and rotation angles
+- Subtle bokeh circles from background studio lights
+
+Lighting: Soft professional three-point studio lighting. 
+Key light from upper-left, fill light right side. 
+Rim light behind model for separation. 
+Glossy highlights on headphone surfaces catching light naturally.
+
+TYPOGRAPHY & LAYOUT — Sans-Serif, Clean white 
+TOP CENTER (behind model, large background text):
+→ Massive bold oversized text: "HEADPHONES"
+   Semi-transparent white, spanning full width behind subject
+
+TOP RIGHT CORNER:
+→ Bold clean text: "Apple Pods Pro 3"
+   Subtitle smaller text: "Over-Ear Wireless"
+
+MID LEFT:
+→ Icon: small sound wave symbol
+→ Bold text: "Premium Sound"
+→ Sub-text: "Active Noise Cancellation + Transparency Mode"
+
+MID RIGHT:
+→ Extra-large bold numeral: "40"
+→ Smaller text below: "hours of battery life"
+
+LOWER LEFT:
+→ Extra-large bold numeral: "0"
+   with "to" beside it → then bold "100%"
+→ Sub-text: "Fast charge — 10 min = 3hrs playback"
+
+BOTTOM RIGHT:
+→ Extra-large bold numeral: "1"
+→ Sub-text: "Year Warranty Included"
+
+BOTTOM CENTER (fine print style):
+→ Small elegant text: 
+   "Bluetooth 5.4  |  Hi-Res Audio Certified  
+    |  Foldable Design  |  USB-C Charging"
+
+TECHNICAL SPECS
+Resolution: 8K ultra-sharp
+Style: Commercial product photography meets 
+       editorial fashion advertising
+Color Palette: White, lime green, pastel pink, 
+               rainbow prism accents
+Focus: Tack-sharp on headphone product — 
+       shallow DOF on everything else
+Lens: 85mm macro, slight low angle
+Render Quality: Hyperrealistic, clean ad aesthetic, 
+                vibrant yet professional color grading
+```
+
+
+<!-- Case 45: Apple Pods Pro 3 Earbuds E-Commerce Infographic (by @rovvmut_) -->
+### Case 45: [Apple Pods Pro 3 耳塞電商資訊圖](https://x.com/rovvmut_/status/2047912710365761828) (by [@rovvmut_](https://x.com/rovvmut_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case45/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+High-impact e-commerce infographic for "Apple Pods Pro 3" wireless earbuds.
+```
+
+
+<!-- Case 46: Beauty Product Commercial Marketing Photograph (by @AIwithSarah_) -->
+### Case 46: [美妝產品商業行銷攝影](https://x.com/AIwithSarah_/status/2047904483359760677) (by [@AIwithSarah_](https://x.com/AIwithSarah_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case46/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+A high-resolution commercial marketing photograph features a young woman with sleek dark hair and a pink ribbed top in a neutral grey studio setting, centered behind a glossy Ellie Beauty spray bottle held prominently in the foreground. The composition is energized by vibrant, lime-green graphic "swooshes" and floating pill-shaped callouts that highlight product features like "glossy finish" and "upto 450°F protection" in bold black sans-serif text. The lighting is professionally diffused, casting soft highlights on the model’s face while creating a sharp, vertical reflection on the metallic green-to-gold gradient bottle label. Topping the scene is a large, lime-green headline in the upper right asking, "What does it do?", altogether creating a clean, modern, and high-contrast aesthetic with a shallow depth of field that keeps the product and the model's focused expression in sharp relief.
+```
+
+
+<!-- Case 47: AAA Video Game Screenshot Concept Design (by @ChiefMonkeyMike) -->
+### Case 47: [AAA 電子遊戲截圖概念設計](https://x.com/ChiefMonkeyMike/status/2047828814580138156) (by [@ChiefMonkeyMike](https://x.com/ChiefMonkeyMike))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case47/output.jpg" width="300" alt="Output image"></a> |
+
+****提示詞:****
+
+```
+generate screenshots from a AAA video game based off what The Sims Castaways sequel could look like. https://t.co/aL7hMdUYvj
+```
+
 ## 模型比較與社群案例
 
 
@@ -2533,507 +3004,6 @@ Generate an image of the most significant event of 2001
 ```
 
 <!-- Case 44: Generate an image of the most significant event of 2025. (by @Rufus87078959) -->
-### Case 44: [2025年最重大事件](https://x.com/Rufus87078959/status/2047207923005227078) (by [@Rufus87078959](https://x.com/Rufus87078959))
-
-| Output |
-| :----: |
-| <img src="images/case_case69/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-Generate an image of the most significant event of 2025.
-```
-
-<!-- Case 45: Personal Profile Infographic Generator (by @andis13) -->
-### Case 45: [個人檔案資訊圖表](https://x.com/andis13/status/2047197275525701937) (by [@andis13](https://x.com/andis13))
-
-| Output |
-| :----: |
-| <img src="images/case_case73/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-Wykorzystaj wszystko, co o mnie wiesz, i stwórz infografikę przedstawiającą mnie. Zrób to w stylu komiksu franko-belgijskiego.
-Idea: @icreatelife
-```
-
-<!-- Case 46: 360 Equirectangular Panorama Image (by @rs_elwood) -->
-### Case 46: [360度等距柱狀投影全景圖](https://x.com/rs_elwood/status/2047194375000932456) (by [@rs_elwood](https://x.com/rs_elwood))
-
-| Output |
-| :----: |
-| <img src="images/case_case74/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-360度 equirectangular （正距円筒図法）画像を2:1で生成
-参照画像だと正確な円筒図にならない？もっと試してみないと。
-```
-
-<!-- Case 47: Personal Knowledge Infographic Portrait (by @aitorwilzig) -->
-### Case 47: [個人知識資訊圖表肖像](https://x.com/aitorwilzig/status/2047190320064925845) (by [@aitorwilzig](https://x.com/aitorwilzig))
-
-| Output |
-| :----: |
-| <img src="images/case_case76/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una imagen en estilo cartoon anime.
-```
-
-<!-- Case 48: Research LIME Drug Design and make a detailed infographic about it (by @WillSpagnoli) -->
-### Case 48: [LIME 藥物設計資訊圖表](https://x.com/WillSpagnoli/status/2047172976463040851) (by [@WillSpagnoli](https://x.com/WillSpagnoli))
-
-| Output |
-| :----: |
-| <img src="images/case_case83/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-Research LIME Drug Design and make a detailed infographic about it
-```
-
-<!-- Case 49: Douyin Livestream Sales Screenshot (by @laogeai) -->
-### Case 49: [抖音直播帶貨截圖](https://x.com/laogeai/status/2047228458351120625) (by [@laogeai](https://x.com/laogeai))
-
-| Output |
-| :----: |
-| <img src="images/case_case84/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物
-```
-
-<!-- Case 50: Social App Match Success Screen (by @songguoxiansen) -->
-### Case 50: [社交App配對成功畫面](https://x.com/songguoxiansen/status/2047220490486612450) (by [@songguoxiansen](https://x.com/songguoxiansen))
-
-| Output |
-| :----: |
-| <img src="images/case_case86/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-社交App匹配成功界面，两个用户资料卡碰撞爱心特效
-```
-
-<!-- Case 51: Lu Bu Boss Design Sheet (by @songguoxiansen) -->
-### Case 51: [呂布遊戲Boss設定圖](https://x.com/songguoxiansen/status/2047198090009190441) (by [@songguoxiansen](https://x.com/songguoxiansen))
-
-| Output |
-| :----: |
-| <img src="images/case_case91/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-吕布游戏Boss设定，赤兔马方天画戟，暗黑进化形态双形态对比
-```
-
-<!-- Case 52: Nezha Dark Fantasy Novel Cover (by @songguoxiansen) -->
-### Case 52: [哪吒暗黑玄幻小說封面](https://x.com/songguoxiansen/status/2047196508270084104) (by [@songguoxiansen](https://x.com/songguoxiansen))
-
-| Output |
-| :----: |
-| <img src="images/case_case92/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-玄幻小说封面，哪吒三头六臂悬浮虚空，火焰莲台底座，暗黑史诗风
-```
-
-<!-- Case 53: New Chinese Minimalist Floral Illustration (by @liyue_ai) -->
-### Case 53: [新中式極簡花卉插畫](https://x.com/liyue_ai/status/2047180347448914195) (by [@liyue_ai](https://x.com/liyue_ai))
-
-| Output |
-| :----: |
-| <img src="images/case_case93/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-新中式极简东方美学 × 高端商业插画，主题一花一世界，
-极简，克制，空灵，高级商业视觉，超现实东方意境，
-画面干净通透，无灰雾、无脏色，
-
-一朵巨大的荷花作为空间容器，从平静水面自然生长，轻微倾斜，构图优雅留白充足，
-
-低饱和干净粉色，柔和胭脂调，花瓣半透明，轻盈通透，
-哑光低对比，边缘柔化 + 轻微景深，
-
-荷花内部为唯一视觉焦点：发光的3D微缩广州城市，包含：广州塔，珠江新城建筑群，猎德大桥，珠江水岸，少量岭南建筑，
-
-城市超精细结构，真实材质，极高细节清晰度，城市高光是暖金色，城市阴影是冷青蓝，形成冷暖对比，
-
-灯光通透有能量，局部高饱和但不泛滥，城市亮度明显高于荷花，
-
-水面清澈极简平静，仅少量柔和涟漪，弱反射，
-
-背景暖米白宣纸质感，无水墨、无笔触，大面积留白，
-中心有极轻微光晕渐变，整体通透、不灰、不闷，
-
-画面下方一艘极简小船，船上一位红衣渔女，极小比例，
-静立仰望荷花，红色为唯一高纯度点缀，
-
-整体光线通透、干净、有层次，无灰雾、无泛白，
-高端CG商业插画，电影级真实光影，高动态范围，超精细，8K细节，ArtStation 级画质，强化分色，干净调色，青橙对比，暖高光冷暗部，仅城市灯光提亮饱和度，色调柔和通透，光影锐利明亮，无灰雾、无暗沉、无低饱和雾化。
-```
-
-<!-- Case 54: Su Daji Ancient-Style Glamour Portrait (by @nidiedeba) -->
-### Case 54: [蘇妲己古風寫真](https://x.com/nidiedeba/status/2047147223281270878) (by [@nidiedeba](https://x.com/nidiedeba))
-
-| Output |
-| :----: |
-| <img src="images/case_case94/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-苏妲己古风写真，红色纱衣半透，狐耳若隐若现，媚态撩人
-```
-
-<!-- Case 55: Lu Xun Morning Flowers Illustration (by @Aurora_62340) -->
-### Case 55: [魯迅《朝花夕拾》插畫](https://x.com/Aurora_62340/status/2047139992355680530) (by [@Aurora_62340](https://x.com/Aurora_62340))
-
-| Output |
-| :----: |
-| <img src="images/case_case95/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-结合鲁迅的《朝花夕拾》里的内容，生成一副图片，要求图片背景符合《朝花夕拾》的意境，背景图可以使用蒙版，前景是 鲁迅的全身画像位于图片左侧或右侧
-```
-
-<!-- Case 56: Subway Candid Phone Snapshot (by @AntCaveClub) -->
-### Case 56: [地鐵低頭看手機抓拍](https://x.com/AntCaveClub/status/2047136306485133428) (by [@AntCaveClub](https://x.com/AntCaveClub))
-
-| Output |
-| :----: |
-| <img src="images/case_case96/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-地铁上低头看手机的美丽女人，偷拍照片。
-
-能免费试一次 ⬇️
-```
-
-<!-- Case 57: China Aerospace Commemorative Stamp Sheet (by @songguoxiansen) -->
-### Case 57: [中國航天紀念郵票小全張](https://x.com/songguoxiansen/status/2047129703702802811) (by [@songguoxiansen](https://x.com/songguoxiansen))
-
-| Output |
-| :----: |
-| <img src="images/case_case97/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-中国航天纪念邮票小全张，火箭发射场景，烫金边框工艺
-```
-
-<!-- Case 58: Vertical Wuxia Heroine Portrait (by @CoderDaMing) -->
-### Case 58: [東方女俠武俠豎版肖像](https://x.com/CoderDaMing/status/2047127585256358221) (by [@CoderDaMing](https://x.com/CoderDaMing))
-
-| Output |
-| :----: |
-| <img src="images/case_case98/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-9:16 竖版，极致武侠风，绝美东方女侠，20岁出头，冷艳锐利丹凤眼，眉宇英气逼人，肤白如玉，长直黑发湿漉漉随狂风剧烈飞舞，几缕发丝贴在脸颊和颈侧，穿着湿透的深黑改良武侠劲装，外披宽袖玄色长袍，衣袍和长袖被风吹得剧烈飘扬翻飞，紧身劲装勾勒身材，腰束软剑带，足踏长靴，右手持一把古剑，剑身散发幽蓝剑气光芒，动态姿势：身体微侧回眸，衣袂猎猎，背景为月夜雨雾笼罩的竹林古道，巨大明月高悬，石板小径，古灯笼，薄雾雨丝，戏剧性冷月光与蓝光剑气结合，湿身水光效果，超强动态感，细腻布料褶皱、头发丝飘动、真实水珠反光，电影级光影，8k，masterpiece, best quality, ultra realistic, cinematic, dramatic atmosphere
-```
-
-<!-- Case 59: Realistic Guanyin Portrait from Buddhist Texts (by @Zhaoge01) -->
-### Case 59: [佛經觀音菩薩寫實肖像](https://x.com/Zhaoge01/status/2047123570485260753) (by [@Zhaoge01](https://x.com/Zhaoge01))
-
-| Output |
-| :----: |
-| <img src="images/case_case99/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-根据佛经对观音菩萨的形象描述，原原本本的还原一张真实的观音菩萨形象照片，皮肤与衣服接近真实，画质iPhone 15 pro
-```
-
-<!-- Case 60: Tang Dynasty Chang'an Lantern Festival Panorama (by @songguoxiansen) -->
-### Case 60: [唐代長安城元宵燈會全景](https://x.com/songguoxiansen/status/2047122441454096527) (by [@songguoxiansen](https://x.com/songguoxiansen))
-
-| Output |
-| :----: |
-| <img src="images/case_case100/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-唐代长安城元宵灯会全景，万盏花灯照亮夜空，工笔重彩长卷
-```
-
-<!-- Case 61: Historical Yang Guifei Realistic Portrait (by @Zhaoge01) -->
-### Case 61: [楊貴妃歷史寫實肖像](https://x.com/Zhaoge01/status/2047110776897638568) (by [@Zhaoge01](https://x.com/Zhaoge01))
-
-| Output |
-| :----: |
-| <img src="images/case_case101/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-根据真实历史对杨玉环的形象描述，生成一张杨贵妃真实照片，画质为iPhone 15 pro
-```
-
-<!-- Case 62: Surreal Japanese Futuristic City Illustration (by @Tresmort) -->
-### Case 62: [超現實日式未來都市插畫](https://x.com/Tresmort/status/2047105322863460496) (by [@Tresmort](https://x.com/Tresmort))
-
-| Output |
-| :----: |
-| <img src="images/case_case102/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-参考这张图的透视和风格，绘制一张更加精细的超高清插画，表现超现实主义的日式未来都市，要能看清很小的细节，包括街道上的传统文化游行的人，小巷里的黑帮，烟花巷的舞女，疲惫的社畜，楼房的窗户里也有各式各样的人物，学习的学生，吵架的夫妻，玩游戏的宅男，以及更多的发挥细节。讽刺现实拥挤中的无聊，都市繁华下的孤独，无意义的人生中又有一种病态的美感。画面要有极高的审美价值 ，不能因为拼内容而损失美和协调感，比例是9:16
-```
-
-<!-- Case 63: Tushan Yaya Fantasy Glamour Portrait (by @sdjn_wgc) -->
-### Case 63: [塗山雅雅奇幻寫真](https://x.com/sdjn_wgc/status/2046981757325475954) (by [@sdjn_wgc](https://x.com/sdjn_wgc))
-
-| Output |
-| :----: |
-| <img src="images/case_case107/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-狐妖小红娘涂山雅雅写真大片，粉色九尾狐裘紧身裙，媚眼如丝，红唇微张，极致妖媚
-```
-
-<!-- Case 64: Douyin Livestream Sales Screenshot (by @LVWANGJI_0327) -->
-### Case 64: [抖音直播帶貨截圖](https://x.com/LVWANGJI_0327/status/2046974302227206525) (by [@LVWANGJI_0327](https://x.com/LVWANGJI_0327))
-
-| Output |
-| :----: |
-| <img src="images/case_case108/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物
-```
-
-<!-- Case 65: Eastern Fantasy Female Half-Portrait (by @liyue_ai) -->
-### Case 65: [東方幻想風格女性半身肖像](https://x.com/liyue_ai/status/2046962895775580442) (by [@liyue_ai](https://x.com/liyue_ai))
-
-| Output |
-| :----: |
-| <img src="images/case_case109/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-东方幻想风格女性，半身肖像，回眸侧脸，气质空灵优雅，柔和神性美感，细腻五官，微垂眼神，冷白细腻肌肤，淡雅橘粉妆容，金色高光点缀
-
-长发飘动，发丝中融入彩色花朵与光粒（红、蓝、橙、紫），头发具有流动感与空气感
-
-身穿半透明丝绸礼服与披肩，材质轻盈通透，布料随风飘动，表面带有鎏金纹理与闪耀颗粒。
-
-整体光影为暖金色逆光，强边缘光，体积光明显，光粒漂浮，柔光泛光，梦幻氛围
-
-背景干净浅色渐变，带微光与粒子效果，整体氛围空灵、梦境、神圣
-
-风格：高端CG插画，超精细，电影级光影，柔光渲染，8K细节，artstation 热门作品风格
-```
-
-<!-- Case 66: Vertical Artistic Portrait of a Young Eastern Woman (by @zhiyangzhu22222) -->
-### Case 66: [年輕東方女性豎版藝術肖像](https://x.com/zhiyangzhu22222/status/2046952985562062888) (by [@zhiyangzhu22222](https://x.com/zhiyangzhu22222))
-
-| Output |
-| :----: |
-| <img src="images/case_case110/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-9:16 竖向构图，单人女性艺术肖像，年轻东方女生，五官清秀，脸部线条柔和，皮肤自然通透，保留真实肌理，气质安静高级，带一点疏离感和故事感。
-摄影棚风格与自然光融合，柔和侧光，面部有细腻高光，阴影轻柔，整体光线通透不刺眼，带轻微黑雾滤镜效果，微朦胧、微泛光、空气感强。
-背景极简干净，奶油灰、米白、浅卡其或雾感暖灰色墙面，留有大面积负空间，整体画面简洁、有呼吸感。
-模特坐在地面或低台上，一条腿自然弯曲，一条腿放松伸展，身体轻微前倾或侧倾，肩膀不对称，头部轻轻倾斜，动作自然松弛，不刻意摆拍。
-表情平静克制，眼神柔和，略微疏离，带一点若有所思的情绪，嘴唇自然微张或轻闭，状态慵懒、安静、细腻。
-发型为自然蓬松的长发，微凌乱碎发，发丝轻柔，有空气感和层次感，像刚整理过但保留自然随性感。
-妆容为高级淡妆，韩系清透底妆，皮肤柔雾光泽，鼻梁与面颊有自然高光，眉形干净，眼妆淡雅但有神，睫毛纤长，唇色为低饱和玫瑰豆沙色或奶茶裸粉色。
-服装为简约高级风：米白色紧身罗纹针织背心，外搭宽松白衬衫或柔软针织开衫，下装为高腰半裙或简约短裤，布料柔软贴合身形但不过分暴露，呈现自然身体线条与文艺感。
-画面强调细腻质感、柔和色调、轻法式与韩系杂志感结合，真实摄影感，电影级肤色，细节丰富，层次分明，构图克制，高级审美，时尚 编辑人像，柔和的电影感人像，细腻的质感，超高细节，逼真，优雅，精致，高端时尚摄影，含蓄的性感，简洁的构图。
-```
-
-<!-- Case 67: Autobots Assembled at Lunar Base (by @songguoxiansen) -->
-### Case 67: [汽車人月球基地集結](https://x.com/songguoxiansen/status/2046952548469530716) (by [@songguoxiansen](https://x.com/songguoxiansen))
-
-| Output |
-| :----: |
-| <img src="images/case_case111/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-图片1：汽车人全员月球基地集结，地球悬于身后星空，赛博坦旗帜飘扬
-
-图片2：霸天虎全员列阵外星战舰甲板，威震天坐于王座俯视全军
-```
-
-<!-- Case 68: Naturalist-Style Food Specimen Cross-Section (by @GeekCatX) -->
-### Case 68: [博物學風格食物標本解剖圖](https://x.com/GeekCatX/status/2046939656244318676) (by [@GeekCatX](https://x.com/GeekCatX))
-
-| Output |
-| :----: |
-| <img src="images/case_case112/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-一颗/一块/一枚【食物名称】，以博物学大师发现野外标本的方式解剖。
-剖开、展开、固定——如同博物馆的珍贵藏品，
-却以卡拉瓦乔为《国家地理》掌镜时的光线照亮。
-每一个内部结构都以自身的材质真相发光。
-截面锋利得近乎暴力。内部美丽得近乎神圣。
-画面中呈现完整标本：
-一半保持原状，展示【外表面描述：质感/颜色/纹理】；
-另一半剖开至核心，【内部核心结构描述：最重要的1—2个内部视觉特征】清晰可见。
-【补充1—2句该食物最具视觉张力的横截面细节描述】
-背景：纯粹的黑丝绒。
-【食物名称】悬浮其中，如同某件珍贵而危险的事物。
-标注文字紧贴结构边缘，手写感衬线字体，绝不悬空飘浮。
-画面包含以下标注，每处标注三行：第一行结构名称，第二行成分数据，第三行一句人话：
-【结构01名称】
-【成分／数据说明】
-【这个结构在做什么，为什么重要】
-
-【结构02名称】
-【成分／数据说明】
-【这个结构在做什么，为什么重要】
-【结构03名称】
-【成分／数据说明】
-【这个结构在做什么，为什么重要】
-【结构04名称】
-【成分／数据说明】
-【这个结构在做什么，为什么重要】
-【结构05名称】
-【成分／数据说明】
-【这个结构在做什么，为什么重要】
-
-【结构06名称】
-【成分／数据说明】
-【这个结构在做什么，为什么重要】
-省略其他如果有继续保持这个格式
-主标题，左上角，暖象牙白大写字体：
-【食物名称】·解剖
-
-斜体副标题紧随其下：
-【一句揭示这种食物本质的话，不超过15字】
-
-整体气质：奥杜邦博物插画×卡拉瓦乔光影×有史以来最美的科学摄影。
-4K精度，标本照明，极致内部细节。
-没有任何临床感，一切都鲜活。
-写实风格，非示意图，非卡通，非简化图解。
-每一种材质都有真实的物理质感：
-粗糙的、光滑的、湿润的、干燥的、致密的、疏松的。
-```
-
-<!-- Case 69: Polaroid Frame Breakout Scene (by @MajaDesignJP) -->
-### Case 69: [寶麗來相框突破場景](https://x.com/MajaDesignJP/status/2047235632934928765) (by [@MajaDesignJP](https://x.com/MajaDesignJP))
-
-| Output |
-| :----: |
-| <img src="images/case_case113/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-ポラロイド写真の中に人が写っていて、その人がフレームから外に飛び出している画像。日本語が書いてある画像生成して
-
-←下の画像
-GPT Image-2で生成したやつ→
-```
-
-<!-- Case 70: 2D Anime Character Real-World Grid Scenes (by @seiiiiiiiiiiru) -->
-### Case 70: [2D動漫角色現實世界網格場景](https://x.com/seiiiiiiiiiiru/status/2047227021156356500) (by [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru))
-
-| Output |
-| :----: |
-| <img src="images/case_case114/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。
-```
-
-<!-- Case 71: Poster-to-Trailer Concept Prompt (by @os_shim) -->
-### Case 71: [海報轉預告片概念](https://x.com/os_shim/status/2047130379409400148) (by [@os_shim](https://x.com/os_shim))
-
-| Output |
-| :----: |
-| <img src="images/case_case115/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」
-```
-
-<!-- Case 72: Rubber Duck Boy Live-Action Movie Poster (by @mirai_ai2050) -->
-### Case 72: [橡皮鴨男孩真人電影海報](https://x.com/mirai_ai2050/status/2046944941583270341) (by [@mirai_ai2050](https://x.com/mirai_ai2050))
-
-| Output |
-| :----: |
-| <img src="images/case_case116/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-可愛いラバーダックの男の子「ルヒア(RUHiA)」が日本を目指して大冒険をして日本人女性の「ミライ」と出会うまでの物語。それを実写映画のポスターのようにして。
-
-参照画像入れてないのに女性もミライの雰囲気に似てない？
-```
-
-<!-- Case 73: Tomato E-Commerce Product Image Set (by @Adam38363368936) -->
-### Case 73: [番茄電商產品圖片套組](https://x.com/Adam38363368936/status/2047165092253532461) (by [@Adam38363368936](https://x.com/Adam38363368936))
-
-| Output |
-| :----: |
-| <img src="images/case_case117/output.jpg" width="300" alt="Output image"> |
-
-**提示詞:**
-
-```
-/gpt-image-2 帮我生成关于西红柿的全套产品电商介绍图片
-
-使用地址
-```
-
-## 致謝
-
-本倉庫受到優秀的開源提示詞集合以及社群分享的 GPT-Image-2 實驗案例啟發。
-
-感謝所有公開分享作品、讓這些案例研究得以成立的創作者與貢獻者。
-
-[@BubbleBrain](https://x.com/BubbleBrain), [@iam_miharbi](https://x.com/iam_miharbi), [@Shinning1010](https://x.com/Shinning1010), [@patrickassale](https://x.com/patrickassale), [@Zoulinshen](https://x.com/Zoulinshen), [@WolfRiccardo](https://x.com/WolfRiccardo), [@Panda20230902](https://x.com/Panda20230902), [@liyue_ai](https://x.com/liyue_ai), [@blanplan](https://x.com/blanplan), [@4WEB1](https://x.com/4WEB1), [@lilimliliychan](https://x.com/lilimliliychan), [@Thereallo1026](https://x.com/Thereallo1026), [@iamrednightS](https://x.com/iamrednightS), [@09lyco](https://x.com/09lyco), [@tsubaki_ew](https://x.com/tsubaki_ew), [@Toshi_nyaruo_AI](https://x.com/Toshi_nyaruo_AI), [@yyu_hase](https://x.com/yyu_hase), [@austinit](https://x.com/austinit), [@MrLarus](https://x.com/MrLarus), [@rionaifantasy](https://x.com/rionaifantasy), [@alanblogsooo](https://x.com/alanblogsooo), [@SKA_Neotype](https://x.com/SKA_Neotype), [@desds1678](https://x.com/desds1678), [@samifox_ai](https://x.com/samifox_ai), [@HuliJason](https://x.com/HuliJason), [@MikelEcheve](https://x.com/MikelEcheve), [@chetaslua](https://x.com/chetaslua), [@signedbywill](https://x.com/signedbywill), [@zerolu_eth](https://x.com/zerolu_eth), [@Cheney_NehcOal](https://x.com/Cheney_NehcOal), [@cnzoecomeback](https://x.com/cnzoecomeback), [@linxiaobei888](https://x.com/linxiaobei888), [@old_pgmrs_will](https://x.com/old_pgmrs_will), [@kotsu_kotsu_san](https://x.com/kotsu_kotsu_san), [@samayousakadaru](https://x.com/samayousakadaru), [@saskr_13](https://x.com/saskr_13), [@kawai_design](https://x.com/kawai_design), [@otohitoyuuki](https://x.com/otohitoyuuki), [@jrpj2010](https://x.com/jrpj2010), [@CEs7J0Mfn8x37k5](https://x.com/CEs7J0Mfn8x37k5), [@pfanis](https://x.com/pfanis), [@yssrski](https://x.com/yssrski), [@overseas58](https://x.com/overseas58), [@opc_8838](https://x.com/opc_8838), [@RitaStar1128](https://x.com/RitaStar1128), [@Yuupapa_free](https://x.com/Yuupapa_free), [@tebasaki3D](https://x.com/tebasaki3D)
-
-*我們無法保證每個案例都已準確歸屬於原始創作者。如需更正，請聯絡我們，我們會及時更新。*
-
-如果你還有更多有趣的 GPT-Image-2 提示詞案例，歡迎聯絡我們，一起擴充 Evolink 的提示詞庫。
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gpt-image-2-prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gpt-image-2-prompts&Date)

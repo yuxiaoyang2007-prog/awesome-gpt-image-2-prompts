@@ -862,3 +862,237 @@ GPT-Image-2的一个妙用形象 这个提示词是一个老哥发我的 我试�
 A super simple workflow: 2 character images → GPT Image 2.0 storyboard → Seedance 2.0 animation. Just upload two character images and use the prompt below in GPT Image 2.0 to generate a full storyboard on a single page. Prompt: Create a clean, colorful storyboard poster in a 3x4 grid layout with 12 panels on a single page. Title at the top: "[MAIN TITLE]" Each panel must include: a scene number in a small circle, a short scene title, a colorful illustrated image, a 1–2 line description under the image. Main characters must remain visually consistent across all 12 panels: Character 1: [describe main character in detail] Character 2: [describe second character in detail] Theme/story: [overall story theme] Scene breakdown: [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] Design style: cute 3D animated storybook style, warm emotional lighting, bright colors, soft shadows, child-friendly, clean panel borders, readable typography, neat poster composition, high detail. Important: Keep all 12 panels inside one single image. Make the layout clean and balanced. Keep the characters consistent in face, outfit, and colors. Make the text readable and properly placed. No cropped panels. No extra characters unless mentioned. Then upload that storyboard to Seedance 2.0 and use this prompt: Prompt: Generate a scene using the shots in the uploaded film storyboard. No text on screen. That’s it.
 ```
 
+<!-- Case 125: Brand Collage Social Template (by @aiistudiocom) -->
+### Case 125: [Brand Collage Social Template](https://x.com/aiistudiocom/status/2051241633921049024) (by [@aiistudiocom](https://x.com/aiistudiocom))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case125/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+[BRAND NAME = CHANGE TO YOUR BRAND].
+Act as a Social Media Art Director and Digital Collage Artist specializing in bold, youth-oriented brand content for Instagram and digital campaigns. PHASE 1: CONCEPTUAL FRAMEWORK Create a dynamic digital collage that merges fashion photography with graphic design chaos. This is controlled rebellion – a composition that feels spontaneous and energetic while maintaining brand coherence. The aesthetic is anti-polished: torn edges, layered textures, hand-drawn elements, and bold color blocking that screams confidence and movement. PHASE 2: MODEL & PHOTOGRAPHY - Subject: One model (diverse casting, age 18-30) in a dynamic, confident pose - Pose Energy: 80% attitude, 20% natural – sitting, jumping, mid-motion, or power stance (avoid static standing) - Outfit: Street style/athleisure that aligns with [BRAND NAME] aesthetic – casual but styled - Hero Product: Feature 1 signature [BRAND NAME] product prominently (sneakers, bag, apparel) – this is the visual anchor - Photography Style: Editorial fashion cutout – model extracted from background with clean edges - Camera Angle: Slight low angle to empower subject (hero perspective) - Crop: Full body or 3/4 body showing hero product clearly - Background Removal: Model cut out cleanly for layering over collage elements PHASE 3: COLOR BLOCKING FOUNDATION - Primary Color Blob: Large organic shape (40-60% of composition) in bold, saturated brand color behind/around model - Shape Style: Irregular, hand-painted aesthetic – think Photoshop brush strokes or torn paper texture (NOT perfect geometric shapes) - Color Selection (Autonomous): Choose 1 hero color from [BRAND NAME] palette: - Texture: Visible brush strokes, grain, or subtle noise (15-25% opacity) – avoid flat digital fills - Placement: Blob positioned to frame model without obscuring key product details PHASE 4: GRAPHIC ELEMENTS LAYER Add 3-5 abstract graphic elements scattered across composition: - Element Types: - Color Palette: Use 2-3 accent colors total (main blob color + 1-2 contrasting tones from brand palette) - Placement: Asymmetric scatter – top-left and bottom-right zones primarily (avoid center crowding) - Scale: Mix small (5% of canvas) and medium (15% of canvas) elements – nothing overpowering - Aesthetic: Analog/handmade feel – imperfect circles, rough edges, visible texture PHASE 5: TYPOGRAPHY INTEGRATION - Brand Logo: Clean [BRAND NAME] logo placed in upper-left or upper-right quadrant (10-15% of width) - Slogan/Tagline: If [BRAND NAME] has an iconic slogan, integrate it using: - Supporting Copy: Optional 1-line descriptor (e.g., "A MOMENT OF YOUR STYLE") in smaller uppercase sans-serif - Type Treatment: Mix of aligned and slightly rotated text (2-5° angles) for dynamic energy - Hierarchy: Logo largest → Slogan medium → Copy smallest PHASE 6: TEXTURE & BACKGROUND - Base Layer: Off-white or light gray textured background (NOT pure white) - Texture Options (Autonomous selection): - Color: RGB 245-250 (near-white with warmth) – maintains brightness while adding depth - Treatment: Texture should be felt, not seen – enhances tactility without competing with foreground PHASE 7: COMPOSITION RULES - Layout: Asymmetric balance – model off-center, graphic elements counter-balance - Breathing Room: 15-20% negative space (textured background visible) to prevent claustrophobia - Layering Order: Background texture → Color blob → Graphic elements → Model (cutout) → Typography top layer - Focal Point: Model + hero product = primary focus (60% visual weight), graphics support (40%) - Movement: Diagonal lines and angled elements create directional flow (top-left to bottom-right or vice versa) PHASE 8: BRAND INTELLIGENCE (AUTONOMOUS) Autonomously adapt composition based on [BRAND NAME] personality: - Streetwear/Sportswear (Nike, Adidas, Supreme): - Luxury Streetwear (Balenciaga, Off-White, Gucci): - Beauty/Lifestyle (Glossier, Fenty, Skims): - Tech/Modern (Apple, Tesla, Beats): PHASE 9: SOCIAL MEDIA FOOTER (OPTIONAL) - Bottom Strip: Clean white or light gray bar at bottom 8-10% of frame - Content: Social media handles (Instagram, Facebook, Twitter) in small sans-serif - Layout: Three-column grid with platform icons or text handles - Aesthetic: Minimal and professional – contrast with chaotic collage above TECHNICAL SPECS: - Aspect Ratio: 4:5 (Instagram feed) or 1:1 (square social post) - Resolution: 2400x3000px minimum (high-quality for zoom and detail) - Color Mode: sRGB, vibrant saturation (Instagram-optimized) - File Aesthetic: Digital collage that mimics analog craft (Photoshop + hand-drawn hybrid) - Model Photography: 85mm lens, f/2.8, shallow depth of field on original shoot (before cutout) - Style Reference: Nike social campaigns, Spotify wrapped graphics, Gen Z Instagram aesthetics, Hypebeast x streetwear collabs - Mood: Confident, energetic, youthful, authentic chaos, anti-corporate polish
+```
+
+<!-- Case 126: Outfit Breakdown Chart (by @Shinning1010) -->
+### Case 126: [Outfit Breakdown Chart](https://x.com/Shinning1010/status/2051230882069901713) (by [@Shinning1010](https://x.com/Shinning1010))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case126/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a clean vertical fashion infographic from the uploaded portrait. Preserve the same face identity, hairstyle, body shape, and overall outfit style. Place the full-body character in the center in a relaxed T-pose, facing forward. Surround the character with realistic photo-style outfit breakdown elements, connected by thin arrows.
+
+Include separate cutout sections for: head details, cardigan, sailor top, inner blouse, plaid skirt, bag, socks, loafers, color palette, styling notes, and fabric texture. Add 3–4 head close-ups from different angles at the top. Use short English handwritten-style labels and concise bullet points.
+
+Visual style: soft pastel cream and blush-pink background, clean fashion board layout, elegant magazine-style composition, sweet preppy aesthetic, realistic fabric textures, delicate borders, small bow and heart doodles, airy and polished design. Keep the text short, readable, and fully in English. Original vertical aspect ratio.
+
+Negative Prompt:
+
+Chinese text, long text, messy layout, old parchment background, yellow aged paper, blurry details, distorted face, changed identity, extra limbs, bad hands, duplicated body, unrealistic fabric, cartoon style, anime style, 3D render, watermark, logo, unreadable typography, overcrowded design, harsh colors, low resolution.
+```
+
+<!-- Case 127: Recipe Infographic Layout (by @aiistudiocom) -->
+### Case 127: [Recipe Infographic Layout](https://x.com/aiistudiocom/status/2051060312351342957) (by [@aiistudiocom](https://x.com/aiistudiocom))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case127/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-down view, minimal style on white background, ingredient photos labeled: "200g spaghetti", "150g mushrooms", "3 garlic cloves", "200ml cream", "1 tbsp olive oil", "parmesan", "parsley", dotted lines showing process steps with icons (boiling pot, sauté pan, mixing), final plated pasta shot at the bottom
+```
+
+<!-- Case 128: Personal Color Analysis Graphic Board (by @ZaraIrahh) -->
+### Case 128: [Personal Color Analysis Graphic Board](https://x.com/ZaraIrahh/status/2049730770474877234) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case128/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a personal color analysis graphic using this portrait. Point out which season colour suits the subject best. Show side-by-side clothing color comparisons to highlight which colors suit the subject best. List out what texture/accessories/hairstyle suit the subject best. Make it visual-first, with short labels only and no paragraphs.
+```
+
+<!-- Case 129: Futuristic Hall Fashion Shot Sequence (by @weiinberg) -->
+### Case 129: [Futuristic Hall Fashion Shot Sequence](https://x.com/weiinberg/status/2049730563393884265) (by [@weiinberg](https://x.com/weiinberg))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case129/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Frame 1 (Top-Down Establishing)
+Extreme top-down shot in futuristic white curved hall, subject centered but compressed against smooth reflective floor, body aligned straight but slightly angled, arms close to body with subtle tension, head tilted upward toward camera, gaze directed straight up, strong circular architectural lines framing composition, soft studio lighting creating gentle gradients, shallow depth of field at f/1.2, smartphone-like proximity despite height, clean minimal atmosphere, dynamic opening frame, subtle athletic readiness, wearing full beige suit with white t-shirt and white sleek sneakers, Peter Lindbergh influence
+Frame 2 (Low Angle Power)
+Extreme low angle from floor level, subject towering above camera, legs forming strong base, torso slightly leaning forward, shoulders squared, arms slightly away from body, head angled downward, gaze into lens, strong vertical distortion, reflective floor amplifying silhouette, soft studio lighting with controlled highlights, shallow depth f/1.2, powerful dominance frame, subtle athletic tension, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+Frame 3 (Wide Isolation)
+Wide long shot, subject very small within vast futuristic hall, surrounded by curved white architecture, large negative space dominating composition, subject standing still, body straight, arms relaxed but structured, head slightly turned, gaze outward into space, minimal reflections, soft even lighting, shallow depth f/1.2 isolating subject despite distance, cinematic silence, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+Frame 4 (Dynamic Close-Up Tilt)
+Close-up with strong diagonal tilt, subject leaning into frame, shoulders sharply angled, one arm crossing body, head tilted sideways, gaze slightly off camera, tight crop cutting part of body, soft lighting wrapping contours, shallow depth f/1.2 isolating face plane, intense proximity and tension, full beige suit, white t-shirt visible, Peter Lindbergh influence
+Frame 5 (Motion Step Forward)
+Mid shot, subject stepping forward dynamically, one leg extended, weight shifting, arms slightly swinging with controlled motion, shoulders rotated, head facing forward, gaze ahead, slight motion blur on edges, futuristic curved walls passing behind, soft studio lighting, shallow depth f/1.2, transitional energy frame, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+Frame 6 (Final Grounded Frame)
+Full body frontal shot, subject standing firmly, legs slightly apart, arms held with controlled tension, shoulders squared, head facing forward, gaze into camera, symmetrical composition slightly offset, minimal futuristic background, soft lighting emphasizing structure, shallow depth f/1.2, strong final impact frame, subtle athletic readiness, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+
+Negative Commands (apply to all frames):
+no text, no watermark, no low quality, no cartoonish style
+
+Aspect Ratio: 3:4
+```
+
+<!-- Case 130: Annotated Coffee Table Mood Board (by @Ciri_ai) -->
+### Case 130: [Annotated Coffee Table Mood Board](https://x.com/Ciri_ai/status/2049721047696732550) (by [@Ciri_ai](https://x.com/Ciri_ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case130/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Use the uploaded photo as the main base image.
+
+Based on the coffee, drinks, desserts, plates, props, table setting, and overall composition shown in the image, create an aesthetic and emotional result that naturally reflects the real elements in the photo. Do not add any people. Stay true to the actual types of food and drinks, their arrangement, and the atmosphere captured in the original image.
+
+Then, carefully observe each element in the photo and add hand-drawn style annotations that match each subject:
+
+Use white pen-style sketch lines with a rough, slightly uneven, hand-drawn feel
+
+Include object outlines, arrows, and dotted lines to guide visual flow
+
+Add short handwritten Korean notes in a casual, introspective, emotional tone
+
+For drinks: describe taste, temperature, and mood
+
+For desserts: describe texture and flavor
+
+For the space: describe the ambiance
+
+Include a short overall summary of the scene
+
+Subtly incorporate small details like steam, sparkles, hearts, or tiny emotive symbols
+
+Maintain a clean, spacious layout with an Instagram story or magazine memo-like aesthetic
+
+The final result should look like an emotionally styled version of the original photo, without forcing in any elements that don’t naturally belong to it
+```
+
+<!-- Case 131: High-Fashion Beverage Campaign Board (by @SPEEDAI07) -->
+### Case 131: [High-Fashion Beverage Campaign Board](https://x.com/SPEEDAI07/status/2049713995851202786) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case131/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a high-fashion editorial beverage campaign set on a minimalist rooftop at golden hour. Ultra-clean composition with strong negative space, warm sun flare, and soft shadows.
+
+A stylish male model with sharp features and effortless confidence is posed like a fashion editorial—slightly turned away, sipping from the can. He wears elevated linen tailoring in monochrome cream tones, partially unbuttoned, with subtle jewelry.
+
+Foreground: a sculptural stone pedestal holding a large hero can of AURELIS – Blood Orange Basil, hyper-detailed with condensation and botanical artwork.
+
+Typography is bold, oversized, and editorial: GOOD DAYS IN EVERY CAN
+
+Use refined serif typography with dramatic scale and spacing. Keep layout asymmetrical and magazine-like.
+
+Add subtle microcopy: “Botanical. Bright. Made to sparkle.”
+
+Minimal icons (thin line style): LOW SUGAR / REAL FRUIT / LIGHTLY SPARKLING / 12 OZ
+
+Bottom strip: 3 cans styled like a luxury product lineup with fruit + herbs arranged like still life photography:
+
+Blood Orange Basil
+
+Peach Ginger
+
+Lime Mint
+
+CTA: SHOP FLAVORS →
+
+Style: Vogue campaign, luxury branding, cinematic lighting, ultra-realistic, muted tones, high contrast, premium finish.
+Aspect ratio: vertical (4:5 or 9:16)
+
+🌿 2. Minimal Premium (Apple-style)
+
+Prompt:
+
+Create a minimalist premium beverage ad with a sunlit rooftop setting and extremely clean composition.
+
+Background: soft gradient sky with warm golden-hour tones, minimal distractions, large negative space.
+
+A relaxed male model sits casually, taking a sip from the can. Wardrobe: simple, modern, neutral linen outfit.
+
+Centerpiece: a large floating or pedestal-mounted can of AURELIS – Blood Orange Basil, perfectly lit with soft reflections and visible condensation.
+
+Typography: SUN IN EVERY SIP
+
+Use modern minimal typography, centered, with generous spacing.
+
+Supporting line: “Real botanicals. Effortless refreshment.”
+
+Icons aligned horizontally: LOW SUGAR • REAL FRUIT • LIGHTLY SPARKLING • 12 OZ
+
+Bottom section: 3 cans evenly spaced, perfectly aligned with subtle shadows:
+
+Blood Orange Basil
+
+Peach Ginger
+
+Lime Mint
+
+CTA button (pill-shaped): SHOP FLAVORS
+
+Style: Apple-level minimalism, ultra-clean layout, soft gradients, modern luxury, highly polished product rendering.
+Aspect ratio: vertical (4:5 or 9:16)
+
+🍊 3. Bold Gen Z Premium Version
+
+Prompt:
+
+Create a bold, scroll-stopping vertical beverage ad set on a rooftop during golden hour with vibrant citrus energy.
+
+Lighting: warm, saturated sunlight, glowing highlights, high contrast.
+
+A confident male model drinks directly from the can mid-action, candid and dynamic.
+
+Hero can: oversized, slightly exaggerated scale on a textured stone pedestal, covered in condensation.
+
+Typography: DRINK THE SUN
+
+Use large, expressive typography with strong contrast (deep green + burnt orange), slightly overlapping layout.
+
+Tagline: “Fresh. Bright. Addictive.”
+
+Feature icons arranged dynamically: LOW SUGAR
+REAL FRUIT
+LIGHTLY SPARKLING
+12 OZ
+
+Bottom: 3 cans with energetic ingredient styling:
+
+Blood Orange Basil (splashes, citrus slices)
+
+Peach Ginger (fresh peach + ginger root)
+
+Lime Mint (lime wedges + mint leaves)
+
+CTA: SHOP FLAVORS →
+
+Style: premium but bold, modern campaign aesthetic, slightly experimental layout, high contrast, social-first, dynamic composition.
+Aspect ratio: vertical (9:16 preferred)
+```
+

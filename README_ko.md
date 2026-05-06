@@ -3,7 +3,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="프로젝트 로고"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![352 Curated Prompts](https://img.shields.io/badge/Prompts-352_Curated_Cases-111111)](README.md)
+[![359 Curated Prompts](https://img.shields.io/badge/Prompts-359_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 — Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill — Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
 
@@ -40,6 +40,8 @@ Evolink에서 사용해 보기: [GPT-Image-2](https://evolink.ai/gpt-image-2-pro
 <a href='https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-API-and-Prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
 
 ## 최신 소식
+
+- **2026년 5월 6일:** 일일 큐레이션 배치에서 GPT-Image-2 프롬프트 케이스 7건 추가 (초상화 2, 포스터 5), 검토 및 미디어 검증 완료
 
 - **April 29, 2026:** Added 22 new GPT-Image-2 prompt cases across the review batches (3 e-commerce, 3 ad creative, 4 portrait, 2 character, 9 poster, 1 comparison), synced localized prompt entries for Cases 102 and 103, and incorporated the broader valid keep-set pass
 - **April 26, 2026:** Added 9 new GPT-Image-2 prompt cases (1 character, 7 poster, 1 ui)

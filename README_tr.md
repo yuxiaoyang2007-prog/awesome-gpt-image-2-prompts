@@ -3,7 +3,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Proje logosu"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![352 Curated Prompts](https://img.shields.io/badge/Prompts-352_Curated_Cases-111111)](README.md)
+[![359 Curated Prompts](https://img.shields.io/badge/Prompts-359_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 — Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill — Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
 
@@ -40,6 +40,8 @@ Faydali bulduysaniz bir yildiz vermeyi dusunun. ⭐
 <a href='https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-API-and-Prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
 
 ## Haberler
+
+- **6 Mayıs 2026:** Günlük kürasyon grubundan 7 yeni GPT-Image-2 prompt vakası eklendi (2 portre, 5 poster), inceleme ve medya doğrulaması tamamlandı
 
 - **30 Nisan 2026:** Son 24 saatlik arama partisinden onaylanmis ve medyasi dogrulanmis 9 yeni GPT-Image-2 prompt vakasi eklendi (3 portre, 1 poster, 3 UI, 2 karsilastirma)
 - **29 Nisan 2026:** Inceleme partileri genelinde 22 yeni GPT-Image-2 prompt vakasi eklendi (3 e-ticaret, 3 reklam kreatifi, 4 portre, 2 karakter tasarimi, 9 poster, 1 karsilastirma), Case 102 ve 103 icin yerellestirilmis prompt girisleri senkronize edildi ve daha genis valid keep-set taramasi dahil edildi

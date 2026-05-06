@@ -2071,3 +2071,112 @@ Overall style:
 premium fitness brand campaign, dramatic studio lighting, soft shadows, high contrast, ultra realistic, sharp details, minimal color palette (red, white, neutral tones), clean composition, cinematic photography, 4k quality.
 ```
 
+
+<!-- Case 190: Samsung Galaxy S25 Infographic Poster (by @bmx_ai13) -->
+### Case 190: [Samsung Galaxy S25 Infographic Poster](https://x.com/bmx_ai13/status/2051692833258852586) (by [@bmx_ai13](https://x.com/bmx_ai13))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case190/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a premium futuristic infographic poster for Samsung Galaxy S25 in a vertical 3:4 aspect ratio. Center the Galaxy S25 phone lineup with multiple sleek smartphones shown from front and back angles, including a silver S Pen beside the main phone. Use a deep cosmic blue space background with stars, glowing light trails, luminous orbit rings, reflective glass floor, and distant mountain silhouettes for depth.
+
+At the top, add bold clean text: "SAMSUNG", large headline "Galaxy S25", subheadline "Galaxy AI", and tagline "Intelligence in Motion."
+
+Design the poster as a modern tech infographic with thin glowing connector lines, circular icon badges, and clean feature callouts around the phones. Add these sections:
+
+Galaxy AI: Smarter every day
+Pro Grade Camera: Capture every detail
+Next Gen Performance: Power that evolves
+Built to Last: Stronger inside and out
+Brilliant Display: Immersive edge to edge viewing
+S Pen Support: Create, sketch, and work faster
+
+At the bottom, create a glowing spec bar with small icons and short feature blocks:
+
+Premium Design: Sleek. Refined. Timeless.
+50MP High-Resolution Camera: Stunning clarity, day or night.
+Snapdragon 8 Elite for Galaxy: Built for speed. Ready for anything.
+All Day Battery: More power. Less worry.
+IP68 Water & Dust Resistance: Adventure ready. Worry free.
+Storage Options: Up to 1TB storage.
+
+Style: ultra premium Samsung style product advertising, clean futuristic UI design, metallic typography, blue white neon glow, realistic phone render, sharp readable typography, cinematic lighting, glossy reflections, high end commercial poster, no humans, no messy text, no watermark.
+```
+
+<!-- Case 191: Food Photography with Doodle Characters (by @Taaruk_) -->
+### Case 191: [Food Photography with Doodle Characters](https://x.com/Taaruk_/status/2051690647997088110) (by [@Taaruk_](https://x.com/Taaruk_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case191/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt 1 (Beach café + cute doodle characters):**
+
+```
+Aesthetic beachside café scene with a wooden table overlooking the ocean, bright daylight, soft shadows, tropical vibe. A delicious bowl of food and a coconut drink placed on the table. Add cute illustrated cartoon characters (fox, bunny, cat) sitting and relaxing around the food, with tiny hand-drawn doodles (hearts, sparkles, motion lines). Cozy wholesome mood, playful storytelling, mix of real photography and 2D illustration overlay, soft warm color grading, shallow depth of field, ultra-realistic food details, 4K.
+```
+
+**Prompt 2 (Food flatlay + playful illustrated annotations):**
+
+```
+Top-down vibrant food flatlay featuring multiple crispy fried dishes (fish, shrimp, chicken) with dipping sauces on a dark textured table. Add playful hand-drawn doodles and tiny cartoon characters interacting with the food (surfing shrimp, holding signs, cooking, playing). Include fun handwritten labels like "Golden Crunch", "Perfect Pairing", "Champion Fish". Bright colors, high contrast, crispy texture details, steam effects, dynamic composition, social media food ad style, ultra-realistic, 4K.
+```
+
+**Prompt 3 (Cozy coffee + illustrated storytelling):**
+
+```
+Warm cozy coffee scene on a rustic wooden table with a cup of latte art on a yellow saucer, coffee beans and cinnamon sticks around, small bonsai plant nearby. Add cute animated doodle characters (coffee bean with wings, cat barista painting latte art) and flowing illustrated steam forming magical shapes. Include soft handwritten typography: "Crafted Comfort – Your Daily Ritual". Golden hour lighting, warm tones, soft glow, dreamy atmosphere, shallow depth of field, ultra-realistic + 2D illustration blend, 4K.
+```
+
+<!-- Case 192: Dynamic Sports Poster (by @SPEEDAI07) -->
+### Case 192: [Dynamic Sports Poster](https://x.com/SPEEDAI07/status/2051679223715365331) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case192/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A dynamic sports poster of a professional football player mid-strike, captured in a dramatic low-angle perspective, stadium lights blazing through light rain, water droplets frozen in motion, intense facial expression, muscular tension visible, cinematic lighting, high contrast shadows, ultra-detailed textures, motion blur on ball, sharp focus on athlete, bold typography overlay: "NO EXCUSES. JUST RESULTS.", modern sports branding style, Nike-style campaign aesthetic, 35mm lens, ultra-realistic
+```
+
+<!-- Case 193: Luxury Brand Ad Campaign Poster (by @TechieBySA) -->
+### Case 193: [Luxury Brand Ad Campaign Poster](https://x.com/TechieBySA/status/2051676877794816074) (by [@TechieBySA](https://x.com/TechieBySA))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case193/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A world-class luxury advertising campaign poster, 4:5 ratio, for [BRAND/PRODUCT], shot in a high-end photography studio, [COLOR] dramatic lighting with vivid color gels casting bold shadows, single hero product floating center frame with hyper-reflective surface catching light streaks, cinematic lens flare, deep rich background with gradient bloom, chrome and glass material feel, oversized bold editorial typography with the brand name, razor-sharp tagline in elegant thin font, extreme detail and texture on the product, smoke or liquid elements subtly in background, feels like Apple x Nike x Lamborghini had a campaign, shot on Hasselblad, photorealistic, magazine cover quality
+```
+
+<!-- Case 194: Product Photography Juice Ad (by @Jawad_Rahman_) -->
+### Case 194: [Product Photography Juice Ad](https://x.com/Jawad_Rahman_/status/2051671878608228630) (by [@Jawad_Rahman_](https://x.com/Jawad_Rahman_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case194/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A highly realistic low-angle shot of a confident young woman with long, vibrant red hair, holding a watermelon juice can close to the camera in a dramatic perspective. The can appears large in the foreground due to forced perspective, with sharp focus on the product. The woman has fair skin, natural makeup, and a subtle confident expression, looking slightly down toward the camera.
+
+She is wearing a fitted blue sleeveless crop top and light gray sweatpants. Her posture is relaxed yet bold, with one arm extended forward holding the can.
+
+The background is a smooth, colorful gradient blending blue, orange, and red tones, creating a vibrant summer aesthetic. Bright natural sunlight illuminates the scene with soft shadows and high contrast, giving a clean commercial photography look.
+
+The juice can design features a watermelon theme with red and green colors, minimal modern typography, and realistic texture details like condensation droplets.
+
+Ultra-detailed, photorealistic, 8K resolution, sharp focus, shallow depth of field, professional product photography, vibrant colors, cinematic lighting.
+
+Add text: "Your name" in small clean white font at the upper right corner.
+```

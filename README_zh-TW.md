@@ -3,7 +3,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="專案 Logo"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![352 Curated Prompts](https://img.shields.io/badge/Prompts-352_Curated_Cases-111111)](README.md)
+[![359 Curated Prompts](https://img.shields.io/badge/Prompts-359_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 — Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill — Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
 
@@ -40,6 +40,8 @@
 <a href='https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-API-and-Prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
 
 ## 最新動態
+
+- **2026 年 5 月 6 日：** 新增 7 個 GPT-Image-2 prompt 案例（人像 2、海報 5），來自每日精選批次，已完成審核與媒體校驗
 
 - **2026 年 4 月 30 日：** 從最近 24 小時搜尋批次中新增 9 個已批准且已完成媒體校驗的 GPT-Image-2 prompt 案例（人像 3、海報 1、UI 3、對比 2）
 - **2026 年 4 月 29 日：** 在本輪 review 批次中新增 22 個 GPT-Image-2 prompt 案例（電商 3、廣告創意 3、人像 4、角色設計 2、海報 9、對比 1），同步修正 Case 102 與 103 的多語言 prompt，並納入更大範圍的有效 keep-set 校驗

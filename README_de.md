@@ -3,7 +3,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Projektlogo"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![352 Curated Prompts](https://img.shields.io/badge/Prompts-352_Curated_Cases-111111)](README.md)
+[![359 Curated Prompts](https://img.shields.io/badge/Prompts-359_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 — Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill — Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
 
@@ -40,6 +40,8 @@ Wenn dir das nuetzt, gib dem Repository gern einen Star. ⭐
 <a href='https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-API-and-Prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
 
 ## Neuigkeiten
+
+- **6. Mai 2026:** 7 neue GPT-Image-2 Prompt-Fälle hinzugefügt (2 Porträt, 5 Poster) aus dem täglichen Kurationsbatch, nach Überprüfung und Medienvalidierung
 
 - **30. April 2026:** 9 neue GPT-Image-2-Prompt-Faelle aus dem Suchbatch der letzten 24 Stunden hinzugefuegt (3 Portraet, 1 Poster, 3 UI, 2 Vergleich) nach Freigabe und validierter Medienpruefung
 - **29. April 2026:** 22 neue GPT-Image-2-Prompt-Faelle ueber die Review-Batches hinweg hinzugefuegt (3 E-Commerce, 3 Werbekreativ, 4 Portraet, 2 Charakterdesign, 9 Poster, 1 Vergleich), die lokalisierten Prompt-Eintraege fuer Fall 102 und 103 synchronisiert und den erweiterten Valid-Keep-Set-Durchlauf uebernommen

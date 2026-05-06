@@ -1,6 +1,6 @@
 {
   "repo": "awesome-gpt-image-2-prompts",
-  "generated_at": "2026-05-02T17:30:00+08:00",
+  "generated_at": "2026-05-06T10:00:00+08:00",
   "primary_key": "tweet_url",
   "records": [
     {
@@ -3982,6 +3982,76 @@
       "case_anchor": "#case-130-annotated-coffee-table-mood-board-by-ciri-ai",
       "image_dir": "images/ui_case130",
       "added_at": "2026-05-05T13:20:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/bmx_ai13/status/2051692833258852586",
+      "tweet_id": "2051692833258852586",
+      "author": "@bmx_ai13",
+      "title": "Samsung Galaxy S25 Infographic Poster",
+      "category": "poster",
+      "case_number": 190,
+      "folder_name": "poster_case190",
+      "ingested_at": "2026-05-06T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/miratechtool/status/2051691169592033488",
+      "tweet_id": "2051691169592033488",
+      "author": "@miratechtool",
+      "title": "Chibi 3D Mini Me Photo Effect",
+      "category": "portrait",
+      "case_number": 117,
+      "folder_name": "portrait_case117",
+      "ingested_at": "2026-05-06T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Taaruk_/status/2051690647997088110",
+      "tweet_id": "2051690647997088110",
+      "author": "@Taaruk_",
+      "title": "Food Photography with Doodle Characters",
+      "category": "poster",
+      "case_number": 191,
+      "folder_name": "poster_case191",
+      "ingested_at": "2026-05-06T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Shinning1010/status/2051684366460354923",
+      "tweet_id": "2051684366460354923",
+      "author": "@Shinning1010",
+      "title": "Cinematic Stormy Seaside Portrait",
+      "category": "portrait",
+      "case_number": 118,
+      "folder_name": "portrait_case118",
+      "ingested_at": "2026-05-06T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/SPEEDAI07/status/2051679223715365331",
+      "tweet_id": "2051679223715365331",
+      "author": "@SPEEDAI07",
+      "title": "Dynamic Sports Poster",
+      "category": "poster",
+      "case_number": 192,
+      "folder_name": "poster_case192",
+      "ingested_at": "2026-05-06T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/TechieBySA/status/2051676877794816074",
+      "tweet_id": "2051676877794816074",
+      "author": "@TechieBySA",
+      "title": "Luxury Brand Ad Campaign Poster",
+      "category": "poster",
+      "case_number": 193,
+      "folder_name": "poster_case193",
+      "ingested_at": "2026-05-06T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Jawad_Rahman_/status/2051671878608228630",
+      "tweet_id": "2051671878608228630",
+      "author": "@Jawad_Rahman_",
+      "title": "Product Photography Juice Ad",
+      "category": "poster",
+      "case_number": 194,
+      "folder_name": "poster_case194",
+      "ingested_at": "2026-05-06T10:00:00+08:00"
     }
   ]
 }

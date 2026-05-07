@@ -991,3 +991,234 @@ Background: dark ocean, dramatic cloudy sky, distant horizon, many flying seagul
 Negative Prompt:
 frontal face, wrong identity, copied hairstyle, braids, dark pink hair, red hair, magenta hair, short hair, bad anatomy, deformed face, bad hands, extra fingers, awkward pose, flat lighting, blurry face, low quality, anime, cartoon, CGI, malformed birds, duplicated birds, text, logo, watermark
 ```
+
+
+### Case 119: 中式婚服古典美人
+
+**Source**: [@liyue_ai](https://x.com/liyue_ai/status/2051918462025695625)
+
+**Prompt**:
+```
+一位成年东方古典美人，9:16 竖版构图，写实风格人像，近景到半身偏全身构图。人物微微俯身侧转回眸，面向镜头，神情温柔、含蓄、迷人，眼神清澈而有吸引力，整体气质端庄、柔美、轻熟、优雅。
+
+她拥有精致柔和的东方五官，白皙细腻的真实肌肤，清透自然妆容，眉眼温婉，鼻梁秀挺，红润水光唇，脸部光影自然真实。黑色长发半盘起，发丝柔顺蓬松，部分长发自然垂落在肩后，佩戴白色花朵发饰、金色流苏发簪与珍珠耳饰，整体精致但不繁复。
+
+她身穿一袭红色中式婚服 / 改良旗袍礼服，服装为高级丝缎材质，贴合身体线条，带有细腻银白色刺绣花纹、云纹、牡丹纹与传统中式盘扣细节。上身剪裁修身，胸部轮廓自然饱满，展现成熟女性的柔美曲线；腰身收束明显，形成优雅的 S 型体态；下身裙摆贴合臀部与腰胯曲线，重点突出圆润、流畅、自然的臀部线条，呈现女性身体比例之美。整体性感但高级克制，不低俗，不暴露，强调东方审美中的含蓄、端庄与韵味。
+
+她一手握着一把红色中式团扇，团扇上带有金色“囍”字、花卉刺绣与流苏装饰，另一只手自然扶在身侧。人物姿态微微前倾，形成柔和的身体曲线和动态感，服装褶皱与丝缎反光真实细腻，突出胸部、腰线、臀部和腿部的自然比例。
+
+背景为冬日庭院或雪景园林，远处为深蓝灰色虚化树影与柔和雪地，空气中飘落少量细雪，背景大面积虚化，突出人物主体。光线为柔和冷暖结合的电影级自然光，面部有干净柔光，服装红色在冷色雪景中形成强烈但高级的视觉对比。整体画面唯美、写实、东方古典、婚服氛围浓厚，具有高端人像摄影质感。
+
+风格要求：高级写实人像，东方古典美人，中式婚服，红色旗袍礼服，真实皮肤质感，丝缎材质，精致刺绣，柔和电影感光影，浅景深，背景虚化，端庄性感，女性曲线美，胸部与臀部线条自然突出，高级克制，超高细节，8K，photorealistic，cinematic portrait，无文字，无水印。
+```
+
+**Output**:
+
+<img src="../images/portrait_case119/output.jpg" width="500">
+
+---
+
+### Case 120: Y2K Korean Soft-Girl Editorial
+
+**Source**: [@you1873118](https://x.com/you1873118/status/2051960110373855289)
+
+**Prompt**:
+```
+最近女朋友有点沉迷这种
+
+梦幻 Y2K 鬼马少女写真照
+
+如果你平时爱
+
+记录生活，拍照，搞氛围
+
+这套GPT Image 2提示词一定要试试
+
+A highly aesthetic Korean soft-girl editorial collage in a clean white studio. 3x3 magazine-style photo grid featuring a cute Korean girl with long wavy dark hair, wearing pink tops and oversized blue jeans. Soft pastel pink color palette, kawaii Y2K accessories, playful candid expressions, wink poses, cheek squishing, holding cotton candy, teddy bear, toy camera, popsicle, ice cream, and lollipop. Natural soft lighting, airy high-key photography, sweet youthful energy, Pinterest aesthetic, Korean idol photobook vibe, minimal white background, soft skin texture, dreamy lifestyle fashion editorial, cute but stylish, visually cohesive, adorable feminine atmosphere.
+```
+
+**Output**:
+
+<img src="../images/portrait_case120/output.jpg" width="500">
+
+---
+
+### Case 121: Japanese Graffiti Portrait Poster
+
+**Source**: [@ZaraIrahh](https://x.com/ZaraIrahh/status/2052041111586402673)
+
+**Prompt**:
+```
+Create a high-detail portrait poster in a bold Japanese graffiti-inspired art style, combining modern urban street aesthetics with expressive Japanese visual culture. The poster should feature dynamic graffiti typography, layered spray-paint textures, hand-drawn symbols, abstract paint splashes, neon brush strokes, urban sticker elements, Japanese calligraphy accents, and decorative ornaments that strongly reinforce the energetic atmosphere of the design. The overall composition should feel artistic, rebellious, fashionable, and visually striking, while still maintaining a premium editorial poster quality instead of looking messy or overdone. Humanity somehow turned vandalism into luxury wall art. Impressive species.
+
+The subject must not replicate the exact pose or expression from the reference photo. Instead, create a completely new pose that feels natural, confident, and full of life. The expression should appear emotionally expressive, charismatic, and engaging, avoiding stiff, awkward, flat, or emotionless body language. The pose should reflect the elegance and sophistication commonly seen in international fashion models, with stylish posture, natural movement, and subtle attitude that enhances the overall cinematic fashion aesthetic.
+
+The outfit should feature contemporary stylish casual fashion with strong visual appeal. Avoid plain or repetitive clothing designs. Use fashionable layering, modern streetwear inspiration, premium casual styling, and a balanced combination of colors, patterns, textures, and fabric types that create a rich and non-monotonous appearance. The clothing should feel trendy, fashionable, youthful, and visually premium while still fitting naturally into the Japanese graffiti poster concept.
+
+The background and poster decorations should be filled with thematic urban Japanese-inspired visual elements such as graffiti walls, spray textures, painted symbols, urban signage, layered stickers, modern Japanese graphic motifs, abstract shapes, paint drips, street fashion aesthetics, and stylish decorative compositions that enhance depth and artistic intensity without distracting from the subject.
+
+Lighting should feel cinematic and fashionable, with strong contrast, clean highlights, realistic skin texture, and high-end editorial poster quality. The final result must look like a premium modern street-fashion campaign poster with highly detailed textures, balanced composition, vibrant color harmony, realistic proportions, ultra-sharp focus, and immersive visual storytelling.
+
+Ultra-detailed, highly aesthetic, premium composition, realistic texture rendering, fashionable urban atmosphere, cinematic quality, poster-ready design, 8K ultra high resolution.
+```
+
+**Output**:
+
+<img src="../images/portrait_case121/output.jpg" width="500">
+
+---
+
+### Case 122: Cinematic Top-Down Couple Portrait
+
+**Source**: [@Naiknelofar788](https://x.com/Naiknelofar788/status/2052041370777563190)
+
+**Prompt**:
+```
+A cinematic top-down portrait in aesthetic style of a young couple lying side by side on a textured fabric surface, both wearing modest casual clothing with soft natural fabrics, their bodies relaxed and close to each other, heads slightly turned toward one another, **smiling, laughing, and chatting joyfully**, capturing a candid happy moment, gentle and natural expressions full of warmth, soft golden hour sunlight entering from one side, creating subtle light gradients and deep quiet shadows without harsh patterns, light softly dominating parts of the composition, low saturation with pale soft tones, slightly faded colors with warm ivory, beige, and subtle greenish tint, clean and airy atmosphere, delicate highlight bloom, underexposed shadows with minimal detail, shallow depth of field, very soft focus, fine film grain, Fuji Pro 400H film look, natural lighting, minimalist composition, **peaceful yet cheerful mood**, nostalgic Japanese cinematic feeling, intimate and heartfelt moment, understated elegance, poetic visual tone
+```
+
+**Output**:
+
+<img src="../images/portrait_case122/output.jpg" width="500">
+
+---
+
+### Case 123: 中式深V礼服月下回眸
+
+**Source**: [@liyue_ai](https://x.com/liyue_ai/status/2052054750888398898)
+
+**Prompt**:
+```
+一位成年东方女性，9:16 竖版构图，写实风格，全身偏背面人像，人物行走在一条古典中式回廊之中，画面从后方略低机位捕捉她的身影，人物为绝对视觉中心。她微微回首，露出精致柔和的侧脸与安静迷人的神情，整体气质清冷、优雅、神秘而极具女性魅力。
+
+她拥有纤细修长的身材，肌肤白皙细腻，黑色长发优雅盘起，发丝柔顺，点缀少量精致发饰。她身穿一袭黑色修身礼服 / 新中式晚礼裙，采用深V露背设计，背部大面积裸露，清晰展现女性优雅流畅的背部线条、肩胛轮廓与纤细腰身。礼服面料贴合身体曲线，从腰部自然收束，顺着身体向下延展，重点突出圆润饱满、流畅自然的臀部曲线，以及优雅的腰臀比例，呈现成熟女性含蓄而高级的性感气质。
+
+外层披覆一层轻薄透明的白色薄纱披帛，薄纱在行走间轻轻飘动，增添柔美、朦胧和梦幻感。裙摆下摆带开衩或半透明叠层设计，在光影中展现细腻层次。整体体态修长挺拔，姿态自然优雅，强调女性身体线条的柔和力量感。
+
+场景设定在夜色或月光下的中式庭院长廊，木质廊柱与雕花栏杆向远处延伸，形成强烈纵深感。四周盛开的白色花枝从前景与顶部穿插进入画面，花瓣在空气中轻轻飘落。远处挂着暖色灯笼或灯火，冷色月光与微暖灯光交织，营造静谧、空灵、诗意的氛围。地面与回廊中有斑驳光影，背景略带薄雾与浅景深虚化，突出人物主体。
+
+整体风格要求：
+高级写实风，东方电影感，美术摄影质感，唯美清冷，柔和光影，真实肌肤质感，精致服装面料，重点表现女性背部与臀部的优雅曲线，性感，梦幻氛围，超高细节，无文字，无水印。
+```
+
+**Output**:
+
+<img src="../images/portrait_case123/output.jpg" width="500">
+
+---
+
+### Case 124: Multi-Exposure Ghost Echo Portrait
+
+**Source**: [@Sheldon056](https://x.com/Sheldon056/status/2052033782061191429)
+
+**Prompt**:
+```
+A man standing still while multiple semi-transparent versions of himself are layered around him, each slightly misaligned and looking in different directions.
+
+Outfit: simple tee + denim.
+Lighting: directional soft light creating ghost-like echoes.
+Motion blur + echo trails.
+
+Typography:
+
+* Top: “TOO MANY”
+* Smaller: “VERSIONS”
+* Large overlapping text: “ME”
+
+Mood: overthinking, fragmented identit
+```
+
+**Output**:
+
+<img src="../images/portrait_case124/output.jpg" width="500">
+
+---
+
+### Case 125: Baby Headgear Station Snapshot
+
+**Source**: [@BubbleBrain](https://x.com/BubbleBrain/status/2052036785434440171)
+
+**Prompt**:
+```
+Photorealistic candid street snapshot, Japanese train station concourse during rush hour, wide horizontal 4:3 frame, taken with a smartphone camera, natural imperfect composition, slight motion blur, realistic everyday atmosphere.
+
+A fictional young adult East Asian woman standing near the ticket gates, wearing a soft romantic white outfit: delicate lace bonnet headscarf tied under the chin, semi-sheer white puff-sleeve blouse dress with subtle vertical pleats and soft flowing hem, light blue wide-leg jeans underneath, beige shoulder bag. She is holding a smartphone with both hands, looking slightly to the side with a quiet, uncertain, almost lost expression.
+
+Background filled with blurred commuters walking in different directions, Japanese station signs, ticket gates, fluorescent ceiling lights, tiled floor, yellow tactile paving, urban transit details. The woman remains sharp while people around her are slightly blurred from movement.
+
+Lighting: realistic indoor fluorescent station lighting, soft shadows, no cinematic exaggeration, muted natural colors, low contrast, documentary realism, subtle smartphone noise, casual snapshot feeling, slightly tilted framing, authentic Tokyo everyday street photography mood.
+
+Style: realistic Japanese candid photography, iPhone snapshot, urban documentary, soft feminine fashion contrast against busy commuter crowd, natural skin texture, no heavy retouching, no studio lighting, no glamour pose.
+```
+
+**Output**:
+
+<img src="../images/portrait_case125/output.jpg" width="500">
+
+---
+
+### Case 126: 镜子自拍二次元混合
+
+**Source**: [@you1873118](https://x.com/you1873118/status/2052044966231425423)
+
+**Prompt**:
+```
+手持手机开启闪光灯，在一个略显凌乱、随意灯光照射的房间里拍镜子自拍。周围环绕着多个动漫风格的角色，设计风格类似于[anime name]中的角色（如[character]、[character]、[character]、[character]和[character]）。他们站得非常近，亲密地聚集在我身边，有些轻轻触碰我的脸庞，其他的则紧靠着凑近。
+
+妆容风格柔和自然，而面部特征明显受动漫美学启发。
+
+场景营造出温暖舒适的氛围，带有柔和的阴影和镜中可见的闪光反射。视觉风格为半写实，带有电影般的照明、略带颗粒感的纹理，以及现代TikTok风格的美学。
+
+这些角色看起来像是高质量cosplay的真人，而不是完全动画化的形象。
+```
+
+**Output**:
+
+<img src="../images/portrait_case126/output.jpg" width="500">
+
+---
+
+### Case 127: 韩风手绘涂鸦插画头像
+
+**Source**: [@zhongying14](https://x.com/zhongying14/status/2052092830235885925)
+
+**Prompt**:
+```
+分分钟把自己的照片改成插画头像啊！
+
+GPT Image 2 提示词分享：
+请基于用户上传的照片，创作一张韩风手绘涂鸦插画感人物海报。保留人物真实身份特征与整体气质，但整体表现要明显偏插画化，而不是写实转绘。
+
+风格参考：韩风半写实插图、鲜明角色感、自然有表现力的面部情绪、半身构图、轻微动态姿势。强调松散自发的手绘线条、黑色墨水勾线、墨迹飞溅、草稿感笔触、可见笔刷纹理，以及柔和粉彩色调与墨水阴影的混合，呈现漫画草图般的质感。
+
+不要做成高度写实插画，不要太像照片。要更有“画出来”的感觉，线条自由、边缘松弛、局部略带未完成感，头发和服装细节丰富，整体精致但有随性涂鸦感。
+
+背景保持简约，可以是纯白或浅色纸张质感，围绕人物自由加入少量手写短句、星星、爱心、箭头、墨点、小贴纸等象征性装饰元素。文案和背景氛围请根据人物气质自由发挥。整体要高级、轻盈、灵动，像 X 上会火的韩系手绘人物海报。
+```
+
+**Output**:
+
+<img src="../images/portrait_case127/output.jpg" width="500">
+
+---
+
+### Case 128: 照片趣味涂鸦互动
+
+**Source**: [@zhongying14](https://x.com/zhongying14/status/2052079921808163125)
+
+**Prompt**:
+```
+GPT Image 2提示词分享
+
+步骤1：
+分析上传的图片，保留原图的主体、构图和光线。请勿改变主角的身份或面部结构。添加一些与照片主体直接互动的趣味手绘涂鸦元素。这些涂鸦可以模仿、跟随或夸张现有的形状、姿势或动作——例如勾勒姿势轮廓、延伸手臂或腿部、添加动态线条，或创作一些与主体“互动”的富有想象力的元素，想象力需要大胆一些。
+
+步骤2：
+将整个图像转化为可爱的卡通风格插图，带有可爱的涂鸦美学。保持原始场景和角色细节，同时应用生动、柔和且俏皮的卡通外观。
+```
+
+**Output**:
+
+<img src="../images/portrait_case128/output.jpg" width="500">
+
+---

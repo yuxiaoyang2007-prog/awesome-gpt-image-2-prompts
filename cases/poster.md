@@ -2180,3 +2180,267 @@ Ultra-detailed, photorealistic, 8K resolution, sharp focus, shallow depth of fie
 
 Add text: "Your name" in small clean white font at the upper right corner.
 ```
+
+
+### Case 195: Anime Streetwear Character Poster
+
+**Source**: [@john_my07](https://x.com/john_my07/status/2052054223286870247)
+
+**Prompt**:
+```
+Create a premium stylized illustration of {character_name} from {franchise}, designed as a modern anime-inspired streetwear poster with bold visual identity and cinematic composition.
+Character Interpretation
+Analyze the character’s canon personality and translate it into visual storytelling:
+heroic / determined → explosive movement, confident energy
+calm / intelligent → composed posture, restrained motion
+mysterious / dark → low-key presence, hidden intensity
+aggressive / chaotic → tension-filled stance, sharp gestures
+Extract the character’s most recognizable signature color from the original design and make it the dominant visual accent throughout the artwork.
+Pose & Presence
+Design an iconic pose that instantly communicates the character’s personality:
+dynamic action poses for energetic characters
+relaxed but commanding posture for confident personalities
+shadowed or asymmetrical stance for mysterious characters
+forward-driving combat stance for intense characters
+Body language should feel expressive, cinematic, and instantly readable.
+Facial Expression
+Match the expression tightly to the character’s emotional identity and canon temperament, confident, cold, playful, threatening, fearless, etc.
+Visual Style
+Blend:
+anime illustration aesthetics
+modern streetwear / techwear fashion design
+high-end graphic poster composition
+Style requirements:
+ultra-clean linework
+semi-flat rendering with selective detail
+strong contrast and shape language
+sleek editorial feel
+minimal but visually impactful
+Outfit Redesign
+Reinterpret the original costume as contemporary fashion while preserving recognizable identity traits:
+signature symbols
+silhouettes
+accessories
+hairstyle cues
+iconic patterns or materials
+The design should feel wearable yet unmistakably tied to the character.
+Composition & Layout
+Vertical composition ({aspect_ratio})
+Off-center framing
+Strong diagonal movement across the canvas
+Layered foreground/background depth
+Poster-like balance using intentional negative space
+Color Direction
+Clean white or near-white dominant background
+Signature character color as the main accent
+One complementary secondary accent color
+Minimal palette with bold contrast and controlled saturation
+Background Design
+Create an abstract graphic environment using:
+geometric forms
+sharp framing elements
+layered shapes
+subtle typography-inspired structures
+color-themed visual accents tied to the character
+Keep the background stylish and supportive rather than overly detailed.
+Effects & Motion
+Add stylized visual effects that reflect the character’s energy:
+motion streaks
+paint slashes
+energy trails
+graphic impact lines
+glow accents
+Effects should naturally follow movement and color identity.
+Lighting & Rendering
+Directional cinematic lighting
+Crisp shadows and edge highlights
+Soft glow using the signature accent color
+Ultra-clean vector-like finish
+Premium 4K poster-quality rendering
+Sharp, polished, modern presentation
+```
+
+**Output**:
+
+<img src="../images/poster_case195/output.jpg" width="500">
+
+---
+
+### Case 196: Endangered Animal Infographic
+
+**Source**: [@MrDasOnX](https://x.com/MrDasOnX/status/2052064402866851981)
+
+**Prompt**:
+```
+Create a visually rich infographic about an endangered animal. Start by finding one online, research its habitat, diet, and unique traits. Present information through annotated visuals and structured callouts, not generic sections. Style it like a bold graphic illustration: a detailed, photorealistic central animal as the focal point, supported by diagrams, callouts, and concise text elements. Use clean backgrounds and a mix of photorealism with strong graphic elements (shapes, icons, color blocking) in a layered composition. Make it dense, tactile, and professionally authored.
+```
+
+**Output**:
+
+<img src="../images/poster_case196/output.jpg" width="500">
+
+---
+
+### Case 197: Claymation Cozy Scene Recreation
+
+**Source**: [@miratechtool](https://x.com/miratechtool/status/2052033236964950111)
+
+**Prompt**:
+```
+Recreate the scene as a cozy claymation-style world made from soft modeling clay. Every object should have handmade textures, rounded shapes, fingerprints, and soft lighting like a stop-motion movie. Use warm pastel colors and a cute cinematic atmosphere.
+```
+
+**Output**:
+
+<img src="../images/poster_case197/output.jpg" width="500">
+
+---
+
+### Case 198: Anime Warrior Shonen Power-Up
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2052061103426040157)
+
+**Prompt**:
+```
+Ultra-detailed anime warrior illustration inspired by legendary shonen power-up scenes, full-body low-angle composition, floating god-like character with torn battle clothes, muscular anatomy, intense glowing aura energy exploding around the body, celestial magic circle halo behind the character, cosmic symbols and sacred geometry, crackling lightning, floating debris and rocks, galaxy particles, divine transformation moment, dramatic cinematic lighting, hyper detailed ink lines, painterly anime shading, dynamic energy splashes, glowing embers and sparks, dark cosmic background mixed with radiant aura colors, ultra sharp focus, highly detailed textures, epic manga poster aesthetic, vertical composition, masterpiece quality, 8k.
+```
+
+**Output**:
+
+<img src="../images/poster_case198/output.jpg" width="500">
+
+---
+
+### Case 199: Naruto Propaganda Poster
+
+**Source**: [@im_shahid7](https://x.com/im_shahid7/status/2052056738845855956)
+
+**Prompt**:
+```
+**
+
+Ultra-premium propaganda poster, A4 size, vertical composition, themed around Naruto Uzumaki in a distinct shinobi-inspired visual language.
+
+Poster structure:
+Top section (dominant upper half): A large, iconic silhouette of Naruto’s head and upper torso, facing slightly sideways, with intense determined eyes and forehead protector clearly visible. His hair and headband cloth flow outward, forming the primary visual mass.
+
+Inside this large silhouette: apply a double exposure narrative collage using a warm-to-cool chakra gradient (orange, red, deep blue). Integrate layered elements such as:
+– Kurama (Nine-Tails fox) faintly emerging behind or within the silhouette
+– Hidden Leaf Village skyline (Konoha rooftops, Hokage Rock)
+– swirling chakra energy patterns and wind trails
+– small action scenes (Naruto running, Rasengan forming, shadow clones mid-motion)
+– symbolic elements like scrolls, kunai, and leaves carried by wind
+
+Middle to bottom section: Full-body Naruto as the secondary subject, standing grounded with a slightly forward-leaning stance, one hand forming Rasengan, cloak (Six Paths or Hokage cloak variation) subtly flowing. This figure anchors the composition.
+
+Composition flow:
+Create a vertical energy stream (chakra flow line) connecting:
+full-body Naruto → rising chakra particles → internal collage → large silhouette above
+This line should feel like ascending energy or destiny.
+
+Left and right sides:
+Introduce asymmetrical supporting elements for narrative tension:
+– Left: faint silhouettes of allies (Sasuke, Sakura, Kakashi) blended softly
+– Right: abstract enemy presence (Akatsuki clouds, shadowy figures, broken fragments)
+All elements should feel embedded within mist, chakra haze, and layered space.
+
+Visual style:
+Eastern ink-wash + modern anime fusion.
+Use:
+– ink diffusion edges
+– soft blur transitions
+– fragmented textures
+– layered clouds and smoke-like chakra
+– controlled white negative space
+
+Color design:
+More vibrant and striking than traditional — glowing oranges, electric blues, deep blacks, with subtle gold highlights. High contrast focal lighting on face and Rasengan.
+
+Aesthetic tone:
+Epic, emotional, and symbolic of growth, struggle, and legacy.
+
+Overall:
+Highly refined, cinematic, layered storytelling poster with strong hierarchy, clean composition, and powerful central identity.
+```
+
+**Output**:
+
+<img src="../images/poster_case199/output.jpg" width="500">
+
+---
+
+### Case 200: Luxury Bowling Editorial Collage
+
+**Source**: [@amynys](https://x.com/amynys/status/2052035945491284314)
+
+**Prompt**:
+```
+Three-image luxury bowling editorial collage featuring a professional female bowler based on the uploaded reference photo, on a pristine bowling alley with polished wooden lanes and perfectly set pins, soft natural and artificial alley lighting, minimalistic and high-end sports photography style, ultra-realistic, cinematic color grading, clean composition, no text, no logos.
+
+Use the exact woman from the provided reference image — accurately replicate her facial features, skin tone, hair, eyes, and expression — but make her slim with an athletic, toned build and dress her in proper bowling attire: a fitted collared bowling polo shirt, stylish slim-fit performance pants, and professional bowling shoes.
+
+Layout: asymmetrical grid (one large frame + two smaller frames)
+
+Frame 1 (Left – Hero Wide Shot):
+Full-body low-angle shot of the bowler in the classic bowling approach, powerfully releasing the bowling ball down the lane, pins visible in the distance, strong leading lines on the polished wooden lane, balanced composition, calm and intensely focused posture, modern bowling center background
+
+Frame 2 (Top Right – Close-Up Detail):
+Extreme close-up of her face and hands gripping the bowling ball, intense concentration, visible skin texture and slight natural sweat glow, shallow depth of field, beautifully blurred background
+
+Frame 3 (Bottom Right – Action Shot):
+Side angle of the bowler completing the smooth follow-through after releasing the ball, bowling ball rolling down the lane toward the pins, natural motion feel, soft shadows, realistic lighting
+
+Style Keywords:
+luxury sports campaign, editorial photography
+```
+
+**Output**:
+
+<img src="../images/poster_case200/output.jpg" width="500">
+
+---
+
+### Case 201: Hamburg Travel Itinerary Visual
+
+**Source**: [@tisch_eins](https://x.com/tisch_eins/status/2052026781566132280)
+
+**Prompt**:
+```
+Create a beautiful 3-day travel itinerary visual for a first-time trip to Hamburg. You decide the best schedule, neighborhoods, activities, and food stops. Include: Day 1, Day 2, Day 3 Morning, afternoon, evening A simple map-inspired layout Practical travel tips A short “best for” label for each day Requirements: Make the itinerary realistic and easy to follow. Do not overload the design with too much text. Style: Premium travel guide layout, soft colors, small illustrations, clean typography, editorial magazine feel.
+```
+
+**Output**:
+
+<img src="../images/poster_case201/output.jpg" width="500">
+
+---
+
+### Case 202: Chibi Penguin Hoodie Beach Sunset
+
+**Source**: [@saniaspeaks_](https://x.com/saniaspeaks_/status/2052094260254757243)
+
+**Prompt**:
+```
+Ultra cute chibi gugu gaga anime girl wearing a fluffy penguin hoodie costume at a tropical beach during sunset, wearing stylish sunglasses, holding colorful ice cream, soft golden sunset lighting, relaxing beach vacation vibes, kawaii atmosphere, palm trees swaying, sparkling ocean waves, warm orange-pink sky, cute beach café nearby, tiny seashells and sand details, cinematic lighting, adorable big eyes, fluffy detailed costume texture, dreamy summer aesthetic, Studio Ghibli inspired, highly detailed, 3D anime render, cozy tropical mood, cute vacation scene in Okinawa Japan --ar 3:4
+```
+
+**Output**:
+
+<img src="../images/poster_case202/output.jpg" width="500">
+
+---
+
+### Case 203: Day in the Life Diorama Grid
+
+**Source**: [@Gdgtify](https://x.com/Gdgtify/status/2052113923277525145)
+
+**Prompt**:
+```
+2:1 grid, do this for Asimov and Einstein->  A premium editorial poster titled "a day in the life of [$PROFESSION]". A split-level 3D architectural cross-section diorama of a [$PROFESSION]'s daily environments floating on a matte charcoal base::4 The individual in mod_designer_toy format in their environment::3.2 The Flow: A cascading timeline ribbon weaves through 6 micro-scenes, each containing hyper-detailed miniature tools, screens, and workflow artifacts specific to [$PROFESSION]::5 The Atmosphere: Cool dawn blue transitioning to focused task lighting, then warm evening ambient glow. Subtle motion blur on transitional elements to imply rhythm::3 The UI: Sleek vertical sidebar with time-stamped blocks, minimalist line icons, and a subtle progress bar. Clean sans-serif typography hierarchy::3 Avoid: Cartoonish proportions, flat illustrations, cluttered desks, stock photo aesthetics, visible hands, text artifacts::-2
+```
+
+**Output**:
+
+<img src="../images/poster_case203/output.jpg" width="500">
+
+---

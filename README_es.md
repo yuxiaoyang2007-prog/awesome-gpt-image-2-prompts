@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![379 Curated Prompts](https://img.shields.io/badge/Prompts-379_Curated_Cases-111111)](README.md)
+[![415 Curated Prompts](https://img.shields.io/badge/Prompts-415_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
 
@@ -65,6 +65,7 @@ Si te resulta útil, considera darle una estrella. ⭐
 
 ## 📰 Novedades
 
+- **8 de mayo de 2026:** Se añadieron 36 nuevos casos de prompts GPT-Image-2 (24 retrato, 6 póster, 6 UI) del lote de curación diaria
 - **7 de mayo de 2026:** Se añadieron 20 nuevos casos de prompts GPT-Image-2 (10 retrato, 9 póster, 1 UI) del lote de curación diaria
 
 - **6 de mayo de 2026:** Añadidos 7 nuevos casos de prompts GPT-Image-2 (2 retrato, 5 póster)

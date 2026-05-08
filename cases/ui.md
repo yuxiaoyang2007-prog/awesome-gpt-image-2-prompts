@@ -1114,3 +1114,108 @@ Aspect ratio: vertical (9:16 preferred)
 <img src="../images/ui_case132/output.jpg" width="500">
 
 ---
+
+### Case 133: Cozy Sunrise Desk Flatlay
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2052422212423196925)
+
+**Prompt**:
+```
+Sunrise Desk Flatlay
+Top-down cozy desk flatlay near a sunrise window, wooden table filled with coffee, camera, headphones, notebooks, fruit bowl, cassette player, glasses and phone playing music, warm sunrise reflections, nostalgic morning atmosphere, handwritten doodle annotations around every object, pastel sketch overlays, cute arrows, stars and handwritten motivational phrases, realistic lifestyle photography mixed with diary aesthetics, soft golden lighting, cinematic composition, vintage indie mood, highly detailed textures, warm creamy tones, relaxing morning ritual vibe, 8k.
+
+Prompt 2:
+ Cozy Study Desk Setup
+Ultra cozy study desk scene during early morning golden hour, cluttered but aesthetic workspace filled with open books, sticky notes, warm desk lamp, coffee mug, laptop, pens and stationery, calming productivity atmosphere, soft sunlight through the window, vintage academic vibe, handwritten doodle overlays with “focus mode on”, hearts, arrows, stars and tiny notes, realistic cinematic lighting, visual diary aesthetic, warm earthy colors, dreamy slice-of-life mood, indie room decor, highly detailed cozy textures, film grain, 8k.
+```
+
+**Output**:
+
+<img src="../images/ui_case133/output.jpg" width="500">
+
+---
+
+### Case 134: Custom Car Blueprint Sketch Render
+
+**Source**: [@ShamiWeb3](https://x.com/ShamiWeb3/status/2052398818533220652)
+
+**Prompt**:
+```
+“Highly detailed technical blueprint sketch and realistic 3D–render fusion of a custom modified car 2027 BMW iM3.
+Transform the car into a tuned concept blueprint with an aggressive lowered stance, wide-body aesthetic (adapted to match the real car’s form), and bold racing stripe accents matching or enhancing the original photo colors.
+Add large aftermarket-style wheels inspired by the car in the photo (accurate spoke design & size), sharp LED-like lighting details, and sporty aerodynamic additions such as front spoiler, side skirts, rear diffuser, and small spoiler — all adjusted realistically to the BMW iM3’s geometry.
+Surround the main render with precise engineering-style blueprint elements: multiple orthographic views (front, rear, side, top) derived from the reference photo, construction lines, mm-dimensions, exploded-view details for wheels, suspension, and body kit components.
+Art style combines pencil/ink drafting with fine cross-hatching, clean annotations, and a photorealistic shaded center render.
+Blueprint background in soft light-blue or sepia technical-paper texture, ultra-detailed, professional automotive concept-design composition.
+--ar 9:16 --stylize 300 --v 6 --q 2”
+```
+
+**Output**:
+
+<img src="../images/ui_case134/output.jpg" width="500">
+
+---
+
+### Case 135: Flavors of Moscow Food Infographic
+
+**Source**: [@AIwithAliya](https://x.com/AIwithAliya/status/2052412558678905255)
+
+**Prompt**:
+```
+Cool PROMPT for GPT Image 2 Creating stylish infographics. Prompt below:
+
+Minimal high-end infographic titled "FLAVORS OF MOSCOW", soft off-white background, detailed 3D map of Moscow centered with clean nano gemini layout. Surround with aesthetic food elements like borscht, pelmeni, blini, and black bread, along with birch tree motifs and minimal cultural icons. Highlight regions: KREMLIN DISTRICT (Kvass, historic skyline) ARBAT (Street food, Shashlik) ZAMOSKVORECHYE (Traditional cuisine, Syrniki) PATRIARCH'S PONDS (Cafés, Medovik cake) Side text blocks:
+```
+
+**Output**:
+
+<img src="../images/ui_case135/output.jpg" width="500">
+
+---
+
+### Case 136: Football Kit Chibi Figurine
+
+**Source**: [@mehvishs25](https://x.com/mehvishs25/status/2052558799647703180)
+
+**Prompt**:
+```
+;
+
+3D rendered caricature figurine of a stylish young woman, big head chibi style, designed to closely match the reference girl’s facial features, hairstyle, and overall vibe. She is wearing a trendy yellow and blue sporty streetwear outfit inspired by a professional football kit, fitted crop jersey with matching shorts, subtle number 7 detail on the shorts, captain’s armband on left arm, white wristband, confident arms-crossed pose, long dark silky hair with soft waves, small diamond stud earrings, white sporty sneakers with blue accents, knee-high yellow athletic socks, standing in a powerful confident stance, full body shot, bold red background, ultra detailed realistic 3D render, cinematic studio lighting, sharp shadows, premium collector toy aesthetic, glossy vinyl figure finish, high-end designer collectible style
+```
+
+**Output**:
+
+<img src="../images/ui_case136/output.jpg" width="500">
+
+---
+
+### Case 137: Exploded Museum Assembly Diagram
+
+**Source**: [@Gdgtify](https://x.com/Gdgtify/status/2052498708521259162)
+
+**Prompt**:
+```
+16:9 2x2 grid, do this for cybertruck, reaper drone, james webb telescope, and another complex machine: do this for cybertruck: { "exhibit_type": "physical exploded assembly", "subject": "$complex_invention", // e.g., "an enigma machine", "a mechanical chronometer" "physical_constraints": { "state": "the machine is pulled apart into its 50 primary components along a horizontal axis.", "support_system": "no magical floating. every single floating gear and casing is physically held in the air by taut, thin, steel suspension wires and heavy brass museum clamps.", "background": "a flat, neutral-grey museum wall." }, "lighting_and_shadows": { "setup": "hard spotlighting from the top left.", "shadow_effect": "critical: the floating, separated components and their suspension wires must cast a highly complex, overlapping, beautiful shadow pattern directly onto the grey wall behind them." } }
+```
+
+**Output**:
+
+<img src="../images/ui_case137/output.jpg" width="500">
+
+---
+
+### Case 138: X Profile Card Cutout Girl
+
+**Source**: [@you1873118](https://x.com/you1873118/status/2052549593100136583)
+
+**Prompt**:
+```
+一只手中握着一张X / Twitter 风格个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和下柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，推特风格的UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，Pixar风格+半现实主义融合，超高品质，4K，居中构图，高端影响者美学
+```
+
+**Output**:
+
+<img src="../images/ui_case138/output.jpg" width="500">
+
+---

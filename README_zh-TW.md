@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![379 Curated Prompts](https://img.shields.io/badge/Prompts-379_Curated_Cases-111111)](README.md)
+[![415 Curated Prompts](https://img.shields.io/badge/Prompts-415_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
 
@@ -65,6 +65,7 @@
 
 ## 📰 最新動態
 
+- **2026年5月8日：** 從每日策展批次中新增 36 個 GPT-Image-2 提示詞案例（24 個人像、6 個海報、6 個 UI）
 - **2026年5月7日：** 從每日策展批次中新增 20 個 GPT-Image-2 提示詞案例（10 個人像、9 個海報、1 個 UI）
 
 - **2026 年 5 月 6 日：** 新增 7 個 GPT-Image-2 prompt 案例（人像 2、海報 5），來自每日精選批次，已完成審核與媒體校驗

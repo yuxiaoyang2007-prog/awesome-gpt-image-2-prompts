@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![415 Curated Prompts](https://img.shields.io/badge/Prompts-415_Curated_Cases-111111)](README.md)
+[![436 Curated Prompts](https://img.shields.io/badge/Prompts-436_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
 
@@ -64,6 +64,8 @@ Si cela vous est utile, pensez à mettre une étoile. ⭐
 > Apprenez-en plus sur l'utilisation de l'API dans la section [Use GPT Image 2 API](#-use-gpt-image-2-api) ci-dessous.
 
 ## 📰 Actualités
+
+- **9 mai 2026 :** Ajout de 19 nouveaux cas de prompts GPT-Image-2 (6 portrait, 12 poster, 1 comparaison) du lot de curation quotidien
 
 - **8 mai 2026 :** Ajout de 36 nouveaux cas de prompts GPT-Image-2 (24 portrait, 6 poster, 6 UI) du lot de curation quotidien
 - **7 mai 2026 :** Ajout de 20 nouveaux cas de prompts GPT-Image-2 (10 portrait, 9 poster, 1 UI) du lot de curation quotidien

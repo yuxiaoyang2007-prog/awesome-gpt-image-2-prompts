@@ -910,3 +910,98 @@ Negative prompt: low quality, overexposed face, harsh shadows, distorted facial 
 Generate image using uploaded image as reference
 ```
 
+### Case 153: Mirror Selfie Diamond Glam Portrait
+
+**Source**: [@XShreyaYadav](https://x.com/XShreyaYadav/status/2052691060573532367)
+
+**Prompt**:
+```
+A hyper-realistic mirror selfie portrait of a beautiful young woman with long, straight dark hair parted down the middle. She has soft, glowing makeup with neutral mauve lipstick and manicured nails with a matching mauve polish. She is wearing a deeply plunging black sleeveless dress with side cutouts and a gathered twist detail at the waist. She is heavily accessorized with a sparkling thick rhinestone choker, a delicate diamond tennis bracelet on her right wrist, and a small, structured should
+```
+
+**Output**:
+
+<img src="../images/portrait_case153/output.jpg" width="500">
+
+---
+
+### Case 154: Couture Saree Cinematic Fashion Portrait
+
+**Source**: [@XShreyaYadav](https://x.com/XShreyaYadav/status/2052581805736554657)
+
+**Prompt**:
+```
+sing Uploaded image as face and body reference. A Ultra-realistic, vertical 2:3, Candid Cinematic event photorealistic fashion portrait photography image of a woman. Dress (Attire & Accessories) She is wearing a luxurious, modern interpretation of a saree in a shimmering, metallic champagne or light gold fabric. The most striking element is the top, which the text explicitly describes as a "jewellery-integratedcouture piece."
+It acts as a bustier made entirely of clustered diamonds and large eme
+```
+
+**Output**:
+
+<img src="../images/portrait_case154/output.jpg" width="500">
+
+---
+
+### Case 155: Graffiti Restroom Glam Portrait
+
+**Source**: [@KeorUnreal](https://x.com/KeorUnreal/status/2052785320970572141)
+
+**Prompt**:
+```
+A highly detailed cinematic photograph of a beautiful young woman with long wavy fiery blonde hair and fair skin with light freckles, standing in a uncleaned neglected public restroom with peeling light green tiles covered in colorful graffiti and stickers. She is wearing a sleek white glitter strapless mini dress and applying vibrant red lipstick with a lipstick tube in her right hand while her left hand rests on the edge of a sink. Her head is slightly turned to the side with a confident gaze.
+```
+
+**Output**:
+
+<img src="../images/portrait_case155/output.jpg" width="500">
+
+---
+
+### Case 156: Silhouette Sun Horizon Minimalist Portrait
+
+**Source**: [@harboriis](https://x.com/harboriis/status/2052775236278653032)
+
+**Prompt**:
+```
+Create a cinematic minimalist portrait using my uploaded photo Place the subject in full-body
+side profile, standing still and facing left, with a calm, introspective posture and hands in
+pockets. The subject should appear as a dark silhouette with subtle soft lighting, preserving
+natural proportions. In the background, add a large glowing sun (or orb) directly behind the
+subject, low on the horizon, partially diffused through thick atmospheric fog. Use a warm
+monochromatic color palette.
+```
+
+**Output**:
+
+<img src="../images/portrait_case156/output.jpg" width="500">
+
+---
+
+### Case 157: Selfie Look-Up Hand Pointing Portrait
+
+**Source**: [@ozansihay](https://x.com/ozansihay/status/2052811738345615370)
+
+**Prompt**:
+```
+A raw, highly authentic, and heavily unpolished amateur smartphone selfie, explicitly captured with an iPhone front-facing camera. The overall image features prominent camera shake and strong motion blur, giving it a frantic, imperfect, and slightly out-of-focus aesthetic. In the extreme foreground, a person looks directly into the lens with a slight, natural smile, hastily pointing one finger up towards the sky. Looming above in the dramatic, overcast sky is a massive, futuristic metallic UFO f
+```
+
+**Output**:
+
+<img src="../images/portrait_case157/output.jpg" width="500">
+
+---
+
+### Case 158: Desert Motel Pink Sunglasses Portrait
+
+**Source**: [@Sairah_0](https://x.com/Sairah_0/status/2052704912312861005)
+
+**Prompt**:
+```
+Ultra-realistic lifestyle portrait of a smiling young woman standing on a desert roadside near a vintage motel sign, holding oversized translucent pink sunglasses toward the camera, shallow depth of field, sunny California desert aesthetic, candid selfie composition, soft natural sunlight, warm pastel tones, retro Americana vibe, white ringer t-shirt with pink trim and bold “NO DRAMA CLUB” text with rose graphics, freckles and natural skin texture, dreamy summer mood, cinematic photography, high
+```
+
+**Output**:
+
+<img src="../images/portrait_case158/output.jpg" width="500">
+
+---

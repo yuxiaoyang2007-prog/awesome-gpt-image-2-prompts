@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![415 Curated Prompts](https://img.shields.io/badge/Prompts-415_Curated_Cases-111111)](README.md)
+[![436 Curated Prompts](https://img.shields.io/badge/Prompts-436_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
 
@@ -65,6 +65,8 @@ Faydalı bulduysanız yıldızlamayı düşünün. ⭐
 
 ## 📰 Haberler
 
+
+- **9 Mayıs 2026:** Günlük kürasyon grubundan 19 yeni GPT-Image-2 prompt vakası eklendi (6 portre, 12 poster, 1 karşılaştırma)
 
 - **8 Mayıs 2026:** Günlük kürasyon grubundan 36 yeni GPT-Image-2 prompt vakası eklendi (24 portre, 6 poster, 6 UI)
 - **7 Mayıs 2026:** Günlük kürasyon grubundan 20 yeni GPT-Image-2 prompt vakası eklendi (10 portre, 9 poster, 1 UI)

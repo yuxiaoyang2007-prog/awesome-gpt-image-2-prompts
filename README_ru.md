@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![415 Curated Prompts](https://img.shields.io/badge/Prompts-415_Curated_Cases-111111)](README.md)
+[![436 Curated Prompts](https://img.shields.io/badge/Prompts-436_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
 
@@ -65,6 +65,8 @@
 
 ## 📰 Новости
 
+
+- **9 мая 2026:** Добавлено 19 новых кейсов промптов GPT-Image-2 (6 портрет, 12 постер, 1 сравнение) из ежедневной курации
 
 - **8 мая 2026:** Добавлено 36 новых кейсов промптов GPT-Image-2 (24 портрет, 6 постер, 6 UI) из ежедневной курации
 - **7 мая 2026:** Добавлено 20 новых кейсов промптов GPT-Image-2 (10 портрет, 9 постер, 1 UI) из ежедневной курации

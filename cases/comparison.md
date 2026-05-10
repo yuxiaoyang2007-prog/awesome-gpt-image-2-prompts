@@ -773,3 +773,15 @@ GPT IMAGE 2 on ChatGpt Prompt: Transform the provided reference image into a coz
 Create a new animation sheet, but this time it's a storyboard between an Indian man and an Indian woman in a dramatic scene inside an apartment. Ensure the elements of the apartment are in the scene, and include dialogue boxes, this is for 15 seconds so be careful of the cadence (sentences not too long), when a character speaks they should be the only one in frame.
 ```
 
+<!-- Case 82: Whimsical Folk Doodle Transformation (by @oggii_0) -->
+### Case 82: [Whimsical Folk Doodle Transformation](https://x.com/oggii_0/status/2052792243845779811) (by [@oggii_0](https://x.com/oggii_0/status/2052792243845779811))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case82/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of white paper. The overall style should look cute, childlike, and whimsical.
+```

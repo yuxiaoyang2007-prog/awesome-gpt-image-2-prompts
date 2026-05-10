@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![415 Curated Prompts](https://img.shields.io/badge/Prompts-415_Curated_Cases-111111)](README.md)
+[![436 Curated Prompts](https://img.shields.io/badge/Prompts-436_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
 
@@ -65,6 +65,8 @@ Evolink で試す: [GPT-Image-2 API](https://evolink.ai/gpt-image-2-prompts?utm_
 
 ## 📰 ニュース
 
+
+- **2026年5月9日:** デイリーキュレーションバッチから19件の新しいGPT-Image-2プロンプトケースを追加（ポートレート6件、ポスター12件、比較1件）
 
 - **2026年5月8日:** デイリーキュレーションバッチから36件の新しいGPT-Image-2プロンプトケースを追加（ポートレート24件、ポスター6件、UI 6件）
 - **2026年5月7日:** デイリーキュレーションバッチから20件の新しいGPT-Image-2プロンプトケースを追加（ポートレート10件、ポスター9件、UI 1件）

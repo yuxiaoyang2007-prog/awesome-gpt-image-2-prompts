@@ -1,6 +1,6 @@
 {
   "repo": "awesome-gpt-image-2-prompts",
-  "generated_at": "2026-05-06T10:00:00+08:00",
+  "generated_at": "2026-05-09T10:00:00+08:00",
   "primary_key": "tweet_url",
   "records": [
     {
@@ -4500,6 +4500,158 @@
       "case_number": 138,
       "suggested_title": "X Profile Card Cutout Girl",
       "ingested_at": "2026-05-08T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/oggii_0/status/2052792243845779811",
+      "author": "oggii_0",
+      "category": "comparison",
+      "case_number": 82,
+      "suggested_title": "Whimsical Folk Doodle Transformation",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/XShreyaYadav/status/2052691060573532367",
+      "author": "XShreyaYadav",
+      "category": "portrait",
+      "case_number": 153,
+      "suggested_title": "Mirror Selfie Diamond Glam Portrait",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/XShreyaYadav/status/2052581805736554657",
+      "author": "XShreyaYadav",
+      "category": "portrait",
+      "case_number": 154,
+      "suggested_title": "Couture Saree Cinematic Fashion Portrait",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/KeorUnreal/status/2052785320970572141",
+      "author": "KeorUnreal",
+      "category": "portrait",
+      "case_number": 155,
+      "suggested_title": "Graffiti Restroom Glam Portrait",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/harboriis/status/2052775236278653032",
+      "author": "harboriis",
+      "category": "portrait",
+      "case_number": 156,
+      "suggested_title": "Silhouette Sun Horizon Minimalist Portrait",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/ozansihay/status/2052811738345615370",
+      "author": "ozansihay",
+      "category": "portrait",
+      "case_number": 157,
+      "suggested_title": "Selfie Look-Up Hand Pointing Portrait",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Sairah_0/status/2052704912312861005",
+      "author": "Sairah_0",
+      "category": "portrait",
+      "case_number": 158,
+      "suggested_title": "Desert Motel Pink Sunglasses Portrait",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/ChillaiKalan__/status/2052597387169091660",
+      "author": "ChillaiKalan__",
+      "category": "poster",
+      "case_number": 210,
+      "suggested_title": "Urban Fashion Editorial Collage Poster",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/saniaspeaks_/status/2052727888894734731",
+      "author": "saniaspeaks_",
+      "category": "poster",
+      "case_number": 211,
+      "suggested_title": "Wildlife Photographer 16-Panel Storyboard",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Goodmanprotocol/status/2052606882418930028",
+      "author": "Goodmanprotocol",
+      "category": "poster",
+      "case_number": 212,
+      "suggested_title": "Zodiac Yumi Cells Chibi Poster",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Sairah_0/status/2052599554672091368",
+      "author": "Sairah_0",
+      "category": "poster",
+      "case_number": 213,
+      "suggested_title": "French New Wave Vintage Movie Poster",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Kashberg_0/status/2052590241522024790",
+      "author": "Kashberg_0",
+      "category": "poster",
+      "case_number": 214,
+      "suggested_title": "Apocalyptic Titan Warrior Anime Poster",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/im_shahid7/status/2052600349006184623",
+      "author": "im_shahid7",
+      "category": "poster",
+      "case_number": 215,
+      "suggested_title": "Jujutsu Kaisen Cinematic Key Visual",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/ShamiWeb3/status/2052656479791178178",
+      "author": "ShamiWeb3",
+      "category": "poster",
+      "case_number": 216,
+      "suggested_title": "Food Delivery Cinematic Infographic",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/AIwithAliya/status/2052641476153360592",
+      "author": "AIwithAliya",
+      "category": "poster",
+      "case_number": 217,
+      "suggested_title": "Dark Fantasy Double Exposure Poster",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/meng_dagg695/status/2052615523326947395",
+      "author": "meng_dagg695",
+      "category": "poster",
+      "case_number": 218,
+      "suggested_title": "Shinobi Warrior Propaganda Poster",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/im_shahid7/status/2052775670720397616",
+      "author": "im_shahid7",
+      "category": "poster",
+      "case_number": 219,
+      "suggested_title": "Tokyo Revengers Propaganda Poster",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/amynys/status/2052725712478511256",
+      "author": "amynys",
+      "category": "poster",
+      "case_number": 220,
+      "suggested_title": "Flavors of USA Luxury Travel Poster",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Shorelyn_/status/2052759917468283143",
+      "author": "Shorelyn_",
+      "category": "poster",
+      "case_number": 221,
+      "suggested_title": "Starbucks Coffee World Surreal Poster",
+      "ingested_at": "2026-05-09T10:00:00+08:00"
     }
   ]
 }

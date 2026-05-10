@@ -2715,3 +2715,215 @@ Modern day, photorealistic humans, real landscape, messy background::-2
 <img src="../images/poster_case209/output.jpg" width="500">
 
 ---
+
+### Case 210: Urban Fashion Editorial Collage Poster
+
+**Source**: [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/2052597387169091660)
+
+**Prompt**:
+```
+Create a high-resolution 8K portrait poster in an Urban Fashion Editorial Collage style, blending contemporary street-fashion aesthetics with premium editorial magazine design. The overall composition should feel bold, stylish, modern, and visually layered, combining elements of luxury fashion campaigns, urban culture, and artistic collage experimentation. Incorporate dynamic poster ornaments and decorative elements that strongly reflect the Urban Fashion Editorial Collage aesthetic, such as rip
+```
+
+**Output**:
+
+<img src="../images/poster_case210/output.jpg" width="500">
+
+---
+
+### Case 211: Wildlife Photographer 16-Panel Storyboard
+
+**Source**: [@saniaspeaks_](https://x.com/saniaspeaks_/status/2052727888894734731)
+
+**Prompt**:
+```
+Create a cinematic 16-panel storyboard infographic showing the adventure of a young female wildlife photographer traveling into a deep forest to photograph a majestic lion. Use a realistic movie-storyboard style with warm natural colors, dramatic sunlight, jungle atmosphere, cinematic camera angles, and professional wildlife documentary aesthetics. The same realistic young woman should appear consistently in every panel wearing outdoor explorer clothing, hiking boots, backpack, and carrying a pr
+```
+
+**Output**:
+
+<img src="../images/poster_case211/output.jpg" width="500">
+
+---
+
+### Case 212: Zodiac Yumi Cells Chibi Poster
+
+**Source**: [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2052606882418930028)
+
+**Prompt**:
+```
+I am “{Your Zodiac Sign}”
+
+Create a poster inspired by Yumi’s Cells with the same soft, aesthetic, slice-of-life vibe and background style, the zodiac theme is fully reflected in the design. The subject’s face must remain completely unchanged and untouched. In hair, put some minimal highlights in color cyan. Surround the subject with multiple small, raw yet realistic cute chibi-style mini 3D versions of the subject, designed like expressive “cells” with oversized heads.....glossy high-detail fin
+```
+
+**Output**:
+
+<img src="../images/poster_case212/output.jpg" width="500">
+
+---
+
+### Case 213: French New Wave Vintage Movie Poster
+
+**Source**: [@Sairah_0](https://x.com/Sairah_0/status/2052599554672091368)
+
+**Prompt**:
+```
+Vintage French New Wave movie poster, inspired by 1960s Jean-Luc Godard cinema, monochrome portrait of a rebellious woman holding a cigarette, messy bangs, confident expression, torn paper collage layout, distressed paper texture, retro typography, bold red blue and black color blocks, old newspaper clippings, cinematic Paris street photography, grainy black-and-white aesthetic, film strip elements, romantic noir atmosphere, high contrast lighting, handmade poster design, worn edges, analog film
+```
+
+**Output**:
+
+<img src="../images/poster_case213/output.jpg" width="500">
+
+---
+
+### Case 214: Apocalyptic Titan Warrior Anime Poster
+
+**Source**: [@Kashberg_0](https://x.com/Kashberg_0/status/2052590241522024790)
+
+**Prompt**:
+```
+Ultra-realistic cinematic anime movie poster of a female warrior inspired by a titan apocalypse universe, short black hair and red scarf flowing in wind, wielding dual swords with ODM gear while flying across a ruined city, colossal titan silhouette emerging through smoke and fog in the background, elegant double exposure layout with a large emotional side-profile portrait integrated into the environment, atmospheric destruction, ash particles, storm clouds, cinematic soft lighting, muted gray a
+```
+
+**Output**:
+
+<img src="../images/poster_case214/output.jpg" width="500">
+
+---
+
+### Case 215: Jujutsu Kaisen Cinematic Key Visual
+
+**Source**: [@im_shahid7](https://x.com/im_shahid7/status/2052600349006184623)
+
+**Prompt**:
+```
+A character promotional poster titled “Jujutsu Kaisen “ designed in a cinematic vertical key visual composition (9:16). The upper half features a large, softly glowing silhouette of an anime face formed from flowing wind and cherry blossom particles. The silhouette feels dreamy, delicate, and slightly transparent.
+The lower section shows the full-body character standing gently in a calm pose, wearing an elegant modern kimono-inspired outfit with light fabric movement.
+Inside the silhouette, use
+```
+
+**Output**:
+
+<img src="../images/poster_case215/output.jpg" width="500">
+
+---
+
+### Case 216: Food Delivery Cinematic Infographic
+
+**Source**: [@ShamiWeb3](https://x.com/ShamiWeb3/status/2052656479791178178)
+
+**Prompt**:
+```
+Create a premium 4:5 vertical food-delivery infographic poster inspired by modern Uber Eats campaigns. Hyper-realistic cinematic commercial style, Gen-Z luxury advertising aesthetic, app-inspired UI storytelling, urban delivery energy, 8K ultra-detailed.
+
+Main focus: a delivery rider or delivery bag centered dramatically with gourmet food flying outward — burgers, pizza, fries, sushi, noodles, coffee, desserts, salads, and drinks suspended mid-air with motion blur trails showing delivery speed.
+```
+
+**Output**:
+
+<img src="../images/poster_case216/output.jpg" width="500">
+
+---
+
+### Case 217: Dark Fantasy Double Exposure Poster
+
+**Source**: [@AIwithAliya](https://x.com/AIwithAliya/status/2052641476153360592)
+
+**Prompt**:
+```
+This ultra-cinematic dark fantasy poster is automatically generated using [" "] (face and hairstyle from the uploaded reference photo) as its outline, hyper-realistic portrait composition, a zoomed-in side profile of the subject, detailed skin textures, slightly messy, wet hair blowing in the wind, an intense and mysterious emotional expression, and an epic and dramatic atmosphere.
+
+Double exposure composition featuring multiple scenes in realistic silhouette: [ ]
+
+Realistic style, dramatic dept
+```
+
+**Output**:
+
+<img src="../images/poster_case217/output.jpg" width="500">
+
+---
+
+### Case 218: Shinobi Warrior Propaganda Poster
+
+**Source**: [@meng_dagg695](https://x.com/meng_dagg695/status/2052615523326947395)
+
+**Prompt**:
+```
+Ultra-premium vertical propaganda poster, A4 size. Subject: a young male warrior with spiky blonde hair, cloth headband bearing a metal leaf-engraved plate, orange-and-black combat uniform, and piercing blue eyes holding both exhaustion and unbreakable resolve.
+UPPER HALF — SILHOUETTE DOUBLE EXPOSURE
+Large dramatic silhouette of the warrior's head and upper torso, face angled slightly off-center. Wild hair and headband cloth extend outward forming the dominant visual mass. Within the silhouette,
+```
+
+**Output**:
+
+<img src="../images/poster_case218/output.jpg" width="500">
+
+---
+
+### Case 219: Tokyo Revengers Propaganda Poster
+
+**Source**: [@im_shahid7](https://x.com/im_shahid7/status/2052775670720397616)
+
+**Prompt**:
+```
+{
+  "type": "image_prompt",
+  "title": "Tokyo revengers propaganda poster",
+  "subject": {
+    "character": " Takemichi Hanagaki",
+    "source": Tokyo revengera",
+    "focus": "iconic propaganda-style artistic reinterpretation"
+  },
+  "composition": {
+    "structure": {
+      "top_section": {
+        "description": "Large iconic visual of  Takemichi Hanagaki head, facial features, mask-like framing or half-body silhouette",
+        "purpose": "dominant symbolic focal point"
+      },
+      "middl
+```
+
+**Output**:
+
+<img src="../images/poster_case219/output.jpg" width="500">
+
+---
+
+### Case 220: Flavors of USA Luxury Travel Poster
+
+**Source**: [@amynys](https://x.com/amynys/status/2052725712478511256)
+
+**Prompt**:
+```
+“FLAVORS OF THE USA” Luxury Culinary Travel Poster
+Ultra-detailed infographic travel poster titled “FLAVORS OF THE USA”, elegant luxury editorial design, vertical composition, sophisticated culinary magazine aesthetic blended with modern 3D isometric cartography.
+
+At the center: a highly detailed 3D isometric map of the United States in carved ivory-white stone texture, divided into states with subtle engraved borders. 
+
+The map features miniature iconic American landmarks placed geographically:
+```
+
+**Output**:
+
+<img src="../images/poster_case220/output.jpg" width="500">
+
+---
+
+### Case 221: Starbucks Coffee World Surreal Poster
+
+**Source**: [@Shorelyn_](https://x.com/Shorelyn_/status/2052759917468283143)
+
+**Prompt**:
+```
+3:4 vertical premium poster, 8K, bold commercial layout × surreal realism  CORE IDEA: “YOUR COFFEE IS A WORLD.”  LAYOUT (INSPIRED BY SOURCE): BACKGROUND BLOCK: Large rounded rectangle in deep Starbucks green GIANT TYPOGRAPHY: “STAR” bold, cropped, sitting behind subject  SUBJECT: Young adult holding Starbucks cup toward camera same perspective as reference (foreground dominance) calm expression, slight curiosity
+ PRODUCT + SURREAL TWIST: Starbucks cup in hand →Inside the cup: miniature forest ec
+```
+
+**Output**:
+
+<img src="../images/poster_case221/output.jpg" width="500">
+
+---

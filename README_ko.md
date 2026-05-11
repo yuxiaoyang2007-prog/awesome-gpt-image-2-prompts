@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![436 Curated Prompts](https://img.shields.io/badge/Prompts-436_Curated_Cases-111111)](README.md)
+[![471 Curated Prompts](https://img.shields.io/badge/Prompts-471_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
 
@@ -64,6 +64,10 @@ Evolink에서 사용해보기: [GPT-Image-2 API](https://evolink.ai/gpt-image-2-
 > API 사용에 대한 자세한 내용은 아래 [Use GPT Image 2 API](#-use-gpt-image-2-api) 섹션을 참고하세요.
 
 ## 📰 새 소식
+
+- **2026년 5월 11일:** 일일 큐레이션 배치에서 16개의 새로운 GPT-Image-2 프롬프트 케이스 추가 (초상화 5개, 포스터 8개, 광고 크리에이티브 3개)
+
+- **2026년 5월 10일:** 일일 큐레이션 배치에서 19개의 새로운 GPT-Image-2 프롬프트 케이스 추가 (초상화 4개, 포스터 11개, UI 3개, 비교 1개)
 
 - **2026년 5월 9일:** 일일 큐레이션 배치에서 19개의 새로운 GPT-Image-2 프롬프트 케이스 추가 (초상화 6개, 포스터 12개, 비교 1개)
 

@@ -2198,3 +2198,620 @@ The map features miniature iconic American landmarks placed geographically:
 <img src="../images/poster_case221/output.jpg" width="500">
 
 ---
+
+### Case 222: BLEACH Manga Collage Anime Poster
+
+**Source**: [@ponyodong](https://x.com/ponyodong/status/2052983036724355468)
+
+**Prompt**:
+```
+🤣小时候看《Bleach》：
+“卍解！！！”
+长大后玩 AI：
+“镜片里倒映漫画分镜 + 前景动态条漫 + 蓝色灵压粒子 + 日漫拼贴构图 + 电影级光影 + 超近景压迫感……”
+
+以前以为久保带人是在画漫画。
+现在发现他其实是在提前给 GPT-Image-2 写提示词。
+这次测试我最上头的点不是“还原角色”，
+而是它终于能理解那种——
+“潮流视觉海报感 + 漫画叙事层次 + 动态镜头语言” 的混合审美。
+
+AI 现在已经不是“生成一张动漫图”了。
+而是在帮我们做：
+「不存在的动漫宇宙视觉总监」。
+顺便说一句——
+那个戴斗笠戴墨镜的版本，真的很像：
+“如果京乐春水开始做潮流品牌主理人。” 😂
+
+♥️提示词在这里，麻烦给个赞！
+超高细节二次元热血漫画风角色海报，少年死神角色正面半身特写，橙色炸毛短发，琥珀色眼睛，佩戴黑色圆框复古墨镜，冷峻严肃表情，正中央对称构图，镜头直视观众，强烈压迫感。
+
+眼镜镜片中倒映大量黑白漫画分镜与角色画面，背景也由密集的日漫漫画页拼贴组成，形成“角色记忆 / 名场面回顾”的视觉效果。前景漂浮多条高速运动的漫画分镜条带，带有动态模糊与景深虚化效果，穿插画面上下，营造速度感与空间层次。
+
+画面中散落蓝色灵压粒子 / 荧光能量碎片，形成冷暖撞色（橙发 vs 蓝色粒子）。整体采用《BLEACH》式热血少年漫画美学，融合现代潮流海报设计与高级动漫商业视觉。
+
+anime key visual, BLEACH style, manga collage poster, cinematic anime lighting, reflective glasses, manga panels reflection, dynamic motion blur, orange spiky hair, intense stare, ultra detailed anime illustration, shonen jump aesthetic, layered composition, high contrast shading, cel shading, glowing blue particles, dramatic close-up portrait, symmetrical composition, manga montage background, Japanese comic aesthetic, premium anime poster
+```
+
+**Output**:
+
+<img src="../images/poster_case222/output.jpg" width="500">
+
+---
+
+### Case 223: Tokyo Minimalist Line-Art Travel Poster
+
+**Source**: [@oggii_0](https://x.com/oggii_0/status/2052987633501188101)
+
+**Prompt**:
+```
+Create a minimalist ultra-high-resolution travel poster in line-art style for TOKYO, portraying the city as a stylish everyday urban scene rather than a tourist postcard.
+
+MAIN COMPOSITION:
+
+Central composition features Tokyo’s most iconic everyday street scene, intersection, alleyway, tram route, or pedestrian crossing.
+
+Foreground includes local residents, commuters, cyclists, travelers, shoppers, students, and café visitors.
+
+People should naturally reflect Tokyo street fashion, local lifestyle, and modern urban culture.
+
+Background filled with authentic Japanese signage, cafés, ramen shops, convenience stores, transport signs, storefronts, vending machines, and architectural details.
+
+Landmarks should blend subtly into daily life rather than dominate the composition.
+
+Use authentic Japanese typography and culturally recognizable visual elements.
+
+Large centered title at the top: “TOKYO”
+
+Subtitle at the bottom in Japanese: “日本” or “東京”
+
+STYLE:
+
+Ultra-clean vector illustration
+
+Swiss modernist travel poster aesthetic
+
+Minimalist line-art
+
+Monoline drawing
+
+Mid-century editorial illustration style
+
+Architectural illustration
+
+Japanese graphic poster design
+
+Crisp geometric perspe
+```
+
+**Output**:
+
+<img src="../images/poster_case223/output.jpg" width="500">
+
+---
+
+### Case 224: Kawaii Kids Scrapbook Photography Poster
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2052783847784480942)
+
+**Prompt**:
+```
+GPT image 2 on Chatgpt 
+
+Prompt 1 (Little girl version):
+Kawaii scrapbook-style children photography poster, cute little girl with long black hair posing on green grass, wearing sporty gray and white outfit with bunny hair clips, pastel yellow and green theme, large playful bubble typography with name text, polaroid photo cutouts layered around the composition, plush bunny toy, banana milk box, macarons, ribbons, flowers and doodle graphics, hand-drawn hearts, stars and swirls, cheerful Korean aesthetic, soft daylight, whimsical collage layout, vibrant yet soft pastel tones, magazine-style kids photoshoot, ultra detailed, adorable and playful atmosphere, trendy social media scrapbook design.
+
+Prompt 2 (Baby version):
+Cute kawaii scrapbook-style baby photography collage, smiling baby girl wearing soft cream bunny outfit and fluffy bunny-ear headband, sitting on bright green grass background, pastel yellow and light green aesthetic, multiple polaroid-style photo frames scattered around, plush bunny toys, banana milk carton, yellow macarons, ribbons, flowers, doodle hearts and sparkles, playful handwritten stickers and typography saying “little bunny” and “happy little star”, soft nat
+```
+
+**Output**:
+
+<img src="../images/poster_case224/output.jpg" width="500">
+
+---
+
+### Case 225: Anime Character Streetwear Collector Poster
+
+**Source**: [@john_my07](https://x.com/john_my07/status/2052271225972625503)
+
+**Prompt**:
+```
+GPT Image 2 on ChatGPT 
+
+Prompt;
+
+Create a high-end anime character fashion illustration inspired by {character_name} from {franchise}, designed as a cinematic vertical collector poster with a bold contemporary visual identity.
+Art Direction
+Reimagine the character through a fusion of:
+premium anime artwork
+futuristic streetwear / utility fashion
+luxury editorial poster design
+graphic-heavy modern composition
+The artwork should feel stylish, iconic, and instantly recognizable while still looking like an original reinterpretation.
+Character Styling
+Study the character’s core personality and express it visually through posture, styling, and atmosphere:
+fearless / heroic → forward momentum, energetic framing
+intelligent / composed → balanced stance, restrained motion
+dark / dangerous → shadow-heavy framing, sharp silhouettes
+chaotic / aggressive → fragmented effects, explosive composition
+Preserve recognizable identity elements from the original design:
+hairstyle
+signature colors
+symbols or emblems
+iconic accessories
+weapon motifs
+silhouette language
+Fashion Design
+Transform the original outfit into a modern designer-techwear aesthetic:
+layered utility jackets
+tactical straps and belt
+```
+
+**Output**:
+
+<img src="../images/poster_case225/output.jpg" width="500">
+
+---
+
+### Case 226: Retro Motel Noir Bunny Portrait Poster
+
+**Source**: [@you1873118](https://x.com/you1873118/status/2053124141075841049)
+
+**Prompt**:
+```
+既然连这种的风格
+
+也能跑出来
+
+我是没想到的
+
+GPT Image 2开放性还是太高了
+
+这个提示词不一定能生图出来
+
+提示词:
+
+Cinematic retro motel photography, seductive noir atmosphere, Asian woman in elegant black bunny costume sitting on a vintage motel bed, black satin corset bodysuit, sheer thigh-high stockings, black heels, bunny ears, white cuffs and bow tie, relaxed sensual pose, soft side profile, moody expression, warm amber lighting, hazy diffusion glow, dreamy soft focus, cinematic depth, voyeur perspective through translucent curtains, vintage casino slot machine in background, retro love motel interior, dim tungsten lamps, dusty pink and brown tones, nostalgic erotic noir aesthetic, subtle film grain, low contrast shadows, intimate atmosphere, 1970s inspired motel room, realistic skin texture, delicate highlights, quiet lonely mood, analog photography feel, high detail cinematic composition, shallow depth of field, soft bloom lighting, editorial fashion photography, Wong Kar-wai inspired color grading, tasteful sensuality, photorealistic, 35mm film look, masterpiece, ultra detailed, warm cinematic haze, atmospheric storytelling, muted reds and sepia tones, luxury retro aesthetic.
+```
+
+**Output**:
+
+<img src="../images/poster_case226/output.jpg" width="500">
+
+---
+
+### Case 227: Yumi's Cells Zodiac Chibi Poster
+
+**Source**: [@Kashberg_0](https://x.com/Kashberg_0/status/2052916429859827932)
+
+**Prompt**:
+```
+I am “TAURUS.” Create a poster inspired by Yumi’s Cells with the same soft, aesthetic, slice-of-life vibe and background style, while fully reflecting the Taurus zodiac theme in the design. The subject’s face must remain completely unchanged and untouched. Surround the subject with multiple small, raw yet realistic cute chibi-style mini 3D versions of the subject, designed like expressive “cells” with oversized heads, glossy high-detail finishes, and playful emotions. Each mini character should reflect Taurus traits such as calmness, loyalty, comfort-loving energy, stubbornness, sensuality, patience, and love for luxury and food. Show them in different actions: one clinging onto the subject’s arm, one relaxing with a cozy blanket, one reading a book peacefully, one drinking coffee or tea, one holding snacks or dessert, one lying down using a phone, one refusing to move with a stubborn expression, one looking sleepy and unbothered, and one with soft messy “just woke up” energy. Add playful hand-drawn doodles interacting directly with the subject and chibi characters—outlining poses, sketching comfy cushions, steam from drinks, tiny flowers, sparkle details, and calm motion accents t
+```
+
+**Output**:
+
+<img src="../images/poster_case227/output.jpg" width="500">
+
+---
+
+### Case 228: Sports Athlete Editorial Collage Poster
+
+**Source**: [@AIwithSynthia](https://x.com/AIwithSynthia/status/2052970867655893294)
+
+**Prompt**:
+```
+GPT Image 2 on ChatGPT 
+
+Prompt :
+
+Ultra-premium sports editorial poster collage of a powerful female basketball athlete in a red and white uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold oversized typography in background saying “BUILT DIFFERENT”, clean luxury sports branding, intense confident poses.
+
+Top panel: athlete sitting on polished court floor with one knee raised, basketball beside her, looking sideways with dominant confident expression, deep red seamless background, giant cream-colored typography behind subject, cinematic shadows, hyper realistic skin texture, sweat glow, high-fashion sports photography.
+
+Bottom left panel: close-up beauty portrait of the athlete with eyes closed, glowing skin, slick hair, athletic elegance, minimal typography saying “PREPARE” and “PERFORM”.
+
+Bottom right panel: dynamic low stance dribbling pose, action energy, motivational text saying “TRAIN HARD STAY HUNGRY”, luxury sports ad composition, reflective floor details.
+
+Color palette: deep crimson red, white accents, cream typography, glossy hardwood reflections. Style: modern sports magazine cover, luxury athlet
+```
+
+**Output**:
+
+<img src="../images/poster_case228/output.jpg" width="500">
+
+---
+
+### Case 229: Character Silhouette Key Visual Poster
+
+**Source**: [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2052771565318897945)
+
+**Prompt**:
+```
+A character promotional poster of [XXX], using a unified vertical key-visual composition. Each poster follows a hierarchical layout with a larger upper section and smaller lower section: the upper half features the character’s most recognizable head, facial contour, mask, or upper-body silhouette as a massive visual centerpiece, forming a highly identifiable silhouette-style dominant shape. The middle and lower section contains the full character as the secondary focal point, standing in a stable pose or subtle motion, creating the visual core of the composition. Inside the large silhouette and around the character, use double exposure and collage-style narrative composition, blending multiple scenes, symbolic imagery, small character interactions, supporting elements, and environments layered into mist, ink-wash textures, and negative space. Symmetrical or echoing side sub-scenes are placed on the left and right to create narrative tension and spatial variation. A flowing visual line runs vertically through the entire composition, connecting the main character, internal collage, and upper silhouette, enhancing visual unity and guiding the viewer’s eye. The overall image should pre
+```
+
+**Output**:
+
+<img src="../images/poster_case229/output.jpg" width="500">
+
+---
+
+### Case 230: Urban Fashion Editorial Collage Poster
+
+**Source**: [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2052650417356456447)
+
+**Prompt**:
+```
+GPT image 2 on ChatGPT 
+
+Prompt 👇 
+
+Create a high-resolution 8K portrait poster in an Urban Fashion Editorial Collage style, blending contemporary street-fashion aesthetics with premium editorial magazine design. The overall composition should feel bold, stylish, modern, and visually layered, combining elements of luxury fashion campaigns, urban culture, and artistic collage experimentation. Incorporate dynamic poster ornaments and decorative elements that strongly reflect the Urban Fashion Editorial Collage aesthetic, such as ripped paper textures, layered magazine cutouts, abstract geometric accents, expressive brush strokes, typography fragments, street-style graphic overlays, halftone textures, tape effects, paint splashes, handwritten scribbles, and fashionable editorial layout compositions. Every decorative element should feel intentional, stylish, and visually balanced rather than overcrowded. Humanity really looked at torn paper and graffiti textures and decided, “yes, this is luxury now.” Somehow it works.
+
+The subject’s pose must not resemble the reference photo. Create a completely different body posture and facial expression with a more natural, expressive, and emotiona
+```
+
+**Output**:
+
+<img src="../images/poster_case230/output.jpg" width="500">
+
+---
+
+### Case 231: Kids Backpack Cartoon Ad Poster
+
+**Source**: [@Strength04_X](https://x.com/Strength04_X/status/2052769877619065287)
+
+**Prompt**:
+```
+GPT image 2 on @Hailuo_AI 
+
+Prompt - A colorful kids advertisement poster featuring an adorable 6-year-old girl with pigtails laughing and running beside a giant cartoon-style backpack 3x her height in bright blue and yellow colors with star patches and “STARPACK” written on the front pocket. The scene has a bright sunny yellow school background filled with floating pencils, stars, and books, creating a cheerful and energetic atmosphere. Massive friendly rounded typography reading “STARPACK” in blue and yellow fills the background, while the tagline at the bottom says, “Adventure fits right on your back.” Small grey text in the top-right corner reads “Designed with GPT Image 2.” The overall style blends photorealistic details with playful cartoon aesthetics, giving it a fun school commercial mood.
+```
+
+**Output**:
+
+<img src="../images/poster_case231/output.jpg" width="500">
+
+---
+
+### Case 232: Ink Sketch Newspaper Collage Portrait
+
+**Source**: [@harboriis](https://x.com/harboriis/status/2052574508205449439)
+
+**Prompt**:
+```
+ultra-detailed ink sketch style portrait of a young man with curly hair, beard, and wearing
+orange-tinted sunglasses and a denim jacket, looking slightly upward with a confident
+expression
+art style: black and white pen illustration with cross-hatching and fine line shading, high
+detail engraving style
+background: layered vintage newspaper collage with readable textures and headlines
+graphic elements: bold orange and blue paint splashes behind the subject, dynamic
+compositioncolor style: mostly monochrome with selective color accents (orange glasses
+and paint splashes, blue splashes)
+lighting: flat studio-style illustration lighting, no shadows from real light sources
+composition: centered portrait, poster design layout, clean hierarchy, sharp facial details
+no depth blur, no bokeh, crisp edges, high contrast ink texture
+aspect ratio 4:6
+```
+
+**Output**:
+
+<img src="../images/poster_case232/output.jpg" width="500">
+
+---
+
+### Case 233: Premium Scandinavian Travel Poster
+
+**Source**: [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2053347075648278737)
+
+**Prompt**:
+```
+Create a premium editorial travel poster illustration of [DESTINATION].
+
+Style:
+
+flat vector illustration, ultra clean minimalism,
+
+mid-century modern aesthetic,
+
+editorial travel poster style (Scandinavian design inspired),
+
+no photorealism, no textures, no noise, no gradients
+
+Composition:
+
+vertical 4:5 poster layout,
+
+foreground: calm waterfront / road / natural edge
+
+midground: colorful local houses or buildings with clean geometric shapes
+
+background: iconic natural landscape or mountain of [DESTINATION]
+
+add 1–2 landmark structures (church, tower, bridge, etc.) subtly
+
+Architecture:
+
+simplified geometric buildings,
+
+clean edges, flat colors,
+
+slightly varied roof colors (harmonious palette, not random)
+
+Color palette:
+
+soft, cohesive, location-inspired colors
+
+pastel tones + muted contrast
+
+bright but not saturated
+
+(example: sky blue, coral, mustard, navy, soft green)
+
+Lighting:
+
+bright daylight, soft shadows,
+
+clean and fresh atmosphere
+
+Typography:
+
+add text at bottom center:
+
+"[DESTINATION]" (large, modern sans-serif, spaced letters)
+
+"[COUNTRY]" (small subtitle below)
+
+Mood:
+
+calm, clean, premium, slightly dreamy travel magazine feel
+
+Quality:
+
+ultra clean edges,
+
+perfect alignment,
+
+no distortion,
+
+high resolution, print-ready
+```
+
+**Output**:
+
+<img src="../images/poster_case233/output.jpg" width="500">
+
+---
+
+### Case 234: Watercolor City Street Travel Poster
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2053495454764282108)
+
+**Prompt**:
+```
+A detailed watercolor travel poster of a lively city street, hand-painted urban sketch style, soft ink outlines, watercolor splashes, architectural detail, fashionable pedestrians walking through a busy avenue, cozy cafés and local shops, cinematic perspective, warm natural lighting, elegant travel magazine composition, large stylish city name typography at the top left, subtitle in handwritten script, subtle paper texture, atmospheric depth, realistic urban life, pastel earth tones, loose brush strokes, travel journal aesthetic, highly detailed, artistic tourism poster, European/Japanese street illustration vibe, white margin layout, premium editorial design
+```
+
+**Output**:
+
+<img src="../images/poster_case234/output.jpg" width="500">
+
+---
+
+### Case 235: Mid-Century 3-Color City Poster
+
+**Source**: [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2053523890744545437)
+
+**Prompt**:
+```
+Create a vertical mid-century travel poster for [CITY NAME] featuring [LANDMARK]. Use a strict 3-color palette: cream paper, black technical linework, and [COLOR].
+Style: Minimalist isometric bird's-eye view with ultra-fine hatching and screen-print texture.
+Color usage: Solid flat [COLOR] for the entire sky and small accents on roofs or streets. No gradients.
+Text: Bold sans-serif "[CITY NAME]" at top in cream, with the local language name in smaller cream text below.
+```
+
+**Output**:
+
+<img src="../images/poster_case235/output.jpg" width="500">
+
+---
+
+### Case 236: Y2K Kawaii Editorial Poster
+
+**Source**: [@sha_zdiii](https://x.com/sha_zdiii/status/2053465283214651420)
+
+**Prompt**:
+```
+High-fashion kawaii Y2K editorial poster featuring a stylish young woman standing confidently in the center. Soft dewy skin, glossy lips, airy bangs, flowing hair, trendy Korean-Japanese streetwear outfit with layered accessories. Background filled with colorful retro magazine graphics, chrome elements, stars, hearts, stickers, speech bubbles, playful UI overlays, barcode designs, and nostalgic pop-art visuals. Japanese kawaii typography mixed with Korean-style fashion campaign aesthetics. Bright studio flash lighting, cinematic composition, vibrant colors, layered poster design, ultra-detailed textures, luxury fashion magazine energy, sharp focus, premium 8K editorial look.
+```
+
+**Output**:
+
+<img src="../images/poster_case236/output.jpg" width="500">
+
+---
+
+### Case 237: Camera Evolution Timeline Poster
+
+**Source**: [@AIwithkhan](https://x.com/AIwithkhan/status/2053487042605326593)
+
+**Prompt**:
+```
+Ultra detailed vertical infographic poster showing the evolution of cameras from vintage film photography to futuristic AI cinematic systems. Include realistic renders of vintage film cameras, disposable cameras, VHS camcorders, DSLR cameras, mirrorless cameras, smartphone cinema rigs, drone cameras, and futuristic AI-powered cinema cameras. Arrange them in a clean timeline layout with glowing technical callouts, cinematic labels, UI overlays, camera specs, lens details, and photography icons. Dark premium background with gold and neon blue accents, realistic textures, dramatic studio lighting, cinematic photography aesthetic, modern editorial design, high-tech sci-fi feel, ultra sharp details, magazine-quality infographic style, symmetrical composition, realistic reflections, futuristic interface graphics.
+```
+
+**Output**:
+
+<img src="../images/poster_case237/output.jpg" width="500">
+
+---
+
+### Case 238: Portrait Collage Fashion Poster
+
+**Source**: [@Mind_Boticni](https://x.com/Mind_Boticni/status/2053489348470051163)
+
+**Prompt**:
+```
+High-end portrait collage poster in vertical format. The background contains four layered rounded strips displaying black-and-white film-like images of a curly-haired male model wearing dark sunglasses in varied poses. In front, a vivid color cutout of the same character is placed to the left, dressed in an unbuttoned soft pink shirt, styled like a luxury fashion campaign with dramatic lighting and depth.
+```
+
+**Output**:
+
+<img src="../images/poster_case238/output.jpg" width="500">
+
+---
+
+### Case 239: Tokyo Street Line-Art Poster
+
+**Source**: [@Shorelyn_](https://x.com/Shorelyn_/status/2053317557747351783)
+
+**Prompt**:
+```
+Create a minimalist ultra-high-resolution travel poster in line-art style for TOKYO, portraying the city as a stylish everyday urban scene rather than a tourist postcard.
+
+MAIN COMPOSITION:
+
+Central composition features Tokyo's most iconic everyday street scene, intersection, alleyway, tram route, or pedestrian crossing.
+
+Foreground includes local residents, commuters, cyclists, travelers, shoppers, students, and café visitors.
+
+People should naturally reflect Tokyo street fashion, local lifestyle, and modern urban culture.
+
+Background filled with authentic Japanese signage, cafés, ramen shops, convenience stores, transport signs, storefronts, vending machines, and architectural details.
+
+Landmarks should blend subtly into daily life rather than dominate the composition.
+
+Use authentic Japanese typography and culturally recognizable visual elements.
+
+Large centered title at the top: "TOKYO"
+
+Subtitle at the bottom in Japanese: "日本" or "東京"
+
+STYLE:
+
+Ultra-clean vector illustration
+
+Swiss modernist travel poster aesthetic
+
+Minimalist line-art
+
+Monoline drawing
+
+Mid-century editorial illustration style
+
+Architectural illustration
+
+Japanese graphic poster design
+
+Crisp geometric perspective
+
+Extremely clean negative space
+
+Premium travel-brand aesthetic
+
+LINE STYLE:
+
+Monochrome line illustration only
+
+Thin, highly precise lines
+
+Minimal fill areas
+
+Intricate city-map-level detailing
+
+Rhythmic arrangement of signs, buildings, windows, cables, and street objects
+
+Visually dense yet highly organized composition
+
+COLOR SYSTEM — VERY IMPORTANT:
+
+Use only ONE primary ink color + ONE background color
+
+Automatically select the color pairing that best represents Tokyo's atmosphere
+
+Monochrome silkscreen poster aesthetic
+
+No rainbow palettes
+
+No excessive neon
+
+Color should reflect Tokyo's architecture, nightlife, urban energy, and cultural identity
+
+Recommended palette for Tokyo:
+
+Bright Japanese red ink on warm ivory background
+
+COMPOSITION:
+
+Vertical poster layout
+
+Frontal street-level perspective
+
+Pedestrians naturally crossing streets and moving through the scene
+
+Balanced urban rhythm and visual flow
+
+Should feel like a premium city-brand campaign poster
+
+MOOD:
+
+Stylish urban life
+
+Calm yet lively atmosphere
+
+High-end travel magazine cover aesthetic
+
+Timeless city identity
+
+Premium tourism campaign visuals
+
+Minimalist yet highly detailed
+
+TEXT QUALITY — EXTREMELY IMPORTANT:
+
+All typography must be clean, readable, and professionally designed
+
+No random symbols
+
+No broken or distorted letters
+
+Japanese signage must appear authentic and natural
+
+High-end editorial typography layout
+
+OUTPUT:
+
+Vertical poster composition
+
+Ultra-detailed 8K resolution
+
+Print-ready
+
+Ultra-precise vector-quality rendering
+```
+
+**Output**:
+
+<img src="../images/poster_case239/output.jpg" width="500">
+
+---
+
+### Case 240: Minimalist City Line-Art Travel Poster
+
+**Source**: [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2053474337404117220)
+
+**Prompt**:
+```
+Create a minimalist travel-poster style line art illustration of [CITY NAME], in a vertical poster format. Use clean architectural ink drawing lines with a monochrome palette (black, sepia, or muted red tones) on an off-white background. Feature an iconic landmark of the city centered in the distance, with detailed urban street perspective leading toward it. Include pedestrians crossing the street, cyclists, cars, storefronts, traffic lights, street signs, subway/metro signs, and local cultural details unique to the city. Add realistic building facades with fine line detail and light shading.
+At the top, place the city name in very large bold modern sans-serif typography. At the bottom, add the country name and native-language text in a minimalist layout. Keep the composition symmetrical and balanced like a premium vintage travel poster mixed with modern Japanese editorial design.
+Style keywords: ultra detailed line art, architectural sketch, urban perspective drawing, clean vector ink illustration, travel poster aesthetic, minimal monochrome, cinematic street scene, soft beige paper texture, highly detailed cityscape, contemporary poster design, elegant typography, Muji-style minimalism.
+```
+
+**Output**:
+
+<img src="../images/poster_case240/output.jpg" width="500">
+
+---

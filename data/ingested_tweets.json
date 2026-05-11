@@ -1,6 +1,6 @@
 {
   "repo": "awesome-gpt-image-2-prompts",
-  "generated_at": "2026-05-09T10:00:00+08:00",
+  "generated_at": "2026-05-11T10:00:00+08:00",
   "primary_key": "tweet_url",
   "records": [
     {
@@ -4652,6 +4652,286 @@
       "case_number": 221,
       "suggested_title": "Starbucks Coffee World Surreal Poster",
       "ingested_at": "2026-05-09T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/SimplyAnnisa/status/2052978965841600854",
+      "author": "SimplyAnnisa",
+      "category": "portrait",
+      "case_number": 159,
+      "suggested_title": "Frieren Ethereal Anime Portrait",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/zhongying14/status/2052604233749250297",
+      "author": "zhongying14",
+      "category": "portrait",
+      "case_number": 160,
+      "suggested_title": "Photo to Tokyo Anime Manga Poster",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/GeekCatX/status/2052692688135463113",
+      "author": "GeekCatX",
+      "category": "portrait",
+      "case_number": 161,
+      "suggested_title": "Beetle-Inspired Couture Fashion Sheet",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/iamsofiaijaz/status/2052646973774401654",
+      "author": "iamsofiaijaz",
+      "category": "portrait",
+      "case_number": 162,
+      "suggested_title": "Paper Diorama Couple Portrait",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/ponyodong/status/2052983036724355468",
+      "author": "ponyodong",
+      "category": "poster",
+      "case_number": 222,
+      "suggested_title": "BLEACH Manga Collage Anime Poster",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/oggii_0/status/2052987633501188101",
+      "author": "oggii_0",
+      "category": "poster",
+      "case_number": 223,
+      "suggested_title": "Tokyo Minimalist Line-Art Travel Poster",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Taaruk_/status/2052783847784480942",
+      "author": "Taaruk_",
+      "category": "poster",
+      "case_number": 224,
+      "suggested_title": "Kawaii Kids Scrapbook Photography Poster",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/john_my07/status/2052271225972625503",
+      "author": "john_my07",
+      "category": "poster",
+      "case_number": 225,
+      "suggested_title": "Anime Character Streetwear Collector Poster",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/you1873118/status/2053124141075841049",
+      "author": "you1873118",
+      "category": "poster",
+      "case_number": 226,
+      "suggested_title": "Retro Motel Noir Bunny Portrait Poster",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Kashberg_0/status/2052916429859827932",
+      "author": "Kashberg_0",
+      "category": "poster",
+      "case_number": 227,
+      "suggested_title": "Yumi's Cells Zodiac Chibi Poster",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/AIwithSynthia/status/2052970867655893294",
+      "author": "AIwithSynthia",
+      "category": "poster",
+      "case_number": 228,
+      "suggested_title": "Sports Athlete Editorial Collage Poster",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/SimplyAnnisa/status/2052771565318897945",
+      "author": "SimplyAnnisa",
+      "category": "poster",
+      "case_number": 229,
+      "suggested_title": "Character Silhouette Key Visual Poster",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/SimplyAnnisa/status/2052650417356456447",
+      "author": "SimplyAnnisa",
+      "category": "poster",
+      "case_number": 230,
+      "suggested_title": "Urban Fashion Editorial Collage Poster",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Strength04_X/status/2052769877619065287",
+      "author": "Strength04_X",
+      "category": "poster",
+      "case_number": 231,
+      "suggested_title": "Kids Backpack Cartoon Ad Poster",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/harboriis/status/2052574508205449439",
+      "author": "harboriis",
+      "category": "poster",
+      "case_number": 232,
+      "suggested_title": "Ink Sketch Newspaper Collage Portrait",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/you1873118/status/2052624395932455061",
+      "author": "you1873118",
+      "category": "ui",
+      "case_number": 139,
+      "suggested_title": "Smartphone Screen Breakthrough Ad",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/john_my07/status/2052990299073630400",
+      "author": "john_my07",
+      "category": "ui",
+      "case_number": 140,
+      "suggested_title": "Whimsical Folk Doodle Illustration",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/mehvishs25/status/2052787699153838452",
+      "author": "mehvishs25",
+      "category": "ui",
+      "case_number": 141,
+      "suggested_title": "Vehicle Reference Engineering Infographic",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/GeekCatX/status/2052949583563784620",
+      "author": "GeekCatX",
+      "category": "comparison",
+      "case_number": 83,
+      "suggested_title": "Interior Design Mood Board Generator",
+      "ingested_at": "2026-05-10T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Goodmanprotocol/status/2053347075648278737",
+      "author": "Goodmanprotocol",
+      "category": "poster",
+      "case_number": 233,
+      "suggested_title": "Premium Scandinavian Travel Poster",
+      "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Taaruk_/status/2053495454764282108",
+      "author": "Taaruk_",
+      "category": "poster",
+      "case_number": 234,
+      "suggested_title": "Watercolor City Street Travel Poster",
+      "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/SimplyAnnisa/status/2053416803297358135",
+      "author": "SimplyAnnisa",
+      "category": "portrait",
+      "case_number": 163,
+      "suggested_title": "Low-Angle Sky Mood Portrait",
+      "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/ariaxawan/status/2053359007407210626",
+      "author": "ariaxawan",
+      "category": "portrait",
+      "case_number": 164,
+      "suggested_title": "White Streetwear Python Portrait",
+      "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/harboriis/status/2053301168026050805",
+      "author": "harboriis",
+      "category": "portrait",
+      "case_number": 165,
+      "suggested_title": "Vintage Classroom Golden-Light Portrait",
+      "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Goodmanprotocol/status/2053523890744545437",
+      "author": "Goodmanprotocol",
+      "category": "poster",
+      "case_number": 235,
+      "suggested_title": "Mid-Century 3-Color City Poster",
+      "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/sha_zdiii/status/2053465283214651420",
+      "author": "sha_zdiii",
+      "category": "poster",
+      "case_number": 236,
+      "suggested_title": "Y2K Kawaii Editorial Poster",
+      "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/AIwithkhan/status/2053487042605326593",
+      "author": "AIwithkhan",
+      "category": "poster",
+      "case_number": 237,
+      "suggested_title": "Camera Evolution Timeline Poster",
+      "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Mind_Boticni/status/2053489348470051163",
+      "author": "Mind_Boticni",
+      "category": "poster",
+      "case_number": 238,
+      "suggested_title": "Portrait Collage Fashion Poster",
+      "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Ciri_ai/status/2053535379618423118",
+      "author": "Ciri_ai",
+      "category": "portrait",
+      "case_number": 166,
+      "suggested_title": "Phone Reflection Mirror Portrait",
+      "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Shorelyn_/status/2053317557747351783",
+      "author": "Shorelyn_",
+      "category": "poster",
+      "case_number": 239,
+      "suggested_title": "Tokyo Street Line-Art Poster",
+      "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/ChillaiKalan__/status/2053310109678535000",
+      "author": "ChillaiKalan__",
+      "category": "ad-creative",
+      "case_number": 171,
+      "suggested_title": "Miniature City Diamond Necklace Ad",
+      "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/AIWithRay/status/2053407281719415273",
+      "author": "AIWithRay",
+      "category": "portrait",
+      "case_number": 167,
+      "suggested_title": "Korean Convenience Store Portrait",
+      "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/ShamiWeb3/status/2053430685399232756",
+      "author": "ShamiWeb3",
+      "category": "ad-creative",
+      "case_number": 172,
+      "suggested_title": "Watermelon Lime Beverage Ad Poster",
+      "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/iamsofiaijaz/status/2053474337404117220",
+      "author": "iamsofiaijaz",
+      "category": "poster",
+      "case_number": 240,
+      "suggested_title": "Minimalist City Line-Art Travel Poster",
+      "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Sairah_0/status/2053312926141005835",
+      "author": "Sairah_0",
+      "category": "ad-creative",
+      "case_number": 173,
+      "suggested_title": "Berry Loud Acai Bowl Food Ad",
+      "ingested_at": "2026-05-11T10:00:00+08:00"
     }
   ]
 }

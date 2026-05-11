@@ -595,3 +595,121 @@ Create a premium modern beverage advertisement poster in a vertical 3:4 format f
 ```
 
 
+
+### Case 171: [Miniature City Diamond Necklace Ad](https://x.com/ChillaiKalan__/status/2053310109678535000) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/2053310109678535000))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad_case171/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a hyper-detailed luxury advertising poster in a cinematic miniature-world style. A gigantic royal diamond necklace with intricate gold filigree and massive ruby gemstones stands in the center like an architectural monument. Surround the necklace with a futuristic miniature city built around and inside the jewelry piece, including skyscrapers, elevated highways, bridges, spiral staircases, tiny human figures, luxury billboards, drones, helicopters, and cinematic urban activity. Use a deep crimson red monochrome background with gold and ruby accents. Add premium fashion-ad aesthetics, ultra-realistic textures, glossy reflections, dramatic studio lighting, depth of field, tilt-shift miniature effect, and high-end commercial composition. Include bold elegant typography at the top saying: "EMBRACE THE EXTRAORDINARY". Style inspired by luxury jewelry campaigns, surreal city-building concepts, and premium 3D advertising renders. Ultra realistic, 8K, octane render, sharp focus, highly detailed, cinematic shadows, symmetrical composition.
+```
+
+### Case 172: [Watermelon Lime Beverage Ad Poster](https://x.com/ShamiWeb3/status/2053430685399232756) (by [@ShamiWeb3](https://x.com/ShamiWeb3/status/2053430685399232756))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad_case172/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a premium modern beverage promotional poster for We Drink.
+
+TOPIC:
+
+Watermelon Pink + Lime Green Refresh Campaign
+
+STYLE & ART DIRECTION:
+Modern energetic beverage advertising
+Youthful commercial branding
+Split-color background composition
+Bright refreshing summer aesthetic
+Minimal dynamic layout
+High-contrast drink advertisement style
+Instagram-ready beverage promotion
+Premium fast-moving commercial design
+
+MAIN SUBJECT:
+
+Two large ultra-realistic cold beverages positioned prominently in the center.
+
+Drink 1:
+
+A vibrant watermelon pink drink in a transparent plastic cup with visible ice cubes, condensation droplets, and a fresh watermelon garnish.
+
+Drink 2:
+
+A bright lime green drink in a matching transparent cup with visible ice cubes, condensation droplets, and a lime slice garnish.
+
+Additional elements:
+
+Floating ice cubes around the composition
+Dynamic water splash effects
+Soft realistic shadows beneath each cup
+Premium glossy liquid textures
+Tiny fruit slices suspended in motion
+
+LAYOUT & COMPOSITION:
+Diagonal split-color background
+Left side: watermelon pink gradient
+Right side: lime green gradient
+Large bold headline at the top center: "SIP THE FRESHNESS"
+Two hero drinks centered prominently
+Product descriptions placed beside each cup
+Promotional price section near the bottom-left
+We Drink logo and small branding elements at the bottom
+Floating ice cubes and splash effects around the drinks
+Spacious modern commercial hierarchy
+
+TEXT & TYPOGRAPHY:
+Bold oversized sans-serif typography
+Youthful rounded commercial fonts
+White typography accents
+Supporting text: "Watermelon Burst" and "Lime Rush"
+Promotional price: Only $3.99
+Tagline: "Freshness in Every Sip"
+
+DEPTH & LIGHTING:
+Soft glossy studio lighting
+Bright refreshing reflections
+Realistic beverage highlights
+Floating commercial depth
+Soft ambient shadows
+Premium condensation texture lighting
+
+EXTRA DESIGN DETAILS:
+Floating ice cubes
+Water splash particles
+Glossy gradients
+Modern promotional badges
+Fruit slices and droplets
+Minimal energetic decorative elements
+
+COLOR PALETTE:
+Watermelon Pink (#FF4F87)
+Lime Green (#A8FF2A)
+White typography
+Soft transparent highlights
+
+QUALITY:
+
+Ultra-realistic beverage photography, premium advertising composition, Behance-quality commercial poster, high-resolution, sharp focus, photorealistic textures, professional brand campaign aesthetic.
+```
+
+### Case 173: [Berry Loud Acai Bowl Food Ad](https://x.com/Sairah_0/status/2053312926141005835) (by [@Sairah_0](https://x.com/Sairah_0/status/2053312926141005835))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad_case173/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Prompt 1: Vibrant lifestyle food advertisement, smiling woman in a bright hot pink blazer sitting inside a colorful trendy café, holding a spoon and eating an acai berry bowl topped with strawberries, blueberries, banana slices, and granola, branded "Berry Loud" jar on wooden table, playful retro typography reading "BERRY LOUD" in large cream bubble letters, tropical café interior with hanging plants, warm natural sunlight, cheerful atmosphere, bold pink and teal color palette, shallow depth of field, cinematic food photography, ultra realistic, high detail, commercial ad campaign style, 4k
+
+Prompt 2: Dynamic food product advertisement for "Berry Loud" mixed berry blend, acai smoothie bowl overflowing with strawberries, raspberries, blueberries, blackberries, banana slices, granola, dramatic berry juice splashes and floating fruits in mid air, branded jar beside bowl, vivid hot pink background, large retro cream typography saying "NEW DROP BERRY LOUD", glossy lighting, hyper realistic food photography, energetic composition, vibrant colors, commercial product shoot, ultra detailed textures, splash effect, studio lighting, 4k, advertising poster style
+```

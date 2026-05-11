@@ -2677,3 +2677,267 @@ Ultra-realistic lifestyle portrait of a smiling young woman standing on a desert
 <img src="../images/portrait_case158/output.jpg" width="500">
 
 ---
+
+### Case 159: Frieren Ethereal Anime Portrait
+
+**Source**: [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2052978965841600854)
+
+**Prompt**:
+```
+GPT image 2 on ChatGPT 
+
+Reverse haze, diffused blur, soft focus, close-up shot of an ethereal and pure beautiful girl or boy inspired by the character Frieren from Frieren: Beyond Journey’s End. Blurred portrait and scenery, emphasizing the chaotic beauty of flowing dynamic hair. Extremely attractive appearance, dreamy and elusive atmosphere, Rembrandt lighting, high saturation, reflections and refractions, rich texture details, glowing bloom blur diffusion, low noise, subtle film grain texture, minimalist style, soft-focus aesthetics, emotional impressionism, avant-garde visual art aesthetics, cinematic luxury composition, masterpiece-level film aesthetics. CGI, Unreal Engine 5 rendering, Octane Render.
+```
+
+**Output**:
+
+<img src="../images/portrait_case159/output.jpg" width="500">
+
+---
+
+### Case 160: Photo to Tokyo Anime Manga Poster
+
+**Source**: [@zhongying14](https://x.com/zhongying14/status/2052604233749250297)
+
+**Prompt**:
+```
+把任意人物照片变成日系热血少年漫画
+
+【每日 GPT Image 2 提示词分享】👇
+
+请基于用户上传的真人照片进行二创，将照片中的人物转化成日系热血少年漫画风 / 都市街头动漫角色海报。
+
+请保留每个人的真实身份特征，包括脸型、五官比例、发型基础、肤色、年龄感、体型关系和整体气质。请重新创作一张全新的全身动漫插画，让所有人物完整入镜，从头到脚都清晰可见。
+
+画风参考：日系少年漫画彩页、都市街头动漫海报、干净有力的黑色线稿、明显动漫化五官、锋利有层次的发丝、清晰衣服褶皱、轻微铅笔草稿感、局部水彩或马克笔上色、低饱和色调、纸张纹理。
+
+请为人物自由设计 Tokyo street fashion 穿搭，风格年轻、松弛、酷感、现实可穿。可以使用 oversized 外套、短款上衣、宽松 T 恤、工装裤、阔腿裤、百褶裙、帆布鞋、厚底鞋、单肩包、耳机、项链、手机、咖啡杯等元素。多人画面中，穿搭需要有颜色或配饰呼应，但不要完全一样。
+
+请自由设计更有动漫海报感的站位和姿势，不要普通并排合照。可以是一前一后、背靠背、走路抓拍、靠墙、坐在台阶与站立错位、一个看镜头一个看侧方、一个走在前面一个回头，整体要有角色关系和分镜感。
+
+请根据人物气质、人数、姿势和穿搭，自由创作一个日系都市漫画场景。可以是东京街头巷口、便利店门口、地铁站出口、旧公寓楼下、学校天台、街边楼梯、复古商店橱窗前、自动贩卖机旁、咖啡店外、夜晚路灯下、雨后街道、城市天桥下、旧海报墙、漫画感城市街区等。
+
+背景可以加入线稿、喷绘、涂鸦、旧海报、门牌号、街头贴纸、手写文字、墨水滴落、箭头、星星、皇冠、小表情、砖墙、台阶、玻璃窗、路牌、自动贩卖机、栏杆、电线、街灯等元素。背景要有空间层次和生活感。
+
+整体氛围：日系少年漫画、都市街头、青春、松弛、酷感、轻微叛逆、时尚杂志插画感、漫画彩页感。
+```
+
+**Output**:
+
+<img src="../images/portrait_case160/output.jpg" width="500">
+
+---
+
+### Case 161: Beetle-Inspired Couture Fashion Sheet
+
+**Source**: [@GeekCatX](https://x.com/GeekCatX/status/2052692688135463113)
+
+**Prompt**:
+```
+GPT Image 2 生成 自然灵感时尚礼服设计
+
+提示词
+
+时尚设计稿 / 高定礼服设计页，主题灵感来自 {{灵感主题}}。画面为专业服装设计展示板构图：中央是一位全身站立的真人女模特，真实感、写实皮肤质感、自然五官、高级时装摄影氛围，穿着一件受 {{灵感主题}} 启发的高级定制礼服，礼服整体廓形为 {{礼服廓形}}。服装设计需明显提取灵感对象的色彩、几何形态、晶体结构、透明层次与纹理特征，并转化为礼服的裙摆、胸衣、肩颈结构、刺绣、亮片、薄纱叠层、欧根纱和缎面反光细节。
+
+版式要求：左上角放置 {{灵感主题}} 的精致手绘灵感草图或说明性插图；右侧放置礼服黑白技术线稿，清晰展示服装轮廓与结构，并配有手写感英文/法文风格设计备注，注明面料、分层、剪裁、晶体装饰、透明材质、立体细节。背景保持干净纯白，带少量设计师签名式潦草笔记、草图标记和时装工作室批注，整体呈现专业 fashion design sheet / couture concept board 的视觉效果。
+
+风格要求：真人模特写实感 + 高级时装设计手稿融合表现，真实模特主体、服装材质细节极其精致，软水彩与数字插画混合质感，但人物必须接近时尚大片级真实感，不要卡通，不要动漫，不要夸张二次元。光线柔和均匀，无硬阴影，画面干净高级，面料表现清晰：缎面、薄纱、欧根纱、珠绣、透明层叠、冰晶折射感。超清4K，细节丰富，审美高级，适合品牌级服装提案展示。
+
+灵感主题：甲壳虫
+比例：3:4
+```
+
+**Output**:
+
+<img src="../images/portrait_case161/output.jpg" width="500">
+
+---
+
+### Case 162: Paper Diorama Couple Portrait
+
+**Source**: [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2052646973774401654)
+
+**Prompt**:
+```
+Images by GPT Image 2 on Chatgpt.
+
+Prompt 👇
+
+Transform the uploaded portrait into a whimsical handcrafted paper diorama illustration with a soft cute aesthetic. Reimagine the people using simplified layered paper shapes, rounded forms, and minimal facial details suitable for paper craft art. Preserve the affectionate pose and emotional warmth of the original image while giving everything a charming handmade appearance.
+
+Use multi-layered cut paper textures with visible cardstock depth, soft drop shadows, folded-paper edges, and delicate handcrafted imperfections. Apply a dreamy pastel color palette featuring warm cream, dusty pink, muted peach, light caramel, ivory, sage green, and soft beige tones.
+
+Create a balanced and aesthetically pleasing composition with the couple centered naturally inside a cozy decorative frame made from layered paper flowers, leaves, butterflies, tiny birds, hearts, vines, and swirly ornamental cutouts. Add playful floating elements around the characters to create movement and a magical scrapbook feeling.
+
+Simplify clothing folds, hair strands, and background details into elegant paper-cut contours while keeping recognizable expressions and gentle smiles
+```
+
+**Output**:
+
+<img src="../images/portrait_case162/output.jpg" width="500">
+
+---
+
+### Case 163: Low-Angle Sky Mood Portrait
+
+**Source**: [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2053416803297358135)
+
+**Prompt**:
+```
+[INPUT]
+
+- reference image: {Portrait Photo}
+
+- Date: {Today's Date}
+
+- Today's Mood: { }
+
+[Goal]
+
+Create a poster of the sky using an extreme low-angle perspective, looking up at the subject from the ground.
+
+Express today's mood through the sky, light, clouds, and color scheme.
+
+[Maintain Subject]
+
+Maintain the facial mood, hair, body shape, and clothing style of the uploaded subject.
+
+However, the face should not be shown from the front; instead, a side profile or just a slight glimpse of the jawline should be visible.
+
+[Key Composition]
+
+- The camera is almost flat on the ground.
+
+- The subject is slightly floating above the camera or in a jumping moment.
+
+- The soles of the shoes are prominently visible close to the camera.
+
+- The legs appear long with a sense of perspective.
+
+- The subject is in a side view or semi-profile.
+
+- The sky occupies most of the screen.
+
+[Sky by Mood]
+
+Create a sky that matches today's mood.
+
+Examples:
+
+- Happiness: Clear blue sky, white clouds, warm sunlight
+
+- Excitement: Pink clouds, soft sunshine
+
+- Calmness: Pale blue sky, thin clouds
+
+- Loneliness: Sunset, long shadows, empty sky
+
+- Frustration: Low, heavy clouds
+
+- Rain: Overcast sky, raindrops, wet lens texture
+
+[Text]
+
+Arrange the date and mood message in a curved line along the outline or silhouette of the figure's body.
+
+Text to include:
+
+"{Date}"
+
+"{Today's Mood}"
+
+"{Short Message}"
+
+Text should be white, rounded, and bold poster typography.
+
+Avoid overly long sentences and arrange text for easy readability.
+
+If no short message input is provided, it should be automatically generated and entered.
+
+[Style]
+
+Sentimental Sky Poster, Warm Eye View, Bottom View, Wide Angle, Cinematic Fashion Poster, Clear Film Photo, Vast Sky, Clean Typography.
+
+[Prohibited]
+- No ordinary standing poses
+- No poses where shoe soles are not visible
+- No frontal face close-ups
+- No indoor backgrounds
+- No excessive text
+- No random text
+- No watermarks/logos
+```
+
+**Output**:
+
+<img src="../images/portrait_case163/output.jpg" width="500">
+
+---
+
+### Case 164: White Streetwear Python Portrait
+
+**Source**: [@ariaxawan](https://x.com/ariaxawan/status/2053359007407210626)
+
+**Prompt**:
+```
+Ultra-realistic high-fashion editorial portrait of a beautiful young Asian woman standing confidently in a monochromatic white urban environment, wearing modern luxury white streetwear fashion. Oversized white bomber jacket, fitted white crop top, layered white cargo pants with metallic chains, white tactical sneakers, silver jewelry, subtle glossy makeup, soft matte skin texture, long voluminous ash-brown wavy hair with wispy bangs flowing naturally in the wind.
+
+A massive realistic albino python emerges behind and around her body, partially concealed within thick swirling white smoke and atmospheric fog. The snake appears lifelike with detailed scales, realistic muscle tension, natural reflections, visible texture, sharp eyes, and subtle movement. The environment is almost entirely white — white architecture, white smoke, white clothing, white textures, white lighting — creating a clean monochromatic aesthetic.
+
+Large distressed black "1989" typography dominates the background in bold industrial font, the only dark element in the entire composition. Strong contrast between the black numbers and the all-white scene.
+
+Shot like a luxury fashion campaign, realistic photography, cinematic urban atmosphere, natural skin texture, highly detailed eyes, realistic hair strands, authentic fabric folds, realistic smoke physics, dramatic directional lighting, shallow depth of field, crisp focus, realistic proportions, modern editorial photography, Vogue magazine aesthetic, street luxury styling, high dynamic range, photorealistic, ultra detailed, 85mm lens, soft cinematic shadows, studio-quality color grading, real-world textures, professional fashion photography, no fantasy elements, no CGI appearance, no cartoon style, no anime aesthetic.
+```
+
+**Output**:
+
+<img src="../images/portrait_case164/output.jpg" width="500">
+
+---
+
+### Case 165: Vintage Classroom Golden-Light Portrait
+
+**Source**: [@harboriis](https://x.com/harboriis/status/2053301168026050805)
+
+**Prompt**:
+```
+Cinematic portrait of the man in the picture (preserve 100% facial details of this man), vintage classroom. The camera is shot from a distance, with a small section of the chair's back visible in front, as if the photographer was taking the portrait discreetly or in a quiet moment. Soft, golden-yellow lighting reflects from a small window or gap in the right wall, forming diagonal lines of light that fall directly on the man's face, creating a dramatic and emotional contrast.
+The man sits alone in a chair, his feet resting on the desk, with a relaxed and cool expression, as if lost in thought.
+```
+
+**Output**:
+
+<img src="../images/portrait_case165/output.jpg" width="500">
+
+---
+
+### Case 166: Phone Reflection Mirror Portrait
+
+**Source**: [@Ciri_ai](https://x.com/Ciri_ai/status/2053535379618423118)
+
+**Prompt**:
+```
+Ultra-realistic creative portrait taken with an iPhone, identity accurately preserved from the reference image. A woman stands inside a store, facing a glass display window or a reflective wall, photographed from a slightly elevated frontal angle. She holds a smartphone horizontally in front of her face, covering her eyes and the upper part of her face. The phone's screen points at the camera and clearly displays a real-time image of her face.
+```
+
+**Output**:
+
+<img src="../images/portrait_case166/output.jpg" width="500">
+
+---
+
+### Case 167: Korean Convenience Store Portrait
+
+**Source**: [@AIWithRay](https://x.com/AIWithRay/status/2053407281719415273)
+
+**Prompt**:
+```
+Ultra-realistic cozy Korean convenience store portrait of the same woman standing in front of glowing refrigerator aisles at night wearing a fluffy pastel pink hoodie. She holds strawberry milk and a tiny cake while looking shyly toward the camera. Soft blushy makeup, glossy eyes, natural skin texture, warm fluorescent lighting mixed with iPhone flash. Tiny reflections on the drink bottles, cute romantic atmosphere, soft pink and cream tones, dreamy slice-of-life anime realism.
+```
+
+**Output**:
+
+<img src="../images/portrait_case167/output.jpg" width="500">
+
+---

@@ -1219,3 +1219,101 @@ Minimal high-end infographic titled "FLAVORS OF MOSCOW", soft off-white backgrou
 <img src="../images/ui_case138/output.jpg" width="500">
 
 ---
+
+### Case 139: Smartphone Screen Breakthrough Ad
+
+**Source**: [@you1873118](https://x.com/you1873118/status/2052624395932455061)
+
+**Prompt**:
+```
+除了这种破屏穿越风格
+
+现在甚至能直接把人物
+
+从社交媒体界面里冲出来！
+
+构图、透视、视觉冲击
+
+电影感光影
+
+几乎一次成型
+
+玻璃碎裂 + 3D纵深 + UI融合
+
+已经不只是单纯出图了
+
+更像是在GPT Image 2 
+
+直接生成一整套视觉设计方案
+
+提示词：
+
+动态的豪华商业广告海报，特色是超现实3D渲染的充满活力的年轻女性，以上传的女性面部作为参考，穿着高级亮橙色设计师服装、豪华配饰以及时尚的金色墨镜，自信地从一个巨大的金色智能手机屏幕中爆发出色。她的姿势有力且时尚，一只运动鞋通过强烈的强制透视戏剧性地穿过数字显示屏，踏入现实。
+
+构图在前台强调她白色豪华运动鞋，带有纹理口香糖鞋底，通过电影般的广角镜头失真和浅景深增强。漂浮的闪亮3D社交媒体图标、金色几何元素和豪华品牌图形环绕着她，营造出高端影响者营销美学。
+
+明亮的摄影棚灯光营造出充满活力的优质促销氛围，金属金色手机边缘的丰富反射与哑光织物质地形成对比。主导的橙色、白色和金色调色板传递出超现代豪华X / Twitter 广告氛围。干净的白色背景上带有大胆的编辑排版、优质软件品牌元素、优雅的UI图形、漂浮的互动图标以及时尚的二维码区域。
+
+超现实8K品质、电影般的阴影、精致的商业艺术指导、豪华女性能量、时尚营销美学、现代社交媒体品牌、闪亮反射以及高端数字广告风格。
+
+宽高比：3:4。
+```
+
+**Output**:
+
+<img src="../images/ui_case139/output.jpg" width="500">
+
+---
+
+### Case 140: Whimsical Folk Doodle Illustration
+
+**Source**: [@john_my07](https://x.com/john_my07/status/2052990299073630400)
+
+**Prompt**:
+```
+Reimagine the full image as a whimsical handcrafted folk-art illustration filled with playful doodle aesthetics. Replace the original colors with a fresh, vibrant palette featuring bold contrasting tones and cheerful accents. Convert every object and detail into simplified flat forms with soft irregular outlines, textured brush-like fills, and an intentionally imperfect handmade appearance, as if sketched and colored on clean white paper with markers and paint pens. The final artwork should feel charming, naïve, and storybook-inspired, combining decorative folk patterns, quirky shapes, and lighthearted visual energy in a cute, imaginative style.
+```
+
+**Output**:
+
+<img src="../images/ui_case140/output.jpg" width="500">
+
+---
+
+### Case 141: Vehicle Reference Engineering Infographic
+
+**Source**: [@mehvishs25](https://x.com/mehvishs25/status/2052787699153838452)
+
+**Prompt**:
+```
+GPT Image 2 on ChatGPT 
+
+Prompt;
+
+Create a premium square “reference-style transportation infographic” centered around {VEHICLE_NAME}, designed as a beautifully curated engineering handbook page rather than a commercial poster.
+
+The composition should feel like a modern visual encyclopedia mixed with a high-end industrial design manual and elite editorial infographic system.
+
+Visual Direction:
+
+• 1:1 square composition
+• Soft light-toned technical background with subtle blueprint textures and schematic overlays
+• Elegant muted palette using graphite gray, titanium silver, deep navy, steel blue, and soft white accents
+• Refined editorial typography hierarchy
+• Rounded modular information cards with clean spacing
+• Gentle realistic shadows and premium UI-style dividers
+• Minimal technical iconography
+• Extremely detailed central vehicle render viewed in dramatic three-quarter perspective
+• Thin precision annotation lines pointing toward engineering systems and structural details
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+Main Subject Presentation:
+
+A stunning ultra-detailed realistic render of the {VEHICLE_NAME} placed at the cen
+```
+
+**Output**:
+
+<img src="../images/ui_case141/output.jpg" width="500">
+
+---

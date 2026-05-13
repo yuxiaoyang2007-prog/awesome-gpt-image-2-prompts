@@ -851,3 +851,38 @@ GPT Image 2 室内设计情绪板生成器
 负面约束
 避免杂乱拼贴、避免廉价海报风、避免材质与空间不匹配、避免错误透视、避免低质字体、避免装饰元素过多、避免卡通感、避免过饱和色彩、避免信息层
 ```
+
+<!-- Case 84: Donut Heist Storyboard Sheet (by @MayorKingAI) -->
+
+### Case 84: [Donut Heist Storyboard Sheet](https://x.com/MayorKingAI/status/2054266888428105947) (by [@MayorKingAI](https://x.com/MayorKingAI))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case84/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Donut Heist Storyboard Sheet"></a> |
+
+**Prompt:**
+
+```
+Title: “THE DONUT HEIST”
+Subtitle: “15s Comedic Storyboard – 9 Shots”
+
+Style: full-color 3D animated storyboard sheet, cinematic cartoon characters, polished lighting, expressive faces, vibrant colors, red panel borders, blue camera/action arrows.
+
+Characters: chubby food-obsessed raccoon with striped tail. Small hyperactive squirrel with fluffy tail.
+
+Important: keep left-right continuity. Squirrel always rushes from screen left to right, looking toward the bench/raccoon, never away. Raccoon stays near the donut box. In panel 03, the raccoon hears rustling from screen left and looks that way.
+
+Each panel: timecode, shot type, camera move, short action note.
+
+01 0–1.5s Wide/static: raccoon finds donut box on park bench.
+02 1.5–3s Med/push-in: raccoon opens box in awe.
+03 3–4.5s MCU/pan: raccoon hears rustling from screen left and looks that way, suspicious.
+04 4.5–6s Wide/tracking: squirrel sprints toward bench, eyes locked on donuts.
+05 6–7.5s Med/push-in: raccoon protects donut box.
+06 7.5–9s Close/forward: squirrel crashes into raccoon, donuts fly.
+07 9–11s Close/tight: both scramble for falling donuts.
+08 11–13s Med/static: both freeze, holding half a donut.
+09 13–15s Wide/final hold: they glare, then bite at once.
+
+Right side: character sheet + palette: sunny park, green grass, raccoon grey-brown, squirrel orange-brown, pink icing.
+```

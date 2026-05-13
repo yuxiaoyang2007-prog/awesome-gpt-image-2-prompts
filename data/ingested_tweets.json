@@ -1,6 +1,6 @@
 {
   "repo": "awesome-gpt-image-2-prompts",
-  "generated_at": "2026-05-11T10:00:00+08:00",
+  "generated_at": "2026-05-12T13:00:00+08:00",
   "primary_key": "tweet_url",
   "records": [
     {
@@ -4932,6 +4932,292 @@
       "case_number": 173,
       "suggested_title": "Berry Loud Acai Bowl Food Ad",
       "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "author": "egeberkina",
+      "case_number": 142,
+      "category": "ui",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Live Wimbledon Broadcast Screenshot",
+      "tweet_url": "https://x.com/egeberkina/status/2053931249794691081"
+    },
+    {
+      "author": "LufzzLiz",
+      "case_number": 168,
+      "category": "portrait",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Blush Pink Korean Editorial Portrait",
+      "tweet_url": "https://x.com/LufzzLiz/status/2053830981438918703"
+    },
+    {
+      "author": "zhongying14",
+      "case_number": 169,
+      "category": "portrait",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "French Vintage Oil-Painting Portrait Collage",
+      "tweet_url": "https://x.com/zhongying14/status/2053794975268143389"
+    },
+    {
+      "author": "ChillaiKalan__",
+      "case_number": 241,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Kids Fashion Editorial Poster",
+      "tweet_url": "https://x.com/ChillaiKalan__/status/2053761999583297716"
+    },
+    {
+      "author": "SimplyAnnisa",
+      "case_number": 242,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "High-Fashion Editorial Poster Template",
+      "tweet_url": "https://x.com/SimplyAnnisa/status/2053814655655543119"
+    },
+    {
+      "author": "sha_zdiii",
+      "case_number": 243,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Japanese Whimsical Folk-Art Illustration",
+      "tweet_url": "https://x.com/sha_zdiii/status/2053810777786835445"
+    },
+    {
+      "author": "Mind_Boticni",
+      "case_number": 244,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Cinematic Character Design Sheet",
+      "tweet_url": "https://x.com/Mind_Boticni/status/2053843881553502219"
+    },
+    {
+      "author": "harboriis",
+      "case_number": 245,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Minimal Fashion Product Ad Poster",
+      "tweet_url": "https://x.com/harboriis/status/2053813021592506439"
+    },
+    {
+      "author": "Kashberg_0",
+      "case_number": 246,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "COSMED Anime Commercial Poster",
+      "tweet_url": "https://x.com/Kashberg_0/status/2053763810423664652"
+    },
+    {
+      "author": "ZaraIrahh",
+      "case_number": 247,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Yumi's Cells Anime Poster",
+      "tweet_url": "https://x.com/ZaraIrahh/status/2053861275503890861"
+    },
+    {
+      "author": "Shorelyn_",
+      "case_number": 248,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Japanese Graffiti Street Poster",
+      "tweet_url": "https://x.com/Shorelyn_/status/2053733398502645760"
+    },
+    {
+      "author": "harboriis",
+      "case_number": 249,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Brand City Takeover Poster",
+      "tweet_url": "https://x.com/harboriis/status/2053879429265572226"
+    },
+    {
+      "tweet_url": "https://x.com/realsigridjin/status/2054368795121361249",
+      "author_handle": "realsigridjin",
+      "title": "Hand-Torn Editorial Collage",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-194-hand-torn-editorial-collage-by-realsigridjin",
+      "image_dir": "images/poster_case250",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Mavericks_Prod/status/2054342640439566739",
+      "author_handle": "Mavericks_Prod",
+      "title": "Wimbledon Broadcast Crowd Shot",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-118-wimbledon-broadcast-crowd-shot-by-mavericks_prod",
+      "image_dir": "images/portrait_case170",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/amynys/status/2054340951678587051",
+      "author_handle": "amynys",
+      "title": "Luxury Fragrance Campaign Portrait",
+      "category": "Ad Creative Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-171-luxury-fragrance-campaign-portrait-by-amynys",
+      "image_dir": "images/ad-creative_case174",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/churvikv/status/2054315113587384469",
+      "author_handle": "churvikv",
+      "title": "Glowing Sailboat Night Illustration",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-195-glowing-sailboat-night-illustration-by-churvikv",
+      "image_dir": "images/poster_case251",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/miilesus/status/2054285276780929527",
+      "author_handle": "miilesus",
+      "title": "Istanbul Line-Art Travel Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-196-istanbul-line-art-travel-poster-by-miilesus",
+      "image_dir": "images/poster_case252",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/MayorKingAI/status/2054266888428105947",
+      "author_handle": "MayorKingAI",
+      "title": "Donut Heist Storyboard Sheet",
+      "category": "Comparison & Community Examples",
+      "readme_file": "README.md",
+      "case_anchor": "#case-78-donut-heist-storyboard-sheet-by-mayorkingai",
+      "image_dir": "images/comparison_case84",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/you1873118/status/2054366009214316840",
+      "author_handle": "you1873118",
+      "title": "Dark Western Outlaw Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-197-dark-western-outlaw-poster-by-you1873118",
+      "image_dir": "images/poster_case253",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/YaZoraiz/status/2054264025178079718",
+      "author_handle": "YaZoraiz",
+      "title": "Handwritten Study Infographic Poster",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-125-handwritten-study-infographic-poster-by-yazoraiz",
+      "image_dir": "images/ui_case143",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2054248552294158350",
+      "author_handle": "iamaiistudio",
+      "title": "Berry Splash Cafe Campaign",
+      "category": "Ad Creative Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-172-berry-splash-cafe-campaign-by-iamaiistudio",
+      "image_dir": "images/ad-creative_case175",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/harboriis/status/2054238941482733685",
+      "author_handle": "harboriis",
+      "title": "Rainy Street Golden Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-119-rainy-street-golden-portrait-by-harboriis",
+      "image_dir": "images/portrait_case171",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/ShamsAmin56/status/2054238324198625780",
+      "author_handle": "ShamsAmin56",
+      "title": "Fast Food Hero Poster",
+      "category": "Ad Creative Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-173-fast-food-hero-poster-by-shamsamin56",
+      "image_dir": "images/ad-creative_case176",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Taaruk_/status/2054234237398851768",
+      "author_handle": "Taaruk_",
+      "title": "Anime Streetwear Mascot Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-198-anime-streetwear-mascot-poster-by-taaruk_",
+      "image_dir": "images/poster_case254",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/sha_zdiii/status/2054229209460117552",
+      "author_handle": "sha_zdiii",
+      "title": "Wildlife Infographic Reference Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-199-wildlife-infographic-reference-poster-by-sha_zdiii",
+      "image_dir": "images/poster_case255",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Naiknelofar788/status/2054221110372405534",
+      "author_handle": "Naiknelofar788",
+      "title": "Ancient Civilization Miniature Diorama",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-200-ancient-civilization-miniature-diorama-by-naiknelofar788",
+      "image_dir": "images/poster_case256",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Mind_Boticni/status/2054203134411739609",
+      "author_handle": "Mind_Boticni",
+      "title": "Japanese Fashion Collage Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-201-japanese-fashion-collage-poster-by-mind_boticni",
+      "image_dir": "images/poster_case257",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Shorelyn_/status/2054196121980002523",
+      "author_handle": "Shorelyn_",
+      "title": "Bangkok Swiss Typography Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-202-bangkok-swiss-typography-poster-by-shorelyn_",
+      "image_dir": "images/poster_case258",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Sairah_0/status/2054111354202779672",
+      "author_handle": "Sairah_0",
+      "title": "Matcha Granola Ad Poster",
+      "category": "Ad Creative Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-174-matcha-granola-ad-poster-by-sairah_0",
+      "image_dir": "images/ad-creative_case177",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Goodmanprotocol/status/2054074803381018750",
+      "author_handle": "Goodmanprotocol",
+      "title": "Miniature Travel World Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-203-miniature-travel-world-poster-by-goodmanprotocol",
+      "image_dir": "images/poster_case259",
+      "added_at": "2026-05-13T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/sha_zdiii/status/2054047328420634927",
+      "author_handle": "sha_zdiii",
+      "title": "Cozy Cafe Editorial Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-120-cozy-cafe-editorial-portrait-by-sha_zdiii",
+      "image_dir": "images/portrait_case172",
+      "added_at": "2026-05-13T10:00:00+08:00"
     }
   ]
 }

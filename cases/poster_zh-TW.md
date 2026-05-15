@@ -3783,3 +3783,143 @@ Ultra-detailed 8K vector-style rendering, ultra sharp print-ready quality, high-
 ```
 A cinematic hyper-detailed miniature travel diorama resting inside an open human palm, themed around [CITY/COUNTRY NAME] tourism and travel. A realistic passport and official travel visa card stand upright in the center of a tiny landscape inspired by the destination, surrounded by miniature travelers with luggage, scattered suitcases, local vegetation, iconic cultural elements, and detailed environmental textures matching the location. In the background, the famous skyline and landmark architecture of [CITY/COUNTRY NAME] rise softly with atmospheric depth, while the national flag waves beside the documents. A commercial airplane flies overhead in a bright blue sky with soft clouds. Ultra-realistic textures, shallow depth of field, warm sunlight, soft cinematic shadows, macro photography style, tilt-shift miniature effect, vibrant tourism atmosphere, highly detailed handcrafted diorama aesthetic, realistic skin texture on the hand, premium travel advertisement look --ar 1:1
 ```
+
+<!-- Case 260: Japanese Graffiti Portrait (by @iamaiistudio) -->
+
+### Case 260: [Japanese Graffiti Portrait](https://x.com/iamaiistudio/status/2054714863885394325) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case260/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Graffiti Portrait"></a> |
+
+**Prompt:**
+
+```
+Design a high-detail portrait poster in a bold Japanese graffiti-inspired art style that fuses modern urban street aesthetics with expressive Japanese visual culture. Pack the poster with dynamic graffiti typography, layered spray-paint textures, hand-drawn motifs, abstract paint splashes, neon brush strokes, urban sticker elements, Japanese calligraphy accents, and decorative ornaments that amplify the energetic mood. Keep the overall composition artistic, rebellious, fashionable, and visually striking, yet still polished to premium editorial poster quality, never messy or overdone. The subject should NOT copy the exact pose or expression from any reference image. Instead, invent an entirely new pose that feels natural, confident, and alive. The expression should read as emotionally expressive, charismatic, and engaging, never stiff, awkward, flat, or blank. The pose should carry the elegance and sophistication of an international fashion model, with stylish posture, natural movement, and a subtle attitude that elevates the cinematic fashion vibe. The outfit must be contemporary, stylish, casual fashion with strong visual appeal. Skip plain or repetitive clothing. Lean into fashionable layering, modern streetwear inspiration, premium casual styling, and a balanced mix of colors, patterns, textures, and fabrics for a rich, non-monotonous look. The clothing should feel trendy, fashionable, youthful, and visually premium, while still belonging inside the Japanese graffiti poster concept. Fill the background and poster decorations with thematic urban Japanese-inspired elements: graffiti walls, spray textures, painted symbols, urban signage, layered stickers, modern Japanese graphic motifs, abstract shapes, paint drips, street fashion aesthetics, and stylish decorative compositions that deepen the artistic intensity without distracting from the subject. Lighting should feel cinematic and fashionable, with strong contrast, clean highlights, realistic skin texture, and high-end editorial poster quality. The final result must look like a premium modern street-fashion campaign poster, with highly detailed textures, balanced composition, vibrant color harmony, realistic proportions, ultra-sharp focus, and immersive visual storytelling. Ultra-detailed, highly aesthetic, premium composition, realistic texture rendering, fashionable urban atmosphere, cinematic quality, poster-ready design, 8K ultra high resolution. #AIart #GPTImage2
+```
+
+<!-- Case 261: Playlist Mood Album Cover (by @getimg_ai) -->
+
+### Case 261: [Playlist Mood Album Cover](https://x.com/getimg_ai/status/2054654412547629350) (by [@getimg_ai](https://x.com/getimg_ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case261/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Playlist Mood Album Cover"></a> |
+
+**Prompt:**
+
+```
+Create an album cover inspired by this playlist: [playlist], translating its mood into colors, textures, objects, and cinematic composition, with no artist names. https://t.co/t1efbQ9sgP
+```
+
+<!-- Case 262: Play-Doh City Editorial (by @Goodmanprotocol) -->
+
+### Case 262: [Play-Doh City Editorial](https://x.com/Goodmanprotocol/status/2054629670239502408) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case262/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Play-Doh City Editorial"></a> |
+
+**Prompt:**
+
+```
+Create an ultra-charming 3:4 editorial illustration of a five-year-old child sitting at a cozy craft table, happily building a handmade Play-Doh miniature [City Name]. The entire world must clearly look sculpted by a real child using colorful Play-Doh clay - soft rounded shapes, uneven geometry, tiny fingerprints, squished textures, slightly crooked buildings, playful proportions, imperfect symmetry, and adorable handcrafted charm. The miniature city should include recognizable landmarks, bridges, rivers, cafés, food stalls, apartment buildings, parks, trains, buses, tiny clay people, trees, clouds, and playful neighborhood scenes. Dense with delightful micro-details while remaining organized and cozy. The child should feel authentic and natural, wearing casual everyday clothing with a curious, proud expression. Avoid stereotypes or costume-like styling. Visual style: premium children’s editorial illustration, soft claymation-inspired rendering, miniature diorama photography mood, whimsical storytelling, high-end family travel magazine aesthetic, ultra detailed, handcrafted warmth. Lighting & color: bright neutral daylight, soft diffused natural indoor lighting, airy Scandinavian editorial mood, crisp whites, fresh pastel Play-Doh palette, slightly cool-neutral white balance, clean highlights, luminous soft shadows. Avoid yellow tint, orange cast, sepia tone, moody cinematic lighting, neon oversaturation, or dark shadows. The city must feel genuinely handmade by a talented five-year-old - playful, imperfect, emotional, and imaginative, never like professional miniature modeling or hyperreal sculpture. No fake text, logos, watermarks, AI artifacts, hyperreal architecture, or over-polished miniature aesthetics. Bottom-right corner: small handwritten white crayon sentence: Let’s play in [City Name] The handwriting should feel naturally childlike, cute, uneven, and readable.
+```
+
+<!-- Case 263: 3D Liquid Art Poster (by @92digitalartArt) -->
+
+### Case 263: [3D Liquid Art Poster](https://x.com/92digitalartArt/status/2054597084473422099) (by [@92digitalartArt](https://x.com/92digitalartArt))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case263/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Liquid Art Poster"></a> |
+
+**Prompt:**
+
+```
+A mesmerizing and explosively colorful vertical poster featuring giant 3D liquid fluid sculpture forms, enormous glossy morphing blob shapes in vivid electric colors — a massive melting form in hot magenta pink flowing and dripping downward, intersecting with a giant swirling wave of electric cobalt blue, a third liquid mass in neon lime green curling upward like a breaking ocean wave, all three liquid forms colliding at the center in a spectacular splash explosion with hundreds of flying colorful droplets frozen mid-air, each liquid surface rendered with a perfect mirror-glossy finish reflecting the surrounding colors in dazzling distorted highlights, the background a clean bright white making the vivid color explosions pop with maximum visual impact, smaller floating 3D geometric shapes — spheres cubes and diamonds — in candy yellow coral orange and violet orbiting the main liquid forms, bold heavy rounded white typography outlined in black at the top reading "LET IT FLOW" in massive bouncy letters, smaller subtitle below "Create without limits", tiny spark and splash symbols scattered as accents, ultra-saturated maximum color impact, premium 3D render quality, 9:16 vertical ratio
+```
+
+<!-- Case 264: Isometric Travel Poster (by @iamaiistudio) -->
+
+### Case 264: [Isometric Travel Poster](https://x.com/iamaiistudio/status/2054593748085215513) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case264/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Isometric Travel Poster"></a> |
+
+**Prompt:**
+
+```
+Design a vertical retro mid-century travel poster of [CITY NAME] showcasing [LANDMARK]. Stick to a tight 3-color scheme: cream-toned paper background, black technical line drawing, plus one [COLOR] accent. Aesthetic: minimalist isometric top-down aerial perspective with very fine cross-hatching and silkscreen print grain. Color rules: fill the entire sky in flat solid [COLOR], add small [COLOR] touches on rooftops or street details. Zero gradients allowed. Typography: large bold sans-serif "[CITY NAME]" at the top in cream, with the city's name in its native language set smaller in cream beneath it. #AIart #GPTImage2
+```
+
+<!-- Case 265: Vintage Travel Postage Stamp (by @iamsofiaijaz) -->
+
+### Case 265: [Vintage Travel Postage Stamp](https://x.com/iamsofiaijaz/status/2054530631187788035) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case265/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Travel Postage Stamp"></a> |
+
+**Prompt:**
+
+```
+Vintage travel postage stamp design featuring [CITY / COUNTRY], ultra-detailed illustrated souvenir stamp, elegant art deco typography spelling “[NAME]” across the center in large ornate serif letters, iconic landmarks and skyline of [PLACE], traditional cultural architecture, scenic local elements, palm trees / boats / streets / mountains depending on location, warm cinematic lighting, soft pastel sky, retro airmail aesthetics, aged paper texture, engraved print style, luxurious vintage tourism poster feel, intricate ornamental borders, postal cancellation mark with local language and English text, “3.50 AED” denomination, symmetrical composition, highly detailed linework, muted [COLOR PALETTE] color scheme, nostalgic philatelic artwork, premium collectible stamp aesthetic, realistic shading, textured ink print, retro travel poster style, 4k illustration, highly detailed vintage engraving.
+```
+
+<!-- Case 266: Vintage Paper Collage Set (by @Sairah_0) -->
+
+### Case 266: [Vintage Paper Collage Set](https://x.com/Sairah_0/status/2054502531628486758) (by [@Sairah_0](https://x.com/Sairah_0))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case266/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Paper Collage Set"></a> |
+
+**Prompt:**
+
+```
+Aesthetic vintage paper collage portrait of a stylish woman taking a mirror selfie, made entirely from torn magazine and newspaper pieces, layered mixed-media artwork, neutral beige and brown tones, Vogue-inspired fashion editorial style, black sunglasses, sleek ponytail hairstyle, white corset top, silver jewelry, purple smartphone, textured ripped paper edges, handcrafted mosaic effect, realistic shadows and depth, chic typography cutouts, inspirational quotes scattered around, cozy luxury aesthetic, highly detailed analog collage art, soft warm lighting, Instagram moodboard vibe, premium editorial composition, ultra detailed, 4k Prompt : Vintage breakfast aesthetic collage made from torn magazine and newspaper clippings, artistic mixed-media paper mosaic style, croissants on a plate with jam, black coffee in a dark cup, fresh fruits and berries, butter dish with knife, café table atmosphere, dark green textured background, ripped paper layers with visible cracks and folds, lifestyle editorial typography, cozy European café vibe, warm earthy tones, handcrafted scrapbook look, realistic paper texture, aesthetic Pinterest moodboard composition, soft cinematic lighting, luxury brunch aesthetic, ultra detailed, high realism, 4k collage art style
+```
+
+<!-- Case 267: Cubist Kawaii Vector Portrait (by @ChillaiKalan__) -->
+
+### Case 267: [Cubist Kawaii Vector Portrait](https://x.com/ChillaiKalan__/status/2054457447142805832) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case267/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cubist Kawaii Vector Portrait"></a> |
+
+**Prompt:**
+
+```
+Create a cute neo-expressionist cubist minimal vector portrait illustration, Picasso meets kawaii minimalism, inspired by stylized fashion editorials and playful modern art. Ultra-simplified exaggerated facial features with oversized abstract eyes, flat cartoon eye shapes, minimal black dots or single curved strokes, no realistic iris details, no eyelashes, extremely reduced facial detail. Tiny abstract nose drawn with one short angular line.￼ Small single-stroke lips, tiny soft geometric mouth shape, minimal expression marks, no realistic mouth anatomy. Rounded cheeks, dreamy innocent expression, playful asymmetrical proportions, elongated elegant neck, simplified geometric facial planes, stylized angular hair shapes, subtle caricature aesthetics, childlike artistic distortion.￼ Use clean scalable vector shapes, flat color blocking, bold primitive contour lines, sharp Bézier curves, abstract polygon composition, minimal linework, naive handmade drawing quality, expressive empty space, icon-like facial abstraction, no realistic rendering, 2D primitive facial symbols. Add subtle oil pastel grain overlays, rough handmade brush accents, raw scribbled handwritten marks, visible pigment texture, silkscreen poster feeling.￼ Vibrant limited color palette against deep matte black background. Luxury editorial gallery poster composition, contemporary fashion illustration, artsy modern cubist poster, stylish and adorable, premium print-ready vector artwork.￼
+```
+
+<!-- Case 268: Trash Polka Headphones Portrait (by @ChillaiKalan__) -->
+
+### Case 268: [Trash Polka Headphones Portrait](https://x.com/ChillaiKalan__/status/2054390412253827522) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case268/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Trash Polka Headphones Portrait"></a> |
+
+**Prompt:**
+
+```
+​A high-detail digital painting of a young woman wearing large, vibrant red over-ear headphones, looking directly at the viewer with a piercing gaze. The art style is a fusion of stylized realism and urban abstract expressionism. Her hair is messy, light brown/blonde with loose strands and sharp, geometric shards integrated into the locks. The composition features heavy ink splatters, paint drips, and chaotic red and black brushstrokes reminiscent of 'trash polka' art.￼ The background is a clean, minimalist off-white, making the bold red accents and fine linework pop. High contrast, sharp focus on the eyes, cinematic lighting, 8k resolution, trendy street art aesthetic. ​Key Technical Elements to Capture ​Color Palette: Dominated by Red, Black, and White. This high-contrast triad is essential for that aggressive, modern look. ​Artistic Influence: Mentioning "Trash Polka" or "Ink Drip Art" helps the AI understand the messy, splatter-heavy background and the "shattered" look of the hair. ​Character Features: Use terms like "piercing gaze" and "stylized realism" to ensure the face isn't too cartoonish or too photographic, hitting that perfect "concept art" middle ground. ​Graphic Elements: The image uses geometric shards and abstract textures overlapping the subject, which creates a sense of depth and digital glitchiness. Aspect ratio is 9:16
+```
+
+<!-- Case 269: 3D Typography Travel Poster (by @Naiknelofar788) -->
+
+### Case 269: [3D Typography Travel Poster](https://x.com/Naiknelofar788/status/2054390259115536874) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case269/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Typography Travel Poster"></a> |
+
+**Prompt:**
+
+```
+Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury editorial destination advertising fused with realistic sculptural letterform architecture. The city name “[CITY]” must be the dominant subject, occupying most of the canvas. Build the letters as large, realistic, three-dimensional sculptural forms made from glossy painted material, polished ceramic, soft plaster, carved stone, sunlit architectural surfaces, or city-adaptive materials. Each letter should physically transform into the city’s identity: landmarks, skyline silhouettes, arches, towers, domes, bridges, windows, balconies, cultural patterns, coastal forms, or street details must grow directly out of the letterforms. Landmarks should feel architecturally integrated, not pasted behind or around the word. A tower may rise from a vertical stem, a bridge may connect two letters, a dome may form the curve of a rounded letter, rooftops may shape the top edges, and windows or ornamental details may be embedded into the letter faces. Use a low-angle three-quarter camera view so the typography feels monumental, cinematic, premium, and friendly. Place the 3D city-name sculpture slightly low in the frame, filling the central and lower portions of the poster, with generous negative space above. At the top header, add a refined horizontal row of faded landmark symbols related to the city: tiny vector icons, or translucent architectural glyphs. Keep them very soft, elegant, and secondary, like premium magazine header details. Add each landmark name below its icon. Keep all faded and premium. Remove any visible sun from the top-left corner. Use bright natural daylight with a soft key light from the upper-left, gentle fill light, clean highlights, subtle ambient occlusion, and soft contact shadows beneath the letters. The lighting should feel cheerful, fresh, and editorial, not dark or overly cinematic. Use a bright city-adaptive palette based on [CITY]: coastal cities use aqua, coral, cream, and sunny yellow; historic cities use warm stone, terracotta, olive, and soft sky blue; tropical cities use turquoise, mango, palm green, and white; mountain cities use alpine blue, meadow green, snow white, and golden warmth; nightlife cities use violet, cyan, peach, and amber. Keep colors clean, optimistic, premium, and controlled. Add subtle editorial text elements to improve the poster: small uppercase header text such as “DESTINATION SERIES”, a tiny location code like “CITY / 01”, delicate vertical divider lines, a minimal footer line such as “VISIT [CITY]”, and small microtype coordinates or issue number near the bottom edge. These text elements must remain quiet and secondary so the large 3D city name stays the hero. Background should be clean and spacious with a soft sky gradient, delicate clouds, or abstract color field only. Do not place extra landmarks in the background; all major city identity must come from the typography itself, except the faded symbolic header row. Style: premium editorial travel advertising, luxury magazine cover, realistic 3D typographic sculpture, bright modern optimism, cheerful wanderlust, cultural identity, clean art direction. Negative prompt: avoid generic travel posters, separate landmark collages, landmarks pasted behind text, flat typography, cluttered backgrounds, visible sun in the top-left corner, excessive icons, dark cinematic lighting, muddy colors, cheap souvenir aesthetics, unreadable city name, distorted letters, random gradients, noisy textures, stock-template layouts, and overdecorated tourist graphics.
+```

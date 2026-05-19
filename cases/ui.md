@@ -1409,3 +1409,529 @@ Create a premium graphic design portfolio mockup in a professional creative stud
 ```
 Create a cinematic realistic character design board for a high-budget neo-noir film production set in a rain-soaked futuristic city. Use a dark charcoal and electric cyan color palette with neon reflections in the background. Avoid generic grids or symmetrical layouts; composition should feel like a stylized director’s pitch board. Design a grounded human character with realistic anatomy, subtle imperfections, and strong emotional presence. Include full-body turnarounds, expressive head angles, cinematic portrait, wardrobe breakdown, fabric texture detail, and production notes. Background: blurred cyberpunk city lights, wet glass reflections, moody atmosphere, soft neon glow. Style: semi-realistic cinematic realism, high contrast lighting, shallow depth of field, film grain, emotional intensity.
 ```
+
+<!-- Case 148: Heliotropic Architecture Board (by @Gdgtify) -->
+### Case 148: [Heliotropic Architecture Board](https://x.com/Gdgtify/status/2055773537257034007) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case148/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+16:9 autonomous kinetic architecture, the heliotropic tracking mechanics of [aerospace/solar tracking array] shaping an adaptive, luxury [outdoor architectural structure], sequence from [astronomical/solar path diagrams] to [robotic kinematic wireframes] to a programmable louvre abstraction to the final architectural installation, ai to infer smart-motor integration and weather-responsive materials utilizing [material 1] and [material 2], featuring time-lapse shadow projection diagrams, [aesthetic style] aesthetic, presentation layout: solar path charts at the top, robotic hinge details in the margins, stunning photorealistic architectural render below, [lighting style].  input: [deep space network satellite dish array], [smart kinetic patio pergola], [equatorial solar trajectory mapping], [multi-axis pivoting joint schematics], [photovoltaic-coated tinted glass], [extruded matte bronze aluminum], [contemporary silicon valley billionaire estate], [golden hour sunlight casting intricate geometric shadows]
+```
+
+<!-- Case 149: Brand Identity Guideline Board (by @Shorelyn_) -->
+### Case 149: [Brand Identity Guideline Board](https://x.com/Shorelyn_/status/2055681687284293991) (by [@Shorelyn_](https://x.com/Shorelyn_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case149/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Using the uploaded logo for (Brand name) generate a high-end, agency-grade brand identity system poster.
+
+OBJECTIVE
+Create a complete, presentation-ready brand guideline board that looks like it was designed by a top branding studio. The result must feel commercial, realistic, and client-deliverable, not conceptual.
+
+INTELLIGENCE RULE (THIS IS WHAT YOU WERE MISSING)
+Before designing, analyze the logo and infer:
+3 identity traits (based on analysis)
+
+COLOR SYSTEM (SMART GENERATION)
+Extract palette from logo automatically
+Include:
+Primary colors (3–5)
+Secondary colors (3–5)
+Accent colors
+
+Each must show:
+HEX codes
+labeled usage (primary / UI / highlight / background)
+
+Also generate:
+gradients
+color combinations
+tonal variations
+
+TYPOGRAPHY SYSTEM (MATCH PERSONALITY)
+Select typography style based on brand:
+luxury → elegant serif
+tech → geometric sans
+street → bold condensed
+corporate → clean neutral sans
+
+Show:
+headline / subheadline / body
+real text examples (brand-relevant, not lorem ipsum)
+clear hierarchy
+
+VISUAL LANGUAGE
+Define and visualize:
+image style (editorial / lifestyle / futuristic / minimal)
+lighting (soft / dramatic / high contrast)
+mood (energetic / premium / calm / disruptive)
+
+Show:
+3–5 visual tiles
+
+BRAND APPLICATIONS (REALISM BOOST)
+Generate consistent mockups:
+packaging or product
+website hero
+mobile UI
+3 social media creatives
+business card
+billboard / ad
+
+All must feel real-world usable.
+
+LAYOUT SYSTEM
+grid system
+spacing scale (4pt / 8pt system)
+
+Show:
+UI components
+cards
+buttons
+layout examples
+
+ICONOGRAPHY
+6–10 icons style derived from brand (rounded / sharp / minimal / filled)
+
+PATTERNS & ELEMENTS
+shapes derived from logo
+repeating motifs
+background systems
+
+MICRO DETAILS (THIS CREATES “PREMIUM FEEL”)
+shadows
+reflections
+textures
+depth layering
+
+VISUAL STYLE CONTROL
+modern editorial + system design hybrid
+strong hierarchy
+layered composition
+controlled spacing
+
+DENSITY RULE
+minimum 30–50 elements
+mix of macro + micro components
+no empty or filler space
+
+HARD RESTRICTIONS
+no placeholders
+no generic UI
+no inconsistent styles
+no random colors
+
+FINAL OUTPUT
+A high-end brand system poster that looks:
+Behance feature-worthy
+agency presentation-ready
+visually consistent and detailed
+```
+
+<!-- Case 150: Illustrated 2027 Desktop Calendar (by @Mind_Boticni) -->
+### Case 150: [Illustrated 2027 Desktop Calendar](https://x.com/Mind_Boticni/status/2055663029195575396) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case150/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+use this reference photo to create a desktop calendar for January-December 2027. Format: A4 vertical. Features: Korean illustration style, distinct character features, natural expressions, full-body composition, dynamic poses, exquisite clothing details, hand-drawn doodle style, splatter brushstrokes, free lines, a mix of pastels and ink, comic sketch texture, simple white background, symbolic elements around the edges, strong atmosphere, high detail, high quality.
+```
+
+### Case 151: [Monoluxe Automotive Poster Grid](https://x.com/Ozayrr_irl/status/2056179631389126895) (by [@Ozayrr_irl](https://x.com/Ozayrr_irl))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case151/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Monoluxe Automotive Posters 🔥
+
+Images on ChatGPT by GPT image 2.
+
+Prompt⤵️
+
+"A high-quality editorial automotive poster split into a 2x2 grid layout, each quadrant featuring one iconic car with a bold typographic name as the background. Top-left: Toyota Corolla AE86 in Cobalt Blue, side profile view, floating above its reflection, massive "COROLLA" text behind in matching blue tones, cobalt blue panel background, small detail inset photos of interior and headlights in the corner, editorial body copy below the car. Top-right: Volkswagen Beetle in golden yellow, side profile, "BEETLE" in massive serif bold letters behind it, warm golden yellow panel, vintage feel, small detail thumbnails of curved body panel and round taillights. Bottom-left: Honda Civic Type R in Championship Red, aggressive front-three-quarter angle, massive "CIVIC TYPE R" text melting into the dark red background, dramatic low-angle lighting, small thumbnail of front grille and wing spoiler. Bottom-right: Classic Mini Cooper in burnt orange/rust tone, side profile, "MINI" in oversized bold condensed font, amber-orange panel, detail thumbnails of door handle and round taillight cluster. All four panels have a dark bottom section with white serif editorial description text, small divider lines, and 2–3 small square detail photos. Overall layout: vertical 9:13 poster, magazine-editorial aesthetic, graphic design studio quality, automotive illustration meets print poster art. A subtle "OzairAI" text appears naturally engraved on one of the license plates in the Corolla panel. Ultra photorealistic, 8K, no text overlays, cinematic color grading."
+```
+
+### Case 152: [Exploded Vehicle View](https://x.com/CharaspowerAI/status/2056049620753449271) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case152/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create an ultra detailed exploded view of the iconic [vehicle name].
+[Vehicle] is suspended in mid-air with all mechanical parts separated and floating in perfect alignment, showing the full internal structure of the vehicle. White background
+```
+
+### Case 153: [Male Glow-Up Analysis Poster](https://x.com/frametheory058/status/2056038533962555737) (by [@frametheory058](https://x.com/frametheory058))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case153/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+I will upload a face photo/selfie.
+
+Create an ULTRA PREMIUM AI MALE GLOW-UP ANALYSIS POSTER with a luxury fashion-tech aesthetic.
+
+IMPORTANT:
+The uploaded face and identity must remain EXACTLY THE SAME.
+
+Do NOT change:
+- facial structure
+- eyes
+- nose
+- lips
+- jawline
+- skin tone
+- facial proportions
+- identity
+
+The face should look 100% identical to the uploaded image.
+
+You MAY enhance:
+- hairstyle
+- beard style
+- expression
+- outfit
+- lighting
+- posture
+- styling
+- background
+- overall attractiveness
+
+STYLE:
+The final result should look like:
+- a luxury grooming brand campaign
+- a futuristic men’s fashion magazine
+- a premium AI self-improvement dashboard
+- cinematic and extremely expensive
+
+NO basic infographic look.
+NO cheap AI poster style.
+NO cartoonish design.
+
+THEME:
+Use a premium modern luxury aesthetic:
+- matte black
+- champagne gold
+- warm beige
+- silver accents
+- dark graphite
+- soft cinematic lighting
+
+Add:
+- glassmorphism UI
+- floating premium panels
+- luxury typography
+- subtle reflections
+- realistic shadows
+- elegant spacing
+- premium composition
+
+CENTER SUBJECT:
+- Place the uploaded face in the center
+- Make him look like a high-status modern male model
+- Confident masculine expression
+- Attractive but realistic
+- Strong eye contact
+- Natural skin texture
+
+HAIRSTYLE SECTION:
+Create premium hairstyle recommendations using the SAME FACE:
+- textured quiff
+- low taper
+- side part flow
+- modern messy hairstyle
+- clean slick back
+
+BEARD SECTION:
+Using the SAME FACE:
+- light stubble
+- short boxed beard
+- clean shave
+- sharp jawline beard
+
+OUTFIT STYLE SECTION:
+Create multiple premium outfit inspirations using the SAME FACE:
+- old money
+- smart casual
+- luxury streetwear
+- classy formal
+- monochrome black fit
+
+All outfits should look:
+- tailored
+- masculine
+- expensive
+- editorial quality
+
+FACE ANALYSIS SECTION:
+Include:
+- face shape
+- jawline analysis
+- facial harmony
+- symmetry
+- hairstyle compatibility
+- skin undertone
+- attractiveness strengths
+
+COLOR PALETTE SECTION:
+Show best clothing colors:
+- black
+- cream
+- olive
+- navy
+- charcoal
+- white
+
+GLASSES SECTION:
+Show glasses/sunglasses styles that suit the face:
+- aviator
+- rectangle
+- wayfarer
+- round metal
+
+BEST ANGLES SECTION:
+Create multiple mini portraits using the SAME FACE:
+- 3/4 angle
+- side profile
+- eye-level
+- slight down angle
+
+BACKGROUND:
+Luxury studio environment:
+- blurred city lights
+- elegant interior
+- premium fashion studio
+- cinematic depth
+- luxury apartment vibe
+
+TEXT STYLE:
+Minimal, clean, elegant.
+Looks like a premium fashion editorial mixed with AI analysis.
+
+QUALITY:
+- ultra realistic
+- hyper detailed
+- 8K
+- cinematic realism
+- luxury aesthetic
+- highly polished
+- visually addictive
+```
+
+### Case 154: [Tokyo Pink Fashion Collage](https://x.com/Mind_Boticni/status/2056013715892514937) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case154/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+GPT Image 2 on ChatGPT                         
+
+Prompt :
+
+Create a premium 1:1 luxury fashion collage featuring the same stylish Japanese college girl in multiple cinematic portrait moments across one artistic composition. Blend ultra-realistic anime-inspired beauty with luxury editorial aesthetics. Include close-up beauty shots, candid walking moments, stylish classroom fashion, playful mirror selfies, rooftop sunset poses, and soft emotional expressions while maintaining identical character identity throughout. Use asymmetrical overlapping photo layers, torn magazine textures, glossy reflections, handwritten fashion notes, dreamy pink gradients, cinematic bloom lighting, and tiny  size integrated typography like “TOKYO PINK”, “ICON”, “YOUTH MODE”, and “LUXE GIRL”. Ultra detailed, cinematic, modern Japanese fashion campaign aesthetic, soft depth of field, premium social media advertisement style, 8K.
+```
+
+### Case 155: [Sony Camera Reference Infographic](https://x.com/j_smeaton99/status/2056003752927379750) (by [@j_smeaton99](https://x.com/j_smeaton99))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case155/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a premium square “reference-style photography equipment infographic” centered around a modern Sony mirrorless camera such as the {CAMERA_MODEL}, designed as a beautifully curated camera-engineering handbook page rather than a retail advertisement.
+
+The composition should feel like a modern visual encyclopedia mixed with an elite photographer’s field guide and high-end editorial infographic system.
+
+Visual Direction:
+
+• 1:1 square composition
+• Dark premium studio-tech background with subtle photography-grid textures, optical schematics, and cinematic UI overlays
+• Elegant muted palette using matte black, graphite gray, titanium silver, warm orange accents, and subtle electric-blue highlights
+• Refined editorial typography hierarchy
+• Rounded modular information cards with clean spacing
+• Gentle realistic reflections and premium HUD-style dividers
+• Minimal professional photography iconography
+• Extremely detailed central camera render viewed in dramatic three-quarter perspective with studio lighting and shallow depth-of-field aesthetics
+• Thin precision annotation lines pointing toward camera hardware systems and imaging technologies
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+Main Subject Presentation:
+
+A stunning ultra-detailed realistic render of the {CAMERA_MODEL} placed at the center, featuring premium magnesium-alloy body textures, realistic lens glass reflections, tactile control dials, advanced sensor detailing, cinematic lighting, and ultra-realistic photography gear presentation.
+
+Surround the camera with scientific and engineering callouts explaining:
+
+• full-frame image sensor
+• AI autofocus system
+• image stabilization technology
+• electronic viewfinder system
+• advanced video recording features
+• dual card-slot architecture
+• battery performance system
+• weather-sealed body design
+• lens ecosystem compatibility
+• wireless connectivity systems
+
+Include modular infographic sections such as:
+
+• Camera Overview
+• Technical Specifications
+• Dimensions & Build
+• Sensor & Image Quality
+• Processor & Performance
+• Autofocus & Subject Tracking
+• Video Recording Features
+• Stabilization Technology
+• Shooting Modes & Burst Performance
+• Lens Ecosystem
+• Battery & Power System
+• Connectivity Features
+• Professional Workflow Integration
+• Included Accessories & Box Contents
+• “Top 5 Reasons to Choose” section
+• Ideal Photography & Filmmaking Use Cases
+
+Add small premium visualization modules like:
+
+• sensor cutaway diagrams
+• autofocus coverage maps
+• stabilization system graphics
+• lens ecosystem displays
+• battery performance charts
+• video codec comparison tables
+• camera blueprint dimensions
+• menu/UI mockups
+• accessory ecosystem visuals
+• performance benchmark graphics
+
+Style Keywords:
+
+“premium photography encyclopedia”
+“editorial camera handbook”
+“high-end photography infographic”
+“scientific imaging technology poster”
+“museum-quality camera reference page”
+“modular photography knowledge system”
+“clean cinematography editorial design”
+“ultra-detailed camera visualization”
+
+Avoid:
+
+• generic e-commerce advertisement aesthetics
+• cluttered tech layouts
+• unrealistic sci-fi hologram effects
+• cartoon camera styling
+• excessive cyberpunk neon overload
+• low-detail product renders
+
+The final result should resemble a professionally published photography-equipment reference-book page created for photographers, cinematographers, content creators, camera collectors, engineers, and educational imaging archives.
+```
+
+### Case 156: [Desk Setup Audit Infographic](https://x.com/DilshadAI1/status/2055962696936468714) (by [@DilshadAI1](https://x.com/DilshadAI1))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case156/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a visual-first, editorial-style infographic auditing the desk setup in the attached photo. Show a side-by-side of current vs. optimized setup with annotations on monitor height, chair position, lighting, cable management, and clutter. Rate each issue with symbols like Top Fix, (working), (acceptable), (costing energy), and (actively hurting), tying each to a consequence like back pain, eye strain, or focus loss. Rank fixes by impact and group them into free fixes, under $50, and worth the investment. Include a Focus Forecast gauge predicting daily deep work hours possible with the current setup vs. after the top 3 fixes. Keep it clean, minimal text, no paragraphs.
+```
+
+### Case 157: [Country Sports Infographic](https://x.com/MrDasOnX/status/2055892804744929544) (by [@MrDasOnX](https://x.com/MrDasOnX))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case157/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a premium editorial infographic in a high-end magazine style about [COUNTRY]’s most iconic national [SPORT]
+
+Use a sophisticated dark navy blue, beige, and warm gold color palette with clean minimalist typography and subtle grid lines.
+
+Layout structure (perfectly balanced, cinematic composition for vertical format):
+
+- Central large hero image: A hyper-realistic, cinematic golden-hour photograph of [SPORT] in action — [detailed action scene description with iconic player or moment, stadium/venue, national colors, dramatic lighting], extremely detailed, National Geographic level photography, 8k resolution. The image should be vertically oriented and fill the central space beautifully.
+
+- Top banner: Elegant title “[COUNTRY]’s National Passion: [SPORT]” in bold modern serif font with the [COUNTRY] flag subtly integrated.
+
+Four structured content panels surrounding the central image in a clean vertical asymmetrical grid:
+
+1. History & Origins (above center): Short paragraph on [brief history: when introduced, key milestones, how it became national obsession]. Include 1–2 small historical icons or timeline markers.
+
+2. Legendary Athletes (upper right or below top banner): [Athlete 1], [Athlete 2], [Athlete 3], [Athlete 4] — small portrait thumbnails with key achievements and one signature quote or record each.
+
+3. Key Statistics (below central image, left side): Clean infographic-style stats in bold numbers:
+   - [Stat 1]
+   - [Stat 2]
+   - [Stat 3]
+   - [Stat 4]
+   Use small relevant icons (trophy, stadium, crowd, sport-specific items, etc.).
+
+4. Cultural Significance (below central image, right side): [How the sport shapes national identity, traditions, rivalries, daily life, and culture]. Include 1–2 small cultural photos or symbols.
+
+Design rules:
+- Luxurious editorial magazine aesthetic (think National Geographic × Kinfolk × Bloomberg Businessweek)
+- Thin gold accent lines, subtle shadows, generous white space
+- Small [COUNTRY] flag in the top-right corner
+- Professional sans-serif body text, elegant serif headings
+- Overall ultra-clean, balanced, premium feel with cinematic depth and rich texture
+- Aspect ratio 9:16 (vertical, mobile-friendly), ultra-high detail, no text distortion, sharp typography
+```
+
+
+### Case 158: [Die-Cut Sticker Illustration](https://x.com/Ciri_ai/status/2056616223547548106) (by [@Ciri_ai](https://x.com/Ciri_ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case158/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Transform the uploaded image into a premium die-cut sticker illustration while keeping the main subject fully recognizable. Remove or simplify the original background and cleanly isolate the primary subject. Add a thick soft cream or beige sticker border around the entire silhouette with a subtle realistic drop shadow to create a floating sticker effect. Preserve important textures and details while slightly stylizing the image with enhanced colors, cinematic contrast, and a polished editorial l
+```
+
+### Case 159: [Rider-Waite Tarot Card](https://x.com/itsphotogptai/status/2056400494709690591) (by [@itsphotogptai](https://x.com/itsphotogptai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case159/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a Tarot card based on what you know about me, in the classic style of Rider-Waite. Portray me as a drawn figure with an expressive, but slightly uneven black line of ink, with vivid fluctuations and variations in the stroke, with flat colors without shading. Add delicate visual elements of the Tarot around the figure. convey the texture of the paper and the feeling of a printed impression.
+```

@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![538 Curated Prompts](https://img.shields.io/badge/Prompts-538_Curated_Cases-111111)](#contents)
+[![585 Curated Prompts](https://img.shields.io/badge/Prompts-585_Curated_Cases-111111)](#contents)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -80,6 +80,9 @@ Works with OpenAI's standard API format (`/v1/images/generations`)
 > Learn more about using the API in the Use GPT Image 2 API section below.
 
 ## 📰 News
+
+**May 19, 2026:** Added 23 new GPT-Image-2 prompt cases (13 portrait, 8 poster, 2 ui) from daily curation batch
+
 
 **May 17, 2026:** Added 17 new GPT-Image-2 prompt cases (5 portrait, 5 poster, 2 ui, 2 comparison, 3 ad creative) from daily curation batch
 
@@ -614,6 +617,183 @@ Aesthetic lifestyle photography of a cute young woman sitting on a wooden park b
 Prompt : (Cozy Reading & Coffee Setup)
 
 Warm cozy morning aesthetic near a window, open book being read beside a cup of coffee and lit candle, soft sunlight entering through the window, baby’s breath flowers in glass vase, beige and cream minimal decor, calming self-care atmosphere, soft fabric textures, neutral warm tones, peaceful hygge mood, cinematic lifestyle photography, Pinterest-inspired cozy setup, realistic details, shallow depth of field. Add cute white hand-drawn doodles and kawaii faces on the mug, candle, and vase, with handwritten notes like “Take time to make your soul happy”, “Cozy mood”, “little things”, “Book + coffee = perfect day”, plus hearts, arrows, sparkles, and cloud doodles. Dreamy soft aesthetic, warm natural glow, highly detailed, relaxing cozy-core vibe.
+```
+
+
+<!-- Case 125: Y2K Street-Art Editorial Poster (by @kingofdairyque) -->
+### Case 125: [Y2K Street-Art Editorial Poster](https://x.com/kingofdairyque/status/2056273485131821345) (by @kingofdairyque)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case185/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Y2K Street-Art Editorial Poster"></a> |
+
+**Prompt:**
+
+```
+hair instructions, controlling hairstyle, changing hairstyle, young female, young male, bad anatomy, extra fingers, deformed hands, stiff pose, awkward body lean, distorted sunglasses, warped face, asymmetrical eyes, blurry face, low quality, low resolution, muddy colors, overcluttered layout, too many stickers, unreadable typography, misspelled text, cheap poster design, random logos, watermark, cartoon-only style, duplicate subject, extra limbs, plastic skin.
+```
+
+<!-- Case 126: LEGO Miniature City Editorial (by @frametheory058) -->
+### Case 126: [LEGO Miniature City Editorial](https://x.com/frametheory058/status/2056561951610921186) (by @frametheory058)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case186/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - LEGO Miniature City Editorial"></a> |
+
+**Prompt:**
+
+```
+Use the uploaded reference image as the primary character reference.
+Create a premium vertical 4:5 editorial illustration of the same character from the reference image, sitting at a cozy craft table and building a LEGO-style miniature diorama of [CITY NAME].
+Only the character remains organic and natural. Everything else must be built entirely from visible LEGO-style bricks: landmarks, streets, bridges, rivers, lakes, trees, vehicles, trains, people, cafés, shops, food stalls, parks, signs, boa
+```
+
+<!-- Case 127: Fashion Collage Multi-Style Portrait (by @Mind_Boticni) -->
+### Case 127: [Fashion Collage Multi-Style Portrait](https://x.com/Mind_Boticni/status/2056350780840611954) (by @Mind_Boticni)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case187/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fashion Collage Multi-Style Portrait"></a> |
+
+**Prompt:**
+
+```
+Create a premium 1:1 ultra-stylish fashion collage advertisement featuring the same young handsome bearded male model across multiple cinematic portrait styles inside one single high-end composition. The model should have sharp jawline, textured beard, messy stylish hair, attractive confident expression, modern masculine aura, and luxury Gen-Z street fashion styling. Entire mood should feel bold, dark, mysterious, and visually addictive — designed for viral social media aesthetics. Theme: midnig
+```
+
+<!-- Case 128: Busan Travel Journal Illustration (by @Sairah_0) -->
+### Case 128: [Busan Travel Journal Illustration](https://x.com/Sairah_0/status/2056580402761155037) (by @Sairah_0)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case188/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Busan Travel Journal Illustration"></a> |
+
+**Prompt:**
+
+```
+Dreamy Busan Korea travel journal illustration, cozy vintage scrapbook aesthetic, watercolor and ink art style, red-haired girl sitting at a seaside café writing in a notebook, cream knitted cardigan, floral dress, cinematic ocean view, colorful Gamcheon Culture Village houses on cliffside, Korean signs, travel stamps, boarding pass, handwritten notes, postcards, maps, tape stickers, seashells, coffee cup, retro camera on wooden table, soft pastel tones, warm sunlight, detailed paper textures, w
+```
+
+<!-- Case 129: Cinematic Volleyball Sports Portrait (by @meng_dagg695) -->
+### Case 129: [Cinematic Volleyball Sports Portrait](https://x.com/meng_dagg695/status/2056590467622744500) (by @meng_dagg695)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case189/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Volleyball Sports Portrait"></a> |
+
+**Prompt:**
+
+```
+Ultra-realistic cinematic sports portrait of a young athletic woman playing volleyball outdoors on a sunny tropical day, captured mid-action while gently tossing/spinning a colorful volleyball upward with one hand. She is standing on an outdoor sports court surrounded by green mesh fencing, lush tropical plants, palm leaves, and soft natural greenery in the background.
+```
+
+<!-- Case 130: 3D Designer-Toy Portrait (by @iamsofiaijaz) -->
+### Case 130: [3D Designer-Toy Portrait](https://x.com/iamsofiaijaz/status/2056569264262517002) (by @iamsofiaijaz)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case190/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Designer-Toy Portrait"></a> |
+
+**Prompt:**
+
+```
+Stylized 3D designer-toy portrait, centered symmetrical close-up composition, maintain the exact face, hairstyle, and facial proportions of the character in the reference image, [GLASSES: e.g. oversized translucent cat-eye glasses / no glasses / chunky black frames], [EYES: e.g. sharp green eyes / dark brown eyes], [FACE DETAILS: e.g. freckles,, silver ear piercings], soft neutral facial expression with cool detached attitude,  streetwear-inspired badges / no hat], [OUTFIT: e.g. chunky neon-gree
+```
+
+<!-- Case 131: Dark Silhouette Rim-Light Portrait (by @XSydneyFan) -->
+### Case 131: [Dark Silhouette Rim-Light Portrait](https://x.com/XSydneyFan/status/2056427756213465521) (by @XSydneyFan)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case191/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dark Silhouette Rim-Light Portrait"></a> |
+
+**Prompt:**
+
+```
+.Ultra realistic dark silhouette portrait of a stylish young woman in side profile pose, deep black background, dramatic rim lighting highlighting hair and jawline edges, wearing stylish trendy sunglasses, DSLR photography style, ultra HD 8K, realistic facial outline, premium fashion edition
+2:3ar
+```
+
+<!-- Case 132: Cozy Bedroom Korean Girl Portrait (by @john_my07) -->
+### Case 132: [Cozy Bedroom Korean Girl Portrait](https://x.com/john_my07/status/2056609974852497451) (by @john_my07)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case192/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cozy Bedroom Korean Girl Portrait"></a> |
+
+**Prompt:**
+
+```
+Ultra-realistic cozy bedroom portrait of the same beautiful Korean girl from the previous images, maintaining identical facial appearance, silky long black hair, glossy eyes, soft blush makeup, youthful Korean beauty aesthetic, and realistic skin texture consistency.
+She is lying comfortably on her stomach across a soft cream-colored bed in her cozy bedroom at night, posing playfully toward the camera with a gentle relaxed smile. Her legs are bent upward behind her while resting her chin softly 
+```
+
+<!-- Case 133: Anime Brand Campaign Portrait (by @ChillaiKalan__) -->
+### Case 133: [Anime Brand Campaign Portrait](https://x.com/ChillaiKalan__/status/2056580787538161753) (by @ChillaiKalan__)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case193/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anime Brand Campaign Portrait"></a> |
+
+**Prompt:**
+
+```
+Semi-realistic anime style young Korean woman in the uploaded image, ORBIT brand campaign, oversized nuclear orange and white technical jacket, wide black pants, futuristic sneakers, vivid orange seamless backdrop, chrome silver props, circular orbital shapes, sharp flash photography, premium streetwear hype drop energy, clean fashion editorial.
+```
+
+<!-- Case 134: Woman in Crystal Perfume Bottle (by @MrDasOnX) -->
+### Case 134: [Woman in Crystal Perfume Bottle](https://x.com/MrDasOnX/status/2056413830687899819) (by @MrDasOnX)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case194/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Woman in Crystal Perfume Bottle"></a> |
+
+**Prompt:**
+
+```
+Ultra-realistic surreal conceptual portrait of a distressed middle-aged woman trapped inside an elegant transparent crystal perfume bottle filled halfway with pale pink perfume liquid. The bottle is upright and centered, featuring a faceted glass body with a luxurious gold spray nozzle and cap. Tiny condensation droplets and fine mist residue cling to the inner glass, catching the light. A soft layer of shimmering perfume vapor swirls inside the bottle around the woman’s shoulders and chest leve
+```
+
+<!-- Case 135: Summer Campus Tesla Lifestyle Poster (by @Shinning1010) -->
+### Case 135: [Summer Campus Tesla Lifestyle Poster](https://x.com/Shinning1010/status/2056334868963881144) (by @Shinning1010)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case195/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Summer Campus Tesla Lifestyle Poster"></a> |
+
+**Prompt:**
+
+```
+Create a premium summer campus lifestyle Tesla poster focused mainly on an adult East Asian female model with a casual cute campus look. Use the uploaded portrait photo only for appearance and hairstyle, preserving face shape, facial features, hairstyle, skin tone, body proportion, and overall temperament. Scene: sunny summer university campus, clean tree-lined walkway, bright greenery, warm daylight, relaxed youthful lifestyle atmosphere. The model is the visual center, clear face, natural swee
+```
+
+<!-- Case 136: Bubble-Tea Shop Action Portrait (by @heyfatema) -->
+### Case 136: [Bubble-Tea Shop Action Portrait](https://x.com/heyfatema/status/2056415080783499427) (by @heyfatema)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case196/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bubble-Tea Shop Action Portrait"></a> |
+
+**Prompt:**
+
+```
+Use case: identity-preserve style-transfer
+Asset type: vertical photorealistic action portrait for social post
+Primary request: create a dynamic bubble-tea shop action portrait using the uploaded portrait photo as the appearance reference for the person.
+Scene/backdrop: a bright modern bubble-tea counter interior with stainless steel panels, glass display edges, overhead circular lights, drink-making equipment, and a dramatic low-angle view from near the floor. Pink strawberry milk tea splashes 
+```
+
+<!-- Case 137: Night Outdoor Portrait (by @chatgptpaglu) -->
+### Case 137: [Night Outdoor Portrait](https://x.com/chatgptpaglu/status/2056603808403485006) (by @chatgptpaglu)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case197/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Night Outdoor Portrait"></a> |
+
+**Prompt:**
+
+```
+A medium-shot photograph of a young woman with wavy, light brown hair and soft, rosy makeup, posing outdoors at night. She is wearing a slightly oversized black t-shirt with small white text on the left chest, pulling the shirt up slightly with both hands to reveal her midriff and the waistband of black underwear peeking out from low-rise, faded blue denim jeans. She is leaning against a white metal balcony railing, looking off-camera to her right with a neutral expression. The background
 ```
 
 ## 🎨 Poster & Illustration Cases
@@ -1331,6 +1511,115 @@ Typography should be very small, elegant, subtle, and blended naturally into the
 Overall aesthetic: warm, feminine, luxurious, ultra detailed, realistic photography, soft dreamy atmosphere, premium Korean fashion magazine moodboard, cinematic lighting, highly aesthetic Pinterest composition, rich textures, airy and bright color palette.
 ```
 
+
+<!-- Case 215: Floating Island Travel Poster (by @Naiknelofar788) -->
+### Case 215: [Floating Island Travel Poster](https://x.com/Naiknelofar788/status/2056551186610966530) (by @Naiknelofar788)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case285/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Floating Island Travel Poster"></a> |
+
+**Prompt:**
+
+```
+Create a premium 9:16 hyper-realistic travel-poster of [COUNTRY NAME] in the same style as a luxury editorial miniature-map diorama: show the country as a recognizable floating island map with dramatic cliff edges, crystal-clear water, soft clouds, and a pure white  background. Use a clean, elegant poster layout with large culturally appropriate typography for “[COUNTRY NAME]” at the top, using a font style inspired by the country’s identity, history, script, or visual culture, plus a short refi
+```
+
+<!-- Case 216: Vintage Monochrome City Travel Poster (by @Taaruk_) -->
+### Case 216: [Vintage Monochrome City Travel Poster](https://x.com/Taaruk_/status/2056577980349264028) (by @Taaruk_)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case286/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Monochrome City Travel Poster"></a> |
+
+**Prompt:**
+
+```
+Vintage monochrome city travel poster illustration, detailed urban sketch aesthetic, clean architectural line art mixed with soft watercolor shading, modern Southeast Asian city atmosphere, minimalist green-and-cream color palette, elegant travel poster typography, large bold city name at the top, bilingual typography with Asian characters, highly detailed street life scene, busy urban crossroads, flyovers, buses, motorcycles, cafes, local restaurants, pedestrians crossing streets, shopping mall
+```
+
+<!-- Case 217: Flat-Vector City Lifestyle Collage (by @Goodmanprotocol) -->
+### Case 217: [Flat-Vector City Lifestyle Collage](https://x.com/Goodmanprotocol/status/2056612365156978731) (by @Goodmanprotocol)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case287/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Flat-Vector City Lifestyle Collage"></a> |
+
+**Prompt:**
+
+```
+Create a sophisticated flat-vector editorial pattern illustration of [Melbourne], composed as a seamless lifestyle-art collage combining iconic landmarks, local culture, vacation scenes, and symbolic city objects.
+```
+
+<!-- Case 218: Sci-Fi Character Concept Sheet (by @0kncn) -->
+### Case 218: [Sci-Fi Character Concept Sheet](https://x.com/0kncn/status/2056372978607174077) (by @0kncn)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case288/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sci-Fi Character Concept Sheet"></a> |
+
+**Prompt:**
+
+```
+Create a 16:9 character concept sheet for a celestial voyager in an epic cinematic sci-fi fantasy aesthetic.
+```
+
+<!-- Case 219: Pixar 3D Character Design Sheet (by @TechieBySA) -->
+### Case 219: [Pixar 3D Character Design Sheet](https://x.com/TechieBySA/status/2056419585369198677) (by @TechieBySA)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case289/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar 3D Character Design Sheet"></a> |
+
+**Prompt:**
+
+```
+“Create a Pixar 3D style character design sheet. Clean white background. Two characters side by side with a clean dividing line. Bold brushstroke-style title at the top: CHAD VS THE GYM MIRROR. Subtitle beneath: One way mirror. One audience. Zero awareness.
+LEFT SIDE — CHAD
+Large name in bold black. Underneath: “Just needed a quick pump check.”
+Hero portrait — Chad isolated on clean white. No background. Pixar 3D man, late 20s, natural athletic build — genuinely fit but not cartoonishly huge. Ne
+```
+
+<!-- Case 220: Vintage Travel Collage Poster (by @sdhilip) -->
+### Case 220: [Vintage Travel Collage Poster](https://x.com/sdhilip/status/2056261616967270640) (by @sdhilip)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case290/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Travel Collage Poster"></a> |
+
+**Prompt:**
+
+```
+Vintage mixed-media travel collage poster, portrait orientation, themed around [COUNTRY].
+```
+
+<!-- Case 221: Premium Travel Infographic Poster (by @Ankit_patel211) -->
+### Case 221: [Premium Travel Infographic Poster](https://x.com/Ankit_patel211/status/2056519161023787394) (by @Ankit_patel211)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case291/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Premium Travel Infographic Poster"></a> |
+
+**Prompt:**
+
+```
+Create an ultra-premium editorial travel infographic poster about FRANCE in a clean vertical 3:4 ratio.
+```
+
+<!-- Case 222: 9-Frame Cinematic Storyboard Grid (by @guicastellanos1) -->
+### Case 222: [9-Frame Cinematic Storyboard Grid](https://x.com/guicastellanos1/status/2056425976763146366) (by @guicastellanos1)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case292/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 9-Frame Cinematic Storyboard Grid"></a> |
+
+**Prompt:**
+
+```
+for GPT-2:
+Create a single image storyboard with 9 cinematic frames arranged in a  3×3 grid. Each frame is a widescreen 16:9 panel with a film aspect ratio  letterbox. Style: ultra-cinematic sci-fi blockbuster mixed with premium  airline commercial. Think Blade Runner 2049 color grading meets a UEFA  Champions League broadcast opener meets a luxury brand TVC.
+```
+
 ## 🧍 Character Design Cases
 
 > **13 curated cases** — [Explore all Character Design Prompts →](cases/character.md)
@@ -1628,6 +1917,33 @@ A high-end brand system poster that looks:
 Behance feature-worthy
 agency presentation-ready
 visually consistent and detailed
+```
+
+
+<!-- Case 131: Die-Cut Sticker Illustration (by @Ciri_ai) -->
+### Case 131: [Die-Cut Sticker Illustration](https://x.com/Ciri_ai/status/2056616223547548106) (by @Ciri_ai)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case158/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Die-Cut Sticker Illustration"></a> |
+
+**Prompt:**
+
+```
+Transform the uploaded image into a premium die-cut sticker illustration while keeping the main subject fully recognizable. Remove or simplify the original background and cleanly isolate the primary subject. Add a thick soft cream or beige sticker border around the entire silhouette with a subtle realistic drop shadow to create a floating sticker effect. Preserve important textures and details while slightly stylizing the image with enhanced colors, cinematic contrast, and a polished editorial l
+```
+
+<!-- Case 132: Rider-Waite Tarot Card (by @itsphotogptai) -->
+### Case 132: [Rider-Waite Tarot Card](https://x.com/itsphotogptai/status/2056400494709690591) (by @itsphotogptai)
+
+|                                                                                                                                                                                                Output                                                                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case159/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Rider-Waite Tarot Card"></a> |
+
+**Prompt:**
+
+```
+Create a Tarot card based on what you know about me, in the classic style of Rider-Waite. Portray me as a drawn figure with an expressive, but slightly uneven black line of ink, with vivid fluctuations and variations in the stroke, with flat colors without shading. Add delicate visual elements of the Tarot around the figure. convey the texture of the paper and the feeling of a printed impression.
 ```
 
 ## 🧪 Comparison & Community Examples

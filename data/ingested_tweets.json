@@ -1,7 +1,4 @@
 {
-  "repo": "awesome-gpt-image-2-prompts",
-  "generated_at": "2026-05-12T13:00:00+08:00",
-  "primary_key": "tweet_url",
   "records": [
     {
       "tweet_url": "https://x.com/BubbleBrain/status/2045167461147042202",
@@ -5408,6 +5405,406 @@
       "case_anchor": "case-213-3d-typography-travel-poster",
       "image_dir": "images/poster_case269",
       "added_at": "2026-05-14T18:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Inshrah_ali_/status/2055696156211179912",
+      "author_handle": "Inshrah_ali_",
+      "title": "Origami Portrait Illustration",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case176",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Professor_134/status/2055561008626950422",
+      "author_handle": "Professor_134",
+      "title": "Luxury Portrait With Tiny Alter Ego",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case177",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/harboriis/status/2055560455494738411",
+      "author_handle": "harboriis",
+      "title": "Ink Glyph Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case178",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/noorlewisx/status/2055507148541493282",
+      "author_handle": "noorlewisx",
+      "title": "Y2K Cyber-Pop Editorial Shot",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case179",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Sairah_0/status/2055500670564991079",
+      "author_handle": "Sairah_0",
+      "title": "Cozy Doodle Lifestyle Photo",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case180",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Adam38363368936/status/2055819711066316883",
+      "author_handle": "Adam38363368936",
+      "title": "泳装时尚杂志四宫格",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/poster_case270",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Noor_ul_ain43/status/2055796848552755579",
+      "author_handle": "Noor_ul_ain43",
+      "title": "Monochrome Caricature Portrait Sheet",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/poster_case271",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/liyue_ai/status/2055679355242844462",
+      "author_handle": "liyue_ai",
+      "title": "星河入梦 3D CG 插画",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/poster_case272",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/iamsofiaijaz/status/2055633103973134719",
+      "author_handle": "iamsofiaijaz",
+      "title": "Character Profile Sheet",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/poster_case273",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Mind_Boticni/status/2055627790255587483",
+      "author_handle": "Mind_Boticni",
+      "title": "Korean Editorial Fashion Moodboard",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/poster_case274",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Gdgtify/status/2055773537257034007",
+      "author_handle": "Gdgtify",
+      "title": "Heliotropic Architecture Board",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/ui_case148",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Shorelyn_/status/2055681687284293991",
+      "author_handle": "Shorelyn_",
+      "title": "Brand Identity Guideline Board",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/ui_case149",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Mind_Boticni/status/2055663029195575396",
+      "author_handle": "Mind_Boticni",
+      "title": "Illustrated 2027 Desktop Calendar",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/ui_case150",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/EricoolWong/status/2055788309511917880",
+      "author_handle": "EricoolWong",
+      "title": "Storyboard Grid Template",
+      "category": "Comparison & Community Examples",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/comparison_case86",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/TechieBySA/status/2055695974085927240",
+      "author_handle": "TechieBySA",
+      "title": "Pancake Dad Storyboard",
+      "category": "Comparison & Community Examples",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/comparison_case87",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Shinning1010/status/2055688162333401470",
+      "author_handle": "Shinning1010",
+      "title": "Foam Clogs Ad Poster",
+      "category": "Ad Creative Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/ad-creative_case179",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Shorelyn_/status/2055570197973799376",
+      "author_handle": "Shorelyn_",
+      "title": "Energy Drink Stadium Ad",
+      "category": "Ad Creative Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/ad-creative_case180",
+      "added_at": "2026-05-17T10:33:08.225150+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/kingofdairyque/status/2056273485131821345",
+      "author_handle": "kingofdairyque",
+      "title": "Y2K Street-Art Editorial Poster",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case185",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/frametheory058/status/2056561951610921186",
+      "author_handle": "frametheory058",
+      "title": "LEGO Miniature City Editorial",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case186",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Naiknelofar788/status/2056551186610966530",
+      "author_handle": "Naiknelofar788",
+      "title": "Floating Island Travel Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/poster_case285",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Mind_Boticni/status/2056350780840611954",
+      "author_handle": "Mind_Boticni",
+      "title": "Fashion Collage Multi-Style Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case187",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Sairah_0/status/2056580402761155037",
+      "author_handle": "Sairah_0",
+      "title": "Busan Travel Journal Illustration",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case188",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Taaruk_/status/2056577980349264028",
+      "author_handle": "Taaruk_",
+      "title": "Vintage Monochrome City Travel Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/poster_case286",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/meng_dagg695/status/2056590467622744500",
+      "author_handle": "meng_dagg695",
+      "title": "Cinematic Volleyball Sports Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case189",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/iamsofiaijaz/status/2056569264262517002",
+      "author_handle": "iamsofiaijaz",
+      "title": "3D Designer-Toy Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case190",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/XSydneyFan/status/2056427756213465521",
+      "author_handle": "XSydneyFan",
+      "title": "Dark Silhouette Rim-Light Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case191",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/john_my07/status/2056609974852497451",
+      "author_handle": "john_my07",
+      "title": "Cozy Bedroom Korean Girl Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case192",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/ChillaiKalan__/status/2056580787538161753",
+      "author_handle": "ChillaiKalan__",
+      "title": "Anime Brand Campaign Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case193",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/MrDasOnX/status/2056413830687899819",
+      "author_handle": "MrDasOnX",
+      "title": "Woman in Crystal Perfume Bottle",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case194",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Shinning1010/status/2056334868963881144",
+      "author_handle": "Shinning1010",
+      "title": "Summer Campus Tesla Lifestyle Poster",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case195",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Ciri_ai/status/2056616223547548106",
+      "author_handle": "Ciri_ai",
+      "title": "Die-Cut Sticker Illustration",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/ui_case158",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Goodmanprotocol/status/2056612365156978731",
+      "author_handle": "Goodmanprotocol",
+      "title": "Flat-Vector City Lifestyle Collage",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/poster_case287",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/0kncn/status/2056372978607174077",
+      "author_handle": "0kncn",
+      "title": "Sci-Fi Character Concept Sheet",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/poster_case288",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/TechieBySA/status/2056419585369198677",
+      "author_handle": "TechieBySA",
+      "title": "Pixar 3D Character Design Sheet",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/poster_case289",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/heyfatema/status/2056415080783499427",
+      "author_handle": "heyfatema",
+      "title": "Bubble-Tea Shop Action Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case196",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/chatgptpaglu/status/2056603808403485006",
+      "author_handle": "chatgptpaglu",
+      "title": "Night Outdoor Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/portrait_case197",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/sdhilip/status/2056261616967270640",
+      "author_handle": "sdhilip",
+      "title": "Vintage Travel Collage Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/poster_case290",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Ankit_patel211/status/2056519161023787394",
+      "author_handle": "Ankit_patel211",
+      "title": "Premium Travel Infographic Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/poster_case291",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/itsphotogptai/status/2056400494709690591",
+      "author_handle": "itsphotogptai",
+      "title": "Rider-Waite Tarot Card",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/ui_case159",
+      "added_at": "2026-05-19T06:30:39+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/guicastellanos1/status/2056425976763146366",
+      "author_handle": "guicastellanos1",
+      "title": "9-Frame Cinematic Storyboard Grid",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "",
+      "image_dir": "images/poster_case292",
+      "added_at": "2026-05-19T06:30:39+08:00"
     }
   ]
 }

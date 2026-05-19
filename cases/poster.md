@@ -4652,3 +4652,713 @@ Create a cute neo-expressionist cubist minimal vector portrait illustration, Pic
 ```
 Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury editorial destination advertising fused with realistic sculptural letterform architecture. The city name “[CITY]” must be the dominant subject, occupying most of the canvas. Build the letters as large, realistic, three-dimensional sculptural forms made from glossy painted material, polished ceramic, soft plaster, carved stone, sunlit architectural surfaces, or city-adaptive materials. Each letter should physically transform into the city’s identity: landmarks, skyline silhouettes, arches, towers, domes, bridges, windows, balconies, cultural patterns, coastal forms, or street details must grow directly out of the letterforms. Landmarks should feel architecturally integrated, not pasted behind or around the word. A tower may rise from a vertical stem, a bridge may connect two letters, a dome may form the curve of a rounded letter, rooftops may shape the top edges, and windows or ornamental details may be embedded into the letter faces. Use a low-angle three-quarter camera view so the typography feels monumental, cinematic, premium, and friendly. Place the 3D city-name sculpture slightly low in the frame, filling the central and lower portions of the poster, with generous negative space above. At the top header, add a refined horizontal row of faded landmark symbols related to the city: tiny vector icons, or translucent architectural glyphs. Keep them very soft, elegant, and secondary, like premium magazine header details. Add each landmark name below its icon. Keep all faded and premium. Remove any visible sun from the top-left corner. Use bright natural daylight with a soft key light from the upper-left, gentle fill light, clean highlights, subtle ambient occlusion, and soft contact shadows beneath the letters. The lighting should feel cheerful, fresh, and editorial, not dark or overly cinematic. Use a bright city-adaptive palette based on [CITY]: coastal cities use aqua, coral, cream, and sunny yellow; historic cities use warm stone, terracotta, olive, and soft sky blue; tropical cities use turquoise, mango, palm green, and white; mountain cities use alpine blue, meadow green, snow white, and golden warmth; nightlife cities use violet, cyan, peach, and amber. Keep colors clean, optimistic, premium, and controlled. Add subtle editorial text elements to improve the poster: small uppercase header text such as “DESTINATION SERIES”, a tiny location code like “CITY / 01”, delicate vertical divider lines, a minimal footer line such as “VISIT [CITY]”, and small microtype coordinates or issue number near the bottom edge. These text elements must remain quiet and secondary so the large 3D city name stays the hero. Background should be clean and spacious with a soft sky gradient, delicate clouds, or abstract color field only. Do not place extra landmarks in the background; all major city identity must come from the typography itself, except the faded symbolic header row. Style: premium editorial travel advertising, luxury magazine cover, realistic 3D typographic sculpture, bright modern optimism, cheerful wanderlust, cultural identity, clean art direction. Negative prompt: avoid generic travel posters, separate landmark collages, landmarks pasted behind text, flat typography, cluttered backgrounds, visible sun in the top-left corner, excessive icons, dark cinematic lighting, muddy colors, cheap souvenir aesthetics, unreadable city name, distorted letters, random gradients, noisy textures, stock-template layouts, and overdecorated tourist graphics.
 ```
+
+<!-- Case 270: 泳装时尚杂志四宫格 (by @Adam38363368936) -->
+### Case 270: [泳装时尚杂志四宫格](https://x.com/Adam38363368936/status/2055819711066316883) (by [@Adam38363368936](https://x.com/Adam38363368936))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case270/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+泳装时尚杂志广告页面，4:3 ，日本模特， S型曲线，【颜色】色系。（变换姿势和风格，四宫格展示）
+```
+
+<!-- Case 271: Monochrome Caricature Portrait Sheet (by @Noor_ul_ain43) -->
+### Case 271: [Monochrome Caricature Portrait Sheet](https://x.com/Noor_ul_ain43/status/2055796848552755579) (by [@Noor_ul_ain43](https://x.com/Noor_ul_ain43))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case271/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A stylized black-and-white pencil ink caricature portrait sheet featuring two distinct charismatic characters with contrasting face shapes and expressions. Drawn in a loose sketchbook style with visible construction lines, rough pencil strokes, expressive exaggerated facial proportions, modern caricature illustration aesthetic. 
+
+Left character: handsome charismatic man with messy hair, sharp jawline, confident smirk, expressive sideways eyes, slim long face, casual t-shirt. 
+
+Right character: muscular bald man with raised eyebrow, thick neck, strong jawline, dominant confident expression, casual t-shirt. 
+
+Minimal shading, thin crosshatching, clean line art, monochrome aesthetic, white background, artistic character design concept sketch, highly detailed hand-drawn look, playful exaggerated anatomy, professional caricature sketch style
+```
+
+<!-- Case 272: 星河入梦 3D CG 插画 (by @liyue_ai) -->
+### Case 272: [星河入梦 3D CG 插画](https://x.com/liyue_ai/status/2055679355242844462) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case272/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+一位成年东方幻想系女性角色，梦幻星河仙女风，3D CG 高精度插画质感，9:16 竖版构图，画面充满全息星河、流光粒子、银河丝带与柔雾光晕。
+
+人物位于画面中央偏左，半身到大腿视角，身体呈优雅的 S 型动态站姿。她的上半身微微向一侧倾斜，腰部自然收束并轻轻扭转，胯部向相反方向形成柔和弧线，一侧肩膀略微抬起，另一侧肩膀自然放松，整体姿态像在星河中缓慢旋转，既轻盈又具有女性柔美。头部微微低垂，脸部呈三分之二侧脸，眼神温柔、安静、梦幻，神情清冷而优雅。
+
+她拥有精致柔和的东方幻想系五官，白皙通透的肌肤，肌肤带有柔和的次表面散射与珍珠般高光，面部轮廓干净细腻，鼻梁纤细，嘴唇柔软，睫毛纤长。长发为淡银白色与浅粉紫色渐变，发丝被星风吹起，向画面右侧大面积飘散，形成流动感极强的弧线，与人物 S 型身体曲线相互呼应。
+
+服装是一件梦幻星河礼裙，材质轻盈透明但保持优雅克制，肩部为柔软薄纱结构，胸口与腰部有银河般的渐变流光纹理，颜色以浅粉、淡蓝、薰衣草紫、珍珠白为主，局部点缀金色星尘。裙身像星云与薄纱融合而成，轻盈飘动，围绕人物身体形成螺旋状流光带，强调腰线、肩颈线与整体 S 型姿态，但不刻意暴露。
+
+背景是梦幻宇宙星河空间，整体色调为淡粉色、浅蓝色、薰衣草紫与柔金色，充满细密星光、星尘粒子、银河流线、半透明全息光带。光线从左上方柔和洒下，在人物发丝、肩颈、脸颊和礼裙边缘形成温柔轮廓光。画面空气感强，光晕柔和，整体像漂浮在银河梦境中。
+
+构图要求：
+人物身体线条呈明显但自然的 S 型曲线；
+肩、腰、胯形成柔和的反向动态；
+头发与星河丝带共同形成环绕式流动；
+画面保留大量梦幻光雾与星尘；
+人物优雅、柔美、梦幻、高级；
+重点表现女性身姿的柔和曲线、星河仙女气质与高级幻想感。
+
+风格关键词：
+dreamy fantasy girl, celestial goddess, galaxy dress, holographic starlight, soft pastel colors, ethereal beauty, elegant S-curve pose, cinematic lighting, ultra detailed 3D CG, soft glow, translucent silk, star particles, romantic fantasy atmosphere, high-end illustration, 16K detail, vertical poster composition
+
+负面提示词：
+身体比例错误，畸形手指，多手指，多手臂，脸部崩坏，眼睛不对称，廉价质感，灰蒙蒙，脏色调，过度锐化，低清晰度，杂乱背景，文字，水印，logo
+```
+
+<!-- Case 273: Character Profile Sheet (by @iamsofiaijaz) -->
+### Case 273: [Character Profile Sheet](https://x.com/iamsofiaijaz/status/2055633103973134719) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case273/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A stylish illustrated character profile sheet of a handsome young man sketchbook aesthetic, mixed media ink and watercolor style, highly detailed fashion portrait, messy dark curly hair, sharp blue eyes, short beard, confident expression, wearing a long black trench coat, dark casual clothes, brown leather backpack, rugged boots.
+The page layout includes multiple poses and close-up portraits, surrounded by handwritten notes, doodles, symbols, travel sketches, cameras, mountains, coding references, and adventure elements.
+Personality board design with handwritten text such as traveler, coder, photographer, teacher, sound engineer, Scorpio zodiac sign, river rafting, creative ideas, life goals, motivational notes.
+Includes small chibi version of the character, laptop working scene, rafting action scene, map sketches, stars, arrows, and artistic scribbles.
+Modern concept art meets fashion illustration, dynamic ink strokes, expressive line art, textured watercolor shading, warm paper background, cinematic composition, Pinterest aesthetic, highly detailed, visually rich, creative journal vibe, character design sheet, semi-realistic comic illustration.
+```
+
+<!-- Case 274: Korean Editorial Fashion Moodboard (by @Mind_Boticni) -->
+### Case 274: [Korean Editorial Fashion Moodboard](https://x.com/Mind_Boticni/status/2055627790255587483) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case274/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create an ultra-realistic luxury fashion moodboard poster in a premium Korean editorial magazine style. A beautiful young woman stands elegantly in the center wearing a flowing ivory floral chiffon maxi dress with layered translucent fabric, tiny embroidered flowers, delicate lace trims, and soft movement in the fabric. Over it she wears a textured handmade mustard crochet cardigan with oversized sleeves and cozy vintage stitching details. She has long voluminous dark wavy hair with soft curtain bangs, glowing radiant skin, glossy peach makeup, subtle freckles, soft shimmer eyelids, glossy nude lips, and delicate gold jewelry including layered necklaces, pearl rings, and slim bracelets. She wears elegant cream lace-up heels and carries a handcrafted crochet tote bag decorated with sunflower charms, daisy patches, mini ribbons, tiny plush keychains, and aesthetic beads.
+The background is a bright warm editorial studio with creamy beige gradients, golden sunlight rays, subtle shadows, soft reflections, floating dust particles, and dreamy glowing highlights. The layout should feel like a realistic Pinterest luxury collage board with clean spacing and balanced composition.
+Around the character include many small scrapbook-inspired collage sections:
+
+– close-up beauty portraits
+
+– sunflower photography
+
+– perfume bottle flatlays
+
+– jewelry editorials
+
+– cozy café lifestyle moments
+
+– fashion accessories
+
+– handwritten diary pieces
+
+– soft fabric texture swatches
+
+– vintage books
+
+– coffee cups
+
+– aesthetic shoes
+
+– makeup close-ups
+
+– hair inspiration photos
+
+– dried flower arrangements
+
+– cute doodles and tiny heart sketches
+
+– polaroid-style frames
+
+– paper tape pieces
+
+– editorial magazine snippets
+Typography should be very small, elegant, subtle, and blended naturally into the layout like luxury fashion magazine captions. Use tiny serif text such as: “golden aura”, “soft bloom”, “editorial notes”, “mood archive”, and “daily elegance”. Text must never dominate the image.
+Overall aesthetic: warm, feminine, luxurious, ultra detailed, realistic photography, soft dreamy atmosphere, premium Korean fashion magazine moodboard, cinematic lighting, highly aesthetic Pinterest composition, rich textures, airy and bright color palette.
+```
+
+### Case 275: [Busan Travel Journal Illustration](https://x.com/Naiknelofar788/status/2056189569515892819) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case275/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a dreamy handcrafted ( CITY)travel journal illustration, as if painted in an artist’s personal sketchbook while traveling through (COUNTRY )
+SCENE: A romantic Busan coastal setting inspired by Gamcheon Culture Village + Haeundae + Songdo seaside charm. Feature: oceanfront promenade gentle waves seagulls Korean seaside cafés pastel coastal buildings tiny fishing boats paper lantern accents boardwalk details colorful Busan hillside houses in the distance beach umbrellas ocean breeze atmosphere subtle Korean storefront signage travel discovery mood 
+SUBJECT: Place the woman from the uploaded reference naturally in the scene. Appearance:￼ long flowing copper auburn hair moving softly in the sea breeze hazel-green eyes fair skin natural elegant expression soft thoughtful gaze 
+WARDROBE: romantic coastal travel styling cream knit sweater flowing midi skirt light trench coat or airy cardigan delicate scarf moving with wind comfortable elegant walking shoes 
+POSE OPTIONS: ((walking along the Busan seaside promenade)) OR ((sitting at a Korean seaside café sketching in a journal)) OR￼ ￼ ((holding a travel journal while looking toward the ocean)) OR ((standing near the railing with wind in hair, candid cinematic pose)) 
+STYLE: premium watercolor travel-journal illustration hand-drawn ink sketch detailing transparent watercolor washes aged textured paper pigment bleeding ink splatters vintage travel scrapbook aesthetic editorial artistic composition luxury Pinterest-worthy illustration 
+ADD SCRAPBOOK ELEMENTS: handwritten diary notes "BUSAN" "KOREA" tiny illustrated coastline map￼ metro ticket fragments passport stamps vintage postage marks boarding pass scraps coffee stains botanical doodles hand-drawn arrows tiny seashell sketches travel annotations paper tape collage small Korean handwritten notes 
+COLOR PALETTE: soft ocean blue dusty aqua muted sand beige faded coral warm cream seafoam green soft terracotta accents washed watercolor neutrals LIGHTING: golden morning seaside sunlight airy coastal glow romantic atmospheric haze gentle cinematic warmth
+ COMPOSITION: vertical travel journal page 4:5 aspect ratio ultra detailed cozy nostalgic storytelling peaceful romantic vacation mood 
+NEGATIVE PROMPT: CGI, photorealistic rendering, anime face, identity change, plastic skin, neon cyberpunk, futuristic objects, dark horror mood, distorted anatomy, extra limbs, messy cluttered composition, AI glitches, oversaturated colors 
+￼ metro ticket fragments passport stamps vintage postage marks boarding pass scraps coffee stains botanical doodles hand-drawn arrows tiny seashell sketches travel annotations paper tape collage small Korean handwritten notes 
+COLOR PALETTE: soft ocean blue dusty aqua muted sand beige faded coral warm cream seafoam green soft terracotta accents washed watercolor neutrals LIGHTING: golden morning seaside sunlight airy coastal glow romantic atmospheric haze gentle cinematic warmth
+```
+
+### Case 276: [Borussia War Room Interior](https://x.com/guicastellanos1/status/2056059581697056978) (by [@guicastellanos1](https://x.com/guicastellanos1))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case276/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Photorealistic interior render, ultra-luxury industrial football war room and man cave, wide vertical 9:16. Borussia Dortmund signal yellow and black palette throughout.
+
+Architecture: the room feels like the inside of a repurposed Ruhr Valley steel factory — exposed raw steel walls with riveted panel texture painted in matte black, massive yellow steel I-beams crossing the ceiling horizontally, concrete floor sealed in high-gloss black epoxy with the BVB09 crest inlaid in signal yellow resin at center, glowing from LED underlighting.
+
+Back wall: the entire wall is a recreation of the Gelbe Wand the Yellow Wall standing terrace at Signal Iduna Park a full-width photorealistic mural of 81,000 fans in yellow and black holding a massive tifo, receding into the distance, backlit from behind the wall to create depth and glow.
+In front of the mural: a raised steel platform with a 
+black steel railing like a stadium terrace edge.
+
+Left wall: raw black steel display wall — welded steel frame shadow boxes containing Bundesliga trophies, DFB-Pokal cups, Champions League runners-up plates in industrial mounts, all under harsh yellow spotlights. Between display boxes: 
+BVB yellow jerseys framed in welded black steel frames, 
+no names visible.
+
+Center: two enormous black leather industrial recliners 
+facing a massive curved screen showing match footage 
+under Yellow Wall atmosphere, signal yellow cup holders built into the armrests.
+Right wall: black steel bar unit with yellow LED backlit shelving, yellow and black branded glassware, industrial pipe bar rail, three black steel bar stools with yellow leather seats.
+
+Floor detail: yellow painted hazard stripes along the 
+perimeter of the room, like factory safety markings, 
+adding to the industrial authenticity.
+
+Ceiling: cluster of oversized industrial pendant lights 
+in matte black steel with signal yellow interior, 
+casting pools of sharp yellow light across the black epoxy floor.
+
+Window: steel-framed industrial window showing Signal Iduna Park stadium exterior at night, yellow exterior lights glowing through the Ruhr Valley fog.
+
+Atmosphere: raw industrial power, signal yellow burning against matte black, steel and concrete and light — the most intensecolour contrast of all twelve rooms. Photorealistic, 35mm, cinematic.
+```
+
+### Case 277: [Kawaii Muslim Cafe Scene](https://x.com/Taaruk_/status/2056053350261739866) (by [@Taaruk_](https://x.com/Taaruk_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case277/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Cute kawaii-style lifestyle photography, adorable chibi-inspired Muslim characters with soft rounded faces and blush cheeks, pastel aesthetic cafe environment, cozy playful atmosphere, ultra soft lighting, handmade paper-cutout illustration effect mixed with realistic photography, pastel blue, cream, pink, and beige color palette, whimsical interior design, toy-store aesthetic, cozy Korean cafe vibes, oversized cute props like giant ice cream decorations and pastel foam blocks, soft textured surfaces, minimal shadows, dreamy mood, wholesome friendship energy, aesthetic Instagram composition, highly detailed clothing fabrics, modest fashion with hijab styling, cute cartoon proportions, cozy storytelling scene, soft matte textures, handcrafted diorama look, warm emotional atmosphere, clean composition, adorable character expressions, Japanese kawaii aesthetic mixed with modern lifestyle photography, ultra detailed, playful and comforting vibe, Pinterest trending style, soft focus depth of field, pastel cinematic color grading, 8k.
+
+Scene Variations:
+```
+
+### Case 278: [Marrakech Watercolor Travel Poster](https://x.com/SimplyAnnisa/status/2055894520139559253) (by [@SimplyAnnisa](https://x.com/SimplyAnnisa))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case278/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Vintage watercolor travel poster of Marrakech, Morocco with a warm beige textured background. Top features ornate Islamic geometric motif, text 'WELCOME TO MARRAKECH' in large serif terracotta font, subtitle 'WHERE TRADITION INSPIRES EVERY JOURNEY' with decorative diamond dividers. 
+
+Foreground shows a cozy rooftop café scene: wrought iron table and chair with mosaic top, Moroccan teapot and glass of tea, chalkboard sign reading 'EXPLORE THE COLORS OF MOROCCO' with a hand-drawn sketch of a Moroccan gate and palm tree below. Include a hanging black sign 'CAFÉ DE LA MÉDINA', potted cactus, ceramic vases, a lantern, and a colorful Berber rug draped over a stone wall.
+
+Background depicts the Medina skyline with terracotta buildings, palm trees, the Koutoubia Mosque minaret, market stalls with umbrellas, crowds, and the Atlas Mountains in the distance under a soft sky with birds. Bougainvillea flowers and vines frame the left side. 
+
+Bottom center has a palm tree icon with text 'MOROCCO' and small decorative motifs. Soft watercolor style, warm earthy tones, nostalgic travel poster aesthetic, vertical 2:3 aspect ratio."
+```
+
+### Case 279: [Retro Travel Poster Collage](https://x.com/Goodmanprotocol/status/2055882758845878709) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case279/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Generate a retro travel poster collage style main visual for "[Country Name] TRAVEL POSTERS".
+
+Overall Layout:
+
+Antique beige paper background
+
+Large, bold country names at the top (e.g., JAPAN / ITALY / FRANCE)
+
+Central Subheading:
+
+“TRAVEL POSTERS FROM AROUND THE WORLD.”
+
+“CREATED ENTIRELY WITH CHATGPT USING JUST ONE PROMPT.”
+
+Bottom: 2x3 six-grid poster layout
+
+Each grid represents a different city/region
+
+Thin white borders between posters
+
+Overall resembling a high-end retro travel magazine cover + Midcentury travel poster design
+
+Visual Style:
+
+Scandinavian Travel Poster
+
+Midcentury Modern
+
+Vintage Editorial Design
+
+Retro Tourism Advertisement
+
+High-end minimalist typography
+
+Warm golden sunset lighting
+
+Antique printing texture
+
+Cinematic lighting
+
+No cartoonish feel
+
+High resolution
+
+Exquisite details
+
+Soft retro color tones (beige, caramel, amber gold, dark brown)
+
+Typography heavy design
+
+Cinematic composition
+
+Poster layout Aesthetic
+
+Each poster panel must include:
+
+City name in English (extra large font)
+
+Country name
+
+Small slogan
+
+Coordinate numbers
+
+Minimalist icon
+
+Representative local landmark
+
+Retro travel poster composition
+
+Please generate the following six city themes:
+
+1. [City 1] — [Representative attractions/atmosphere]
+
+2. [City 2] — [Representative attractions/atmosphere]
+
+3. [City 3] — [Representative attractions/atmosphere]
+
+4. [City 4] — [Representative attractions/atmosphere]
+
+5. [City 5] — [Representative attractions/atmosphere]
+
+6. [City 6] — [Representative attractions/atmosphere]
+
+All text must be in English.
+
+The overall style should resemble:
+highend vintage travel advertisement poster,
+editorial layout design,
+retro tourism campaign,
+luxury magazine aesthetic,
+warm cinematic sunset lighting,
+ultra detailed,
+8k,
+clean typography,
+museum poster quality.
+```
+
+### Case 280: [Serene City Travel Illustration](https://x.com/oggii_0/status/2055876530988015791) (by [@oggii_0](https://x.com/oggii_0))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case280/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+[CITY] = Seoul
+[COUNTRY] = South Korea
+[LANDMARK] = a recognizable landmark or scenic element of [CITY]
+
+Create a serene architectural travel illustration inspired by [CITY], [COUNTRY], in a soft hand-drawn watercolor and ink style.
+
+Main concept:
+Show a quiet, charming street-side house or small building inspired by the everyday atmosphere of [CITY], [COUNTRY], while subtly incorporating [LANDMARK] in the composition.
+The landmark should appear naturally in the background, distance, or surrounding scenery, so the image clearly feels connected to [CITY], [COUNTRY] without losing the calm residential mood.
+
+Visual style:
+delicate hand-drawn architectural illustration,
+soft watercolor washes,
+thin ink outlines,
+slightly imperfect sketch lines,
+warm sunlit atmosphere,
+gentle pastel palette,
+subtle paper texture,
+quiet travel sketchbook aesthetic,
+minimal yet detailed composition,
+calm editorial illustration mood,
+poetic everyday scenery,
+cozy and refined visual tone,
+no photorealism,
+no harsh contrast,
+no saturated colors,
+no dramatic lighting.
+
+Scene:
+A peaceful small house, café, studio, or local building with simple walls, a tiled or regionally inspired roof, painted doors or windows, and several potted plants arranged naturally in front.
+Include subtle local architectural details and everyday design elements that feel authentic to [CITY], [COUNTRY].
+Incorporate [LANDMARK] as a softly integrated city symbol — for example, visible above rooftops, in the distance, or as part of the surrounding skyline or landscape.
+The overall scene should feel quiet, elegant, warm, and locally rooted.
+
+Composition:
+landscape travel-poster format,
+wide horizontal layout,
+large open sky occupying the upper half or upper-left area,
+main building placed across the lower portion of the composition,
+balanced negative space,
+front-facing or slightly angled composition,
+potted plants and small objects along the base,
+landmark subtly placed in the background or upper distance,
+clean and spacious layout,
+minimal but emotionally rich composition.
+
+Typography:
+Include the city name “[CITY]” clearly in the image.
+Render “[CITY]” as elegant travel-poster typography, large but refined, placed prominently in the sky area or upper portion of the composition.
+Optionally include “[COUNTRY]” in smaller text beneath or near the city name.
+The text should feel integrated into the poster design, not like a random overlay.
+Use clean, tasteful lettering that matches the calm watercolor travel-poster mood.
+
+Color palette:
+pale sky blue,
+warm cream,
+terracotta,
+muted blue accents,
+olive and soft green,
+light earthy browns,
+soft natural neutrals.
+
+Texture:
+visible watercolor paper grain,
+transparent paint layering,
+soft handmade brush texture,
+gentle ink-and-wash finish.
+
+Mood:
+peaceful,
+sunny,
+quiet,
+nostalgic,
+cozy,
+refined,
+poetic,
+calm everyday travel atmosphere.
+
+Important:
+The image should express both the intimate charm of a local building and the identity of [CITY], [COUNTRY] through the inclusion of [LANDMARK].
+Do not make the landmark too dominant; it should support the mood rather than overpower the house scene.
+The city name “[CITY]” must be visible and clearly readable in the final image.
+
+Aspect ratio: 4:3 or 3:2
+
+Creator: @hermes_agent_kr on Threads
+```
+
+### Case 281: [Watercolor 2026 Calendar Poster](https://x.com/you1873118/status/2056175244256411890) (by [@you1873118](https://x.com/you1873118))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case281/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+使用上传的第一张图作为【整体风格与版式参考】，使用上传的第二张图作为【人物身份参考】。
+
+请生成一张完整的 2026 年全年日历插画海报。
+
+画面风格：
+保留参考图一的手绘水彩插画风格，温暖米白纸张背景，细腻墨线勾勒，柔和水彩晕染，轻微纸张纹理，带有季节感的小装饰元素，如花草、雪花、爱心、纸飞机、星星、云朵、树叶、相机、书本、咖啡杯、礼物、圣诞树等。整体氛围温柔、治愈、干净、生活感强，像一本手账风全年日历。
+
+版式要求：
+采用 3 列 × 4 行的全年月历排版，共 12 个月份。
+顶部居中写大标题：“2026”，使用手写感黑色笔刷字体。
+每个月份标题格式为：
+“01 January”
+“02 February”
+“03 March”
+一直到
+“12 December”。
+
+每个月份区域都包含：
+1. 月份英文标题
+2. 小型日历日期表
+3. 一位人物插画
+4. 对应季节的小场景装饰
+
+人物要求：
+将参考图一中的男性人物全部替换为参考图二中的女性人物。
+保持参考图二人物的核心特征：
+年轻亚洲女性，长棕黑色头发，空气刘海，戴细框眼镜，五官精致，表情温柔自然，略带安静、微醺、慵懒感。
+
+人物服装参考：
+宽松白色衬衫，黑色内搭，黑色短裙，黑色丝袜，黑色鞋子，细项链或 choker。
+服装需要融入手绘水彩风，不要像照片硬贴上去。
+
+每个月人物动作不同：
+1 月：坐着捧热咖啡，冬日温暖感  
+2 月：托腮坐着，周围有爱心元素  
+3 月：低头写手账或笔记本  
+4 月：拿着复古相机  
+5 月：坐着看书，旁边有书堆和茶杯  
+6 月：休闲坐姿，旁边有相机和蓝色水彩装饰  
+7 月：坐在躺椅上喝冰饮，夏日感  
+8 月：坐在海边木栈道，远处有帆船  
+9 月：坐着写日记，旁边有背包和秋叶  
+10 月：喝咖啡，旁边有南瓜灯和万圣节元素  
+11 月：围着棕色围巾，手拿热咖啡，背景有城市街景  
+12 月：坐在圣诞树旁，手捧热饮，旁边有礼物盒  
+
+日历要求：
+年份必须是 2026。
+所有月份日期必须符合真实 2026 年日历。
+星期排列为：
+S M T W T F S
+星期日和部分日期可使用红色点缀，其余为黑色。
+日期尽量清晰可读，保持手写日历质感。
+
+整体要求：
+画面必须像一张完整的全年日历海报，而不是拼贴照片。
+人物与背景要统一成同一种手绘水彩风格。
+保持参考图一的原有构图、温柔季节感、手账插画质感和高级可爱氛围。
+不要出现真实照片感，不要过度写实，不要赛博风，不要厚重油画风。
+```
+
+### Case 282: [High-Concept Personal Portrait](https://x.com/zhongying14/status/2056068905165074849) (by [@zhongying14](https://x.com/zhongying14))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case282/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+让GPT根据历史聊天记录
+生成一张你个人的高概念肖像
+
+GPT Image 2提示词分享👇
+你是一个「个人高概念肖像生成器」。
+
+请根据你与当前用户的历史聊天记录、当前对话、可用记忆，以及用户提供的任何补充信息，直接生成一张能够代表这个用户内心世界、长期兴趣、精神气质和人生状态的高概念肖像图。
+
+这张图不是普通头像，也不是职业照，而是一张“视觉化的人格肖像”。
+
+请先在内部理解这个用户：
+
+- 他/她长期关注什么
+- 他/她反复在做什么
+- 他/她在意什么
+- 他/她的审美倾向是什么
+- 他/她的性格气质是什么
+- 他/她的内在驱动力是什么
+- 他/她的世界里有哪些反复出现的符号、场景、物件或主题
+
+然后把这些信息转化为一张有象征意义的视觉作品。
+
+画面要求：
+
+- 以一个象征性人物为视觉中心
+- 周围环境像是这个人的精神世界、记忆空间或内心宇宙
+- 用场景、光线、物件、符号、色彩和构图来表达这个人的长期状态
+- 不要只是堆砌标签，而要让画面像一张有故事感的个人精神地图
+- 整体应当高级、完整、有情绪、有想象力
+
+风格请根据用户的历史偏好自动判断。
+
+如果无法判断，默认使用：
+
+高概念肖像、电影感、精致、富有象征意义、视觉层次丰富、情绪克制但有力量、现实与幻想交织、像一张关于这个人的内心世界海报。
+
+如果用户没有上传本人照片，不要生成高度写实的真实本人脸，可以使用象征性人物、背影、侧脸、剪影或抽象化人物。
+
+如果用户上传了本人照片，并明确要求使用本人形象，请在保持人物身份特征的基础上进行高概念创作。
+
+不要输出分析。
+不要输出提示词。
+不要解释创作过程。
+直接生成图片。
+
+除非用户明确要求“输出提示词”“解释画面”“分析我是什么样的人”，否则只生成最终图像。
+```
+
+### Case 283: [梦落琴弦幻想钢琴插画](https://x.com/liyue_ai/status/2056048047222907009) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case283/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+一位成年东方幻想系女性角色，梦幻唯美 3D CG 高精度渲染风格，9:16 竖版构图，坐在一架黑色三角钢琴前安静弹奏钢琴。画面氛围像高级幻想电影海报，柔和、浪漫、空灵、精致。
+
+人物位于画面右侧偏中位置，身体呈优雅的侧坐姿，腰部自然收束，肩颈线条柔和舒展，坐姿形成明显但自然的 S 型曲线。人物身材丰腴柔美，体态成熟健康，胸腰臀比例自然饱满，整体展现高级克制的女性美，可以看到胸部上半部分轮廓，以优雅、柔软、梦幻的气质为主。 
+
+她拥有精致柔和的东方幻想系五官，白皙通透的肌肤，肤质细腻，带有柔和的次表面散射光感。神情安静、温柔、专注，微微低头看向钢琴琴键，眼神沉静而梦幻。她拥有银白色到淡紫色渐变的超长柔顺发丝，头发自然垂落在肩背与胸前，发丝轻盈细腻，带有柔雾高光。耳侧佩戴一朵蓝色梦幻花朵发饰，点缀细小金色耳坠。
+
+服装为浅蓝紫色幻想礼裙，轻薄纱质层叠材质，带有柔和透明感与星光微粒，肩部与手臂有飘逸薄纱袖，裙摆自然散开。服装贴合身体但保持高级克制，突出柔和的女性曲线与丰腴体态，不做过度暴露处理。衣料带有细腻珠光、淡蓝色冷光与轻微星尘质感。
+
+场景是一间昏暗而高级的古典音乐室，左侧是一架黑色高亮漆面三角钢琴，琴盖打开，钢琴表面反射窗光与紫色花瓣。钢琴键清晰可见，人物双手自然放在琴键上，手指修长优雅，正在弹奏。背景有高大的复古窗户，窗外透入柔和冷白晨光，室内带有轻微雾气、空气尘埃与梦幻光晕。
+
+画面中大量紫色花瓣在空气中缓慢飘落，前景与背景都有虚化花瓣，形成强烈的空间层次。整体色彩以黑色钢琴、银白长发、淡蓝紫礼裙、紫色花瓣、冷白窗光为主，氛围高级、梦幻、浪漫、安静。光影柔和，边缘带有淡淡蓝紫辉光，电影级景深，精致细节，高级幻想插画质感，超清晰，8K，high detail, cinematic lighting, soft focus, dreamy atmosphere, elegant fantasy, premium 3D CG render。
+```
+
+### Case 284: [Coffee Girl By the River](https://x.com/MrGafish/status/2055912487493726603) (by [@MrGafish](https://x.com/MrGafish))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case284/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+尝试一个固定模式的 gpt image 2  提示词结构,一个近景，一个中景
+
+生成一张图片：
+
+主体：一个端着咖啡的二次元女孩，正坐在河边，望着河里正在玩水的两只小狗
+场景：山谷里的一条小河，清空万里，天上飘着几片白云
+构图：中景，主体位于画面左侧，50mm 镜头，浅景深，背景轻微虚化
+光线：柔和的阳光从右上角照入
+风格：手绘线稿风格插画
+色彩：孔雀蓝、芥末黄、珊瑚粉、象牙白，简约而沉稳的配色方案
+细节：小河里的水流泛着阳光的反射
+氛围：温馨的日常氛围
+画质：简约而圆润的形态，保留墨水质感的粗犷线条
+避免：文字、水印、logo、畸形结构
+```
+
+
+### Case 285: [Floating Island Travel Poster](https://x.com/Naiknelofar788/status/2056551186610966530) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case285/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a premium 9:16 hyper-realistic travel-poster of [COUNTRY NAME] in the same style as a luxury editorial miniature-map diorama: show the country as a recognizable floating island map with dramatic cliff edges, crystal-clear water, soft clouds, and a pure white  background. Use a clean, elegant poster layout with large culturally appropriate typography for “[COUNTRY NAME]” at the top, using a font style inspired by the country’s identity, history, script, or visual culture, plus a short refi
+```
+
+### Case 286: [Vintage Monochrome City Travel Poster](https://x.com/Taaruk_/status/2056577980349264028) (by [@Taaruk_](https://x.com/Taaruk_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case286/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Vintage monochrome city travel poster illustration, detailed urban sketch aesthetic, clean architectural line art mixed with soft watercolor shading, modern Southeast Asian city atmosphere, minimalist green-and-cream color palette, elegant travel poster typography, large bold city name at the top, bilingual typography with Asian characters, highly detailed street life scene, busy urban crossroads, flyovers, buses, motorcycles, cafes, local restaurants, pedestrians crossing streets, shopping mall
+```
+
+### Case 287: [Flat-Vector City Lifestyle Collage](https://x.com/Goodmanprotocol/status/2056612365156978731) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case287/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a sophisticated flat-vector editorial pattern illustration of [Melbourne], composed as a seamless lifestyle-art collage combining iconic landmarks, local culture, vacation scenes, and symbolic city objects.
+```
+
+### Case 288: [Sci-Fi Character Concept Sheet](https://x.com/0kncn/status/2056372978607174077) (by [@0kncn](https://x.com/0kncn))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case288/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a 16:9 character concept sheet for a celestial voyager in an epic cinematic sci-fi fantasy aesthetic.
+```
+
+### Case 289: [Pixar 3D Character Design Sheet](https://x.com/TechieBySA/status/2056419585369198677) (by [@TechieBySA](https://x.com/TechieBySA))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case289/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+“Create a Pixar 3D style character design sheet. Clean white background. Two characters side by side with a clean dividing line. Bold brushstroke-style title at the top: CHAD VS THE GYM MIRROR. Subtitle beneath: One way mirror. One audience. Zero awareness.
+LEFT SIDE — CHAD
+Large name in bold black. Underneath: “Just needed a quick pump check.”
+Hero portrait — Chad isolated on clean white. No background. Pixar 3D man, late 20s, natural athletic build — genuinely fit but not cartoonishly huge. Ne
+```
+
+### Case 290: [Vintage Travel Collage Poster](https://x.com/sdhilip/status/2056261616967270640) (by [@sdhilip](https://x.com/sdhilip))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case290/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Vintage mixed-media travel collage poster, portrait orientation, themed around [COUNTRY].
+```
+
+### Case 291: [Premium Travel Infographic Poster](https://x.com/Ankit_patel211/status/2056519161023787394) (by [@Ankit_patel211](https://x.com/Ankit_patel211))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case291/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create an ultra-premium editorial travel infographic poster about FRANCE in a clean vertical 3:4 ratio.
+```
+
+### Case 292: [9-Frame Cinematic Storyboard Grid](https://x.com/guicastellanos1/status/2056425976763146366) (by [@guicastellanos1](https://x.com/guicastellanos1))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case292/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+for GPT-2:
+Create a single image storyboard with 9 cinematic frames arranged in a  3×3 grid. Each frame is a widescreen 16:9 panel with a film aspect ratio  letterbox. Style: ultra-cinematic sci-fi blockbuster mixed with premium  airline commercial. Think Blade Runner 2049 color grading meets a UEFA  Champions League broadcast opener meets a luxury brand TVC.
+```

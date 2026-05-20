@@ -3392,3 +3392,255 @@ Scene/backdrop: a bright modern bubble-tea counter interior with stainless steel
 ```
 A medium-shot photograph of a young woman with wavy, light brown hair and soft, rosy makeup, posing outdoors at night. She is wearing a slightly oversized black t-shirt with small white text on the left chest, pulling the shirt up slightly with both hands to reveal her midriff and the waistband of black underwear peeking out from low-rise, faded blue denim jeans. She is leaning against a white metal balcony railing, looking off-camera to her right with a neutral expression. The background
 ```
+
+<!-- Case 198: Fashion Blueprint Editorial Sheet (by @ZephyraLeigh) -->
+### Case 198: [Fashion Blueprint Editorial Sheet](https://twitter.com/ZephyraLeigh/status/2056770705677775247) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case198/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Fashion blueprint sheet of a stylish young woman posing beside a bright orange wall, half-body fashion editorial view with detailed outfit annotations and luxury styling callouts. Long sleek dark hair, soft glam makeup, silver drop earrings, layered silver necklaces, fitted dark brown cropped tube top, oversized pastel mint-green blazer with structured shoulders, matching high-waisted wide-leg trousers, elegant silver chain detail attached to blazer, relaxed confident pose with one hand in pocket.
+
+Surrounding the model are fashion infographic elements, jewelry breakdowns, fabric texture descriptions, tailoring notes, pose analysis, accessory close-ups, cinematic sunlight reflections, modern Korean street-fashion aesthetic, editorial photography style, ultra detailed, professional fashion concept sheet, 8k, 1744x2336
+```
+
+<!-- Case 199: Joyful Street Portrait with Drink (by @rovvmut_) -->
+### Case 199: [Joyful Street Portrait with Drink](https://twitter.com/rovvmut_/status/2056786034864927229) (by [@rovvmut_](https://x.com/rovvmut_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case199/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A medium low-angle shot of a joyful young woman with dark hair and straight bangs, smiling brightly against a vibrant, clear blue sky. She wears a white graphic t-shirt featuring three landscape panels. In her right hand, she holds up a clear plastic cup filled with bright orange juice, featuring a white hand-drawn doodle of a smiley face on the side. Whimsical, hand-drawn white digital doodles are overlaid around her: stylized headphones rest around her neck, musical notes and stars float above her head, and glowing white motion outlines trace her silhouette. Bright, natural daylight evenly illuminates the scene, enhancing the playful, energetic pop-art aesthetic.
+```
+
+<!-- Case 200: Portrait Collage Film Strip Poster (by @robertsmith_ai) -->
+### Case 200: [Portrait Collage Film Strip Poster](https://twitter.com/robertsmith_ai/status/2056766784846606727) (by [@robertsmith_ai](https://x.com/robertsmith_ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case200/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+High-end portrait collage poster in vertical format. The background contains four layered rounded strips displaying black-and-white film-like images of a curly-haired male model wearing dark sunglasses in varied poses. In front, a vivid color cutout of the same character is placed to the left, dressed in an unbuttoned soft pink shirt, styled like a luxury fashion campaign with dramatic lighting and depth.
+```
+
+<!-- Case 201: Reference-Based Portrait Consistency (by @mehvishs25) -->
+### Case 201: [Reference-Based Portrait Consistency](https://twitter.com/mehvishs25/status/2056770900125790595) (by [@mehvishs25](https://x.com/mehvishs25))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case201/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Use the uploaded reference image as the exact facial identity reference for the girl. Maintain the same facial structure, eyes, nose, lips, hairstyle, skin tone, beauty details, and overall appearance consistency throughout the image.
+
+Ultra-realistic portrait of the same girl from the reference image standing beside the large classroom windows in an empty Korean classroom during daytime, posing from the front side while looking directly at the camera with a soft calm smile. One hand gently resting in her hair, relaxed confident posture, modern youthful Korean fashion aesthetic. Wearing a fitted long black ribbed top with full sleeves and light gray washed jeans, elegant casual styling. Long silky black hair flowing naturally, glossy eyes, soft natural blush makeup, realistic skin texture, dreamy youthful Korean beauty aesthetic.
+
+Bright natural sunlight streaming through the classroom windows, creating soft cinematic highlights and realistic shadows across the room. Authentic Korean classroom interior with wooden desks, black chairs, green chalkboard, South Korean flag on the wall, clean neutral walls, polished floors, and trees visible outside the windows.
+
+Calm slice-of-life atmosphere, minimalist Korean school aesthetic, candid model pose, soft daylight photography, shallow depth of field, cinematic composition, highly detailed, photorealistic classroom environment, luxury lifestyle editorial feel, soft glow, realistic DSLR photography, peaceful modern mood.
+```
+
+<!-- Case 202: London Fashion Street Portrait (by @ShamiWeb3) -->
+### Case 202: [London Fashion Street Portrait](https://twitter.com/ShamiWeb3/status/2056904361792716894) (by [@ShamiWeb3](https://x.com/ShamiWeb3))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case202/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Photorealistic cinematic fashion video set on an elegant London shopping street inspired by Bond Street. A stylish British woman in her late 20s walks confidently past a luxury boutique. She wears gold earrings, a burgundy double-breasted blazer, matching mini skirt, a light blue ruffled silk blouse, a structured dark red leather shoulder bag, and metallic pointed heels. Her chestnut hair is styled in a sleek low bun.
+Her phone rings. She glances at the screen, stops gracefully, and answers. A male voice asks, “Hello there, can you please scan your outfit?” She smiles and replies in a soft British accent, “I guess so.”
+The camera performs a smooth head-to-toe scan, displaying elegant text labels for each outfit item, then ends on a confident editorial pose in front of the boutique window.
+Bright natural sunlight, shallow depth of field, smooth gimbal movement, luxury editorial aesthetic, polished and sophisticated mood, 9:16 vertical, 15 seconds.
+```
+
+<!-- Case 203: Travel Selfie Portrait Reference (by @linaa_ai) -->
+### Case 203: [Travel Selfie Portrait Reference](https://twitter.com/linaa_ai/status/2056777746265858158) (by [@linaa_ai](https://x.com/linaa_ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case203/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Asset type: portrait image for social post
+Primary request: create a photorealistic travel selfie portrait, using the uploaded portrait photo as the appearance reference for the person.
+Scene/backdrop: an open alpine meadow under a vivid blue sky, surrounded overhead by hundreds of colorful Tibetan prayer flags arranged in a circular spiral canopy, with distant green hills and bright daylight.
+Subject: a young woman with the recognizable facial structure, eyes, hairline direction, and natural skin texture from the uploaded portrait photo, wearing a bright cyan outdoor jacket, white hiking pants, a mustard yellow knit beanie, sunglasses resting on the hat, and a backpack.
+Style/medium: ultra-realistic mobile travel photography with a dynamic action-camera feel, crisp but natural detail, lively social-media adventure portrait.
+Composition/framing: vertical 3:4 frame, extreme wide-angle perspective, low-to-high selfie composition, one hand reaching toward the camera in the foreground with strong perspective enlargement, face in the midground, prayer flags forming a colorful radial tunnel above her head, energetic candid smile.
+Lighting/mood: brilliant high-altitude midday sun, visible lens flare near the upper left, sparkling backlight, bright optimistic mood, high clarity, realistic shadows on grass.
+Color palette: saturated cyan, mustard yellow, red, orange, green, white, and sky blue, clean contrast, sunlit alpine freshness.
+Textures/retouching: believable fabric texture, natural skin pores, realistic hair strands, clean optical sharpness on the face, shallow foreground hand blur, small falling snowflakes or white petals crossing the lens.
+Constraints: preserve the person's recognizable appearance from the uploaded portrait photo; no watermark; no logo; no text; no caption; no signature.
+Avoid: plastic beauty-filter skin, over-smoothed face, distorted hands, extra fingers, warped prayer flags, unreadable markings on clothing, artificial CGI look
+
+Negative Prompt：
+
+watermark, logo, text, caption, signature, AI label, brand mark, extra fingers, missing fingers, fused fingers, deformed hands, oversized malformed palm, asymmetrical eyes, crossed eyes, warped face, plastic skin, waxy skin, over-smoothed beauty filter, blurry face, low detail, low resolution, heavy compression artifacts, distorted anatomy, duplicate person, bad perspective, bent flag strings, warped flags, fake CGI look, overexposed face, muddy colors
+```
+
+<!-- Case 204: Ultra-Realistic Phone-Style Portrait (by @AiwithZohaib) -->
+### Case 204: [Ultra-Realistic Phone-Style Portrait](https://twitter.com/AiwithZohaib/status/2056835104824312018) (by [@AiwithZohaib](https://x.com/AiwithZohaib))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case204/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Ultra-realistic, almost indistinguishable-from-real close-up portrait in a casual phone photo style.
+
+Use the uploaded image as the identity reference, fully preserving the natural appearance and atmosphere of the same woman.
+The face and overall appearance must remain 100% identical to the reference image, without altering any facial proportions or features.
+
+Do not change:
+
+Lip shape or lip size
+
+Eyes
+
+Nose
+
+Face shape
+
+Overall facial harmony and identity
+
+Full photorealism.
+No AI-generated feeling — it should look like a random candid photo taken on a mobile phone.
+Not a polished glossy beauty shoot, but a natural, slightly imperfect phone snapshot.
+
+Close-up portrait framed to shoulder level.
+Soft and elegant pose.
+Face slightly turned to the side.
+No direct eye contact with the camera — natural sideways gaze.
+Expression calm, natural, almost neutral.
+The image should feel like a spontaneously captured moment rather than a posed photoshoot.
+
+Hair styled in a natural slightly messy updo.
+Face-framing bangs and loose strands around the face.
+A few flyaway hairs and subtle disheveled texture.
+Effortless beauty aesthetic with imperfectly styled hair.
+
+Ultra-natural skin texture with realistic pores and subtle imperfections.
+Soft mobile-phone lighting, realistic shadows, natural tonal range, authentic candid atmosphere.
+
+The overall result should resemble a genuine smartphone portrait captured casually in real life, with cinematic realism and natural feminine elegance.
+```
+
+<!-- Case 205: Woodcut Engraving Portrait Style (by @zulkarnaimx) -->
+### Case 205: [Woodcut Engraving Portrait Style](https://twitter.com/zulkarnaimx/status/2056778953273258275) (by [@zulkarnaimx](https://x.com/zulkarnaimx))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case205/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+️
+
+Black and white engraved portrait illustration of a person.
+Drawn in classic woodcut / linocut engraving style, high contrast black ink on textured off-white paper background. Fine cross-hatching and line shading to create depth and shadow, bold black ink shadows under chin and around hair, strong contour lines, traditional printmaking aesthetic.
+Minimal composition, centered portrait, no body visible, clean negative space, vintage editorial illustration style, ultra detailed linework, sharp crisp ink strokes, professional vector-ready engraving look, monochrome palette, dramatic contrast.
+Negative Prompt:
+color, watercolor, soft shading, blurred lines, low contrast, realistic photography, 3D render, anime style, cartoon style, messy sketch, thick uneven strokes, background objects, noisy texture, pixelated, distorted face, extra eyes, extra ears, bad anatomy, modern digital painting, glossy skin, overexposed highlights
+```
+
+<!-- Case 206: Pixar 3D Character Design Sheet (by @TechieBySA) -->
+### Case 206: [Pixar 3D Character Design Sheet](https://twitter.com/TechieBySA/status/2056784334628036676) (by [@TechieBySA](https://x.com/TechieBySA))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case206/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+“Create a Pixar 3D style character design sheet. Clean white background. Two characters side by side with a clean dividing line. Bold brushstroke-style title at the top: PAUL vs THE POLE VAULT. Subtitle beneath: One pole. One shot. Straight up.
+LEFT SIDE — PAUL
+Large name in bold black. Underneath: "The bar was never the problem."
+Hero portrait — Paul isolated on clean white. No background. Pixar 3D man, mid 20s, lean athletic build, electric blue athletics vest with thin gold stripe on shoulder, white shorts, white spikes with electric blue detail. Focused determined expression. Holding a long silver pole horizontally in both hands, slightly crouched forward. Just Paul on white.
+Three poses beneath:
+
+Full sprint down the runway, pole angled forward low, eyes locked ahead, every muscle firing.
+Inverted at full height — body perfectly upside down, pole bent at maximum flex, toes pointed straight at the sky.
+Landing in the pit, arms raised, head turned back to check the bar. Pure joy.
+
+SPEED ████████░░ Enough to get airborne
+COURAGE ██████████ Required at that height
+GRIP ██████████ Non negotiable
+HEIGHT CLEARED █████████░ Still climbing
+HEART RATE AT PEAK ██████████ Do not check
+RIGHT SIDE — THE POLE VAULT
+Large name in bold black. Underneath: "It has never missed. Only the athlete does."
+Hero portrait — the pole vault apparatus isolated on clean white. Tall yellow standards, bright red crossbar at full height, blue crash mat below. Still. Imposing. Just the apparatus on white.
+Three poses beneath:
+
+Bar sitting perfectly still on the standards. Unbothered. Waiting.
+Bar shaking mid-vault as Paul's body passes over — millimeters of clearance.
+Bar still. Settled. Unmoved. It was never going anywhere.
+
+HEIGHT ██████████ Non negotiable
+REMORSE ░░░░░░░░░░ It is a bar. It does not come down for anyone.
+BOTTOM STRIP — five cinematic close-up panels bleeding into each other, some transparent, no hard boxes:
+Paul's white spikes on the red rubber runway surface, pole tip visible at the edge · Silver pole at maximum bend, pure white background, nothing else · Extreme close-up of Paul's face — jaw set, eyes locked forward, pure focus, sweat visible · Paul fully inverted against bright blue sky, body horizontal, red bar inches from his chest · Paul's hands releasing the pole mid-air, arms exploding upward, pure joy, crowd blur behind him
+THE POLE BENDS. THE BAR STAYS. PAUL DOES NOT KNOW HOW.
+STYLE NOTES: Pixar 3D vivid rendering. Clean white background on both character sides. Electric blue stat bars throughout. Bottom strip cinematic and tight — close-ups bleeding into each other with transparent edges like a film production sheet, not boxed panels with full backgrounds. Paul identical across all poses. Maximum brightness and color throughout.”
+```
+
+<!-- Case 207: Matcha Goddess Beauty Portrait (by @NyaiiBubu) -->
+### Case 207: [Matcha Goddess Beauty Portrait](https://twitter.com/NyaiiBubu/status/2056817669668737442) (by [@NyaiiBubu](https://x.com/NyaiiBubu))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case207/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+👇 
+
+ultra realistic surreal beauty editorial portrait, matcha goddess aesthetic, ethereal asian woman with glossy dewy skin, face covered in dripping liquid matcha cream, surreal cosmetic food fusion, floating matcha cubes, matcha powder particles, green tea mousse textures, edible haute couture, cinematic luxury skincare campaign, dreamy fantasy atmosphere, glowing olive green tones, wet reflective skin, delicate floral accents, suspended droplets, gold flakes, soft volumetric lighting, macro beauty photography, shallow depth of field, highly detailed skin texture, elegant feminine pose, luxury fashion editorial, surreal dessert inspired composition, artistic liquid dynamics, photorealistic, cinematic bokeh background, ultra detailed, 8k, soft glow, clean composition, no text, no logo, no product packaging, vertical 9:16
+```
+
+<!-- Case 208: Vintage Camera LCD Screen Shot (by @ZaraElira4) -->
+### Case 208: [Vintage Camera LCD Screen Shot](https://twitter.com/ZaraElira4/status/2056786815978524772) (by [@ZaraElira4](https://x.com/ZaraElira4))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case208/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a young East Asian woman with long dark wavy hair standing beside a wooden shelf packed tightly with colorful comic books and magazines.
+
+She wears a black spaghetti-strap top with a loose white cardigan hanging casually from both shoulders and faded blue jeans. Captured mid-laugh while turning her face slightly sideways, her expression feels spontaneous and natural, with hair falling softly across part of her cheek.
+
+The harsh direct flash from the compact camera creates strong highlights on her face and cardigan while flattening shadows in the background, producing an authentic nostalgic digicam aesthetic. Slight motion blur and digital grain enhance the candid realism.
+
+Camera UI overlays are visible across the LCD screen, including the timestamp “8. 1. 2012 3:15 AM,” exposure data “1/30 F3.4 ISO 100,” focus indicators, and a small green battery symbol in the corner.
+
+The image preserves visible screen pixel structure, slight glare reflections, chromatic softness, and compressed digital texture. Outside the LCD, the surrounding darkness fades smoothly into blur, emphasizing the glowing nostalgic screen.
+
+Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
+```
+

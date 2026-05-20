@@ -4633,3 +4633,126 @@ Create an ultra-premium editorial travel infographic poster about FRANCE in a cl
 for GPT-2:
 Create a single image storyboard with 9 cinematic frames arranged in a  3×3 grid. Each frame is a widescreen 16:9 panel with a film aspect ratio  letterbox. Style: ultra-cinematic sci-fi blockbuster mixed with premium  airline commercial. Think Blade Runner 2049 color grading meets a UEFA  Champions League broadcast opener meets a luxury brand TVC.
 ```
+
+<!-- Case 293: Vintage-Bierwerbeplakat im Stil der 1960er (by @Goodmanprotocol) -->
+### Case 293: [Vintage-Bierwerbeplakat im Stil der 1960er](https://twitter.com/Goodmanprotocol/status/2056791983717503015) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+| Ergebnis |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case293/output.jpg" width="300" alt="Ergebnisbild"></a> |
+
+**Prompt：**
+
+```
+Authentic 1960s American advertising poster for [BREW], vintage mid-century commercial illustration, [PERSON DESCRIPTION] holding a frosty glass bottle of [BREW], bright optimistic lifestyle scene, nostalgic Americana atmosphere, bold [COLOR 1] and [COLOR 2] color palette, elegant retro typography, the text “[BREW]” prominently integrated into the poster design, authentic screen print texture, subtle paper grain, hand-painted illustration style, vintage Madison Avenue advertising aesthetic, clean composition, highly detailed, warm cinematic lighting, premium poster design, authentic 1960s print imperfections, painterly realism, soft brushwork, vertical composition 4:5
+```
+
+<!-- Case 294: Cinematisches Pitch-Board für Regisseure (by @Mind_Boticni) -->
+### Case 294: [Cinematisches Pitch-Board für Regisseure](https://twitter.com/Mind_Boticni/status/2056793598243553464) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
+
+| Ergebnis |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case294/output.jpg" width="300" alt="Ergebnisbild"></a> |
+
+**Prompt：**
+
+```
+A premium director’s pitch presentation board for a high-budget cinematic production, showcasing a single, grounded human character with intense emotional readability and natural imperfections. The layout is art-directed and organically asymmetrical, avoiding rigid grids. Features a fluid, narrative full-body turnaround (capturing the character mid-stride across front, 3/4, profile, and rear views), detailed candid head studies expressing internal conflict, and a sweeping cinematic close-up portrait with dramatic Rembrandt lighting. Includes integrated texture macro-crops (weathered leather, realistic skin pores, distressed linen), minimalist production annotations, and an organic height scale. Shot on 35mm anamorphic, shallow depth of field, muted color grading, ultra-realistic textures, strict character and wardrobe consistency throughout.
+```
+
+<!-- Case 295: Virales Food-Infografik-Poster (by @amynys) -->
+### Case 295: [Virales Food-Infografik-Poster](https://twitter.com/amynys/status/2056779657987387784) (by [@amynys](https://x.com/amynys))
+
+| Ergebnis |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case295/output.jpg" width="300" alt="Ergebnisbild"></a> |
+
+**Prompt：**
+
+```
+Create a cinematic viral-style food poster for “Prediabetic Friendly Strawberry Cheesecake Overnight Oats” in a clean modern infographic aesthetic inspired by trendy TikTok and Pinterest recipe posters.
+
+The poster should feature a large realistic mason jar filled with creamy strawberry cheesecake overnight oats layered with visible chia seeds, sliced strawberries around the inside glass, a thick cheesecake yogurt layer on top, fresh strawberries, and crushed walnuts. The oats should look ultra creamy, indulgent, healthy, and photorealistic with soft natural lighting and shallow depth of field.
+Use a soft pink, cream, and white color palette with bold typography.
+The design should feel premium, feminine, modern, healthy, and social-media viral.
+
+Main headline in large stylish text:
+“STRAWBERRY Cheesecake OVERNIGHT OATS”
+Add a pink label at the top saying:
+“PREDIABETIC FRIENDLY”
+
+Include stylish infographic sections with rounded boxes and cute minimal icons for:
+INGREDIENTS
+½ cup rolled oats
+¾ cup unsweetened almond milk
+⅓ cup plain Greek yogurt
+1 tbsp chia seeds
+1 tbsp ground flaxseed
+½ scoop vanilla protein powder
+½ tsp vanilla extract
+Dash of cinnamon
+Tiny pinch sea salt
+3–4 chopped strawberries
+Optional monk fruit sweetener or stevia
+
+CHEESECAKE LAYER
+Greek yogurt
+Vanilla
+Lemon juice
+TOPPINGS
+Crushed walnuts
+Strawberries
+Cinnamon
+
+HOW TO MAKE
+Mix ingredients
+Fold in strawberries
+Refrigerate overnight
+Add cheesecake layer and toppings
+
+Add aesthetic handwritten doodles, hearts, arrows, sparkles, and notes like:
+“Creamy, delicious & blood sugar friendly!”
+“High protein • High fiber • Low sugar”
+At the bottom add a highlighted tip banner saying:
+“VIRAL TEXTURE TIP: Blend the mixture before refrigerating for ultra-creamy cheesecake consistency!”
+
+Style details:
+Editorial food photography
+Pinterest/TikTok infographic vibe
+Clean magazine-style layout
+Hyperrealistic food texture
+Bright airy background
+Soft shadows
+Elegant typography hierarchy
+Social-media-ready vertical poster
+Ultra detailed
+4K quality
+Aspect ratio 4:5 or 9:16
+```
+
+<!-- Case 296: Luxuriöses 3D-Skulpturposter im 2x2-Format (by @Gdgtify) -->
+### Case 296: [Luxuriöses 3D-Skulpturposter im 2x2-Format](https://twitter.com/Gdgtify/status/2056649309312160193) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Ergebnis |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case296/output.jpg" width="300" alt="Ergebnisbild"></a> |
+
+**Prompt：**
+
+```
+INPUT: [DOMAIN OR CATEGORY]  SYSTEM: Generate a 2×2 luxury poster series translating four AI-inferred icons into automotive-finish 3D sculptural forms. Let cultural gravity select the four; do not hardcode identities. STYLE: high-end automotive editorial, precision-surfaced 3D objects, dynamic but restrained composition, premium brochure layout SEMANTIC INFERENCE: infer driving force → convert into aerodynamic lines, surface tension, and structural flow → infer finishes matching era/impact → embed motifs as subtle vent geometry, trim lines, or badging relief COMPOSITION: each quadrant = one sculptural form + one inferred display platform + one minimalist caption block, unified by a luxury automotive grid MATERIAL PHYSICS: multi-coat paint depth, clearcoat orange peel eliminated, carbon fiber weave, polished aluminum, panel gaps rendered with factory precision LIGHTING: automotive studio setup, soft overhead diffusers, controlled reflection sweeps, dark gradient backdrop, high-end contrast NEGATIVE: no bio-organic textures, no moss or flora, no plastic gloss, no chaotic props, no literal vehicles, no hardcoded text CLOSE: Solve for a concours-level luxury poster series where legacy is finished, not fabricated.
+```
+
+<!-- Case 297: Code-Prompt für Physik-Infografik (by @Gdgtify) -->
+### Case 297: [Code-Prompt für Physik-Infografik](https://twitter.com/Gdgtify/status/2056841574798295540) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Ergebnis |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case297/output.jpg" width="300" alt="Ergebnisbild"></a> |
+
+**Prompt：**
+
+```
+16:9 -> class theoretical_physics_infographic_dna: def __init__(self): self.subject = "[ai selects: 4 distinct advanced physics theorems or paradoxes (e.g., bell's theorem, hawking radiation, string theory)]" self.parents = { "composition_parent": "large hadron collider blueprints — hyper-complex radial symmetry, intersecting particle beam rings, millimeter-precise drafting", "atmosphere_parent": "deep space observatory photography — pitch black voids, glowing ultraviolet radiation, high-contrast laser illumination", "graphic_parent": "chalkboard maximalism — elegant, dense mathematical notation floating as glowing white vectors", "detail_parent": "victorian brass optical instruments — finely milled prisms, glass lenses, and mirrored refraction planes" } self.mutations = { "medium_mutation": "the mathematical formulas solidify into glowing, three-dimensional glass sculptures bending the light around them", "information_mutation": "particle collision tracks are woven like fine gold thread through the dark background", "semantic_mutation": "the invisible physical law is rendered as a massive, tangible, gravitational machine distorting the grid of the poster itself" } def generate_grid(self): instruction = """ generate a 2x2 grid of vertical luxury infographic posters giving physical form to the chosen [subject]s. invent a magnificent scientific machine or optical diorama for each. explode the layers to show quantum states, gravitational warping, equations, and subatomic scale. the design must feel like a classified schematic from a hyper-advanced, aesthetically obsessed civilization. semantic inference must make the invisible laws of physics breathtakingly visible. """ return render( instruction, format="2x2 grid, vertical luxury posters, conceptual scientific infographic", typography=""" large title: [name of theorem/paradox] subtitle: [the physicist / the era] microtext: [the core equation / metric tensor / explanatory blazon] """, composition="strict radial or gravitational-well symmetry. razor-sharp fine lines contrasting with deep voids.", lighting="harsh, clinical laser light interacting with pure optical glass and vantablack.", constraints="no cartoon atoms, no clip-art planets, no messy chalkboards. only pristine, museum-grade scientific aesthetic." )
+```
+

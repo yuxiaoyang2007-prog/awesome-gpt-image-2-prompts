@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![521 Curated Prompts](https://img.shields.io/badge/Prompts-585_Curated_Cases-111111)](README.md)
+[![535 Curated Prompts](https://img.shields.io/badge/Prompts-535_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
 
@@ -1066,6 +1066,258 @@ Scene/backdrop: a bright modern bubble-tea counter interior with stainless steel
 ```
 A medium-shot photograph of a young woman with wavy, light brown hair and soft, rosy makeup, posing outdoors at night. She is wearing a slightly oversized black t-shirt with small white text on the left chest, pulling the shirt up slightly with both hands to reveal her midriff and the waistband of black underwear peeking out from low-rise, faded blue denim jeans. She is leaning against a white metal balcony railing, looking off-camera to her right with a neutral expression. The background
 ```
+
+<!-- Case 138: Редакционный модный лист в стиле blueprint (by @ZephyraLeigh) -->
+### Case 138: [Редакционный модный лист в стиле blueprint](https://twitter.com/ZephyraLeigh/status/2056770705677775247) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case198/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Редакционный модный лист в стиле blueprint"></a> |
+
+**Prompt：**
+
+```
+Fashion blueprint sheet of a stylish young woman posing beside a bright orange wall, half-body fashion editorial view with detailed outfit annotations and luxury styling callouts. Long sleek dark hair, soft glam makeup, silver drop earrings, layered silver necklaces, fitted dark brown cropped tube top, oversized pastel mint-green blazer with structured shoulders, matching high-waisted wide-leg trousers, elegant silver chain detail attached to blazer, relaxed confident pose with one hand in pocket.
+
+Surrounding the model are fashion infographic elements, jewelry breakdowns, fabric texture descriptions, tailoring notes, pose analysis, accessory close-ups, cinematic sunlight reflections, modern Korean street-fashion aesthetic, editorial photography style, ultra detailed, professional fashion concept sheet, 8k, 1744x2336
+```
+
+<!-- Case 139: Радостный уличный портрет с напитком (by @rovvmut_) -->
+### Case 139: [Радостный уличный портрет с напитком](https://twitter.com/rovvmut_/status/2056786034864927229) (by [@rovvmut_](https://x.com/rovvmut_))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case199/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Радостный уличный портрет с напитком"></a> |
+
+**Prompt：**
+
+```
+A medium low-angle shot of a joyful young woman with dark hair and straight bangs, smiling brightly against a vibrant, clear blue sky. She wears a white graphic t-shirt featuring three landscape panels. In her right hand, she holds up a clear plastic cup filled with bright orange juice, featuring a white hand-drawn doodle of a smiley face on the side. Whimsical, hand-drawn white digital doodles are overlaid around her: stylized headphones rest around her neck, musical notes and stars float above her head, and glowing white motion outlines trace her silhouette. Bright, natural daylight evenly illuminates the scene, enhancing the playful, energetic pop-art aesthetic.
+```
+
+<!-- Case 140: Постер-портрет в виде коллажа с фотоплёнкой (by @robertsmith_ai) -->
+### Case 140: [Постер-портрет в виде коллажа с фотоплёнкой](https://twitter.com/robertsmith_ai/status/2056766784846606727) (by [@robertsmith_ai](https://x.com/robertsmith_ai))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case200/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Постер-портрет в виде коллажа с фотоплёнкой"></a> |
+
+**Prompt：**
+
+```
+High-end portrait collage poster in vertical format. The background contains four layered rounded strips displaying black-and-white film-like images of a curly-haired male model wearing dark sunglasses in varied poses. In front, a vivid color cutout of the same character is placed to the left, dressed in an unbuttoned soft pink shirt, styled like a luxury fashion campaign with dramatic lighting and depth.
+```
+
+<!-- Case 141: Согласованность портрета по референсу (by @mehvishs25) -->
+### Case 141: [Согласованность портрета по референсу](https://twitter.com/mehvishs25/status/2056770900125790595) (by [@mehvishs25](https://x.com/mehvishs25))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case201/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Согласованность портрета по референсу"></a> |
+
+**Prompt：**
+
+```
+Use the uploaded reference image as the exact facial identity reference for the girl. Maintain the same facial structure, eyes, nose, lips, hairstyle, skin tone, beauty details, and overall appearance consistency throughout the image.
+
+Ultra-realistic portrait of the same girl from the reference image standing beside the large classroom windows in an empty Korean classroom during daytime, posing from the front side while looking directly at the camera with a soft calm smile. One hand gently resting in her hair, relaxed confident posture, modern youthful Korean fashion aesthetic. Wearing a fitted long black ribbed top with full sleeves and light gray washed jeans, elegant casual styling. Long silky black hair flowing naturally, glossy eyes, soft natural blush makeup, realistic skin texture, dreamy youthful Korean beauty aesthetic.
+
+Bright natural sunlight streaming through the classroom windows, creating soft cinematic highlights and realistic shadows across the room. Authentic Korean classroom interior with wooden desks, black chairs, green chalkboard, South Korean flag on the wall, clean neutral walls, polished floors, and trees visible outside the windows.
+
+Calm slice-of-life atmosphere, minimalist Korean school aesthetic, candid model pose, soft daylight photography, shallow depth of field, cinematic composition, highly detailed, photorealistic classroom environment, luxury lifestyle editorial feel, soft glow, realistic DSLR photography, peaceful modern mood.
+```
+
+<!-- Case 142: Лондонский модный уличный портрет (by @ShamiWeb3) -->
+### Case 142: [Лондонский модный уличный портрет](https://twitter.com/ShamiWeb3/status/2056904361792716894) (by [@ShamiWeb3](https://x.com/ShamiWeb3))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case202/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Лондонский модный уличный портрет"></a> |
+
+**Prompt：**
+
+```
+Photorealistic cinematic fashion video set on an elegant London shopping street inspired by Bond Street. A stylish British woman in her late 20s walks confidently past a luxury boutique. She wears gold earrings, a burgundy double-breasted blazer, matching mini skirt, a light blue ruffled silk blouse, a structured dark red leather shoulder bag, and metallic pointed heels. Her chestnut hair is styled in a sleek low bun.
+Her phone rings. She glances at the screen, stops gracefully, and answers. A male voice asks, “Hello there, can you please scan your outfit?” She smiles and replies in a soft British accent, “I guess so.”
+The camera performs a smooth head-to-toe scan, displaying elegant text labels for each outfit item, then ends on a confident editorial pose in front of the boutique window.
+Bright natural sunlight, shallow depth of field, smooth gimbal movement, luxury editorial aesthetic, polished and sophisticated mood, 9:16 vertical, 15 seconds.
+```
+
+<!-- Case 143: Референс для тревел-селфи-портрета (by @linaa_ai) -->
+### Case 143: [Референс для тревел-селфи-портрета](https://twitter.com/linaa_ai/status/2056777746265858158) (by [@linaa_ai](https://x.com/linaa_ai))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case203/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Референс для тревел-селфи-портрета"></a> |
+
+**Prompt：**
+
+```
+Asset type: portrait image for social post
+Primary request: create a photorealistic travel selfie portrait, using the uploaded portrait photo as the appearance reference for the person.
+Scene/backdrop: an open alpine meadow under a vivid blue sky, surrounded overhead by hundreds of colorful Tibetan prayer flags arranged in a circular spiral canopy, with distant green hills and bright daylight.
+Subject: a young woman with the recognizable facial structure, eyes, hairline direction, and natural skin texture from the uploaded portrait photo, wearing a bright cyan outdoor jacket, white hiking pants, a mustard yellow knit beanie, sunglasses resting on the hat, and a backpack.
+Style/medium: ultra-realistic mobile travel photography with a dynamic action-camera feel, crisp but natural detail, lively social-media adventure portrait.
+Composition/framing: vertical 3:4 frame, extreme wide-angle perspective, low-to-high selfie composition, one hand reaching toward the camera in the foreground with strong perspective enlargement, face in the midground, prayer flags forming a colorful radial tunnel above her head, energetic candid smile.
+Lighting/mood: brilliant high-altitude midday sun, visible lens flare near the upper left, sparkling backlight, bright optimistic mood, high clarity, realistic shadows on grass.
+Color palette: saturated cyan, mustard yellow, red, orange, green, white, and sky blue, clean contrast, sunlit alpine freshness.
+Textures/retouching: believable fabric texture, natural skin pores, realistic hair strands, clean optical sharpness on the face, shallow foreground hand blur, small falling snowflakes or white petals crossing the lens.
+Constraints: preserve the person's recognizable appearance from the uploaded portrait photo; no watermark; no logo; no text; no caption; no signature.
+Avoid: plastic beauty-filter skin, over-smoothed face, distorted hands, extra fingers, warped prayer flags, unreadable markings on clothing, artificial CGI look
+
+Negative Prompt：
+
+watermark, logo, text, caption, signature, AI label, brand mark, extra fingers, missing fingers, fused fingers, deformed hands, oversized malformed palm, asymmetrical eyes, crossed eyes, warped face, plastic skin, waxy skin, over-smoothed beauty filter, blurry face, low detail, low resolution, heavy compression artifacts, distorted anatomy, duplicate person, bad perspective, bent flag strings, warped flags, fake CGI look, overexposed face, muddy colors
+```
+
+<!-- Case 144: Ультрареалистичный портрет в стиле смартфона (by @AiwithZohaib) -->
+### Case 144: [Ультрареалистичный портрет в стиле смартфона](https://twitter.com/AiwithZohaib/status/2056835104824312018) (by [@AiwithZohaib](https://x.com/AiwithZohaib))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case204/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ультрареалистичный портрет в стиле смартфона"></a> |
+
+**Prompt：**
+
+```
+Ultra-realistic, almost indistinguishable-from-real close-up portrait in a casual phone photo style.
+
+Use the uploaded image as the identity reference, fully preserving the natural appearance and atmosphere of the same woman.
+The face and overall appearance must remain 100% identical to the reference image, without altering any facial proportions or features.
+
+Do not change:
+
+Lip shape or lip size
+
+Eyes
+
+Nose
+
+Face shape
+
+Overall facial harmony and identity
+
+Full photorealism.
+No AI-generated feeling — it should look like a random candid photo taken on a mobile phone.
+Not a polished glossy beauty shoot, but a natural, slightly imperfect phone snapshot.
+
+Close-up portrait framed to shoulder level.
+Soft and elegant pose.
+Face slightly turned to the side.
+No direct eye contact with the camera — natural sideways gaze.
+Expression calm, natural, almost neutral.
+The image should feel like a spontaneously captured moment rather than a posed photoshoot.
+
+Hair styled in a natural slightly messy updo.
+Face-framing bangs and loose strands around the face.
+A few flyaway hairs and subtle disheveled texture.
+Effortless beauty aesthetic with imperfectly styled hair.
+
+Ultra-natural skin texture with realistic pores and subtle imperfections.
+Soft mobile-phone lighting, realistic shadows, natural tonal range, authentic candid atmosphere.
+
+The overall result should resemble a genuine smartphone portrait captured casually in real life, with cinematic realism and natural feminine elegance.
+```
+
+<!-- Case 145: Портрет в стиле гравюры на дереве (by @zulkarnaimx) -->
+### Case 145: [Портрет в стиле гравюры на дереве](https://twitter.com/zulkarnaimx/status/2056778953273258275) (by [@zulkarnaimx](https://x.com/zulkarnaimx))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case205/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Портрет в стиле гравюры на дереве"></a> |
+
+**Prompt：**
+
+```
+️
+
+Black and white engraved portrait illustration of a person.
+Drawn in classic woodcut / linocut engraving style, high contrast black ink on textured off-white paper background. Fine cross-hatching and line shading to create depth and shadow, bold black ink shadows under chin and around hair, strong contour lines, traditional printmaking aesthetic.
+Minimal composition, centered portrait, no body visible, clean negative space, vintage editorial illustration style, ultra detailed linework, sharp crisp ink strokes, professional vector-ready engraving look, monochrome palette, dramatic contrast.
+Negative Prompt:
+color, watercolor, soft shading, blurred lines, low contrast, realistic photography, 3D render, anime style, cartoon style, messy sketch, thick uneven strokes, background objects, noisy texture, pixelated, distorted face, extra eyes, extra ears, bad anatomy, modern digital painting, glossy skin, overexposed highlights
+```
+
+<!-- Case 146: Лист дизайна 3D-персонажа в стиле Pixar (by @TechieBySA) -->
+### Case 146: [Лист дизайна 3D-персонажа в стиле Pixar](https://twitter.com/TechieBySA/status/2056784334628036676) (by [@TechieBySA](https://x.com/TechieBySA))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case206/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Лист дизайна 3D-персонажа в стиле Pixar"></a> |
+
+**Prompt：**
+
+```
+“Create a Pixar 3D style character design sheet. Clean white background. Two characters side by side with a clean dividing line. Bold brushstroke-style title at the top: PAUL vs THE POLE VAULT. Subtitle beneath: One pole. One shot. Straight up.
+LEFT SIDE — PAUL
+Large name in bold black. Underneath: "The bar was never the problem."
+Hero portrait — Paul isolated on clean white. No background. Pixar 3D man, mid 20s, lean athletic build, electric blue athletics vest with thin gold stripe on shoulder, white shorts, white spikes with electric blue detail. Focused determined expression. Holding a long silver pole horizontally in both hands, slightly crouched forward. Just Paul on white.
+Three poses beneath:
+
+Full sprint down the runway, pole angled forward low, eyes locked ahead, every muscle firing.
+Inverted at full height — body perfectly upside down, pole bent at maximum flex, toes pointed straight at the sky.
+Landing in the pit, arms raised, head turned back to check the bar. Pure joy.
+
+SPEED ████████░░ Enough to get airborne
+COURAGE ██████████ Required at that height
+GRIP ██████████ Non negotiable
+HEIGHT CLEARED █████████░ Still climbing
+HEART RATE AT PEAK ██████████ Do not check
+RIGHT SIDE — THE POLE VAULT
+Large name in bold black. Underneath: "It has never missed. Only the athlete does."
+Hero portrait — the pole vault apparatus isolated on clean white. Tall yellow standards, bright red crossbar at full height, blue crash mat below. Still. Imposing. Just the apparatus on white.
+Three poses beneath:
+
+Bar sitting perfectly still on the standards. Unbothered. Waiting.
+Bar shaking mid-vault as Paul's body passes over — millimeters of clearance.
+Bar still. Settled. Unmoved. It was never going anywhere.
+
+HEIGHT ██████████ Non negotiable
+REMORSE ░░░░░░░░░░ It is a bar. It does not come down for anyone.
+BOTTOM STRIP — five cinematic close-up panels bleeding into each other, some transparent, no hard boxes:
+Paul's white spikes on the red rubber runway surface, pole tip visible at the edge · Silver pole at maximum bend, pure white background, nothing else · Extreme close-up of Paul's face — jaw set, eyes locked forward, pure focus, sweat visible · Paul fully inverted against bright blue sky, body horizontal, red bar inches from his chest · Paul's hands releasing the pole mid-air, arms exploding upward, pure joy, crowd blur behind him
+THE POLE BENDS. THE BAR STAYS. PAUL DOES NOT KNOW HOW.
+STYLE NOTES: Pixar 3D vivid rendering. Clean white background on both character sides. Electric blue stat bars throughout. Bottom strip cinematic and tight — close-ups bleeding into each other with transparent edges like a film production sheet, not boxed panels with full backgrounds. Paul identical across all poses. Maximum brightness and color throughout.”
+```
+
+<!-- Case 147: Бьюти-портрет богини матча (by @NyaiiBubu) -->
+### Case 147: [Бьюти-портрет богини матча](https://twitter.com/NyaiiBubu/status/2056817669668737442) (by [@NyaiiBubu](https://x.com/NyaiiBubu))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case207/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Бьюти-портрет богини матча"></a> |
+
+**Prompt：**
+
+```
+👇 
+
+ultra realistic surreal beauty editorial portrait, matcha goddess aesthetic, ethereal asian woman with glossy dewy skin, face covered in dripping liquid matcha cream, surreal cosmetic food fusion, floating matcha cubes, matcha powder particles, green tea mousse textures, edible haute couture, cinematic luxury skincare campaign, dreamy fantasy atmosphere, glowing olive green tones, wet reflective skin, delicate floral accents, suspended droplets, gold flakes, soft volumetric lighting, macro beauty photography, shallow depth of field, highly detailed skin texture, elegant feminine pose, luxury fashion editorial, surreal dessert inspired composition, artistic liquid dynamics, photorealistic, cinematic bokeh background, ultra detailed, 8k, soft glow, clean composition, no text, no logo, no product packaging, vertical 9:16
+```
+
+<!-- Case 148: Снимок LCD-экрана винтажной камеры (by @ZaraElira4) -->
+### Case 148: [Снимок LCD-экрана винтажной камеры](https://twitter.com/ZaraElira4/status/2056786815978524772) (by [@ZaraElira4](https://x.com/ZaraElira4))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case208/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Снимок LCD-экрана винтажной камеры"></a> |
+
+**Prompt：**
+
+```
+A realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a young East Asian woman with long dark wavy hair standing beside a wooden shelf packed tightly with colorful comic books and magazines.
+
+She wears a black spaghetti-strap top with a loose white cardigan hanging casually from both shoulders and faded blue jeans. Captured mid-laugh while turning her face slightly sideways, her expression feels spontaneous and natural, with hair falling softly across part of her cheek.
+
+The harsh direct flash from the compact camera creates strong highlights on her face and cardigan while flattening shadows in the background, producing an authentic nostalgic digicam aesthetic. Slight motion blur and digital grain enhance the candid realism.
+
+Camera UI overlays are visible across the LCD screen, including the timestamp “8. 1. 2012 3:15 AM,” exposure data “1/30 F3.4 ISO 100,” focus indicators, and a small green battery symbol in the corner.
+
+The image preserves visible screen pixel structure, slight glare reflections, chromatic softness, and compressed digital texture. Outside the LCD, the surrounding darkness fades smoothly into blur, emphasizing the glowing nostalgic screen.
+
+Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
+```
+
 
 ## 🎨 Poster & Illustration Cases
 
@@ -2450,6 +2702,129 @@ Create an ultra-premium editorial travel infographic poster about FRANCE in a cl
 for GPT-2:
 Create a single image storyboard with 9 cinematic frames arranged in a  3×3 grid. Each frame is a widescreen 16:9 panel with a film aspect ratio  letterbox. Style: ultra-cinematic sci-fi blockbuster mixed with premium  airline commercial. Think Blade Runner 2049 color grading meets a UEFA  Champions League broadcast opener meets a luxury brand TVC.
 ```
+
+<!-- Case 223: Винтажный пивной рекламный постер 1960-х (by @Goodmanprotocol) -->
+### Case 223: [Винтажный пивной рекламный постер 1960-х](https://twitter.com/Goodmanprotocol/status/2056791983717503015) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case293/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Винтажный пивной рекламный постер 1960-х"></a> |
+
+**Prompt：**
+
+```
+Authentic 1960s American advertising poster for [BREW], vintage mid-century commercial illustration, [PERSON DESCRIPTION] holding a frosty glass bottle of [BREW], bright optimistic lifestyle scene, nostalgic Americana atmosphere, bold [COLOR 1] and [COLOR 2] color palette, elegant retro typography, the text “[BREW]” prominently integrated into the poster design, authentic screen print texture, subtle paper grain, hand-painted illustration style, vintage Madison Avenue advertising aesthetic, clean composition, highly detailed, warm cinematic lighting, premium poster design, authentic 1960s print imperfections, painterly realism, soft brushwork, vertical composition 4:5
+```
+
+<!-- Case 224: Кинематографичный питч-борд режиссёра (by @Mind_Boticni) -->
+### Case 224: [Кинематографичный питч-борд режиссёра](https://twitter.com/Mind_Boticni/status/2056793598243553464) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case294/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Кинематографичный питч-борд режиссёра"></a> |
+
+**Prompt：**
+
+```
+A premium director’s pitch presentation board for a high-budget cinematic production, showcasing a single, grounded human character with intense emotional readability and natural imperfections. The layout is art-directed and organically asymmetrical, avoiding rigid grids. Features a fluid, narrative full-body turnaround (capturing the character mid-stride across front, 3/4, profile, and rear views), detailed candid head studies expressing internal conflict, and a sweeping cinematic close-up portrait with dramatic Rembrandt lighting. Includes integrated texture macro-crops (weathered leather, realistic skin pores, distressed linen), minimalist production annotations, and an organic height scale. Shot on 35mm anamorphic, shallow depth of field, muted color grading, ultra-realistic textures, strict character and wardrobe consistency throughout.
+```
+
+<!-- Case 225: Вирусный постер-инфографика о еде (by @amynys) -->
+### Case 225: [Вирусный постер-инфографика о еде](https://twitter.com/amynys/status/2056779657987387784) (by [@amynys](https://x.com/amynys))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case295/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Вирусный постер-инфографика о еде"></a> |
+
+**Prompt：**
+
+```
+Create a cinematic viral-style food poster for “Prediabetic Friendly Strawberry Cheesecake Overnight Oats” in a clean modern infographic aesthetic inspired by trendy TikTok and Pinterest recipe posters.
+
+The poster should feature a large realistic mason jar filled with creamy strawberry cheesecake overnight oats layered with visible chia seeds, sliced strawberries around the inside glass, a thick cheesecake yogurt layer on top, fresh strawberries, and crushed walnuts. The oats should look ultra creamy, indulgent, healthy, and photorealistic with soft natural lighting and shallow depth of field.
+Use a soft pink, cream, and white color palette with bold typography.
+The design should feel premium, feminine, modern, healthy, and social-media viral.
+
+Main headline in large stylish text:
+“STRAWBERRY Cheesecake OVERNIGHT OATS”
+Add a pink label at the top saying:
+“PREDIABETIC FRIENDLY”
+
+Include stylish infographic sections with rounded boxes and cute minimal icons for:
+INGREDIENTS
+½ cup rolled oats
+¾ cup unsweetened almond milk
+⅓ cup plain Greek yogurt
+1 tbsp chia seeds
+1 tbsp ground flaxseed
+½ scoop vanilla protein powder
+½ tsp vanilla extract
+Dash of cinnamon
+Tiny pinch sea salt
+3–4 chopped strawberries
+Optional monk fruit sweetener or stevia
+
+CHEESECAKE LAYER
+Greek yogurt
+Vanilla
+Lemon juice
+TOPPINGS
+Crushed walnuts
+Strawberries
+Cinnamon
+
+HOW TO MAKE
+Mix ingredients
+Fold in strawberries
+Refrigerate overnight
+Add cheesecake layer and toppings
+
+Add aesthetic handwritten doodles, hearts, arrows, sparkles, and notes like:
+“Creamy, delicious & blood sugar friendly!”
+“High protein • High fiber • Low sugar”
+At the bottom add a highlighted tip banner saying:
+“VIRAL TEXTURE TIP: Blend the mixture before refrigerating for ultra-creamy cheesecake consistency!”
+
+Style details:
+Editorial food photography
+Pinterest/TikTok infographic vibe
+Clean magazine-style layout
+Hyperrealistic food texture
+Bright airy background
+Soft shadows
+Elegant typography hierarchy
+Social-media-ready vertical poster
+Ultra detailed
+4K quality
+Aspect ratio 4:5 or 9:16
+```
+
+<!-- Case 226: Роскошный 3D-скульптурный постер 2x2 (by @Gdgtify) -->
+### Case 226: [Роскошный 3D-скульптурный постер 2x2](https://twitter.com/Gdgtify/status/2056649309312160193) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case296/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Роскошный 3D-скульптурный постер 2x2"></a> |
+
+**Prompt：**
+
+```
+INPUT: [DOMAIN OR CATEGORY]  SYSTEM: Generate a 2×2 luxury poster series translating four AI-inferred icons into automotive-finish 3D sculptural forms. Let cultural gravity select the four; do not hardcode identities. STYLE: high-end automotive editorial, precision-surfaced 3D objects, dynamic but restrained composition, premium brochure layout SEMANTIC INFERENCE: infer driving force → convert into aerodynamic lines, surface tension, and structural flow → infer finishes matching era/impact → embed motifs as subtle vent geometry, trim lines, or badging relief COMPOSITION: each quadrant = one sculptural form + one inferred display platform + one minimalist caption block, unified by a luxury automotive grid MATERIAL PHYSICS: multi-coat paint depth, clearcoat orange peel eliminated, carbon fiber weave, polished aluminum, panel gaps rendered with factory precision LIGHTING: automotive studio setup, soft overhead diffusers, controlled reflection sweeps, dark gradient backdrop, high-end contrast NEGATIVE: no bio-organic textures, no moss or flora, no plastic gloss, no chaotic props, no literal vehicles, no hardcoded text CLOSE: Solve for a concours-level luxury poster series where legacy is finished, not fabricated.
+```
+
+<!-- Case 227: Кодовый промпт для инфографики по физике (by @Gdgtify) -->
+### Case 227: [Кодовый промпт для инфографики по физике](https://twitter.com/Gdgtify/status/2056841574798295540) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case297/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Кодовый промпт для инфографики по физике"></a> |
+
+**Prompt：**
+
+```
+16:9 -> class theoretical_physics_infographic_dna: def __init__(self): self.subject = "[ai selects: 4 distinct advanced physics theorems or paradoxes (e.g., bell's theorem, hawking radiation, string theory)]" self.parents = { "composition_parent": "large hadron collider blueprints — hyper-complex radial symmetry, intersecting particle beam rings, millimeter-precise drafting", "atmosphere_parent": "deep space observatory photography — pitch black voids, glowing ultraviolet radiation, high-contrast laser illumination", "graphic_parent": "chalkboard maximalism — elegant, dense mathematical notation floating as glowing white vectors", "detail_parent": "victorian brass optical instruments — finely milled prisms, glass lenses, and mirrored refraction planes" } self.mutations = { "medium_mutation": "the mathematical formulas solidify into glowing, three-dimensional glass sculptures bending the light around them", "information_mutation": "particle collision tracks are woven like fine gold thread through the dark background", "semantic_mutation": "the invisible physical law is rendered as a massive, tangible, gravitational machine distorting the grid of the poster itself" } def generate_grid(self): instruction = """ generate a 2x2 grid of vertical luxury infographic posters giving physical form to the chosen [subject]s. invent a magnificent scientific machine or optical diorama for each. explode the layers to show quantum states, gravitational warping, equations, and subatomic scale. the design must feel like a classified schematic from a hyper-advanced, aesthetically obsessed civilization. semantic inference must make the invisible laws of physics breathtakingly visible. """ return render( instruction, format="2x2 grid, vertical luxury posters, conceptual scientific infographic", typography=""" large title: [name of theorem/paradox] subtitle: [the physicist / the era] microtext: [the core equation / metric tensor / explanatory blazon] """, composition="strict radial or gravitational-well symmetry. razor-sharp fine lines contrasting with deep voids.", lighting="harsh, clinical laser light interacting with pure optical glass and vantablack.", constraints="no cartoon atoms, no clip-art planets, no messy chalkboards. only pristine, museum-grade scientific aesthetic." )
+```
+
 
 ## 🧍 Character Design Cases
 

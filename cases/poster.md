@@ -5621,3 +5621,429 @@ Create a high-impact professional basketball poster design for a fictional live 
 把我生成这张照片女主角的角色卡片：包含正面侧面背面三视图，以及多表情面部特写，和手部不同动作的特写，保持女主角的外貌发型身材服饰气质完全不变
 ```
 
+
+### Case 308: Luxury Garden Pitch Deck Storyboard
+
+**Source**: [@Strength04_X](https://x.com/Strength04_X/status/2058423104444239926)
+
+**Prompt**:
+```
+Create a high-end 4:3 luxury garden pitch deck storyboard in 3x4 grid (12 frames), editorial layout, Bamford/Daylesford style, meadow green + weathered iron palette. Visual narrative from soil and seed to bloom and harvest. Include premium gardening lifestyle scenes, product closeups, greenhouse textures, botanical mood, elegant whitespace, art-directed sequencing, and upscale brand presentation suitable for a luxury garden brand pitch deck.
+```
+
+**Output**:
+
+<img src="../images/poster_case308/output.jpg" width="500">
+
+---
+
+### Case 309: Retro Music Festival Pop Poster
+
+**Source**: [@AvelyrahnAI](https://x.com/AvelyrahnAI/status/2058545998440624282)
+
+**Prompt**:
+```
+RETRO MUSIC FESTIVAL POP POSTER SYSTEM
+
+INSTRUCTIONS:
+Transform the UPLOADED USER IMAGE into a premium retro-pop music festival campaign poster while preserving the person/object identity from the uploaded image.
+
+The uploaded image becomes the MAIN HERO SUBJECT of the poster.
+
+If the uploaded image contains:
+
+a person → transform them into a charismatic retro music/festival icon
+
+a musician → enhance into premium editorial concert aesthetic
+
+a fashion portrait → convert into festival campaign styling
+
+a casual portrait → elevate into high-energy retro entertainment branding
+
+an object/product → stylize into bold retro-pop campaign centerpiece
+
+IMPORTANT:
+Preserve the uploaded subject identity, pose energy, and recognizable facial/object features while transforming the overall aesthetic into a luxury retro festival poster.
+
+STYLE & ART DIRECTION:
+Retro-pop editorial aesthetics,
+festival campaign visuals,
+bold entertainment branding,
+vibrant social-media poster design,
+modern music-culture advertising,
+editorial concert-poster styling,
+playful graphic composition,
+Pinterest-trending entertainment visuals,
+Behance-level music branding aesthetics.
+
+MAIN SUBJECT TRANSFORMATION:
+The uploaded image subject transformed into:
+charismatic retro-pop festival personality,
+editorial concert-fashion styling,
+confident expressive energy,
+high-detail fashion realism,
+bold personality-focused presentation,
+retro-modern celebrity atmosphere,
+stylized entertainment campaign look.
+
+WARDROBE & STYLING:
+Colorful retro fashion pieces,
+vintage-inspired streetwear,
+festival accessories,
+round tinted sunglasses,
+layered jewelry,
+bold expressive styling,
+retro-pop textures and patterns,
+fashion-editorial concert styling.
+
+LAYOUT & COMPOSITION:
+Preserve the SAME premium poster structure:
+
+massive typography behind uploaded subject
+
+layered portrait overlap composition
+
+abstract colorful splash background
+
+floating micro-copy editorial elements
+
+asymmetrical spacing rhythm
+
+premium magazine-st
+```
+
+**Output**:
+
+<img src="../images/poster_case309/output.jpg" width="500">
+
+---
+
+### Case 310: Universal Luxury Brand Poster
+
+**Source**: [@Naiknelofar788](https://x.com/Naiknelofar788/status/2058543808011534772)
+
+**Prompt**:
+```
+Ultra-stylized futuristic brand campaign poster inside a premium flagship store or branded experience studio, cinematic fisheye lens perspective, young fashion-forward model extending the brand’s signature product/object directly toward the camera in extreme foreground, dramatic depth distortion, confident luxury lifestyle aesthetic.
+
+Second model standing beside them with minimal expressive pose, both wearing modern branded streetwear or premium fashion inspired by the brand identity. Hyper-realistic interior environment filled with the brand’s products, accessories, design elements, ambient lighting, and visual merchandising.
+
+Large bold curved brand typography wrapping around the top of the composition, vintage cream textured poster background mixed with futuristic graphic elements, minimal Swiss-style editorial layout, subtle orbit lines, blueprint graphics, UI-inspired technical accents, clean luxury branding aesthetic.
+
+Reflective chrome circular bubble or glass sphere framing the main scene, premium commercial photography style, wide-angle fisheye distortion, sharp focus on foreground object, shallow depth of field, cinematic shadows, glossy reflections, ultra detailed textures.
+
+Color palette adapted to the brand identity colors with balanced modern contrast.
+Style inspired by luxury editorials, high-end fashion campaigns, futuristic advertising posters, retro-futurism, and premium commercial branding.
+
+Shot on 14mm fisheye lens, ultra realistic, highly detailed, 8k quality, dramatic composition, polished typography integration, fashion magazine aesthetic, collectible poster design.
+```
+
+**Output**:
+
+<img src="../images/poster_case310/output.jpg" width="500">
+
+---
+
+### Case 311: Football Victory Poster
+
+**Source**: [@OrhanGhazi65942](https://x.com/OrhanGhazi65942/status/2058482055336579127)
+
+**Prompt**:
+```
+Ultra-detailed sports poster design featuring multiple dynamic versions of a football player in a yellow Al Nassr football kit, celebrating victory. One giant side-profile screaming portrait in the background, surrounded by action poses: standing confidently, dribbling, trophy celebration, knee-slide celebration, and mid-air football action. Dark blue and golden cinematic background with glowing triangular light effects, dramatic stadium atmosphere, dust particles, high contrast lighting, realistic skin texture, ultra sharp focus, vibrant yellow and blue color grading, epic sports photography style, highly detailed jersey fabric, glowing highlights, depth of field, professional poster composition, bold typography saying “VICTORY” at the top, realistic football trophy in the foreground, energetic and emotional mood, 4K, hyper-realistic, cinematic sports poster art.
+```
+
+**Output**:
+
+<img src="../images/poster_case311/output.jpg" width="500">
+
+---
+
+### Case 312: 3D Travel Typography Poster
+
+**Source**: [@Sheldon056](https://x.com/Sheldon056/status/2058564258007539770)
+
+**Prompt**:
+```
+Create a 3:2 premium 3D typography-based travel poster for [New York], using luxury editorial destination advertising fused with realistic sculptural letterform architecture.
+
+The city name “[New York]” must be the dominant subject, occupying most of the canvas. Build the letters as large, realistic, three-dimensional sculptural forms made from glossy painted material, polished ceramic, soft plaster, carved stone, sunlit architectural surfaces, or city-adaptive materials. Each letter should physically transform into the city’s identity: landmarks, skyline silhouettes, arches, towers, domes, bridges, windows, balconies, cultural patterns, coastal forms, or street details must grow directly out of the letterforms.
+
+Landmarks should feel architecturally integrated, not pasted behind or around the word. A tower may rise from a vertical stem, a bridge may connect two letters, a dome may form the curve of a rounded letter, rooftops may shape the top edges, and windows or ornamental details may be embedded into the letter faces.
+
+Use a low-angle three-quarter camera view so the typography feels monumental, cinematic, premium, and friendly. Place the 3D city-name sculpture slightly low in the frame, filling the central and lower portions of the poster, with generous negative space above.
+
+At the top header, add a refined horizontal row of faded landmark symbols related to the city: tiny vector icons, or translucent architectural glyphs. Keep them very soft, elegant, and secondary, like premium magazine header details.  Add each landmark name below its icon. Keep all faded and premium.
+
+Remove any visible sun from the top-left corner. Use bright natural daylight with a soft key light from the upper-left, gentle fill light, clean highlights, subtle ambient occlusion, and soft contact shadows beneath the letters. The lighting should feel cheerful, fresh, and editorial, not dark or overly cinematic.
+
+Use a bright city-adaptive palette based on [New York]: coastal cities use aqu
+```
+
+**Output**:
+
+<img src="../images/poster_case312/output.jpg" width="500">
+
+---
+
+### Case 313: Bangkok 3D Travel Poster
+
+**Source**: [@kingofdairyque](https://x.com/kingofdairyque/status/2058523997055160797)
+
+**Prompt**:
+```
+3D photorealistic travel poster for Bangkok, vertical layout, bright sunny day with clear blue sky and soft clouds.
+
+Main focus: The word 'BANGKOK' formed from giant, ornate 3D letters standing on a waterfront. Each letter is designed like Thai architecture and decorated with gold, blue, pink, and green patterns, mosaic tiles, and temple details. 
+- 'B' contains a miniature golden Thai temple spire and blue floral mosaic
+- 'A' is shaped like a white and gold temple gateway with a small archway
+- 'N' has gold statues and green tilework
+- 'G' frames a small traditional Thai pavilion
+- 'K' on the left has a large ornate guardian demon statue in front
+- 'O' is circular with blue and white mosaic, showing a temple inside
+- 'K' on the right has intricate gold filigree patterns
+
+Details: An elevated skytrain runs through the letters, palm trees and pink flowering trees surround the base, a traditional long-tail boat floats on the water in the foreground, and modern city skyline is visible in the background.
+
+Text layout:
+- Top center: Small text 'DESTINATION SERIES' with 6 faint line art icons of Bangkok landmarks above it
+- Bottom center: 'VISIT BANGKOK' in bold gold letters, subtitle 'TIMELESS CULTURE. VIBRANT ENERGY. ENDLESS DISCOVERY.'
+- Bottom left: 'BANGKOK / 01'
+- Bottom center: Coordinates '13.7563° N, 100.5018° E'
+- Bottom right: 'ISSUE NO. 2025'
+
+Style: Hyperrealistic 3D rendering, vibrant colors, high detail, travel advertisement aesthetic, blend of architecture and typography, luxurious and cultural mood.
+```
+
+**Output**:
+
+<img src="../images/poster_case313/output.jpg" width="500">
+
+---
+### Case 314: Roland Garros Tennis Trailer
+
+**Source**: [@egeberkina](https://x.com/egeberkina/status/2059311137808675128)
+
+**Prompt**:
+```
+Ultra cinematic 15-second tennis commercial for Roland Garros 2026. Hand-drawn ink-and-marker illustration aesthetic mixed with dynamic modern sports animation. Deep navy shadows, saturated clay orange courts, rough sketch textures, imperfect pen strokes, paper grain, energetic scribble motion lines. Every frame feels like an animated editorial sports illustration brought to life. Includes a full 0:00 to 0:15 shot flow with VFX, SFX, music direction, style references, and negative style constraints (not anime, not Pixar, not clean vector art).
+```
+
+**Output**:
+
+<img src="../images/poster_case314/output.jpg" width="500">
+
+---
+### Case 315: Papercut Chibi Diorama
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2059317825026904533)
+
+**Prompt**:
+```
+Cute layered paper-cut art style illustration of a chibi girl with big expressive eyes and long wavy black hair, designed like a 3D sticker character with a white outline border. The scene is made entirely from textured pastel paper craft layers with soft shadows and handcrafted details. Cozy whimsical environment with wooden bridges, colorful flowers, trees, clouds, amusement park elements, festival kites, and cute outdoor scenery. Soft pastel color palette, dreamy atmosphere, miniature diorama aesthetic, ultra-detailed paper texture, kawaii cartoon style, cinematic composition, depth layered papercraft, handcrafted scrapbook look, adorable fashion outfit, oversized shoes, playful pose, warm lighting, storybook fantasy vibe, highly detailed 3D paper illustration.
+```
+
+**Output**:
+
+<img src="../images/poster_case315/output.jpg" width="500">
+
+---
+### Case 317: Eagle vs Lion Stadium Clash
+
+**Source**: [@guicastellanos1](https://x.com/guicastellanos1/status/2059304406290505820)
+
+**Prompt**:
+```
+A colossal, highly detailed, realistic anthropomorphic Sun Eagle representing Argentina and a massive muscular anthropomorphic Golden Lion representing England. The Eagle wears the classic Argentina national football team jersey with sky-blue and white vertical stripes. The Lion wears the classic England white football kit with a red crest. Dramatic wide shot from a low angle, looking up at the two massive beasts facing off on a rain-slicked stadium pitch under bright realistic floodlights. Packed world-class football stadium at night, realistic turf, detailed seating, volumetric haze. Photorealistic sports photography mixed with cinematic fantasy, sharp details, natural skin and feather textures, highly detailed fabrics, dynamic rim lighting, lens flares, shallow depth of field, natural color grading with dramatic shadows.
+```
+
+**Output**:
+
+<img src="../images/poster_case317/output.jpg" width="500">
+
+---
+
+---
+### Case 318: Original Anime Dev Board
+
+**Source**: [@HeyAbhishek](https://x.com/HeyAbhishek/status/2060726266182148343)
+
+**Prompt**:
+```
+Create a single vertical anime animation development board for an original emotional short film titled “The Girl and the Paper Boat”.
+The output must be ONE combined image containing:
+1. an anime character design sheet
+2. a cinematic storyboard page
+IMPORTANT:
+Create fully original anime characters.
+Do not imitate Studio Ghibli characters directly.
+Do not resemble any copyrighted anime characters.
+Keep the designs unique, soft, nostalgic, and emotionally warm.
+STYLE:
+Premium anime pre-production board.
+Mix loose hand-drawn storyboard sketches with beautiful semi-rendered anime keyframes.
+Use soft watercolor-style anime lighting, warm sunset colors, gentle shadows, red storyboard borders, blue motion arrows, handwritten production notes, timing notes, and lens notes.
+The board should feel like a real anime studio planning sheet.
+LAYOUT:
+Clean vertical composition with 2 sections.
+SECTION A — CHARACTER DESIGN SHEET
+Girl:
+A gentle anime girl with soft dark hair tied in a loose short ponytail, warm brown eyes, soft round facial features, and a peaceful expression.
+She wears:
+- a light cream summer blouse
+- a faded sky-blue skirt
+- white socks
+- simple brown shoes
+- a small cloth shoulder bag
+She should feel:
+quiet, kind, nostalgic, peaceful, emotionally warm.
+Show:
+- front view
+- side profile
+- back view
+- 3/4 angle
+- expressions: thoughtful, soft smile, emotional, calm
+- pose holding a folded paper boat
+- pose kneeling by a pond
+- pose sitting beside the cat
+Cat:
+A tiny fluffy orange-and-white village cat with soft fur, big expressive eyes, tiny paws, and a curious innocent look.
+The cat should feel:
+curious, playful, comforting, peaceful.
+Show:
+- front view
+- side profile
+- back view
+- 3/4 angle
+- expressions: curious, playful, sleepy, trusting
+- sitting pose
+- pawing at paper boat pose
+- curled resting pose beside the girl
+Add tiny handwritten notes and soft pastel anime color swatches.
+SECTION B — STORYBOARD
+Create 8 cinematic anime storyboard panels arranged in a neat grid.
+Keep character designs consistent across all panels.
+Each panel should include handwritten camera notes, blue motion arrows, timing notes, and lens notes.
+STORY BEATS:
+1. Wide shot of a peaceful old anime village on a mountain at golden hour, with a pond in the foreground and the whole village visible below.
+2. The girl sits beside the pond folding a paper boat while a tiny cat watches beside her.
+3. Close-up of the girl gently placing the paper boat onto the still pond water.
+4. The paper boat begins floating slowly across the pond, creating soft ripples.
+5. The cat walks along the pond edge and reaches a paw toward the floating paper boat.
+6. The girl smiles softly while watching the cat play near the boat.
+7. The girl sits quietly with the cat beside her as they watch the paper boat drift across the pond.
+8. Wide emotional ending shot from the mountain viewpoint showing the girl and cat near the pond, with the full old village below, warm sunset light, and a peaceful nostalgic atmosphere.
+ENVIRONMENT:
+Old anime mountain village.
+Visible village rooftops and narrow streets below.
+Small quiet pond near the mountain edge.
+Stone path.
+Wooden fences.
+Soft grass.
+Warm golden sunset.
+Gentle breeze.
+Peaceful nostalgic countryside atmosphere.
+FINAL GOAL:
+Make this feel like a beautiful emotional anime film development board with calm old-village nostalgia, peaceful healing energy, and cinematic storytelling.
+```
+
+**Output**:
+
+<img src="../images/poster_case318/output.jpg" width="500">
+
+---
+### Case 319: Minimalist Automotive Poster Template
+
+**Source**: [@harboriis](https://x.com/harboriis/status/2060905652726427740)
+
+**Prompt**:
+```
+Create a premium minimalist automotive poster for [CAR NAME / MODEL], inspired by luxury editorial car advertisements.
+
+Use a clean vertical 9:16 Instagram Reels/Story composition with a bold solid color background in [BACKGROUND COLOR]. The background color should match the car's personality, brand identity, era, and mood.
+
+Place the car as the main subject in the lower-middle area. The car should look realistic, premium, sharp, glossy, and detailed, with accurate proportions, clean reflections, crisp edges, studio-quality lighting, and a natural shadow under the vehicle.
+
+Behind the car, add huge oversized typography showing the car model name: "[BIG WORD]".
+
+Typography Direction:
+
+Choose a typography style that matches the personality, era, and design language of the car. Do not use the same tall bold font every time.
+
+Randomly select or intelligently choose one typography style:
+
+Tall condensed bold font for luxury sedans, SUVs, and classic premium cars
+
+Wide futuristic font for hypercars, EVs, and concept cars
+
+Aggressive sharp angular font for sports cars and performance cars
+
+Retro serif or vintage poster font for classic cars
+
+Elegant thin luxury serif font for premium luxury cars
+
+Creative cursive/script font for stylish lifestyle cars or heritage editions
+
+Glitch/distorted digital font for cyberpunk, electric, futuristic, or modified cars
+
+Rugged industrial stencil font for off-road SUVs and adventure vehicles
+
+Racing decal-style typography for track cars, rally cars, and supercars
+
+Minimal clean geometric sans-serif for modern EVs and clean luxury cars
+
+The large background typography should feel unique to the car, not generic.
+
+It may be oversized, stretched, stacked, angled, partially cropped, transparent, outlined, embossed, shadowed, layered, or blended into the background depending on the car theme.
+
+Add small spaced-out brand text at the top: "[BRAND NAME]". Keep enough empty space at the top and sides for a clean premium layout.
+
+Style: luxury automotive poster, minimalist editorial layout, high-end car magazine aesthetic, realistic car render, clean shadow, bold color contrast, premium typography, no extra objects, no people, no clutter.
+
+Aspect ratio: 9:16
+```
+
+**Output**:
+
+<img src="../images/poster_case319/output.jpg" width="500">
+
+---
+### Case 320: Watercolor European Travel Poster
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2060938882146082935)
+
+**Prompt**:
+```
+Elegant European city street travel poster, delicate watercolor and ink sketch illustration, hand-drawn architectural linework, soft pastel washes, urban streetscape with historic buildings, charming cafés, pedestrians strolling, outdoor terraces, detailed balconies, trees and flower boxes, loose expressive brushstrokes, architectural journal sketch style, travel diary aesthetic, white paper texture, minimal background, subtle paint splashes, fine pen outlines, sophisticated composition, light and airy atmosphere, vintage travel book illustration, high-detail watercolor rendering, muted earthy palette, European old-town charm, artistic perspective drawing, editorial illustration, premium stationery art, museum-quality watercolor, clean negative space, handwritten calligraphy title at the top, elegant typography, travel magazine cover design, masterpiece, ultra-detailed, 8k.
+```
+
+**Output**:
+
+<img src="../images/poster_case320/output.jpg" width="500">
+
+---
+### Case 321: Surreal Inner Self Editorial Poster
+
+**Source**: [@Sheldon056](https://x.com/Sheldon056/status/2060921933550817712)
+
+**Prompt**:
+```
+A hyper-realistic young man sitting inside the open cavity of a massive realistic human chest sculpture shaped like himself. The chest is hollow like a room, with soft fabric textures and dim ambient light inside. He wears cream cargo pants, a fitted white tank top, and vintage sneakers, staring downward thoughtfully.
+
+Background is an empty matte gray studio with lots of negative space.
+
+Typography:
+
+* Thin handwritten text: “I KEEP SEARCHING”
+* Huge stretched typography: “MYSELF”
+* Smaller type underneath: “BUT EVERY DOOR LEADS BACK TO ME”
+
+Soft moody lighting, introspective atmosphere, luxury fashion campaign style, surreal emotional storytelling, ultra detailed, 8k realism. Generate
+```
+
+**Output**:
+
+<img src="../images/poster_case321/output.jpg" width="500">
+
+
+---

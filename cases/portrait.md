@@ -4185,3 +4185,262 @@ Scene/backdrop: Incheon airport observation deck near a glass wall, pale runway 
 Wardrobe: oversized crisp white shirt loosely open at collar, light wash denim shorts, white sneakers.
 ```
 
+
+### Case 247: Monochrome Editorial Comp Card
+
+**Source**: [@MissDelulu9](https://x.com/MissDelulu9/status/2058484459008393346)
+
+**Prompt**:
+```
+Ultra-realistic monochrome 3x3 editorial comp card using the reference image as the identity source. Preserve the exact same facial features, face shape, eye shape, nose, lips, skin texture, hairstyle, proportions, and natural beauty. No beautification, no face alteration, no AI-looking skin, no reshaping. Same woman in all 9 frames with consistent identity and styling.
+
+Minimal luxury studio aesthetic, soft diffused lighting, clean light gray background, high-fashion Korean beauty editorial vibe, ultra detailed realistic skin texture, natural makeup, glossy lips, deep black silky long hair, black sleeveless halter top, delicate silver necklace.
+
+3x3 grid layout with evenly spaced portrait frames. Each frame shows a different expression and hand pose:
+1-looking sideways while lightly biting finger
+2-side glance with hand touching temple
+3-confident direct gaze with relaxed lips
+4-playful expression holding lollipop near lips
+5-soft gentle smile looking at camera
+6-wink smile with both hands in hair
+7-pout lips with both hands framing face
+8-thoughtful side glance with finger near lips
+9-warm elegant smile with slight head tilt
+
+Photorealistic DSLR quality, Vogue beauty shoot style, soft shadows, balanced composition, monochrome black-and-white tone with subtle warm grayscale contrast, extremely sharp eyes, realistic hair strands, premium editorial photography, symmetrical comp card design, clean borders, cinematic beauty lighting, 8k ultra detailed.
+```
+
+**Output**:
+
+<img src="../images/portrait_case247/output.jpg" width="500">
+
+---
+
+### Case 248: Watercolor City Slice-of-Life
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2058550413239235018)
+
+**Prompt**:
+```
+Soft watercolor anime illustration of a cute girl exploring peaceful city landscapes with her small puppy and cat companion, cozy slice-of-life aesthetic, pastel watercolor palette, gentle hand-painted textures, dreamy sketchbook art style, warm sunlight and soft clouds, charming urban riverside picnic scene, quiet Japanese-style street with glowing café lights and murals, cherry blossom lake view with modern skyline, peaceful stone canal walkway with greenery and bridges, adorable anime-inspired girl with fluffy sweater, denim overalls or skirt, small backpack, rosy cheeks and soft wavy hair, whimsical Ghibli-inspired atmosphere, calming everyday life moments, cozy travel diary vibe, highly detailed watercolor brush strokes, delicate ink outlines, nostalgic and heartwarming mood, soft cinematic composition, storybook illustration style, minimal pastel tones, peaceful nature and city harmony, ultra aesthetic anime background art, handmade watercolor paper texture, wholesome companionship theme, 8k
+```
+
+**Output**:
+
+<img src="../images/portrait_case248/output.jpg" width="500">
+
+---
+
+### Case 249: CGI Big-Head Caricature Portrait
+
+**Source**: [@AIwithSynthia](https://x.com/AIwithSynthia/status/2058584818913513717)
+
+**Prompt**:
+```
+Create a photorealistic CGI caricature of the person in the uploaded image, using the uploaded image as the sole and complete visual source for clothing, accessories, pose, colors, and overall appearance. Preserve the person’s exact identity, facial features, age cues, skin tone, hair, beard, and likeness, while transforming them into a realistic caricature with a slightly oversized head, compact body, and subtly shortened proportions. The result must look like a real human recreated as high-end photoreal CGI, not a toy, not Pixar, not vinyl, not cartoon. Use realistic skin shading with natural pores and wrinkles, authentic hair and beard detail, and true-to-life materials and shadows. Lighting should be clean daylight or studio daylight with crisp, realistic shadows on a clean off-white background. No reinterpretation, no redesign, no added styling beyond what exists in the uploaded image. Ultra-high definition, hyper-realistic CGI quality, grounded and believable, no text, no logos, no watermarks. Aspect ratio 4:5.
+```
+
+**Output**:
+
+<img src="../images/portrait_case249/output.jpg" width="500">
+
+---
+
+### Case 250: Hollywood Character Sheet
+
+**Source**: [@Mind_Boticni](https://x.com/Mind_Boticni/status/2058514230350053496)
+
+**Prompt**:
+```
+Create an ultra-premium cinematic character sheet for an Oscar-worthy Hollywood drama film. Use reference image.
+A stunning female protagonist with emotional eyes, realistic skin pores, luxurious satin evening dress, delicate diamond jewelry, graceful posture.
+Include front/side/back turnaround, emotional facial expressions, close-up portrait photography, flowing fabric motion studies, luxury makeup breakdown, handwritten production annotations, realistic height comparison chart.
+Mood: warm golden spotlight, timeless vintage Hollywood elegance, soft cinematic shadows, fashion editorial realism.
+```
+
+**Output**:
+
+<img src="../images/portrait_case250/output.jpg" width="500">
+
+---
+
+### Case 251: Papercut Diorama Style Transfer
+
+**Source**: [@Ciri_ai](https://x.com/Ciri_ai/status/2058596304851513605)
+
+**Prompt**:
+```
+Convert this image into a soft, handcrafted paper-cut layered illustration style, inspired by papercraft diorama aesthetics. Use smooth rounded shapes, simplified cute character proportions, and minimal facial details (dot eyes, blush cheeks) to create a warm, charming look. Apply stacked paper layers with visible depth, subtle shadows between layers, and clean cut edges that resemble laser-cut cardstock.
+```
+
+**Output**:
+
+<img src="../images/portrait_case251/output.jpg" width="500">
+
+---
+
+### Case 252: Futuristic Neon Fashion Editorial
+
+**Source**: [@ZephyraLeigh](https://x.com/ZephyraLeigh/status/2058489835040682296)
+
+**Prompt**:
+```
+Using the provided reference image, create an ultra-realistic futuristic fashion editorial portrait of a stylish young woman standing in vibrant neon lighting. She wears an oversized crisp white shirt with minimalist luxury styling, reflective pastel holographic sunglasses with pink-orange gradient lenses, silver geometric hoop earrings, and a delicate gold chain necklace.
+
+She has sleek shoulder-length dark brown hair, flawless glowing skin, soft glossy lips,
+```
+
+**Output**:
+
+<img src="../images/portrait_case252/output.jpg" width="500">
+
+---
+
+### Case 253: Night Blossom Candid Portrait
+
+**Source**: [@oggii_0](https://x.com/oggii_0/status/2058567432906903562)
+
+**Prompt**:
+```
+A highly realistic candid mobile photo of my original face without altering my real facial structure. A young Asian woman standing beneath blooming pink flower branches at night, with long messy black hair blown by the wind partially covering her face. Natural pale skin with visible real texture and pores, sleepy half-open eyes with faded brown makeup slightly smudged, glossy plump pink lips slightly parted while biting a small pink flower, softly flushed cheeks, dreamy melancholic empty expression. Wearing a loose white shirt with a slightly open collar, surrounded by dark green leaves and pink flowers close to the camera. Harsh direct smartphone flash lighting creating overexposed highlights and deep shadows, low-light nighttime atmosphere, imperfect spontaneous composition like a real candid shot, slight motion blur, natural soft focus, authentic iPhone camera grain, vintage 2010s Tumblr aesthetic, intimate close-up framing, cinematic yet natural look, flash reflection in the eyes, thin messy bangs, realistic handheld shot, no studio lighting, no excessive editing, raw mobile photography, extremely realistic.
+
+Aspect Ratio: 3:4
+```
+
+**Output**:
+
+<img src="../images/portrait_case253/output.jpg" width="500">
+
+---
+
+### Case 254: Collectible 3D Character Avatar
+
+**Source**: [@egeberkina](https://x.com/egeberkina/status/2058613271180009687)
+
+**Prompt**:
+```
+Transform the uploaded portrait into a highly stylized 3D cartoon avatar with a glossy smooth vinyl/plastic texture, minimalist facial design, oversized head proportions, clean geometric hair shapes, thick sculpted eyebrows, simplified facial features, soft airbrushed skin shading, subtle specular highlights, tiny realistic imperfections, designer toy aesthetic, fashion editorial character design, centered composition, isolated cream/off-white background, ultra clean studio lighting, bold graphic look, slightly surreal proportions, premium collectible figurine style, modern mascot character energy, polished CGI render, Octane render, soft global illumination, shallow depth of field, symmetrical face framing, minimal but expressive eyes, smooth rounded forms, contemporary art toy aesthetic, high-end 3D illustration, minimal color palette, glossy black hair, subtle cinematic shadows, poster-like composition, luxury magazine cover feeling, ultra detailed yet simplified stylization
+```
+
+**Output**:
+
+<img src="../images/portrait_case254/output.jpg" width="500">
+
+---
+
+### Case 255: Toddler Crayon Drawing Style
+
+**Source**: [@frametheory058](https://x.com/frametheory058/status/2058543500086722604)
+
+**Prompt**:
+```
+Turn the uploaded image into a funny toddler-style crayon drawing, like it was made by a 3–4 year old kid who tried their best but had absolutely no idea what they were doing 
+
+Keep the drawing messy, clumsy, uneven, and adorably inaccurate. The lines should look rough and scribbly, shapes should feel awkward, proportions can be completely wrong, and details should be super simplified. It should feel like a child quickly drew the scene from memory using random crayons.
+
+Avoid realistic anatomy, clean outlines, perfect symmetry, professional shading, or polished illustration styles. The charm should come from how silly, chaotic, and unintentionally funny the drawing looks.
+
+Style: messy wax crayon art, childish doodles, random proportions, uneven coloring, simple shapes, loose interpretation of the original image.
+```
+
+**Output**:
+
+<img src="../images/portrait_case255/output.jpg" width="500">
+
+---
+
+### Case 256: Disco Mirror Transformation
+
+**Source**: [@MrDasOnX](https://x.com/MrDasOnX/status/2058588737043677648)
+
+**Prompt**:
+```
+Transform the uploaded image into a glamorous disco-ball version of itself while preserving the original silhouette, composition, key recognizable features, and subtle tonal colors. Style it as if the subject is made from tiny mirrored square tiles, like a 1970s disco ball chrome, silver, reflective glass, beveled edges and subtle grout lines between tiles. Add bright white sparkle flares and small iridescent highlights across the mirrored surface. Use dramatic studio lighting on a pure black background, with high contrast, glossy reflections and a luxurious nightclub feel. Keep the object centered and iconic, with a polished 3D look.
+```
+
+**Output**:
+
+<img src="../images/portrait_case256/output.jpg" width="500">
+
+---
+
+### Case 257: Sage Field Editorial Portrait
+
+**Source**: [@heyfatema](https://x.com/heyfatema/status/2058594937307115532)
+
+**Prompt**:
+```
+Create a 3:4 cinematic, atmospheric editorial portrait using the attached photo as the exact face and identity reference. A solitary person stands alone in vast wind-swept sage green grass fields, surrounded by tall grass moving in strong wind, muted natural palette, soft overcast daylight, realistic skin texture, fashion-editorial framing, subtle melancholy, quiet luxury tone, and photorealistic detail.
+```
+
+**Output**:
+
+<img src="../images/portrait_case257/output.jpg" width="500">
+
+---
+### Case 258: Korean Fashion Collage Poster
+
+**Source**: [@saniaspeaks_](https://x.com/saniaspeaks_/status/2059447270115029120)
+
+**Prompt**:
+```
+Young Korean woman in ultra-realistic style in the uploaded image, elegant collage poster, fitted black t-shirt with minimalist logo, black denim shorts, black high-top Nike sneakers, long straight silky dark black hair with soft strands framing the face, glossy nude peach lips, Douyin-style makeup, winged eyeliner, soft pink blush, radiant skin, long eyelashes, dual composition with large portrait and full-length flowing hair, golden cinematic lighting, ink splash effects, luxurious white background, ultra-detailed, 8K, 3:4.
+```
+
+**Output**:
+
+<img src="../images/portrait_case258/output.jpg" width="500">
+
+---
+
+---
+### Case 259: Dreamy Japanese Summer Portrait
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2060752935588630990)
+
+**Prompt**:
+```
+Ultra-cinematic Japanese street photography,
+dreamy summer afternoon in a quiet suburban neighborhood, beautiful young woman standing among vibrant wildflowers and orange cosmos flowers, towering cumulus clouds filling the sky, huge rainbow arching overhead, warm golden hour sunlight, nostalgic anime-inspired atmosphere, soft wind moving hair, candid pose looking into the distance, utility poles and power lines creating urban Japanese aesthetics, shallow depth of field, foreground flower bokeh, rich colors, Kodak Portra 400 film look, dreamy glow, volumetric lighting, natural skin tones, highly detailed face, environmental portrait, low-angle composition, storytelling photography, cozy summer mood, cinematic color grading, photorealistic, masterpiece, 85mm lens, f/1.8, HDR, ultra detailed, soft bloom, realistic shadows, vibrant yet natural tones, editorial fashion photography, Instagram-worthy aesthetic, 8k.
+```
+
+**Output**:
+
+<img src="../images/portrait_case259/output.jpg" width="500">
+
+---
+### Case 260: Grunge Fashion Editorial Collage
+
+**Source**: [@AvelyrahnAI](https://x.com/AvelyrahnAI/status/2060732082599743586)
+
+**Prompt**:
+```
+A high-fashion editorial portrait of a stylish woman with a long, thick French side-braid hair, wearing sleek black designer sunglasses, a premium oversized beige t-shirt tucked into tailored beige trousers. She is wearing a minimalist thick gold chain necklace and a luxury silver watch, posing elegantly with one hand gently touching the back of her neck and looking away with a confident smile.The background is a creative grunge black-and-white collage art featuring a Pegasus illustration, a vintage police car, a classic Chanel perfume bottle, newspaper textures, and vinyl records with white sticker cutout borders. Cinematic studio lighting, sharp focus, magazine cover aesthetic, 8K resolution.
+```
+
+**Output**:
+
+<img src="../images/portrait_case260/output.jpg" width="500">
+
+---
+### Case 261: Pop-Fashion Photobooth Strips
+
+**Source**: [@Mind_Boticni](https://x.com/Mind_Boticni/status/2060959441889948116)
+
+**Prompt**:
+```
+Photorealistic modern pop-fashion photobooth strip arrangement placed on a colorful gradient acrylic desk, top-down cinematic view. Three strips with SAME stylish young woman, consistent identity in all portraits.
+
+Left strip: powerful direct gaze, edgy fashion pose, slightly tilted head, confident attitude.
+Center strip: warm natural smile, candid moment, soft laughing expression, relaxed elegance.
+Right strip: artistic over-the-shoulder glance, calm eyes-closed pose, reflective dreamy look, gentle emotion.
+
+Vibrant contemporary aesthetic with neon pink, sky blue, and warm yellow highlights, ultra-clean studio lighting, glossy printed strips with crisp edges. Modern props like LED lights, fashion magazines, aesthetic accessories, and minimal luxury items. High-fashion digital editorial vibe, colorful, trendy, visually striking composition.
+```
+
+**Output**:
+
+<img src="../images/portrait_case261/output.jpg" width="500">
+
+
+---

@@ -5262,3 +5262,120 @@ Soft moody lighting, introspective atmosphere, luxury fashion campaign style, su
 
 
 ---
+
+---
+### Case 322: Chibi Fashion Infographic
+
+**Source**: [@chi_vc_](https://x.com/chi_vc_/status/2061619597821022407)
+
+**Prompt**:
+```
+Create a fashion infographic based on the reference image. Use the reference image mainly to understand the character’s identity, hairstyle, facial features, color impression, personality, and overall mood.
+
+Transform the character into a polished 3D chibi character with a large head, small body, expressive eyes, and soft cute proportions. Keep the character’s recognizable features, such as hairstyle, hair color, eye color, facial impression, and overall aura, while designing a new original outfit that naturally suits the character’s atmosphere.
+
+Do not simply copy the clothing from the reference image. Instead, create a coordinated fashion style that feels appropriate for this character’s personality, color palette, and visual mood. The outfit may include thoughtfully chosen clothing, shoes, accessories, textures, and silhouettes that enhance the character’s charm.
+
+Show a full-body main pose in the center, surrounded by editorial callouts: outfit concept, clothing item breakdown, fabric texture swatches, styling points, accessory close-ups, color palette, and a small pose guide. Use a clean white background, soft lighting, premium lookbook layout, ultra-detailed 3D rendering, stylish fashion editorial design, cute but refined.
+```
+
+**Output**:
+
+<img src="../images/poster_case322/output.jpg" width="500">
+---
+### Case 323: 3D Character Editorial Quartet
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2061590939140010068)
+
+**Prompt**:
+```
+Create a vertical 2:3 ultra high definition series of four stylized 3D cartoon editorial renders. Use a polished toy-like character finish, smooth matte skin, expressive oversized eyes, crisp silhouettes, soft studio lighting with realistic cast shadows, subtle backdrop grain, and strong single-color art direction. Keep each image clean, premium, and sharply separated from the background, with no text, no watermark, and no logo.
+
+Image 1: a stylized cartoon woman in a fitted ribbed blue dress with thin straps, red sunglasses resting on short tousled brown hair, red bow high-heel sandals, standing in a playful curved pose with crossed legs against a solid vivid red matte studio wall. Side lighting creates a defined shadow on the red background.
+
+Image 2: a cheerful stylized cartoon woman in an all-green travel look, black hair in two braided pigtails, green cap, sleeveless green crop top, loose green jogger pants with a drawstring, white sneakers, one finger touching her lips, holding the handle of a glossy green hard-shell suitcase. Solid green studio background, full body, eye-level camera.
+
+Image 3: a cozy centered scene of two stylized cartoon characters sitting on a red sofa in a deep red room. The woman on the left is wrapped in a textured red blanket, barefoot, calm expression, eyes looking upward. The man on the right is wrapped in an orange textured blanket, wearing socks, neutral gentle upward gaze. Use a balanced symmetrical composition, knitted fabric texture, warm nostalgic lighting, and a fabric-like red wall.
+
+Image 4: a red-haired stylized cartoon girl standing in front of a wall mirror in a warm beige room. Show her from behind with extremely long glossy red hair flowing down her back, while the mirror reflection shows her small worried face, blue eyes, red outfit, and soft anxious expression. Gentle sunlight from the side, clean floor, simple mirror frame, emotional storybook mood.
+
+Global quality: 8K, ultra-high definition, high-detail 3D render, realistic soft shadows, extreme clarity, crisp edges, no noise, no compression, premium editorial composition, color-block backgrounds, cinematic but minimal.
+```
+
+**Output**:
+
+<img src="../images/poster_case323/output.jpg" width="500">
+---
+### Case 324: Torn Soda Can Fruit Ad
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2061570275595186603)
+
+**Prompt**:
+```
+A photorealistic, highly detailed commercial product shot of a standard aluminum [Type of Soda Can], perfectly centered on a minimal textured [Background Color] paper backdrop with subtle visible fibers. A single continuous horizontal torn paper strip crosses the full frame from the right edge to the left edge, with a barely noticeable upward diagonal slant toward the upper left. The tear passes through the can body and continues seamlessly across the background on both sides.
+
+Make the torn opening wide and dramatic, exposing a dense, glossy, vibrant mass of [Description of Fruit Segments/Sacs/Berries] packed tightly inside the can. At the far left end of the tear, roll the paper neatly into a tight realistic coil that nearly fills the left margin.
+
+Design new minimalist can branding: on the upper can, place a stylized abstract line-art illustration of [Fruit Branch/Plant] in contrasting [Ink Color], layered over a subtle matte geometric [Pattern Type] pattern on the can surface. Below it, print the brand name "[Brand Name]" in elegant modern dark typography, with smaller technical text reading "330ml - NATURAL EXTRACT" plus a small "Recyclable" logo. Add a small detailed fruit graphic below the torn path.
+
+Use soft cinematic lighting with delicate drop shadows under the torn paper edges and the large left-side coil. Render in 8K with macro-level detail on fibrous paper, brushed aluminum, and glossy fruit texture.
+```
+
+**Output**:
+
+<img src="../images/poster_case324/output.jpg" width="500">
+---
+### Case 325: Miniature City Travel Card
+
+**Source**: [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2061507567478780074)
+
+**Prompt**:
+```
+Create a premium collectible travel-card illustration in vertical 4:5 format inspired by [CITY] and [COUNTRY]. A hand holding a beautifully designed collectible [CITY] travel card featuring elegant [LOCAL CULTURE / REGIONAL DESIGN]-inspired design (metro pass / museum pass / boarding pass / postcard / passport page / vintage travel ticket / luggage tag). Attached to and organically emerging from the card is a highly detailed miniature [ICONIC LANDMARK] souvenir charm or classic [CITY] toy object, naturally integrated into the scene as part of the collectible item — not simply placed on top.
+
+The miniature object transforms into and reveals a tiny immersive [CITY] world filled with iconic [CITY] architecture, [LOCAL STREET CHARACTER], cafés, bridges, [LOCAL TRANSIT / CULTURAL FEATURES], glowing street lamps, miniature citizens, vintage cars, scooters, flower stands, riverboats, and atmospheric [COUNTRY] cultural details flowing seamlessly from the object itself.
+
+Composition:
+– [ICONIC LANDMARK] souvenir / [CITY] collectible positioned as the hero object attached to the card
+– Expansive miniature [CITY] diorama spreading outward in layered cinematic depth
+– Realistic softly blurred [CITY] background with recognizable city mood
+– Strong depth of field, shallow focus, cinematic perspective
+– Cozy premium souvenir aesthetic
+– Rich ultra-detailed luxury travel campaign composition
+
+Visual blending:
+– Metallic, ceramic, or vintage souvenir textures gradually transform into [CITY] streets and architecture
+– [ICONIC BUILDINGS], café terraces, bridges, glowing windows, transit tunnels, cobblestone streets, bookstores, and [CITY] landmarks emerge organically from the collectible object
+– No hard separation between toy and environment
+– Miniature world feels physically grown from the souvenir itself
+
+Style:
+hyper detailed, photorealistic + stylized 3D collectible, miniature world, soft natural lighting, warm cinematic color grading, Instagram-worthy luxury travel poster aesthetic, premium [CITY] souvenir concept, ultra detailed textures, tactile materials, handcrafted diorama feeling, cinematic realism.
+
+Ticket details:
+Use elegant [LOCAL CULTURE]-inspired typography, subtle gold foil accents, vintage transit graphics, decorative travel emblems, embossed textures, refined luxury print design, and minimal tasteful text.
+
+Mood:
+romantic, nostalgic, luxurious, warm evening atmosphere, premium tourism campaign aesthetic, collectible art object, immersive [CITY] storytelling.
+
+Aspect ratio 4:5
+```
+
+**Output**:
+
+<img src="../images/poster_case325/output.jpg" width="500">
+---
+### Case 326: 電子レンジ大明神キャラ設定ポスター
+
+**Source**: [@Anifun_AI](https://x.com/Anifun_AI/status/2061380839418855755)
+
+**Prompt**:
+```
+{"type":"Japanese mascot character sheet / contest entry poster","format":"wide horizontal infographic character design sheet, 16:9, clean cream background with orange decorative borders, shrine motifs, sparkles and rays, high-detail cute anime mascot illustration, warm orange and gold palette, crisp vector-like line art with watercolor shading","main_title":{"position":"upper left","text":"{argument name=\"character name\" default=\"電子レンジ大明神 チンノスケ\"}","style":"large bold Japanese display lettering, black furigana above smaller text, oversized orange brush-calligraphy name"},"tagline":{"position":"below title","text":"{argument name=\"tagline\" default=\"温めすぎた未来から来た、チンする神様。\"}","style":"orange framed ribbon label"},"character":{"centerpiece":"full-body front-facing original mascot deity, a small cute god whose head is a white microwave oven with a glowing orange screen face, round cheeks, thick eyebrows, tiny mustache, smiling expression, microwave buttons and 600w label on the right side, black power plug cord extending from the head, wearing ornate Shinto priest robes in white, orange, black and gold, thick sacred rope around shoulders, paper shide streamers, tassels, patterned kimono layers, geta sandals, holding a ceremonial staff topped with a glowing rice-bowl symbol","head_details":"torii-like golden halo and five wooden prayer plaques mounted above the microwave head, labeled 解凍, あたため, 加熱神, 自動, 強弱","body_details":"front apron panel labeled 600w with a steaming rice bowl emblem, hanging talismans and small labels along the sleeve","expression":"cheerful divine mascot face displayed inside the microwave window"},"layout":{"sections":[{"title":"trait profile box","position":"left middle","count":4,"labels":["性格：世話焼き / やさしい / 加減が苦手","特技：冷めたご飯を一瞬で温める / 心の温度を測る","弱点：アルミホイル / 停電 / 猫舌","口ぐせ：『600ワットの慈悲』"],"style":"rounded white card with orange icons: flower, rice bowl, warning triangle, speech bubble"},{"title":"ご利益","position":"bottom left","count":3,"labels":["冷めたご飯がほかほかに!","疲れた心があたたまる!","未来の自分にやさしくなれる!"],"style":"wooden shrine sign board with bow decoration, plus a lucky beckoning cat holding a plaque labeled あったか未来"},{"title":"全力あたためポーズ!","position":"upper right","count":1,"labels":["温めすぎても愛があれば大丈夫である!"],"style":"action pose panel with orange speed lines, the mascot pointing upward dramatically while the microwave face looks fierce"},{"title":"ディテール紹介","position":"right middle","count":3,"labels":["頭の御札（操作札）","しめ縄コンセント","おなかの操作パネル"],"style":"three circular detail callouts with short explanatory captions, showing the wooden control plaques, braided rope power plug, and 600w belly control panel"},{"title":"弱点な瞬間…","position":"bottom right","count":3,"labels":["アルミホイルは神をも反射する…!","停電になるとただの箱神様に…!","猫舌ゆえに熱々はつらいのじゃ…"],"style":"three small rounded panels showing comedic weakness scenes: aluminum foil glare, dark power outage, and crying from hot food"}],"total_discrete_sections":5,"decorative_elements":"orange corner ornaments, tiny clouds, sparkles, radiating sunburst lines, shrine icon above title, small stamp-like signature near the cat"},"typography":"all visible text is Japanese, playful manga-style headings with orange emphasis, neat black body captions, occasional furigana above kanji","rendering_instructions":"make it look like a polished Japanese character reference sheet for a future-character discovery festival, balanced composition with the large mascot centered, no photorealism, no 3D, highly readable labels, cute humorous tone, dense but organized poster layout","customization":{"core_concept":"{argument name=\"mascot concept\" default=\"a microwave-oven Shinto deity who warms food and hearts\"}","catchphrase":"{argument name=\"catchphrase\" default=\"『600ワットの慈悲』\"}","color_palette":"{argument name=\"color palette\" default=\"warm orange, gold, cream, white, and black\"}"}}
+```
+
+**Output**:
+
+<img src="../images/poster_case326/output.jpg" width="500">
+
+---

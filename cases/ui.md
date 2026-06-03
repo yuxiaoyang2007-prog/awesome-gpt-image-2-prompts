@@ -1967,3 +1967,25 @@ variations ---  TYPOGRAPHY SYSTEM (MATCH PERSONALITY) Select typography style ba
 
 
 ---
+
+---
+### Case 163: Collectible Science Encyclopedia Card
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2061509471810302050)
+
+**Prompt**:
+```
+Create a high-quality vertical science encyclopedia infographic for [theme]. Make it feel less like a basic poster and more like a polished modular knowledge card with an encyclopedia, museum-guide, structured-information, and collectible reference-page aesthetic. The style should combine premium natural-history plates, modern encyclopedia spreads, lifestyle knowledge cards, and highly shareable social-media infographics.
+
+Include a clear and attractive main visual for the theme, several enlarged detail callouts, multiple rounded information modules, a strong title hierarchy, concise highlight tags, rich but readable educational copy, and a visual section such as ratings, key takeaways, or a Top 5 list.
+
+Adapt the content modules to the chosen theme. Use the most relevant mix of basic profile, classification, visual traits, behavior or ecology, formation process or structural makeup, growth or usage conditions, care and maintenance guidance, risks and cautions, suitable audiences or use cases, pros and cons, and a quick scoring card.
+
+Use a light clean background, soft coordinated colors, subtle shadows, refined small icons, rounded info boxes, tidy spacing, and dense information that still feels easy to read. The final image should look publishable, collectible, readable, and suitable for a repeatable encyclopedia-card series. Avoid a commercial advertising poster look. Emphasize knowledge organization, modular information design, and illustrated encyclopedia presentation.
+```
+
+**Output**:
+
+<img src="../images/ui_case163/output.jpg" width="500">
+
+---

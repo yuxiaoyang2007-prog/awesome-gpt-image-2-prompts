@@ -1989,3 +1989,237 @@ Use a light clean background, soft coordinated colors, subtle shadows, refined s
 <img src="../images/ui_case163/output.jpg" width="500">
 
 ---
+
+---
+### Case 164: Pet World Cup Storyboard Sheet
+
+**Source**: [@CamikaApp](https://x.com/CamikaApp/status/2062355101877231959)
+
+**Prompt**:
+```
+A professional pre-production storyboard sheet for a 12-second photorealistic short film, single landscape page, layout top to bottom:
+
+== TITLE BAR ==
+Black bar across full width. Left: massive bold white text "PET WORLD CUP". Right: two outlined boxes "TOTAL VIDEO TIME: 12 SECONDS" and "8 SHOTS · ENSEMBLE · COMEDY · CINEMATIC".
+
+== ICON LEGEND ==
+Four icon+label pairs in a row: soccer ball + "BALL ACTION"; paw + "DUEL"; hamster + "MIGHTY MINI"; trophy + "VICTORY".
+
+== MAIN GRID (8 panels, 2×4) ==
+Each panel: thin white border, landscape 16:9. Number badge (1-8) top-left, teal "~1.5s" tag top-right, photorealistic still inside, bottom caption bar with icon + ALL-CAPS text.
+
+1. [ball] "PET WORLD CUP FINAL KICKS OFF" — Wide stadium at golden hour. Midfield: orange tabby cat (red jersey) + golden retriever (blue jersey) facing off, ball between them. Deep background: enormous white goalposts with tiny hamster goalkeeper between them. Side: white rabbits in stands with pom-poms. Sunset cinematic light.
+
+2. [paw] "RABBIT CHEERLEADERS BRING THE NOISE" — Close on stands: 3 fluffy white rabbits in tiny jerseys, mouths open cheering, paws shaking red and blue pom-poms in unison. Stadium lights, blurred crowd silhouettes behind.
+
+3. [paw] "CAT VS DOG MIDFIELD DUEL" — Close-up: cat (red jersey) and dog (blue jersey) facing off, ball between their paws. Intense eye contact. Dirt kicking up. Whiskers and ear fluff in motion.
+
+4. [ball] "DOG STEALS, BREAKS AWAY" — Dog with ball at paws charging through midfield. Cat sprinting behind, paws stretched, ears back.
+
+5. [ball] "DOG WINDS UP — SHOT INCOMING" — Dog in classic kick pose, back leg lifted high, eyes locked on distant goal. Deep background: enormous white goalposts with TINY hamster goalkeeper barely visible — dramatic scale contrast.
+
+6. [hamster] "HAMSTER VS THE GIANT GOAL" — Low angle close-up: enormous white goalposts towering over tiny golden Syrian hamster wearing mini yellow goalie gloves. Looking up determined, paws raised ready. Ball flying in from frame edge.
+
+7. [hamster] "EPIC SAVE — TINY BUT MIGHTY" — Hamster in full sprawl leap, paws extended, blocking ball with tiny body. Mid-air freeze frame. Confetti falling, blurred crowd silhouettes raising arms.
+
+8. [trophy] "HAMSTER HERO — TEAMS UNITE" — Wide final shot at golden hour: cat (red) and dog (blue) standing side by side staring in awe at tiny hamster holding up small golden trophy. White rabbits in stands raise pom-poms wildly. Confetti, golden sparkles.
+
+== BOTTOM INFOGRAPHIC (4 sections horizontal) ==
+[Clock] VIDEO FLOW: "8 shots × ~1.5s = 12s. Stadium → rabbit fans → cat-vs-dog rivalry → dog shoots → hamster saves → ensemble celebration."
+
+[Camera] CAMERA TIPS: "Wide establishing on stadium, close-up on rabbits, low-angle on midfield duel, side-tracking on breakaway, scale frame on hamster vs goalposts, hero shot on save, wide on celebration."
+
+[Sun] LIGHT & STYLE: "Photorealistic cinematic. Golden-hour stadium light throughout. Warm amber grass, lens flares, real DSLR/iPhone aesthetic. Crisp action focus."
+
+[Person] CHARACTER NOTES: "Cast: orange tabby cat with M-mark (red jersey), golden retriever (blue jersey), golden Syrian hamster with mini yellow goalie gloves (yellow kit), 3-4 white fluffy rabbits with pom-poms. Hamster MUST appear dramatically tiny vs goalposts. All humans/crowd are faceless silhouettes — no faces. Each animal identical across panels."
+
+== STRICT EXCLUSIONS ==
+No real soccer team logos, no FIFA/Champions League/UEFA/World Cup branding, no real player faces, no sponsor logos, no national flags, no jersey numbers, no stadium signage with real text, no captions, no watermarks. Plain colored jerseys only. All 8 panels photorealistic — never cartoon/3D/illustration. All animals identical across panels.
+```
+
+**Output**:
+
+<img src="../images/ui_case164/output.jpg" width="500">
+
+---
+### Case 165: Cinematic Contact Sheet Generator
+
+**Source**: [@KingNyalTut](https://x.com/KingNyalTut/status/2062330612279611656)
+
+**Prompt**:
+```
+Given the scene context, generate the Cinematic Contact Sheet based on the instructions:
+<instruction>
+Analyze the entire composition of the input image. Identify ALL key subjects present (whether it's a single person, a group/couple, a vehicle, or a specific object) and their spatial relationship/interaction.
+Generate a cohesive 3x3 grid "Cinematic Contact Sheet" featuring 9 distinct camera shots of exactly these subjects in the same environment.
+You must adapt the standard cinematic shot types to fit the content (e.g., if a group, keep the group together; if an object, frame the whole object):
+Row 1 (Establishing Context):
+Extreme Long Shot (ELS): The subject(s) are seen small within the vast environment.
+Long Shot (LS): The complete subject(s) or group is visible from top to bottom (head to toe / wheels to roof).
+Medium Long Shot (American/3-4): Framed from knees up (for people) or a 3/4 view (for objects).
+Row 2 (The Core Coverage):
+4. Medium Shot (MS): Framed from the waist up (or the central core of the object). Focus on interaction/action.
+5. Medium Close-Up (MCU): Framed from chest up. Intimate framing of the main subject(s).
+6. Close-Up (CU): Tight framing on the face(s) or the "front" of the object.
+Row 3 (Details & Angles):
+7. Extreme Close-Up (ECU): Macro detail focusing intensely on a key feature (eyes, hands, logo, texture).
+8. Low Angle Shot (Worm's Eye): Looking up at the subject(s) from the ground (imposing/heroic).
+9. High Angle Shot (Bird's Eye): Looking down on the subject(s) from above.
+Ensure strict consistency: The same people/objects, same clothes, and same lighting across all 9 panels. The depth of field should shift realistically (bokeh in close-ups).
+</instruction>
+A professional 3x3 cinematic storyboard grid containing 9 panels.
+The grid showcases the specific subjects/scene from the input image in a comprehensive range of focal lengths.
+Top Row: Wide environmental shot, Full body view, 3/4 cut.
+Middle Row: Waist-up view, Chest-up view, Face/Front close-up.
+Bottom Row: Macro detail, Low Angle, High Angle.
+All frames feature photorealistic textures, consistent cinematic color grading, and correct framing for the specific number of subjects or objects analyzed.
+
+Here is the scene context:
+A wide cinematic exterior of the Whitmore estate at dusk in Buckhead, Atlanta. The massive gated modern mansion glows with warm amber lights against the dark tree line, with the circular driveway, lion fountain, and polished landscaping fully visible. The estate feels quiet, powerful, and untouchable — like a private world hidden behind wealth and security.
+```
+
+**Output**:
+
+<img src="../images/ui_case165/output.jpg" width="500">
+
+---
+### Case 166: Technical Food Annotation Infographic
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062264967722934629)
+
+**Prompt**:
+```
+Generate an infographic image of any food item, combining a realistic photograph or photoreal render with technical annotation overlays placed directly on top. Use black ink-style line drawings and text (technical pen / architectural sketch look) on a pure white studio background. Include: key component labels, internal cutaway or exploded-view outlines, measurements and scale markers, material callouts and quantities, arrows indicating function or flow, simple schematic or sectional diagrams where relevant. Place the food name as a title inside a hand-drawn annotation box in one corner. The real object should remain clearly visible beneath the annotations. Annotations should feel sketched, technical, and architectural. Clean composition with balanced negative space, educational museum-exhibit / engineering-manual vibe. White background, black annotation lines and text only, no colors. Output: 1080x1080, ultra-crisp, no watermark.
+```
+
+**Output**:
+
+<img src="../images/ui_case166/output.jpg" width="500">
+
+---
+### Case 167: Bazaar Heist Storyboard Card
+
+**Source**: [@aimikoda](https://x.com/aimikoda/status/2062223135454249178)
+
+**Prompt**:
+```
+Create a 16:9 image.
+
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: JIEL MARKET HANDS
+META LINE: sly fantasy theft / fast-paced bazaar caper / sharp kinetic energy
+PRIORITY: readable hand tricks, crowd geography, magical bag payoff
+MICRO BRIEF: C1 survives by stealing through a crowded market, chaining fast sleight-of-hand thefts until a witness grabs her arm and becomes her final stolen prize.
+
+[CONTINUITY HEADER]
+SEQUENCE ID: JIEL_MARKET_PICKPOCKET_MAGIC_BAG_12P
+REFERENCE PRIORITY: attached Jiel character sheet controls C1 face, body, wardrobe, proportions, hood, hair, belt, pouches, boots, wrapped hands; attached market image controls bazaar density, stall layout, warm dust, awnings, crowd scale, and painterly-world texture; this storyboard controls staging, motion, geography, and continuity.
+
+[SCENE PACKET]
+PREMISE: A red-hooded thief moves through a crowded old bazaar using collisions, distractions, and hand speed to steal coins, jewelry, and wallets before magically stealing the man who catches her.
+LOCATION: sunlit packed market alley, stalls left and right, hanging fabrics overhead, jewelry stall left, fruit baskets right, cloth booth midground, arched exit background, narrow side gap behind C1 screen right.
+START -> END: C1 enters from background center with empty hands and hidden satchel -> C2 catches her wrist foreground right, then shrinks and folds into C1's open magic bag as the crowd barely notices.
+ACTION CHAIN: master geography -> necklace lift -> bump wallet steal -> cloak-pass coin purse cut -> fruit-stall distraction theft -> fast crowd weave -> witness notices -> wrist grab -> anxious turn -> bag opens with warped pull -> C2 is swallowed into bag -> C1 snaps bag shut and vanishes into crowd.
+PROP / EFFECT STATE: small tan satchel at C1 hip begins closed, stolen wallet and coin purse move into her belt pouch, jewelry cord disappears under red cloak, final bag mouth opens with pale spiral distortion and cloth-like pull lines, no gore.
+MUST READ: C1's quick hands make ordinary theft look playful until the final theft becomes impossible and supernatural.
+
+[CHARACTER SANITIZATION]
+C1: young adult red-hooded thief, short red hair with small twin buns, freckles, slim agile silhouette, cropped cloak, scarf, wrapped hands, utility belt, tan satchel, boots, low quiet posture, quick precise hands.
+C2: adult market man, taller average build, rolled sleeves, dark vest, stern stance, one hand grabbing C1's wrist, startled body bend when pulled toward bag.
+C3: adult market crowd and vendors, varied robes and hats, readable background silhouettes only.
+Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+
+[IDENTITY CONSISTENCY]
+Identity reference controls C1 face/body/wardrobe/proportions; keep C1's red hood, short red hair, wrapped hands, belt pouches, tan satchel, boots, and left-to-right movement consistent. Keep C2 as the same adult man from witness beat through bag capture. Do not redesign, age-shift, gender-shift, merge, or beautify characters across panels.
+
+[STORYBOARD PURITY]
+Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+
+[MASTER SHOT RULE]
+P01 shows full playable bazaar geography: stalls left and right, overhead cloth, crowd lanes, C1 center path, side gap screen right, arched exit background, and where C2 can later enter from foreground right.
+
+[EMOTIONAL ARC]
+quiet control -> playful precision -> rising risk -> caught alarm -> impossible reversal -> clean escape. Show it through lowered shoulders, hidden hand angles, sudden eye-line shifts, wrist tension, C2's forward lean, and C1's final compact snap-shut pose.
+
+[STYLE LOCKS]
+STYLE LOCK: clean monochrome rough-sketch storyboard inside panels, light-gray gesture lines, simplified bazaar forms, readable silhouettes, restrained off-white sheet design with tiny rust and dark-teal accents outside panel artwork only.
+EFFECT LOCK: final magic bag effect is a pale sketch spiral and fabric-warp pull, medium thickness, soft edges, no colored glow inside panels, no gore or horror gore.
+ENVIRONMENT LOCK: crowded warm old bazaar layout stays consistent; market detail remains simplified sketch, not dense finished concept art.
+
+[SPATIAL CONTINUITY LOCK]
+P01, P06, P08, P09, P10, P11, and P12 share one market-alley layout. Later panels are closer angles or a wider return on the same axis, not redesigned locations. Lock jewelry stall left, fruit baskets right, cloth booth midground, overhead awnings, arched exit background, and C2 entering from foreground right. Allowed changes: camera distance, crowd gaps, C1 pose, stolen prop state, bag open/closed state, and C2's body position during the magical pull.
+
+[DIRECTOR STRIP]
+Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
+RHYTHM TRACK format: `RHY P [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+ESCALATION MAP format: `ESC P [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+PANEL HEADERS: P01 / 24mm wide / Bazaar master -> P02 / 50mm / Necklace lift -> P03 / 35mm / Bump wallet -> P04 / macro insert / Coin purse cut -> P05 / 35mm / Fruit distraction -> P06 / overhead wide / Crowd weave -> P07 / 85mm / Witness sees -> P08 / 50mm / Wrist catch -> P09 / 85mm portrait / Anxious turn -> P10 / 35mm / Bag opens -> P11 / 24mm wide / Man stolen -> P12 / 50mm / Snap escape
+CAMERA + LENS PLAN: P01 wide geography hold -> P02 side track 50mm -> P03 handheld bump 35mm -> P04 macro insert -> P05 whip pan 35mm -> P06 overhead tactical wide -> P07 compressed witness close -> P08 crash-in 50mm -> P09 reaction close -> P10 low side 35mm -> P11 wider distortion hold -> P12 follow-off 50mm
+ACTION PATH: P01 C1 threads center lane -> P02 fingers lift necklace cord -> P03 shoulder bump frees wallet -> P04 blade-like fingers cut coin purse -> P05 fruit spill hides bracelet grab -> P06 C1 slips through closing crowd -> P07 C2 checks empty pouch -> P08 C2 grabs C1 wrist -> P09 C1 turns with held breath -> P10 C1 opens satchel against C2 arm -> P11 C2 folds into bag pull -> P12 C1 shuts bag and exits
+RHYTHM TRACK: P01 RHY P01: hold / medium block / clean beat -> P02 RHY P02: burst / short block / clean beat -> P03 RHY P03: impact / short block / smash beat -> P04 RHY P04: burst / short block / clean beat -> P05 RHY P05: burst / short block / whip beat -> P06 RHY P06: build / medium block / match beat -> P07 RHY P07: pause / short block / held beat -> P08 RHY P08: impact / short block / smash beat -> P09 RHY P09: pause / short block / held beat -> P10 RHY P10: build / short block / clean beat -> P11 RHY P11: impact / medium block / smash beat -> P12 RHY P12: final hit / short block / clean beat
+ESCALATION MAP: P01 ESC P01: L1 calm / flat -> P02 ESC P02: L2 tension / rise -> P03 ESC P03: L3 rise / spike -> P04 ESC P04: L2 tension / drop -> P05 ESC P05: L3 rise / spike -> P06 ESC P06: L3 rise / rise -> P07 ESC P07: L4 surge / spike -> P08 ESC P08: L4 surge / rise -> P09 ESC P09: L5 peak / spike -> P10 ESC P10: L5 peak / unresolved -> P11 ESC P11: L5 peak / spike -> P12 ESC P12: L3 rise / release
+STATE TRACK: P01 bag closed empty -> P02 necklace hidden -> P03 wallet in palm -> P04 coin purse loose -> P05 bracelet pocketed -> P06 loot belt bulge -> P07 C2 empty pouch -> P08 wrist locked -> P09 C1 caught -> P10 bag mouth open -> P11 C2 shrinking/folding -> P12 bag shut C1 exits right
+STYLE TRACK: P01 pale bazaar sketch -> P02 quick hand line -> P03 impact blur sketch -> P04 clean insert -> P05 crowd smear -> P06 overhead lanes -> P07 tight stare -> P08 wrist tension -> P09 face close -> P10 spiral sketch -> P11 fabric warp -> P12 dust escape
+
+[SEQUENCE]
+Grid: 12 panels in a 4x3 storyboard sheet; fast-cut caper montage with a shared bazaar geography, clear theft inserts, caught reaction, magical bag reversal, and active escape ending.
+```
+
+**Output**:
+
+<img src="../images/ui_case167/output.jpg" width="500">
+
+---
+### Case 168: Luxury Starter Pack Vision Board
+
+**Source**: [@mehvishs25](https://x.com/mehvishs25/status/2062355934589108655)
+
+**Prompt**:
+```
+Ultra-detailed luxury feminine “Starter Pack” vision board poster featuring an adorable chibi-style girl as the central character, inspired by premium collectible dolls and Pinterest luxury aesthetics. She has huge sparkling brown eyes, long wavy black hair, soft glamorous makeup, glossy lips, delicate jewelry, and a confident yet cute expression.
+
+Outfit: elegant monochrome ivory-white fashion look consisting of a fitted blazer, cropped top, high-waisted mini skirt, sheer tights, luxury handbag, and stylish heels. Sophisticated, classy, feminine, and fashion-forward.
+
+Composition: the character stands in the center surrounded by an elaborate scrapbook-style collage pinned onto a warm beige aesthetic wall. Numerous Polaroid photos, torn-paper notes, journal pages, gold heart pins, washi tape, dried flowers, doodles, handwritten quotes, and lifestyle snapshots create a premium vision-board effect.
+
+Photo memories surrounding her include:
+
+working on a MacBook in a luxury café
+
+taking photographs with a camera
+
+traveling through international airports
+
+shopping in fashionable city streets
+
+posing in elegant outfits
+
+enjoying luxury vacations
+
+golfing on a beautiful course
+
+coffee dates and aesthetic lifestyle moments
+
+content creation and personal branding
+
+dream destinations around the world
+
+Vision board sections include:
+Traits, Goals, Daily Habits, Manifestations, Bucket List, Travel Dreams, Future Plans, Success Tracker, Self-Care Routine, Weekly Goals, and Motivational Quotes.
+
+Foreground desk setup: designer planner, leather journal, luxury pen, coffee mug with inspirational typography, skincare products, perfume bottle, candles, flowers, wallet, sunglasses, beauty accessories, and elegant stationery arranged aesthetically.
+
+Color palette: soft beige, cream, ivory, champagne, warm taupe, nude blush, and subtle gold accents.
+
+Lighting: warm natural window light, soft shadows, cozy luxury atmosphere, dreamy glow, realistic depth and layering between papers and objects.
+
+Style: luxury Pinterest mood board, feminine entrepreneur aesthetic, high-end scrapbook design, premium lifestyle branding, cute collectible doll character, handcrafted paper textures, layered collage artwork, editorial photography quality.
+
+Quality: hyper-detailed, ultra-realistic materials, photorealistic objects, cinematic lighting, 8K resolution, masterpiece composition, sharp focus, intricate details, luxury magazine cover aesthetic, trending social-media poster design, collectible art quality.
+```
+
+**Output**:
+
+<img src="../images/ui_case168/output.jpg" width="500">
+

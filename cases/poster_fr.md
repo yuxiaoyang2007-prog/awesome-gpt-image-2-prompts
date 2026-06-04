@@ -5379,3 +5379,164 @@ Aspect ratio 4:5
 <img src="../images/poster_case326/output.jpg" width="500">
 
 ---
+
+---
+### Case 327: Avant-Garde 3D Caricature Portrait
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062340531448066386)
+
+**Prompt**:
+```
+Generate a highly stylized 3D caricature portrait with deliberate exaggerated deformation and a smooth, polished surface. Base the character on the ATTACHED REFERENCE PHOTO, keeping the subject's identity, skin tone, facial likeness, and distinctive features intact, while transforming them into a bold caricatured 3D figure featuring a stretched elongated neck, an oversized head, heavy drooping eyelids, full lips, and a slightly asymmetric face. The character should have clean, studio-quality skin with purposeful detail rather than random noise or texture. Accessorize boldly with round or oval glasses, hoop earrings, gold chains, head wraps or bandanas, and street-luxury fashion. Light with neutral studio lighting for soft shadows and even tones, no harsh contrast, set against a plain neutral grey or off-white backdrop. The vibe should feel avant-garde, collectible, fashion-forward, and character-focused rather than realistic or cute. Ultra-high definition, premium cinematic 3D render, hyperrealistic quality, clean materials, no freckles, dirt, grain, noise, text, logos, or watermarks. Aspect ratio 4:5
+```
+
+**Output**:
+
+<img src="../images/poster_case327/output.jpg" width="500">
+
+---
+### Case 328: Ink Noir Portrait
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062325077912519045)
+
+**Prompt**:
+```
+Dark, high-contrast noir-style portrait of [SUBJECT], drawn entirely with bold black ink lines and deliberate splatter. Deep shadows dominate the frame, with bright highlights carved out through empty white space. A subtle paper grain shows through. The mood is brooding, cinematic, and intense, like the most gripping panel in a graphic novel.
+```
+
+**Output**:
+
+<img src="../images/poster_case328/output.jpg" width="500">
+
+---
+### Case 329: Mixed-Media Train Platform Portrait
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062311265993986425)
+
+**Prompt**:
+```
+Mixed media portrait of a trendy young man standing on a KRL Jabodetabek Commuter Line platform at night. He poses confidently, one hand gripping the strap of an olive-green backpack, dressed in streetwear: oversized black layered hoodie, gray sweatpants, chunky sneakers.
+
+The background shows the train in full side view with its signature red stripe, doors wide open, lit by cinematic platform lighting against the city night sky.
+
+Surrounding the realistic subject are several cute 3D chibi versions of him, same face and outfit, each in a playful pose: one sitting on his shoulder, one climbing his leg, one peeking out of the backpack.
+
+Layered over the whole image: vivid hand-drawn doodle effects, white stroke outlines around the subject, glowing stars, sparkles, electric sparks, and floating handwritten captions reading "forever young", "krl", "night", and "gen z vibes". The final result blends hyper-realistic photography with flat cartoon illustration, keeping the face and body unchanged.
+```
+
+**Output**:
+
+<img src="../images/poster_case329/output.jpg" width="500">
+
+---
+### Case 330: Brand Identity Oil Painting
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062249710489067957)
+
+**Prompt**:
+```
+[BRAND NAME].
+Create a professional mixed-media oil painting on raw textured canvas where the color palette and visual elements are dynamically adapted to match the brand's identity.
+
+1. BRAND COLOR ADAPTATION
+Identify the primary and secondary colors of [BRAND NAME]. Use the primary brand color for two thick horizontal impasto brushstrokes. Use the secondary brand color for a raised central paint dollop. Replace generic colors with this brand-specific palette.
+
+2. PAINTED SUBJECT AND MOTION
+Paint a central product related to [BRAND NAME] vertically on the canvas using oil painting technique. Apply a horizontal motion blur effect with visible brushstrokes to convey dynamic movement. The product must integrate directly into the canvas texture, not as an overlay. Paint the "[BRAND NAME]" logo using distressed semi-transparent oil layers within the product's silhouette.
+
+3. IMPASTO AND CANVAS TEXTURE
+Two thick physical horizontal impasto strokes in the brand's primary color over the painted subject. One heavily textured raised dollop of secondary color oil paint centered on the middle stroke. Background: raw heavy-grain grey canvas with visible weave, charcoal smudges, and gesso dabs.
+
+4. BRAND GRAPHICS AND TYPOGRAPHY
+Scrawl brand keywords, slogans, and values in charcoal and graphite across the canvas. Replace generic doodles with hand-drawn abstract icons representing [BRAND NAME], all scratched over dried oil paint layers.
+
+5. STYLE
+Contemporary mixed-media pop-art. 8K macro photography highlighting the physical thickness of the oil paint and raw canvas grain texture.
+```
+
+**Output**:
+
+<img src="../images/poster_case330/output.jpg" width="500">
+
+---
+### Case 331: Berries and Blossoms Infographic Poster
+
+**Source**: [@92digitalartArt](https://x.com/92digitalartArt/status/2062237147260756025)
+
+**Prompt**:
+```
+A delightful vertical infographic poster in 9:16 format about berries and forest fruits, designed in a warm 3D cozy kawaii illustration style with soft rounded shapes, glossy textures, and a comforting pastel atmosphere, featuring a tall central floating garden diorama where oversized strawberries, blueberries, raspberries, blackberries, and tiny blossoms are arranged like a charming miniature world, each fruit rendered in plush 3D with cute faces, tiny highlights, and a toy-like finish; the scene includes little leaves, dew drops, honey jars, wooden baskets, and soft clouds of steam rising from a fresh fruit tart near the bottom, all surrounded by a gentle gradient background shifting from creamy pink at the top to warm peach and mint at the bottom, with floating sparkles and bokeh dots; the title should be placed near the top left in a rounded playful font reading BERRIES & BLOSSOMS, with a subtitle below reading A SWEET GARDEN STORY; fact blocks should be arranged asymmetrically in adorable rounded cards placed across the poster, with labels such as SEASON, NUTRITION, GROWTH, POLLINATION, FLAVORS, and HARVEST, each using tiny cute icons and short friendly descriptions; a DID YOU KNOW? panel should sit near the lower right inside a soft strawberry-shaped frame with five original fun facts; the entire poster should feel cozy, sweet, colorful, whimsical, and fully original, with no copyrighted content, no logos, no pop-culture references, and a complete 9:16 vertical ratio
+```
+
+**Output**:
+
+<img src="../images/poster_case331/output.jpg" width="500">
+
+---
+### Case 332: Mid-Century Editorial Illustration System
+
+**Source**: [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2062235491588849920)
+
+**Prompt**:
+```
+Create a premium mid-century-inspired flat editorial illustration of [Subject], rendered in a refined handcrafted printmaking aesthetic. The artwork should feel like a sophisticated vintage children’s encyclopedia illustration combined with Scandinavian editorial design and retro nature-book graphics.
+
+Language: English 8K ultra-high resolution with a 3:4 aspect ratio
+
+STYLE: minimalist flat-shape illustration soft geometric simplification handcrafted gouache + risograph + silkscreen print texture subtle paper grain and dry ink imperfections muted refined color palette clean matte colors crisp neutral white balance bright museum-quality paper appearance no yellow tint no beige cast no sepia tone no glossy rendering no photorealism no 3D shading elegant editorial composition premium picture-book atmosphere modern museum-shop illustration vibe
+
+COMPOSITION: spacious balanced layout with multiple elements harmoniously arranged simplified organic shapes stylized plants, objects, animals, architecture, landmarks, or symbolic elements depending on [Subject] visual storytelling through clustered illustrated motifs maximum 8–10 illustrated elements total playful but refined asymmetrical editorial balance large clean negative space on soft neutral white paper background premium Scandinavian editorial layout feeling
+
+TEXTURE & PRINT FEEL: subtle premium paper texture refined layered ink overlap delicate risograph misalignment soft dry brush grain light handcrafted print imperfections tactile handcrafted surface feeling clean bright paper surface controlled ink density airy and crisp visual atmosphere
+
+COLOR SYSTEM: muted teal dusty blue sage green cool gray faded coral soft navy desaturated mineral tones restrained natural palette (adjust palette naturally to fit [Subject])
+
+ILLUSTRATION RULES: simplified eyes and facial features rounded organic silhouettes minimal line usage flat layered color blocking decorative but restrained detail density avoid excessive realism avoid anime style avoid modern vector corporate style avoid bright neon colors avoid sharp digital gradients avoid yellowish paper tone avoid vintage sepia coloration
+
+MOOD: quietly playful, educational, nostalgic, timeless, sophisticated, airy, clean, premium editorial illustration, Scandinavian museum-book elegance
+
+OUTPUT: high-resolution editorial illustration, ultra-clean composition, refined handcrafted print aesthetic, bright neutral paper tones, crisp museum-quality editorial finish, suitable for premium magazine spreads, art books, museum posters, or luxury children’s publishing.
+```
+
+**Output**:
+
+<img src="../images/poster_case332/output.jpg" width="500">
+
+---
+### Case 333: Graphic-Novel Eyes Banner
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062189319562187193)
+
+**Prompt**:
+```
+Cinematic poster art: extreme close-up of a man's eyes filling a narrow horizontal band across the frame, deep black void above and below. Graphic-novel illustration style with bold red, black, and orange tones, heavy contrast, dramatic shadows, sharp highlights, raw gritty atmosphere. Eyes look fierce and emotionally charged, hair slightly disheveled.
+```
+
+**Output**:
+
+<img src="../images/poster_case333/output.jpg" width="500">
+
+---
+### Case 334: Cosmic Campfire Concept Art
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062113170467221759)
+
+**Prompt**:
+```
+Create a surreal, cinematic, photorealistic 8k conceptual artwork set in an abstract cosmic void. Use a high-angle full shot with symmetrical balance, placing a magical campfire at the exact center between two seated characters against a pitch-black background with no visible environment.
+
+On the left, show an astronaut sitting on a rough gray rock, wearing a highly detailed realistic white space suit with the helmet on and a reflective visor. The astronaut holds a stick and roasts a marshmallow over the fire.
+
+On the right, show a young man sitting on a metal folding chair and leaning forward toward the flames. He has dark hair and wears a red and black plaid flannel shirt, blue jeans, and brown boots. He is warming his hands by the fire.
+
+Make the central campfire magical and surreal: the warm orange flames should transition seamlessly into a photorealistic spiral galaxy filled with glittering stars, cosmic dust, and visible swirling motion. The galaxy should rise and arch overhead like a celestial canopy.
+
+Lighting should be dramatic and cinematic. Use warm orange firelight as the primary light source, with cool blue and purple glow from the galaxy as secondary light. Create soft but deep shadows and strong contrast. Use a color palette dominated by black, orange, blue, and purple, with white, red, and brown accents.
+
+The image should communicate human connection, cosmic wonder, the contrast between ordinary life and the infinite universe, and shared warmth in an endless dark space. Render with ultra-detailed photorealistic textures, cinematic lighting, sharp focus, and high dynamic range.
+```
+
+**Output**:
+
+<img src="../images/poster_case334/output.jpg" width="500">
+

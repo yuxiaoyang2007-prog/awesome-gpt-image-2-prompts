@@ -218,3 +218,43 @@ A character promotional poster titled “INPUT NAME,” designed in a unified ve
 「XXX」电视剧主题像素养成类游戏概念图，包括场景全局内容，周围环绕各人物（人物别重复）形象三视图，底部是场景特写，右下角是剧情梗概。
 ```
 
+
+---
+### Case 18: Stylized 3D Skater Character
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062038112398954712)
+
+**Prompt**:
+```
+Design a stylized 3D cartoon skater character with a premium animated-film look, mixing Pixar-like polish, Spider-Verse energy, and indie street-art attitude.
+
+Character details:
+- exaggerated proportions with long, skinny limbs
+- oversized hoodie in customizable pink
+- baggy ripped denim jeans
+- chunky sneakers
+- expressive tired-but-confident face
+- messy stylized hair
+- large headphones
+- backpack covered with pins and patches
+- standing naturally on a skateboard
+
+Visual style:
+Clean cinematic 3D render with soft global illumination, subtle chromatic aberration, ultra-detailed textures, smooth shading, playful but believable anatomy, high-end character design, stylized streetwear fashion, and urban youth energy.
+
+Pose:
+Slightly slouched posture, one hand relaxed, cool bored expression, looking sideways.
+
+Background:
+Minimal clean studio background with soft shadows and a centered composition.
+
+Extra details:
+Add stickers, embroidered patches, smiley pins, doodles, skate-culture details, early-2000s urban energy, cinematic render quality, and a polished animation-studio finish.
+
+Aspect ratio: 4:5 vertical.
+```
+
+**Output**:
+
+<img src="../images/character_case18/output.jpg" width="500">
+

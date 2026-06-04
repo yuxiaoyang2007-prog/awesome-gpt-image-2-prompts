@@ -2730,3 +2730,44 @@ Use the exact same face from the reference image and generate a Ultra realistic 
 <img src="../images/portrait_case264/output.jpg" width="500">
 
 ---
+
+---
+### Case 265: Futuristic Martial Arts Heroine Portrait
+
+**Source**: [@vireonixx](https://x.com/vireonixx/status/2062352968364818576)
+
+**Prompt**:
+```
+Ultra-photorealistic cinematic portrait of a legendary futuristic martial arts heroine standing in the center of a luxury fashion-editorial composition. She wears an elegant crimson and black combat outfit inspired by contemporary haute couture and advanced athletic armor, featuring intricate embroidered patterns, premium silk textures, carbon-fiber accents, metallic details, and subtle illuminated elements integrated into the design.
+
+The character is captured in a dynamic low stance, one hand extended forward and the other resting near her waist, projecting calm confidence and immense strength. Her facial features are exceptionally realistic with natural beauty, perfectly balanced proportions, visible skin pores, subtle freckles, fine facial hairs, realistic skin translucency, delicate imperfections, soft blush tones, detailed lips with natural moisture, and ultra-sharp eye detail. Deep hazel eyes display complex iris structures, realistic reflections, and cinematic catchlights.
+
+Her long dark hair flows naturally through the frame, with thousands of individually rendered strands, realistic flyaway hairs, subtle movement, and premium salon-quality shine. Decorative fabric ornaments and metallic accessories add visual interest while maintaining realism.
+
+The composition incorporates an artistic mixed-media gallery backdrop featuring fragmented photographic panels, oversized close-up facial details, layered fashion-magazine elements, torn-edge textures, floating geometric shapes, translucent acrylic sheets, and contemporary luxury-brand advertising aesthetics. The background remains predominantly bright and minimalist with sophisticated negative space.
+
+Wardrobe materials showcase extraordinary realism including premium satin, brushed metal, woven fabric, polished leather, textured embroidery, reflective surfaces, and physically accurate material responses. Every fold, stitch, seam, wrinkle, and fabric tension point is visible with microscopic precision.
+
+Captured using a medium-format professional camera system, 110mm portrait lens, ultra-high dynamic range imaging, shallow depth of field, razor-sharp focus on the eyes, cinematic studio lighting with a large diffused key light, subtle rim illumination, controlled fill lighting, realistic shadow transitions, luxury fashion photography quality, and premium commercial advertising aesthetics.
+
+Hyper-detailed skin rendering, subsurface scattering, realistic global illumination, advanced ray tracing, physically based rendering, volumetric atmosphere, ultra-clean composition, museum-quality portrait photography, luxury campaign aesthetics, editorial masterpiece, award-winning fashion photography, extraordinary realism, 32k detail, ultra-high fidelity textures, cinematic depth, breathtaking realism, next-generation rendering quality, photorealistic perfection.
+```
+
+**Output**:
+
+<img src="../images/portrait_case265/output.jpg" width="500">
+
+---
+### Case 266: Under-Glass Worms-Eye Crowd Shot
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062205313877762389)
+
+**Prompt**:
+```
+Camera placed directly beneath a completely transparent glass floor, pointing straight up. Pedestrians walk across the surface above. Pure blue sky fills the background. No buildings, walls, or edges in frame. The glass is perfectly seamless and nearly imperceptible. Extremely close viewpoint to the underside of the walking figures. People moving mostly left to right. Shoe soles fill the foreground up close.
+```
+
+**Output**:
+
+<img src="../images/portrait_case266/output.jpg" width="500">
+

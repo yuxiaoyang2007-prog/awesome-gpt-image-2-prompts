@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![689 Curated Prompts](https://img.shields.io/badge/Prompts-689_Curated_Cases-111111)](README.md)
+[![706 Curated Prompts](https://img.shields.io/badge/Prompts-706_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -380,6 +380,50 @@ Background filled with explosive colorful powder smoke clouds in blue, red, oran
 
 Composition centered and symmetrical, low angle hero shot, shallow depth of field, hyper realistic, cinematic color grading, ultra detailed advertising photography, sports branding campaign aesthetic, IMAX quality, 8k resolution, volumetric lighting, premium commercial product render, high energy dynamic mood.
 ```
+
+<!-- Case 183: Showroom Still Life Merch Drop (by @iamaiistudio) -->
+### Case 183: [Showroom Still Life Merch Drop](https://x.com/iamaiistudio/status/2062279671618957656) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case183/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Showroom Still Life Merch Drop"></a> |
+
+**Prompt:**
+
+```
+[BRAND NAME]. You are a Creative Director and Still Life Photographer for a high-fashion hypebeast magazine.
+
+YOUR TASK:
+Design a premium "Showroom Still Life" image to announce a limited merch drop for [BRAND NAME].
+
+STEP 1: BRAND ANALYSIS
+Study [BRAND NAME]: identify its industry and signature physical product (e.g., "Spalding" = basketballs, "McDonald's" = burger packaging, "Visa" = metal cards).
+Choose the Color Palette:
+- Background: a deep, rich, textured tone from the brand's secondary colors (Teal, Navy, Burgundy, or Slate Grey).
+- Merch: a warm or neutral accent tone (Camel, Orange, or Cream) that pops against the backdrop.
+- Apparel Piece: select something that fits the brand's energy (Varsity Letterman Jacket, Heavyweight Hoodie, Canvas Tote, or Wool Scarf).
+
+STEP 2: SET DESIGN
+Main Prop: a clean, modern White Powder-Coated Metal Rack or shelving unit.
+Layout:
+- The apparel piece hangs casually from the rack or a hanger, showing off its texture.
+- On the rack shelves, stack several units of the brand's core product (e.g., basketballs, cans, boxes).
+- Backdrop: hand-painted canvas in the chosen deep background color, with visible brushstrokes for that studio aesthetic.
+
+STEP 3: BRANDING DETAILS
+Apparel: feature premium physical branding via Chenille Patches, Embroidered Logos, or Screen Print on the sleeve or back. It should look like a genuinely expensive garment.
+Products: ensure the [BRAND NAME] logo is clearly visible on all stacked items.
+
+STEP 4: PHOTOGRAPHY
+Lighting: soft, directional side window light with realistic soft shadows and rich texture highlights.
+Focal length: 50mm or 85mm. Sharp focus on the merch, gentle background falloff.
+
+STEP 5: GRAPHIC OVERLAY
+Left-aligned composition:
+- Large, clean white [BRAND NAME] logo placed in the negative space on the left.
+- Beneath the logo, small white text with the brand's official tagline.
+```
+
 
 ## 🍌 Portrait & Photography Cases
 
@@ -1677,6 +1721,45 @@ Use a pale aged-parchment background with subtle grain, faded paper texture, del
 ```
 Use the exact same face from the reference image and generate a Ultra realistic cinematic portrait of that man with defined facial features, dark tousled hair, intense eyes. Shot from mid-chest up. Scene: sitting beside a large old wooden-framed window in a minimal dark room, early morning golden sunlight streaming through the glass in dramatic god rays  visible light beams cutting through floating dust particles in the air. The window light strikes directly across one side of his face, creating razor-sharp light and shadow divide. Half his face brilliantly golden, half consumed in deep natural shadow. The window frame casts a cross-shadow pattern across his chest and shoulder. Dust particles visibly floating and glowing in the light beams. Wearing a simple white linen shirt slightly unbuttoned. Background: dark moody room interior barely visible. Expression: contemplative, lost in thought, gazing toward the window light. Raw, natural, cinematic perfection. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.
 ```
+
+<!-- Case 265: Futuristic Martial Arts Heroine Portrait (by @vireonixx) -->
+### Case 265: [Futuristic Martial Arts Heroine Portrait](https://x.com/vireonixx/status/2062352968364818576) (by [@vireonixx](https://x.com/vireonixx))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case265/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Futuristic Martial Arts Heroine Portrait"></a> |
+
+**Prompt:**
+
+```
+Ultra-photorealistic cinematic portrait of a legendary futuristic martial arts heroine standing in the center of a luxury fashion-editorial composition. She wears an elegant crimson and black combat outfit inspired by contemporary haute couture and advanced athletic armor, featuring intricate embroidered patterns, premium silk textures, carbon-fiber accents, metallic details, and subtle illuminated elements integrated into the design.
+
+The character is captured in a dynamic low stance, one hand extended forward and the other resting near her waist, projecting calm confidence and immense strength. Her facial features are exceptionally realistic with natural beauty, perfectly balanced proportions, visible skin pores, subtle freckles, fine facial hairs, realistic skin translucency, delicate imperfections, soft blush tones, detailed lips with natural moisture, and ultra-sharp eye detail. Deep hazel eyes display complex iris structures, realistic reflections, and cinematic catchlights.
+
+Her long dark hair flows naturally through the frame, with thousands of individually rendered strands, realistic flyaway hairs, subtle movement, and premium salon-quality shine. Decorative fabric ornaments and metallic accessories add visual interest while maintaining realism.
+
+The composition incorporates an artistic mixed-media gallery backdrop featuring fragmented photographic panels, oversized close-up facial details, layered fashion-magazine elements, torn-edge textures, floating geometric shapes, translucent acrylic sheets, and contemporary luxury-brand advertising aesthetics. The background remains predominantly bright and minimalist with sophisticated negative space.
+
+Wardrobe materials showcase extraordinary realism including premium satin, brushed metal, woven fabric, polished leather, textured embroidery, reflective surfaces, and physically accurate material responses. Every fold, stitch, seam, wrinkle, and fabric tension point is visible with microscopic precision.
+
+Captured using a medium-format professional camera system, 110mm portrait lens, ultra-high dynamic range imaging, shallow depth of field, razor-sharp focus on the eyes, cinematic studio lighting with a large diffused key light, subtle rim illumination, controlled fill lighting, realistic shadow transitions, luxury fashion photography quality, and premium commercial advertising aesthetics.
+
+Hyper-detailed skin rendering, subsurface scattering, realistic global illumination, advanced ray tracing, physically based rendering, volumetric atmosphere, ultra-clean composition, museum-quality portrait photography, luxury campaign aesthetics, editorial masterpiece, award-winning fashion photography, extraordinary realism, 32k detail, ultra-high fidelity textures, cinematic depth, breathtaking realism, next-generation rendering quality, photorealistic perfection.
+```
+
+<!-- Case 266: Under-Glass Worms-Eye Crowd Shot (by @iamaiistudio) -->
+### Case 266: [Under-Glass Worms-Eye Crowd Shot](https://x.com/iamaiistudio/status/2062205313877762389) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case266/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Under-Glass Worms-Eye Crowd Shot"></a> |
+
+**Prompt:**
+
+```
+Camera placed directly beneath a completely transparent glass floor, pointing straight up. Pedestrians walk across the surface above. Pure blue sky fills the background. No buildings, walls, or edges in frame. The glass is perfectly seamless and nearly imperceptible. Extremely close viewpoint to the underside of the walking figures. People moving mostly left to right. Shoe soles fill the foreground up close.
+```
+
 
 ## 🎨 Poster & Illustration Cases
 
@@ -3090,6 +3173,159 @@ Aspect ratio 4:5
 {"type":"Japanese mascot character sheet / contest entry poster","format":"wide horizontal infographic character design sheet, 16:9, clean cream background with orange decorative borders, shrine motifs, sparkles and rays, high-detail cute anime mascot illustration, warm orange and gold palette, crisp vector-like line art with watercolor shading","main_title":{"position":"upper left","text":"{argument name=\"character name\" default=\"電子レンジ大明神 チンノスケ\"}","style":"large bold Japanese display lettering, black furigana above smaller text, oversized orange brush-calligraphy name"},"tagline":{"position":"below title","text":"{argument name=\"tagline\" default=\"温めすぎた未来から来た、チンする神様。\"}","style":"orange framed ribbon label"},"character":{"centerpiece":"full-body front-facing original mascot deity, a small cute god whose head is a white microwave oven with a glowing orange screen face, round cheeks, thick eyebrows, tiny mustache, smiling expression, microwave buttons and 600w label on the right side, black power plug cord extending from the head, wearing ornate Shinto priest robes in white, orange, black and gold, thick sacred rope around shoulders, paper shide streamers, tassels, patterned kimono layers, geta sandals, holding a ceremonial staff topped with a glowing rice-bowl symbol","head_details":"torii-like golden halo and five wooden prayer plaques mounted above the microwave head, labeled 解凍, あたため, 加熱神, 自動, 強弱","body_details":"front apron panel labeled 600w with a steaming rice bowl emblem, hanging talismans and small labels along the sleeve","expression":"cheerful divine mascot face displayed inside the microwave window"},"layout":{"sections":[{"title":"trait profile box","position":"left middle","count":4,"labels":["性格：世話焼き / やさしい / 加減が苦手","特技：冷めたご飯を一瞬で温める / 心の温度を測る","弱点：アルミホイル / 停電 / 猫舌","口ぐせ：『600ワットの慈悲』"],"style":"rounded white card with orange icons: flower, rice bowl, warning triangle, speech bubble"},{"title":"ご利益","position":"bottom left","count":3,"labels":["冷めたご飯がほかほかに!","疲れた心があたたまる!","未来の自分にやさしくなれる!"],"style":"wooden shrine sign board with bow decoration, plus a lucky beckoning cat holding a plaque labeled あったか未来"},{"title":"全力あたためポーズ!","position":"upper right","count":1,"labels":["温めすぎても愛があれば大丈夫である!"],"style":"action pose panel with orange speed lines, the mascot pointing upward dramatically while the microwave face looks fierce"},{"title":"ディテール紹介","position":"right middle","count":3,"labels":["頭の御札（操作札）","しめ縄コンセント","おなかの操作パネル"],"style":"three circular detail callouts with short explanatory captions, showing the wooden control plaques, braided rope power plug, and 600w belly control panel"},{"title":"弱点な瞬間…","position":"bottom right","count":3,"labels":["アルミホイルは神をも反射する…!","停電になるとただの箱神様に…!","猫舌ゆえに熱々はつらいのじゃ…"],"style":"three small rounded panels showing comedic weakness scenes: aluminum foil glare, dark power outage, and crying from hot food"}],"total_discrete_sections":5,"decorative_elements":"orange corner ornaments, tiny clouds, sparkles, radiating sunburst lines, shrine icon above title, small stamp-like signature near the cat"},"typography":"all visible text is Japanese, playful manga-style headings with orange emphasis, neat black body captions, occasional furigana above kanji","rendering_instructions":"make it look like a polished Japanese character reference sheet for a future-character discovery festival, balanced composition with the large mascot centered, no photorealism, no 3D, highly readable labels, cute humorous tone, dense but organized poster layout","customization":{"core_concept":"{argument name=\"mascot concept\" default=\"a microwave-oven Shinto deity who warms food and hearts\"}","catchphrase":"{argument name=\"catchphrase\" default=\"『600ワットの慈悲』\"}","color_palette":"{argument name=\"color palette\" default=\"warm orange, gold, cream, white, and black\"}"}}
 ```
 
+<!-- Case 327: Avant-Garde 3D Caricature Portrait (by @iamaiistudio) -->
+### Case 327: [Avant-Garde 3D Caricature Portrait](https://x.com/iamaiistudio/status/2062340531448066386) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case327/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Avant-Garde 3D Caricature Portrait"></a> |
+
+**Prompt:**
+
+```
+Generate a highly stylized 3D caricature portrait with deliberate exaggerated deformation and a smooth, polished surface. Base the character on the ATTACHED REFERENCE PHOTO, keeping the subject's identity, skin tone, facial likeness, and distinctive features intact, while transforming them into a bold caricatured 3D figure featuring a stretched elongated neck, an oversized head, heavy drooping eyelids, full lips, and a slightly asymmetric face. The character should have clean, studio-quality skin with purposeful detail rather than random noise or texture. Accessorize boldly with round or oval glasses, hoop earrings, gold chains, head wraps or bandanas, and street-luxury fashion. Light with neutral studio lighting for soft shadows and even tones, no harsh contrast, set against a plain neutral grey or off-white backdrop. The vibe should feel avant-garde, collectible, fashion-forward, and character-focused rather than realistic or cute. Ultra-high definition, premium cinematic 3D render, hyperrealistic quality, clean materials, no freckles, dirt, grain, noise, text, logos, or watermarks. Aspect ratio 4:5
+```
+
+<!-- Case 328: Ink Noir Portrait (by @iamaiistudio) -->
+### Case 328: [Ink Noir Portrait](https://x.com/iamaiistudio/status/2062325077912519045) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case328/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ink Noir Portrait"></a> |
+
+**Prompt:**
+
+```
+Dark, high-contrast noir-style portrait of [SUBJECT], drawn entirely with bold black ink lines and deliberate splatter. Deep shadows dominate the frame, with bright highlights carved out through empty white space. A subtle paper grain shows through. The mood is brooding, cinematic, and intense, like the most gripping panel in a graphic novel.
+```
+
+<!-- Case 329: Mixed-Media Train Platform Portrait (by @iamaiistudio) -->
+### Case 329: [Mixed-Media Train Platform Portrait](https://x.com/iamaiistudio/status/2062311265993986425) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case329/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mixed-Media Train Platform Portrait"></a> |
+
+**Prompt:**
+
+```
+Mixed media portrait of a trendy young man standing on a KRL Jabodetabek Commuter Line platform at night. He poses confidently, one hand gripping the strap of an olive-green backpack, dressed in streetwear: oversized black layered hoodie, gray sweatpants, chunky sneakers.
+
+The background shows the train in full side view with its signature red stripe, doors wide open, lit by cinematic platform lighting against the city night sky.
+
+Surrounding the realistic subject are several cute 3D chibi versions of him, same face and outfit, each in a playful pose: one sitting on his shoulder, one climbing his leg, one peeking out of the backpack.
+
+Layered over the whole image: vivid hand-drawn doodle effects, white stroke outlines around the subject, glowing stars, sparkles, electric sparks, and floating handwritten captions reading "forever young", "krl", "night", and "gen z vibes". The final result blends hyper-realistic photography with flat cartoon illustration, keeping the face and body unchanged.
+```
+
+<!-- Case 330: Brand Identity Oil Painting (by @iamaiistudio) -->
+### Case 330: [Brand Identity Oil Painting](https://x.com/iamaiistudio/status/2062249710489067957) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case330/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Oil Painting"></a> |
+
+**Prompt:**
+
+```
+[BRAND NAME].
+Create a professional mixed-media oil painting on raw textured canvas where the color palette and visual elements are dynamically adapted to match the brand's identity.
+
+1. BRAND COLOR ADAPTATION
+Identify the primary and secondary colors of [BRAND NAME]. Use the primary brand color for two thick horizontal impasto brushstrokes. Use the secondary brand color for a raised central paint dollop. Replace generic colors with this brand-specific palette.
+
+2. PAINTED SUBJECT AND MOTION
+Paint a central product related to [BRAND NAME] vertically on the canvas using oil painting technique. Apply a horizontal motion blur effect with visible brushstrokes to convey dynamic movement. The product must integrate directly into the canvas texture, not as an overlay. Paint the "[BRAND NAME]" logo using distressed semi-transparent oil layers within the product's silhouette.
+
+3. IMPASTO AND CANVAS TEXTURE
+Two thick physical horizontal impasto strokes in the brand's primary color over the painted subject. One heavily textured raised dollop of secondary color oil paint centered on the middle stroke. Background: raw heavy-grain grey canvas with visible weave, charcoal smudges, and gesso dabs.
+
+4. BRAND GRAPHICS AND TYPOGRAPHY
+Scrawl brand keywords, slogans, and values in charcoal and graphite across the canvas. Replace generic doodles with hand-drawn abstract icons representing [BRAND NAME], all scratched over dried oil paint layers.
+
+5. STYLE
+Contemporary mixed-media pop-art. 8K macro photography highlighting the physical thickness of the oil paint and raw canvas grain texture.
+```
+
+<!-- Case 331: Berries and Blossoms Infographic Poster (by @92digitalartArt) -->
+### Case 331: [Berries and Blossoms Infographic Poster](https://x.com/92digitalartArt/status/2062237147260756025) (by [@92digitalartArt](https://x.com/92digitalartArt))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case331/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Berries and Blossoms Infographic Poster"></a> |
+
+**Prompt:**
+
+```
+A delightful vertical infographic poster in 9:16 format about berries and forest fruits, designed in a warm 3D cozy kawaii illustration style with soft rounded shapes, glossy textures, and a comforting pastel atmosphere, featuring a tall central floating garden diorama where oversized strawberries, blueberries, raspberries, blackberries, and tiny blossoms are arranged like a charming miniature world, each fruit rendered in plush 3D with cute faces, tiny highlights, and a toy-like finish; the scene includes little leaves, dew drops, honey jars, wooden baskets, and soft clouds of steam rising from a fresh fruit tart near the bottom, all surrounded by a gentle gradient background shifting from creamy pink at the top to warm peach and mint at the bottom, with floating sparkles and bokeh dots; the title should be placed near the top left in a rounded playful font reading BERRIES & BLOSSOMS, with a subtitle below reading A SWEET GARDEN STORY; fact blocks should be arranged asymmetrically in adorable rounded cards placed across the poster, with labels such as SEASON, NUTRITION, GROWTH, POLLINATION, FLAVORS, and HARVEST, each using tiny cute icons and short friendly descriptions; a DID YOU KNOW? panel should sit near the lower right inside a soft strawberry-shaped frame with five original fun facts; the entire poster should feel cozy, sweet, colorful, whimsical, and fully original, with no copyrighted content, no logos, no pop-culture references, and a complete 9:16 vertical ratio
+```
+
+<!-- Case 332: Mid-Century Editorial Illustration System (by @Goodmanprotocol) -->
+### Case 332: [Mid-Century Editorial Illustration System](https://x.com/Goodmanprotocol/status/2062235491588849920) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case332/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mid-Century Editorial Illustration System"></a> |
+
+**Prompt:**
+
+```
+Create a premium mid-century-inspired flat editorial illustration of [Subject], rendered in a refined handcrafted printmaking aesthetic. The artwork should feel like a sophisticated vintage children’s encyclopedia illustration combined with Scandinavian editorial design and retro nature-book graphics.
+
+Language: English 8K ultra-high resolution with a 3:4 aspect ratio
+
+STYLE: minimalist flat-shape illustration soft geometric simplification handcrafted gouache + risograph + silkscreen print texture subtle paper grain and dry ink imperfections muted refined color palette clean matte colors crisp neutral white balance bright museum-quality paper appearance no yellow tint no beige cast no sepia tone no glossy rendering no photorealism no 3D shading elegant editorial composition premium picture-book atmosphere modern museum-shop illustration vibe
+
+COMPOSITION: spacious balanced layout with multiple elements harmoniously arranged simplified organic shapes stylized plants, objects, animals, architecture, landmarks, or symbolic elements depending on [Subject] visual storytelling through clustered illustrated motifs maximum 8–10 illustrated elements total playful but refined asymmetrical editorial balance large clean negative space on soft neutral white paper background premium Scandinavian editorial layout feeling
+
+TEXTURE & PRINT FEEL: subtle premium paper texture refined layered ink overlap delicate risograph misalignment soft dry brush grain light handcrafted print imperfections tactile handcrafted surface feeling clean bright paper surface controlled ink density airy and crisp visual atmosphere
+
+COLOR SYSTEM: muted teal dusty blue sage green cool gray faded coral soft navy desaturated mineral tones restrained natural palette (adjust palette naturally to fit [Subject])
+
+ILLUSTRATION RULES: simplified eyes and facial features rounded organic silhouettes minimal line usage flat layered color blocking decorative but restrained detail density avoid excessive realism avoid anime style avoid modern vector corporate style avoid bright neon colors avoid sharp digital gradients avoid yellowish paper tone avoid vintage sepia coloration
+
+MOOD: quietly playful, educational, nostalgic, timeless, sophisticated, airy, clean, premium editorial illustration, Scandinavian museum-book elegance
+
+OUTPUT: high-resolution editorial illustration, ultra-clean composition, refined handcrafted print aesthetic, bright neutral paper tones, crisp museum-quality editorial finish, suitable for premium magazine spreads, art books, museum posters, or luxury children’s publishing.
+```
+
+<!-- Case 333: Graphic-Novel Eyes Banner (by @iamaiistudio) -->
+### Case 333: [Graphic-Novel Eyes Banner](https://x.com/iamaiistudio/status/2062189319562187193) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case333/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Graphic-Novel Eyes Banner"></a> |
+
+**Prompt:**
+
+```
+Cinematic poster art: extreme close-up of a man's eyes filling a narrow horizontal band across the frame, deep black void above and below. Graphic-novel illustration style with bold red, black, and orange tones, heavy contrast, dramatic shadows, sharp highlights, raw gritty atmosphere. Eyes look fierce and emotionally charged, hair slightly disheveled.
+```
+
+<!-- Case 334: Cosmic Campfire Concept Art (by @iamaiistudio) -->
+### Case 334: [Cosmic Campfire Concept Art](https://x.com/iamaiistudio/status/2062113170467221759) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case334/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cosmic Campfire Concept Art"></a> |
+
+**Prompt:**
+
+```
+Create a surreal, cinematic, photorealistic 8k conceptual artwork set in an abstract cosmic void. Use a high-angle full shot with symmetrical balance, placing a magical campfire at the exact center between two seated characters against a pitch-black background with no visible environment.
+
+On the left, show an astronaut sitting on a rough gray rock, wearing a highly detailed realistic white space suit with the helmet on and a reflective visor. The astronaut holds a stick and roasts a marshmallow over the fire.
+
+On the right, show a young man sitting on a metal folding chair and leaning forward toward the flames. He has dark hair and wears a red and black plaid flannel shirt, blue jeans, and brown boots. He is warming his hands by the fire.
+
+Make the central campfire magical and surreal: the warm orange flames should transition seamlessly into a photorealistic spiral galaxy filled with glittering stars, cosmic dust, and visible swirling motion. The galaxy should rise and arch overhead like a celestial canopy.
+
+Lighting should be dramatic and cinematic. Use warm orange firelight as the primary light source, with cool blue and purple glow from the galaxy as secondary light. Create soft but deep shadows and strong contrast. Use a color palette dominated by black, orange, blue, and purple, with white, red, and brown accents.
+
+The image should communicate human connection, cosmic wonder, the contrast between ordinary life and the infinite universe, and shared warmth in an endless dark space. Render with ultra-detailed photorealistic textures, cinematic lighting, sharp focus, and high dynamic range.
+```
+
+
 ## 🧍 Character Design Cases
 
 > **13 curated cases** — [Explore all Character Design Prompts →](cases/character.md)
@@ -3138,6 +3374,45 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 ```
 
 👉 **See all 13 Character Design prompt cases →**
+
+<!-- Case 18: Stylized 3D Skater Character (by @iamaiistudio) -->
+### Case 18: [Stylized 3D Skater Character](https://x.com/iamaiistudio/status/2062038112398954712) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case18/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Stylized 3D Skater Character"></a> |
+
+**Prompt:**
+
+```
+Design a stylized 3D cartoon skater character with a premium animated-film look, mixing Pixar-like polish, Spider-Verse energy, and indie street-art attitude.
+
+Character details:
+- exaggerated proportions with long, skinny limbs
+- oversized hoodie in customizable pink
+- baggy ripped denim jeans
+- chunky sneakers
+- expressive tired-but-confident face
+- messy stylized hair
+- large headphones
+- backpack covered with pins and patches
+- standing naturally on a skateboard
+
+Visual style:
+Clean cinematic 3D render with soft global illumination, subtle chromatic aberration, ultra-detailed textures, smooth shading, playful but believable anatomy, high-end character design, stylized streetwear fashion, and urban youth energy.
+
+Pose:
+Slightly slouched posture, one hand relaxed, cool bored expression, looking sideways.
+
+Background:
+Minimal clean studio background with soft shadows and a centered composition.
+
+Extra details:
+Add stickers, embroidered patches, smiley pins, doodles, skate-culture details, early-2000s urban energy, cinematic render quality, and a polished animation-studio finish.
+
+Aspect ratio: 4:5 vertical.
+```
+
 
 ## 📱 UI & Social Media Mockup Cases
 
@@ -3463,6 +3738,235 @@ Adapt the content modules to the chosen theme. Use the most relevant mix of basi
 
 Use a light clean background, soft coordinated colors, subtle shadows, refined small icons, rounded info boxes, tidy spacing, and dense information that still feels easy to read. The final image should look publishable, collectible, readable, and suitable for a repeatable encyclopedia-card series. Avoid a commercial advertising poster look. Emphasize knowledge organization, modular information design, and illustrated encyclopedia presentation.
 ```
+
+<!-- Case 164: Pet World Cup Storyboard Sheet (by @CamikaApp) -->
+### Case 164: [Pet World Cup Storyboard Sheet](https://x.com/CamikaApp/status/2062355101877231959) (by [@CamikaApp](https://x.com/CamikaApp))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case164/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pet World Cup Storyboard Sheet"></a> |
+
+**Prompt:**
+
+```
+A professional pre-production storyboard sheet for a 12-second photorealistic short film, single landscape page, layout top to bottom:
+
+== TITLE BAR ==
+Black bar across full width. Left: massive bold white text "PET WORLD CUP". Right: two outlined boxes "TOTAL VIDEO TIME: 12 SECONDS" and "8 SHOTS · ENSEMBLE · COMEDY · CINEMATIC".
+
+== ICON LEGEND ==
+Four icon+label pairs in a row: soccer ball + "BALL ACTION"; paw + "DUEL"; hamster + "MIGHTY MINI"; trophy + "VICTORY".
+
+== MAIN GRID (8 panels, 2×4) ==
+Each panel: thin white border, landscape 16:9. Number badge (1-8) top-left, teal "~1.5s" tag top-right, photorealistic still inside, bottom caption bar with icon + ALL-CAPS text.
+
+1. [ball] "PET WORLD CUP FINAL KICKS OFF" — Wide stadium at golden hour. Midfield: orange tabby cat (red jersey) + golden retriever (blue jersey) facing off, ball between them. Deep background: enormous white goalposts with tiny hamster goalkeeper between them. Side: white rabbits in stands with pom-poms. Sunset cinematic light.
+
+2. [paw] "RABBIT CHEERLEADERS BRING THE NOISE" — Close on stands: 3 fluffy white rabbits in tiny jerseys, mouths open cheering, paws shaking red and blue pom-poms in unison. Stadium lights, blurred crowd silhouettes behind.
+
+3. [paw] "CAT VS DOG MIDFIELD DUEL" — Close-up: cat (red jersey) and dog (blue jersey) facing off, ball between their paws. Intense eye contact. Dirt kicking up. Whiskers and ear fluff in motion.
+
+4. [ball] "DOG STEALS, BREAKS AWAY" — Dog with ball at paws charging through midfield. Cat sprinting behind, paws stretched, ears back.
+
+5. [ball] "DOG WINDS UP — SHOT INCOMING" — Dog in classic kick pose, back leg lifted high, eyes locked on distant goal. Deep background: enormous white goalposts with TINY hamster goalkeeper barely visible — dramatic scale contrast.
+
+6. [hamster] "HAMSTER VS THE GIANT GOAL" — Low angle close-up: enormous white goalposts towering over tiny golden Syrian hamster wearing mini yellow goalie gloves. Looking up determined, paws raised ready. Ball flying in from frame edge.
+
+7. [hamster] "EPIC SAVE — TINY BUT MIGHTY" — Hamster in full sprawl leap, paws extended, blocking ball with tiny body. Mid-air freeze frame. Confetti falling, blurred crowd silhouettes raising arms.
+
+8. [trophy] "HAMSTER HERO — TEAMS UNITE" — Wide final shot at golden hour: cat (red) and dog (blue) standing side by side staring in awe at tiny hamster holding up small golden trophy. White rabbits in stands raise pom-poms wildly. Confetti, golden sparkles.
+
+== BOTTOM INFOGRAPHIC (4 sections horizontal) ==
+[Clock] VIDEO FLOW: "8 shots × ~1.5s = 12s. Stadium → rabbit fans → cat-vs-dog rivalry → dog shoots → hamster saves → ensemble celebration."
+
+[Camera] CAMERA TIPS: "Wide establishing on stadium, close-up on rabbits, low-angle on midfield duel, side-tracking on breakaway, scale frame on hamster vs goalposts, hero shot on save, wide on celebration."
+
+[Sun] LIGHT & STYLE: "Photorealistic cinematic. Golden-hour stadium light throughout. Warm amber grass, lens flares, real DSLR/iPhone aesthetic. Crisp action focus."
+
+[Person] CHARACTER NOTES: "Cast: orange tabby cat with M-mark (red jersey), golden retriever (blue jersey), golden Syrian hamster with mini yellow goalie gloves (yellow kit), 3-4 white fluffy rabbits with pom-poms. Hamster MUST appear dramatically tiny vs goalposts. All humans/crowd are faceless silhouettes — no faces. Each animal identical across panels."
+
+== STRICT EXCLUSIONS ==
+No real soccer team logos, no FIFA/Champions League/UEFA/World Cup branding, no real player faces, no sponsor logos, no national flags, no jersey numbers, no stadium signage with real text, no captions, no watermarks. Plain colored jerseys only. All 8 panels photorealistic — never cartoon/3D/illustration. All animals identical across panels.
+```
+
+<!-- Case 165: Cinematic Contact Sheet Generator (by @KingNyalTut) -->
+### Case 165: [Cinematic Contact Sheet Generator](https://x.com/KingNyalTut/status/2062330612279611656) (by [@KingNyalTut](https://x.com/KingNyalTut))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case165/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Contact Sheet Generator"></a> |
+
+**Prompt:**
+
+```
+Given the scene context, generate the Cinematic Contact Sheet based on the instructions:
+<instruction>
+Analyze the entire composition of the input image. Identify ALL key subjects present (whether it's a single person, a group/couple, a vehicle, or a specific object) and their spatial relationship/interaction.
+Generate a cohesive 3x3 grid "Cinematic Contact Sheet" featuring 9 distinct camera shots of exactly these subjects in the same environment.
+You must adapt the standard cinematic shot types to fit the content (e.g., if a group, keep the group together; if an object, frame the whole object):
+Row 1 (Establishing Context):
+Extreme Long Shot (ELS): The subject(s) are seen small within the vast environment.
+Long Shot (LS): The complete subject(s) or group is visible from top to bottom (head to toe / wheels to roof).
+Medium Long Shot (American/3-4): Framed from knees up (for people) or a 3/4 view (for objects).
+Row 2 (The Core Coverage):
+4. Medium Shot (MS): Framed from the waist up (or the central core of the object). Focus on interaction/action.
+5. Medium Close-Up (MCU): Framed from chest up. Intimate framing of the main subject(s).
+6. Close-Up (CU): Tight framing on the face(s) or the "front" of the object.
+Row 3 (Details & Angles):
+7. Extreme Close-Up (ECU): Macro detail focusing intensely on a key feature (eyes, hands, logo, texture).
+8. Low Angle Shot (Worm's Eye): Looking up at the subject(s) from the ground (imposing/heroic).
+9. High Angle Shot (Bird's Eye): Looking down on the subject(s) from above.
+Ensure strict consistency: The same people/objects, same clothes, and same lighting across all 9 panels. The depth of field should shift realistically (bokeh in close-ups).
+</instruction>
+A professional 3x3 cinematic storyboard grid containing 9 panels.
+The grid showcases the specific subjects/scene from the input image in a comprehensive range of focal lengths.
+Top Row: Wide environmental shot, Full body view, 3/4 cut.
+Middle Row: Waist-up view, Chest-up view, Face/Front close-up.
+Bottom Row: Macro detail, Low Angle, High Angle.
+All frames feature photorealistic textures, consistent cinematic color grading, and correct framing for the specific number of subjects or objects analyzed.
+
+Here is the scene context:
+A wide cinematic exterior of the Whitmore estate at dusk in Buckhead, Atlanta. The massive gated modern mansion glows with warm amber lights against the dark tree line, with the circular driveway, lion fountain, and polished landscaping fully visible. The estate feels quiet, powerful, and untouchable — like a private world hidden behind wealth and security.
+```
+
+<!-- Case 166: Technical Food Annotation Infographic (by @iamaiistudio) -->
+### Case 166: [Technical Food Annotation Infographic](https://x.com/iamaiistudio/status/2062264967722934629) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case166/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Technical Food Annotation Infographic"></a> |
+
+**Prompt:**
+
+```
+Generate an infographic image of any food item, combining a realistic photograph or photoreal render with technical annotation overlays placed directly on top. Use black ink-style line drawings and text (technical pen / architectural sketch look) on a pure white studio background. Include: key component labels, internal cutaway or exploded-view outlines, measurements and scale markers, material callouts and quantities, arrows indicating function or flow, simple schematic or sectional diagrams where relevant. Place the food name as a title inside a hand-drawn annotation box in one corner. The real object should remain clearly visible beneath the annotations. Annotations should feel sketched, technical, and architectural. Clean composition with balanced negative space, educational museum-exhibit / engineering-manual vibe. White background, black annotation lines and text only, no colors. Output: 1080x1080, ultra-crisp, no watermark.
+```
+
+<!-- Case 167: Bazaar Heist Storyboard Card (by @aimikoda) -->
+### Case 167: [Bazaar Heist Storyboard Card](https://x.com/aimikoda/status/2062223135454249178) (by [@aimikoda](https://x.com/aimikoda))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case167/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bazaar Heist Storyboard Card"></a> |
+
+**Prompt:**
+
+```
+Create a 16:9 image.
+
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: JIEL MARKET HANDS
+META LINE: sly fantasy theft / fast-paced bazaar caper / sharp kinetic energy
+PRIORITY: readable hand tricks, crowd geography, magical bag payoff
+MICRO BRIEF: C1 survives by stealing through a crowded market, chaining fast sleight-of-hand thefts until a witness grabs her arm and becomes her final stolen prize.
+
+[CONTINUITY HEADER]
+SEQUENCE ID: JIEL_MARKET_PICKPOCKET_MAGIC_BAG_12P
+REFERENCE PRIORITY: attached Jiel character sheet controls C1 face, body, wardrobe, proportions, hood, hair, belt, pouches, boots, wrapped hands; attached market image controls bazaar density, stall layout, warm dust, awnings, crowd scale, and painterly-world texture; this storyboard controls staging, motion, geography, and continuity.
+
+[SCENE PACKET]
+PREMISE: A red-hooded thief moves through a crowded old bazaar using collisions, distractions, and hand speed to steal coins, jewelry, and wallets before magically stealing the man who catches her.
+LOCATION: sunlit packed market alley, stalls left and right, hanging fabrics overhead, jewelry stall left, fruit baskets right, cloth booth midground, arched exit background, narrow side gap behind C1 screen right.
+START -> END: C1 enters from background center with empty hands and hidden satchel -> C2 catches her wrist foreground right, then shrinks and folds into C1's open magic bag as the crowd barely notices.
+ACTION CHAIN: master geography -> necklace lift -> bump wallet steal -> cloak-pass coin purse cut -> fruit-stall distraction theft -> fast crowd weave -> witness notices -> wrist grab -> anxious turn -> bag opens with warped pull -> C2 is swallowed into bag -> C1 snaps bag shut and vanishes into crowd.
+PROP / EFFECT STATE: small tan satchel at C1 hip begins closed, stolen wallet and coin purse move into her belt pouch, jewelry cord disappears under red cloak, final bag mouth opens with pale spiral distortion and cloth-like pull lines, no gore.
+MUST READ: C1's quick hands make ordinary theft look playful until the final theft becomes impossible and supernatural.
+
+[CHARACTER SANITIZATION]
+C1: young adult red-hooded thief, short red hair with small twin buns, freckles, slim agile silhouette, cropped cloak, scarf, wrapped hands, utility belt, tan satchel, boots, low quiet posture, quick precise hands.
+C2: adult market man, taller average build, rolled sleeves, dark vest, stern stance, one hand grabbing C1's wrist, startled body bend when pulled toward bag.
+C3: adult market crowd and vendors, varied robes and hats, readable background silhouettes only.
+Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+
+[IDENTITY CONSISTENCY]
+Identity reference controls C1 face/body/wardrobe/proportions; keep C1's red hood, short red hair, wrapped hands, belt pouches, tan satchel, boots, and left-to-right movement consistent. Keep C2 as the same adult man from witness beat through bag capture. Do not redesign, age-shift, gender-shift, merge, or beautify characters across panels.
+
+[STORYBOARD PURITY]
+Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+
+[MASTER SHOT RULE]
+P01 shows full playable bazaar geography: stalls left and right, overhead cloth, crowd lanes, C1 center path, side gap screen right, arched exit background, and where C2 can later enter from foreground right.
+
+[EMOTIONAL ARC]
+quiet control -> playful precision -> rising risk -> caught alarm -> impossible reversal -> clean escape. Show it through lowered shoulders, hidden hand angles, sudden eye-line shifts, wrist tension, C2's forward lean, and C1's final compact snap-shut pose.
+
+[STYLE LOCKS]
+STYLE LOCK: clean monochrome rough-sketch storyboard inside panels, light-gray gesture lines, simplified bazaar forms, readable silhouettes, restrained off-white sheet design with tiny rust and dark-teal accents outside panel artwork only.
+EFFECT LOCK: final magic bag effect is a pale sketch spiral and fabric-warp pull, medium thickness, soft edges, no colored glow inside panels, no gore or horror gore.
+ENVIRONMENT LOCK: crowded warm old bazaar layout stays consistent; market detail remains simplified sketch, not dense finished concept art.
+
+[SPATIAL CONTINUITY LOCK]
+P01, P06, P08, P09, P10, P11, and P12 share one market-alley layout. Later panels are closer angles or a wider return on the same axis, not redesigned locations. Lock jewelry stall left, fruit baskets right, cloth booth midground, overhead awnings, arched exit background, and C2 entering from foreground right. Allowed changes: camera distance, crowd gaps, C1 pose, stolen prop state, bag open/closed state, and C2's body position during the magical pull.
+
+[DIRECTOR STRIP]
+Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
+RHYTHM TRACK format: `RHY P [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+ESCALATION MAP format: `ESC P [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+PANEL HEADERS: P01 / 24mm wide / Bazaar master -> P02 / 50mm / Necklace lift -> P03 / 35mm / Bump wallet -> P04 / macro insert / Coin purse cut -> P05 / 35mm / Fruit distraction -> P06 / overhead wide / Crowd weave -> P07 / 85mm / Witness sees -> P08 / 50mm / Wrist catch -> P09 / 85mm portrait / Anxious turn -> P10 / 35mm / Bag opens -> P11 / 24mm wide / Man stolen -> P12 / 50mm / Snap escape
+CAMERA + LENS PLAN: P01 wide geography hold -> P02 side track 50mm -> P03 handheld bump 35mm -> P04 macro insert -> P05 whip pan 35mm -> P06 overhead tactical wide -> P07 compressed witness close -> P08 crash-in 50mm -> P09 reaction close -> P10 low side 35mm -> P11 wider distortion hold -> P12 follow-off 50mm
+ACTION PATH: P01 C1 threads center lane -> P02 fingers lift necklace cord -> P03 shoulder bump frees wallet -> P04 blade-like fingers cut coin purse -> P05 fruit spill hides bracelet grab -> P06 C1 slips through closing crowd -> P07 C2 checks empty pouch -> P08 C2 grabs C1 wrist -> P09 C1 turns with held breath -> P10 C1 opens satchel against C2 arm -> P11 C2 folds into bag pull -> P12 C1 shuts bag and exits
+RHYTHM TRACK: P01 RHY P01: hold / medium block / clean beat -> P02 RHY P02: burst / short block / clean beat -> P03 RHY P03: impact / short block / smash beat -> P04 RHY P04: burst / short block / clean beat -> P05 RHY P05: burst / short block / whip beat -> P06 RHY P06: build / medium block / match beat -> P07 RHY P07: pause / short block / held beat -> P08 RHY P08: impact / short block / smash beat -> P09 RHY P09: pause / short block / held beat -> P10 RHY P10: build / short block / clean beat -> P11 RHY P11: impact / medium block / smash beat -> P12 RHY P12: final hit / short block / clean beat
+ESCALATION MAP: P01 ESC P01: L1 calm / flat -> P02 ESC P02: L2 tension / rise -> P03 ESC P03: L3 rise / spike -> P04 ESC P04: L2 tension / drop -> P05 ESC P05: L3 rise / spike -> P06 ESC P06: L3 rise / rise -> P07 ESC P07: L4 surge / spike -> P08 ESC P08: L4 surge / rise -> P09 ESC P09: L5 peak / spike -> P10 ESC P10: L5 peak / unresolved -> P11 ESC P11: L5 peak / spike -> P12 ESC P12: L3 rise / release
+STATE TRACK: P01 bag closed empty -> P02 necklace hidden -> P03 wallet in palm -> P04 coin purse loose -> P05 bracelet pocketed -> P06 loot belt bulge -> P07 C2 empty pouch -> P08 wrist locked -> P09 C1 caught -> P10 bag mouth open -> P11 C2 shrinking/folding -> P12 bag shut C1 exits right
+STYLE TRACK: P01 pale bazaar sketch -> P02 quick hand line -> P03 impact blur sketch -> P04 clean insert -> P05 crowd smear -> P06 overhead lanes -> P07 tight stare -> P08 wrist tension -> P09 face close -> P10 spiral sketch -> P11 fabric warp -> P12 dust escape
+
+[SEQUENCE]
+Grid: 12 panels in a 4x3 storyboard sheet; fast-cut caper montage with a shared bazaar geography, clear theft inserts, caught reaction, magical bag reversal, and active escape ending.
+```
+
+<!-- Case 168: Luxury Starter Pack Vision Board (by @mehvishs25) -->
+### Case 168: [Luxury Starter Pack Vision Board](https://x.com/mehvishs25/status/2062355934589108655) (by [@mehvishs25](https://x.com/mehvishs25))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case168/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Starter Pack Vision Board"></a> |
+
+**Prompt:**
+
+```
+Ultra-detailed luxury feminine “Starter Pack” vision board poster featuring an adorable chibi-style girl as the central character, inspired by premium collectible dolls and Pinterest luxury aesthetics. She has huge sparkling brown eyes, long wavy black hair, soft glamorous makeup, glossy lips, delicate jewelry, and a confident yet cute expression.
+
+Outfit: elegant monochrome ivory-white fashion look consisting of a fitted blazer, cropped top, high-waisted mini skirt, sheer tights, luxury handbag, and stylish heels. Sophisticated, classy, feminine, and fashion-forward.
+
+Composition: the character stands in the center surrounded by an elaborate scrapbook-style collage pinned onto a warm beige aesthetic wall. Numerous Polaroid photos, torn-paper notes, journal pages, gold heart pins, washi tape, dried flowers, doodles, handwritten quotes, and lifestyle snapshots create a premium vision-board effect.
+
+Photo memories surrounding her include:
+
+working on a MacBook in a luxury café
+
+taking photographs with a camera
+
+traveling through international airports
+
+shopping in fashionable city streets
+
+posing in elegant outfits
+
+enjoying luxury vacations
+
+golfing on a beautiful course
+
+coffee dates and aesthetic lifestyle moments
+
+content creation and personal branding
+
+dream destinations around the world
+
+Vision board sections include:
+Traits, Goals, Daily Habits, Manifestations, Bucket List, Travel Dreams, Future Plans, Success Tracker, Self-Care Routine, Weekly Goals, and Motivational Quotes.
+
+Foreground desk setup: designer planner, leather journal, luxury pen, coffee mug with inspirational typography, skincare products, perfume bottle, candles, flowers, wallet, sunglasses, beauty accessories, and elegant stationery arranged aesthetically.
+
+Color palette: soft beige, cream, ivory, champagne, warm taupe, nude blush, and subtle gold accents.
+
+Lighting: warm natural window light, soft shadows, cozy luxury atmosphere, dreamy glow, realistic depth and layering between papers and objects.
+
+Style: luxury Pinterest mood board, feminine entrepreneur aesthetic, high-end scrapbook design, premium lifestyle branding, cute collectible doll character, handcrafted paper textures, layered collage artwork, editorial photography quality.
+
+Quality: hyper-detailed, ultra-realistic materials, photorealistic objects, cinematic lighting, 8K resolution, masterpiece composition, sharp focus, intricate details, luxury magazine cover aesthetic, trending social-media poster design, collectible art quality.
+```
+
 
 ## 🧪 Comparison & Community Examples
 

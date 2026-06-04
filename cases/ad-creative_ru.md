@@ -891,3 +891,48 @@ Prompt : (Iced Coffee Cozy Aesthetic)
 Close-up aesthetic shot of a hand holding iced coffee in a transparent branded cup, warm golden cafe ambience, creamy iced latte with ice cubes, cozy sunlight and soft bokeh background, cute white doodle overlays and handwritten text, kawaii cartoon boy and bunny stickers, scrapbook aesthetic, soft brown and green color palette, dreamy lifestyle photography, playful sparkles and hearts around the drink, “Good Vibes, Good Coffee” typography style, warm cinematic tones, ultra realistic beverage photography, cozy Instagram aesthetic, soft glow effect, highly detailed, cheerful and refreshing mood.
 ```
 
+
+---
+### Case 183: Showroom Still Life Merch Drop
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062279671618957656)
+
+**Prompt**:
+```
+[BRAND NAME]. You are a Creative Director and Still Life Photographer for a high-fashion hypebeast magazine.
+
+YOUR TASK:
+Design a premium "Showroom Still Life" image to announce a limited merch drop for [BRAND NAME].
+
+STEP 1: BRAND ANALYSIS
+Study [BRAND NAME]: identify its industry and signature physical product (e.g., "Spalding" = basketballs, "McDonald's" = burger packaging, "Visa" = metal cards).
+Choose the Color Palette:
+- Background: a deep, rich, textured tone from the brand's secondary colors (Teal, Navy, Burgundy, or Slate Grey).
+- Merch: a warm or neutral accent tone (Camel, Orange, or Cream) that pops against the backdrop.
+- Apparel Piece: select something that fits the brand's energy (Varsity Letterman Jacket, Heavyweight Hoodie, Canvas Tote, or Wool Scarf).
+
+STEP 2: SET DESIGN
+Main Prop: a clean, modern White Powder-Coated Metal Rack or shelving unit.
+Layout:
+- The apparel piece hangs casually from the rack or a hanger, showing off its texture.
+- On the rack shelves, stack several units of the brand's core product (e.g., basketballs, cans, boxes).
+- Backdrop: hand-painted canvas in the chosen deep background color, with visible brushstrokes for that studio aesthetic.
+
+STEP 3: BRANDING DETAILS
+Apparel: feature premium physical branding via Chenille Patches, Embroidered Logos, or Screen Print on the sleeve or back. It should look like a genuinely expensive garment.
+Products: ensure the [BRAND NAME] logo is clearly visible on all stacked items.
+
+STEP 4: PHOTOGRAPHY
+Lighting: soft, directional side window light with realistic soft shadows and rich texture highlights.
+Focal length: 50mm or 85mm. Sharp focus on the merch, gentle background falloff.
+
+STEP 5: GRAPHIC OVERLAY
+Left-aligned composition:
+- Large, clean white [BRAND NAME] logo placed in the negative space on the left.
+- Beneath the logo, small white text with the brand's official tagline.
+```
+
+**Output**:
+
+<img src="../images/ad-creative_case183/output.jpg" width="500">
+

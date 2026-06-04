@@ -244,3 +244,43 @@ A character promotional poster titled “INPUT NAME,” designed in a unified ve
 请为我生成一个适用于折叠屏手机（Oppo find N6，内屏2480 × 2248 像素，外屏2616 × 1140 像素，比例适配即可，不需要完全对齐一样的像素大小）的4k壁纸，壁纸主体为动漫，风格中性壁纸适用于男性使用，但是动漫角色是女生，短发。风格建议：酷、耍帅风格，但是不要像那种二次元手游一样，可以带一些未来元素。整个图片的色调适合黑色折叠屏手机风格，注意头发线条整洁，不要过于杂乱和生硬。这个图片人物占比不要太大，否则放到手机上效果不好。
 ```
 
+
+---
+### Case 18: Stylized 3D Skater Character
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062038112398954712)
+
+**Prompt**:
+```
+Design a stylized 3D cartoon skater character with a premium animated-film look, mixing Pixar-like polish, Spider-Verse energy, and indie street-art attitude.
+
+Character details:
+- exaggerated proportions with long, skinny limbs
+- oversized hoodie in customizable pink
+- baggy ripped denim jeans
+- chunky sneakers
+- expressive tired-but-confident face
+- messy stylized hair
+- large headphones
+- backpack covered with pins and patches
+- standing naturally on a skateboard
+
+Visual style:
+Clean cinematic 3D render with soft global illumination, subtle chromatic aberration, ultra-detailed textures, smooth shading, playful but believable anatomy, high-end character design, stylized streetwear fashion, and urban youth energy.
+
+Pose:
+Slightly slouched posture, one hand relaxed, cool bored expression, looking sideways.
+
+Background:
+Minimal clean studio background with soft shadows and a centered composition.
+
+Extra details:
+Add stickers, embroidered patches, smiley pins, doodles, skate-culture details, early-2000s urban energy, cinematic render quality, and a polished animation-studio finish.
+
+Aspect ratio: 4:5 vertical.
+```
+
+**Output**:
+
+<img src="../images/character_case18/output.jpg" width="500">
+

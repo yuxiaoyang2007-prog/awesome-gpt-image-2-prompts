@@ -1763,7 +1763,7 @@ Camera placed directly beneath a completely transparent glass floor, pointing st
 
 ## 🎨 Poster & Illustration Cases
 
-> **63 curated cases** — [Explore all Poster Prompts →](cases/poster.md)
+> **69 curated cases** — [Explore all Poster Prompts →](cases/poster.md)
 
 <!-- Case 214: Peacock Botanical Vintage Symmetrical Art Print (by @dotey) -->
 ### Case 214: [Peacock Botanical Vintage Symmetrical Art Print](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
@@ -3325,6 +3325,136 @@ Lighting should be dramatic and cinematic. Use warm orange firelight as the prim
 The image should communicate human connection, cosmic wonder, the contrast between ordinary life and the infinite universe, and shared warmth in an endless dark space. Render with ultra-detailed photorealistic textures, cinematic lighting, sharp focus, and high dynamic range.
 ```
 
+<!-- Case 335: Mixed-Media Editorial Portrait (by @iamaiistudio) -->
+### Case 335: [Mixed-Media Editorial Portrait](https://x.com/iamaiistudio/status/2063050883651547471) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case335/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mixed-Media Editorial Portrait"></a> |
+
+**Prompt:**
+
+```
+A mixed-media portrait of [SUBJECT] showing [EXPRESSION], looking [GAZE DIRECTION], styled with [ACCESSORY/STYLING]. Realistic identity rendered with bold black sketch strokes layered over torn newspaper collage fragments and acrylic paint splashes. Editorial print texture throughout, seamlessly blending photorealism with abstract expressionism. Premium poster aesthetic with a tactile, handmade feel. High contrast composition, ultra-detailed face and eyes. [PRIMARY COLORS] and [SECONDARY COLORS] palette.
+```
+
+<!-- Case 336: Landmark Miniature Diorama (by @iamaiistudio) -->
+### Case 336: [Landmark Miniature Diorama](https://x.com/iamaiistudio/status/2063020385420161405) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case336/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Landmark Miniature Diorama"></a> |
+
+**Prompt:**
+
+```
+Isometric miniature diorama of [LANDMARK NAME], capturing its real-world structure and proportions on a small floating platform, surrounded by buildings and landscape details from [CITY / COUNTRY]. Physically accurate materials including stone, concrete, metal, and glass. True-to-life color palette, muted and realistic tones matching the actual landmark. Off-white studio background with soft natural lighting, gentle shadows, and clean composition. High-detail 3D render, premium architectural model aesthetic, no people, no text.
+```
+
+<!-- Case 337: Glass Skeleton Study Desk (by @iamaiistudio) -->
+### Case 337: [Glass Skeleton Study Desk](https://x.com/iamaiistudio/status/2062915921371644352) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case337/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Glass Skeleton Study Desk"></a> |
+
+**Prompt:**
+
+```
+Stylized 3D render of a clear glass skeleton with black-rimmed glasses, seated at a wooden desk, looking down at an open textbook while highlighting text with a yellow highlighter. A warm gold desk lamp on the right casts cozy yellow light with glossy reflections on the glass surface. The desk has a white coffee mug, stack of hardcover books, and scattered pens with pastel pink and yellow highlighters. Soft pink wall background. Warm, studious aesthetic. No text or watermarks.
+```
+
+<!-- Case 338: Pastel Paper-Collage Travel Poster (by @Ciri_ai) -->
+### Case 338: [Pastel Paper-Collage Travel Poster](https://x.com/Ciri_ai/status/2062906835460641113) (by [@Ciri_ai](https://x.com/Ciri_ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case338/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pastel Paper-Collage Travel Poster"></a> |
+
+**Prompt:**
+
+```
+Create a refined wide landscape illustration of [CITY/SUBJECT], naturally featuring [ICONIC LANDMARK] as the main recognizable visual anchor.
+
+CORE STYLE:
+Depict [SUBJECT] as a calm, elegant, highly stylized scene in a toned-down pastel paper-collage poster style. The scene should feel minimal, clean, poetic, modern, cultured, leisurely, and softly cheerful rather than realistic.
+
+COMPOSITION:
+Use a spacious horizontal composition. Place [MAIN SUBJECT] as the central focus, clearly recognizable through its iconic [DISTINCTIVE FEATURES] rising above the layered scene. Surround it with simplified [CONTEXTUAL ELEMENTS]. Reinterpret in highly stylized illustrated forms using clean geometric shapes, layered color planes, soft curves, crisp silhouettes, and paper-like cutout forms. Avoid photorealism.
+
+VISUAL ELEMENTS:
+Include minimal charming details: simplified forms, tiny expressive people for scale, small architectural/environmental accents, organic elements (trees, plants), calm open sky with generous breathing space, clean horizontal layered divisions suggesting depth and atmosphere.
+
+COLOR PALETTE (Toned-Down Pastels):
+Soft sky blue, hazy blue-gray, pale cobalt, muted sage green, powder mint, warm cream, light beige, pale stone gray, dusty coral, soft peach, muted yellow, off-white, very small accents of navy or charcoal. [Add subject-specific accent colors as needed]
+
+TACTILE QUALITY:
+The image should feel tactile and handmade, like carefully arranged colored paper and gouache-painted poster board. Add subtle paper grain, matte printed texture, soft raised edges, delicate embossing, slight cut-paper shadows, gentle surface roughness. Keep surface refined and minimal, not messy.
+
+VISUAL LANGUAGE:
+Minimal paper collage, pastel travel poster, flat graphic shapes, subtle 3D paper relief, clean silhouettes, simplified architecture, soft matte texture, crisp color fields, gentle shadows, minimal linework, refined editorial illustration, modern [cultural context] poster mood. Wide landscape format, balanced negative space, strong graphic layering, clear focal area, simplified zones arranged harmoniously, airy composed and visually restful.
+
+LIGHTING & MOOD:
+Bright soft daylight, clean atmosphere, gentle shadows, warm relaxed tone, cultured and optimistic mood, quiet and sophisticated travel-poster feeling.
+
+TYPOGRAPHY (Upper-left corner):
+Main title '[CITY/SUBJECT NAME]' in geometric uppercase sans-serif font with wide letter-spacing, solid white color. Below: smaller native text '[Local Language · Translation]' and English subtext '[LANDMARK/SUBTITLE]', all in matching white, left-aligned, thin stroke weights with airy spacious tracking.
+
+AVOID:
+Photorealism, realistic photography, over-detailed buildings, heavy outlines, messy brushwork, neon cyberpunk style, dark gloomy lighting, excessive gradients, crowded scenes, readable signage, logos, watermarks.
+
+FINAL RESULT:
+A polished minimal pastel paper-collage landscape illustration of [SUBJECT], with [ICONIC ELEMENT] as the main recognizable visual anchor, featuring tactile paper texture, soft shadows, clean geometric color blocking, generous negative space, and a refined modern travel-illustration mood.
+
+=====================================
+VARIABLE REPLACEMENT GUIDE:
+[CITY/SUBJECT] = Target city or subject
+[ICONIC LANDMARK] = Main recognizable landmark
+[DISTINCTIVE FEATURES] = Key identifying characteristics
+[CONTEXTUAL ELEMENTS] = Supporting environmental details
+[cultural context] = Cultural/regional context (e.g., Korean, Japanese, Chinese, French)
+[SUBJECT-SPECIFIC COLORS] = Custom accent colors (cherry blossoms: blush pink, lavender fields: soft lavender, etc.)
+Images
+```
+
+<!-- Case 339: Sketch Portrait Breaking Paper (by @Fujimoto_hina) -->
+### Case 339: [Sketch Portrait Breaking Paper](https://x.com/Fujimoto_hina/status/2062869471203844457) (by [@Fujimoto_hina](https://x.com/Fujimoto_hina))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case339/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sketch Portrait Breaking Paper"></a> |
+
+**Prompt:**
+
+```
+{
+  "prompt": "A hyper-realistic top-down photograph of a white sketch paper lying on a rustic wooden table. On the paper is an incredibly detailed graphite pencil sketch of a handsome young man with the exact facial features, hairstyle, glasses, smile, proportions, and expression from the uploaded reference image. The portrait is rendered in realistic graphite pencil shading with exceptional detail. He is wearing a modern black American-style jacket and shirt, with only the clothing rendered in full color while the face remains a pencil sketch. The man is holding a real photorealistic 3D black coffee mug labeled 'AEGON' that appears to break through the boundaries of the paper and extend into the real world. The coffee mug is rendered in full color with realistic reflections and texture. His hand holding the mug is also fully photorealistic and colored, seamlessly blending with the sketch to create an impressive trompe-l'oeil illusion. Realistic steam rises from the hot coffee and partially covers the lower part of his face. The white sketch paper rests on a rustic wooden tabletop surrounded by scattered coffee beans, two sharpened black pencils, subtle sketching tools, and warm natural sunlight creating soft shadows. Cozy coffee shop atmosphere, shallow depth of field, cinematic lighting, premium composition. Photorealistic mixed-media artwork, pencil drawing combined with 3D realism, illusion art, trompe-l'oeil effect, ultra-detailed textures, realistic steam, professional studio-quality lighting, highly detailed graphite shading, 8K resolution, masterpiece quality. In the bottom-left corner of the paper, add a small minimalist triangle containing a stylized letter 'A' with the text 'A.E.G.O.N' elegantly written beneath it as an artist signature. Preserve the reference face exactly.",
+  "size": "1024x1792",
+  "style": "photorealistic",
+  "quality": "ultra",
+  "aspect_ratio": "9:16",
+  "lighting": "warm natural sunlight",
+  "camera_angle": "top-down",
+  "detail_level": "8K",
+  "negative_prompt": "blurry, low resolution, distorted face, extra fingers, duplicate hands, bad anatomy, cartoon, anime, painting, watercolor, oversaturated colors, low detail, text artifacts, cropped face, unrealistic steam, deformed mug, unrealistic proportions"
+}
+```
+
+<!-- Case 340: Passport Worlds Atlas Scene (by @iamaiistudio) -->
+### Case 340: [Passport Worlds Atlas Scene](https://x.com/iamaiistudio/status/2062824097164476733) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case340/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Passport Worlds Atlas Scene"></a> |
+
+**Prompt:**
+
+```
+Breathtaking 3D scene: a worn passport lays open, each visa stamp exploding into the places it represents. Every inked mark becomes a gateway—[CITY 1] emerges in miniature from one stamp with [DETAIL 1], [CITY 2] breaks through another with [DETAIL 2], [CITY 3] materializes with [DETAIL 3]. [LANDMARK 1], [LANDMARK 2], and [LANDMARK 3] rise at different scales across the pages. Flight paths sweep overhead as radiant golden arcs weaving between all the worlds.
+Coffee rings transform into lakes. Frayed edges dissolve into coastlines. [ATMOSPHERIC ELEMENT 1] drifts from one destination while [ATMOSPHERIC ELEMENT 2] swirls near another.
+Dramatic raking light, tilt-shift depth of field, 8K, UE5, cinematic lighting. A bureaucratic document reborn as a living atlas of adventures.
+```
+
 
 ## 🧍 Character Design Cases
 
@@ -3416,7 +3546,7 @@ Aspect ratio: 4:5 vertical.
 
 ## 📱 UI & Social Media Mockup Cases
 
-> **15 curated cases** — [Explore all UI & Mockup Prompts →](cases/ui.md)
+> **19 curated cases** — [Explore all UI & Mockup Prompts →](cases/ui.md)
 
 <!-- Case 130: One-Prompt UI Design Generation (by @austinit) -->
 ### Case 130: [單提示詞 UI 設計生成](https://x.com/austinit/status/2044968740782272596) (by [@austinit](https://x.com/austinit))
@@ -3967,10 +4097,153 @@ Style: luxury Pinterest mood board, feminine entrepreneur aesthetic, high-end sc
 Quality: hyper-detailed, ultra-realistic materials, photorealistic objects, cinematic lighting, 8K resolution, masterpiece composition, sharp focus, intricate details, luxury magazine cover aesthetic, trending social-media poster design, collectible art quality.
 ```
 
+<!-- Case 169: Embossed Metal Logo Bas-Relief (by @iamaiistudio) -->
+### Case 169: [Embossed Metal Logo Bas-Relief](https://x.com/iamaiistudio/status/2063065673740497022) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case169/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Embossed Metal Logo Bas-Relief"></a> |
+
+**Prompt:**
+
+```
+Replace [BRAND NAME] with your brand and [COLOR] with your preferred metal tone.
+
+Act as a Senior CGI Artist. Create a premium bas-relief logo visualization where the brand mark appears embossed outward from a metallic surface, like a coin, hallmark stamp, or luxury seal. The logo rises as a unified raised form from the surface itself.
+
+Surface: One continuous material plane filling the entire canvas. Use the metal tone from [COLOR]: silver/grey becomes brushed steel, gold becomes warm brushed metal, black becomes anodized aluminum, white becomes matte ceramic, saturated colors become anodized colored metal. Apply radial brushed grain and fine film grain for tactility.
+
+Emboss: The brand's primary logo mark rises as a full bas-relief, like a coin die-stamp. The entire filled silhouette pushes outward as one solid mass at uniform height. Top face is slightly convex, catching key light. Smooth beveled edge transitions from flat surface to raised form. Interior negative spaces recess back to surface level. Substantial raised height like a thick coin.
+
+Lighting: Primary soft area light from upper-left (10-11 o'clock), broad and diffused. Light temperature matches [COLOR]: cool white for silver/grey/blue, warm amber for gold/copper, neutral for white/black. Subtle fill light from lower-right at 10-15% intensity. No hard shadows.
+
+Typography: Below the embossed mark, minimal lockup on the same surface. Small flat brand icon, brand name in spaced geometric caps, one light italic descriptor line (founding year, category, or tagline). Centered, vertically stacked.
+
+Render: Ray tracing enabled for self-shadowing. Full sharpness edge to edge. Uniform film grain. No chromatic aberration. The mark must read as PUSHED OUTWARD from the surface.
+```
+
+<!-- Case 170: Sculptural Fruit Packaging Design (by @iamaiistudio) -->
+### Case 170: [Sculptural Fruit Packaging Design](https://x.com/iamaiistudio/status/2062959343658754160) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case170/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sculptural Fruit Packaging Design"></a> |
+
+**Prompt:**
+
+```
+Professional product photography of a sculptural packaging design built for [Fruit Name]. The box is premium corrugated cardboard shaped and cut into the exact silhouette of a giant [Shape — spherical, curved, or elongated] [Fruit Name].
+
+Outer surface is printed with a bold, minimal [Pattern — geometric hexagons / organic wavy lines / botanical line-art / horizontal ridges] that echoes the natural skin texture, rendered in a duo-tone scheme of [Color 1] and [Color 2].
+
+Die-cut window panels expose the [Product Inside] nestled inside. Clean modern sans-serif text on the side reads "[BRAND NAME]". Eco details include a recycling icon and a sculpted corrugated [Stem / Leaf / Crown] on top.
+
+Soft diffused studio lighting, gentle drop shadows, set against a solid pastel [Background Color]. 8K, photorealistic, cinematic framing, industrial design aesthetic.
+```
+
+<!-- Case 171: Luxury Perfume Infographic Ad (by @iamrealsnow) -->
+### Case 171: [Luxury Perfume Infographic Ad](https://x.com/iamrealsnow/status/2062888729023557979) (by [@iamrealsnow](https://x.com/iamrealsnow))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case171/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Perfume Infographic Ad"></a> |
+
+**Prompt:**
+
+```
+Ultra-premium luxury perfume infographic advertisement, centerpiece crystal perfume bottle with intricate glass detailing, surrounded by flowing liquid gold splashes and floating flower petals, elegant black and gold color palette, cinematic studio lighting, glossy reflections, fashion magazine quality, luxury beauty campaign design.
+
+Highly organized infographic layout with premium sections and elegant typography:
+• Fragrance Pyramid (Top Notes, Heart Notes, Base Notes) with luxury ingredient visuals.
+• Key Ingredients showcase with realistic botanical illustrations.
+• Longevity and Performance metrics using premium golden icons.
+• Bottle Design Breakdown with callout lines and annotations.
+• Perfect Occasions section featuring luxury lifestyle imagery.
+• How To Wear guide with minimalistic illustrated icons.
+• Sustainability, Cruelty Free, Premium Craftsmanship badges.
+
+Center composition dominated by hero perfume bottle, surrounded by information panels arranged symmetrically. Gold foil typography, luxury branding elements, elegant dividers, premium editorial layout, luxury cosmetics catalog design, infographic meets high-end advertisement, sophisticated visual hierarchy, ultra-detailed glass textures, photorealistic product rendering, luxury magazine spread, award-winning advertising agency quality, masterpiece, ultra sharp details, HDR, 8K, commercial product photography.
+
+Style references: Chanel, Dior, Tom Ford, Maison Francis Kurkdjian, luxury fashion magazine editorial, premium infographic design, black background, gold accents, museum-quality luxury presentation.
+```
+
+<!-- Case 172: AAA Game Loading Screen Portrait (by @yulikay) -->
+### Case 172: [AAA Game Loading Screen Portrait](https://x.com/yulikay/status/2062850006537953367) (by [@yulikay](https://x.com/yulikay))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case172/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - AAA Game Loading Screen Portrait"></a> |
+
+**Prompt:**
+
+```
+Step 1. Uploaded a reference selfie to Higgsfield.
+
+Generated the still loading screen using GPT Image 2.
+
+Prompt (you can adjust the details with your name, bio, etc.):
+
+Generate a hyper-realistic in-game cinematic still from a fictional unreleased AAA video game, rendered in Unreal Engine 5 with MetaHuman-quality character fidelity, Nanite-level environment detail, and full ray-traced lighting. The result should look indistinguishable from a real 4K screenshot pulled directly from a modern AAA title like Death Stranding 2, Hellblade 2: Senua's Saga, The Last of Us Part 2, Cyberpunk 2077, or Black Myth: Wukong.
+
+The character (right two-thirds of the frame)
+
+Render the uploaded person Image 1 as the playable protagonist of this fictional game. Keep the person's exact facial likeness, skin tone, eye colour, and hair colour as the anchor (the digital double must read as them, not a generic model).
+
+Photoreal skin: visible pores, subsurface scattering through the cheeks and ears, micro-detail on the lips, faint natural blemishes preserved. Hair rendered with individual strand detail, soft physics, slight backlit halo. Eyes with full catchlight, wet sheen, subtle iris detail, faint moisture in the lower lid line.
+
+Wardrobe: contemporary cinematic styling that fits the game's world.
+- A tailored cropped leather jacket over a fitted silk top, with delicate gold chain jewellery
+
+Pose: three-quarter angle, head turned slightly toward camera, calm confident posture. Subtle stylized stance, not theatrical.
+
+The environment (background)
+
+A photoreal AAA game environment behind the character. Pick ONE based on mood:
+- Golden-hour rooftop of a fictional cinematic Tokyo, neon signs in soft bokeh, distant skyline, warm haze
+- Misty forest with shafts of god rays cutting through canopy, soft moss detail, distant fog
+- Rain-slick neon-lit alley in a Cyberpunk-style city, puddles reflecting magenta and teal, drifting steam
+- A coastal cliff at golden hour, wildflowers in the foreground, ocean haze on the horizon
+
+Full Lumen global illumination, ray-traced reflections, photoreal depth of field with character in sharp focus and background in cinematic soft blur. Photoreal volumetric lighting and atmospheric haze.
+
+UI overlay (left third of the screen)
+
+A minimalist modern AAA game UI panel, semi-transparent matte black with thin warm-gold accent lines (inspired by Death Stranding's clean menu aesthetic). The panel feels expensive, technical, and restrained.
+
+Display the following character profile, rendered in a custom game-UI typeface (clean modern serif for headings, fine sans-serif for body):
+
+- CHARACTER: YULI
+- TITLE: The Soft-Power Heroine
+- CLASS: Wanderer · Creator · Aesthete
+- LEVEL: 30
+- REGION: Currently exploring · Asia
+- AFFINITY: Light & Warmth
+- BIO: Main Character Energy
+
+Each field separated by a thin gold dividing line. Subtle text glow.
+
+Game title bar (top of frame)
+
+At the top centre, a fictional AAA game title in refined serif: "AETHER · A Soft Power Adventure"
+Below it, in fine all-caps tracked text: "CHAPTER ONE · NOW LOADING..."
+
+Loading bar (bottom of frame)
+
+A horizontal minimalist loading bar at 73% complete. The filled portion glows faint warm gold. Below the bar in small italic text: "TIP: Beauty is data. Travel often. Save your screenshots."
+
+Visual treatment (post-processing)
+
+Cinematic AAA post-processing stack: subtle chromatic aberration at edges, soft film grain, gentle vignette, faint lens dirt on the highlights, warm-cool colour grading. The image should feel like a 4K screenshot taken from a $200 million production game, not a graphic poster.
+
+Output
+
+4K resolution, 16:9 aspect ratio, photoreal AAA quality, screenshot-authentic. Looks like a frame pulled from a real high-end console game running on a PS5 Pro or high-end PC.
+```
+
 
 ## 🧪 Comparison & Community Examples
 
-> **53 curated cases** — [Explore all Comparison Examples →](cases/comparison.md)
+> **57 curated cases** — [Explore all Comparison Examples →](cases/comparison.md)
 
 <!-- Case 80: Sam Altman Bear Selfie (by @JustinGorya) -->
 ### Case 80: [Sam Altman 與熊自拍](https://x.com/JustinGorya/status/2046510831832006970) (by [@JustinGorya](https://x.com/JustinGorya))
@@ -4190,6 +4463,95 @@ Footer:
 Build a full visual worldbuilding kit for a futuristic solar-powered desert civilization. Include multiple images covering architecture, characters, clothing, vehicles, and maps, all sharing one cohesive design language, with cinematic realism and ultra detailed finish.
 ```
 
+<!-- Case 90: Racer Character Model Sheet (by @itsPixieVerse) -->
+### Case 90: [Racer Character Model Sheet](https://x.com/itsPixieVerse/status/2063062387394216112) (by [@itsPixieVerse](https://x.com/itsPixieVerse))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case90/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Racer Character Model Sheet"></a> |
+
+**Prompt:**
+
+```
+[layout_setup]: A comprehensive, full-page character model design sheet layout strictly on a pristine solid white background with no gradients, no environmental art, and no photorealistic elements whatsoever. [identity_module]: On the left side, large ultra-bold minimalist design typography spelling 'REINA VOSS' next to clean monospace text columns detailing character age 24, classification traits as underground circuit legend and drift specialist, tactical description blocks reading former getaway wheelman turned undefeated canyon queen with a photographic memory for road geometry and an obsessive ritual of wrapping her knuckles before every race. [turnaround_module]: Centered prominently on the sheet is a full-body orthographic turnaround lineup showing identical front view, side profile view, and back view of a tall, sharp-jawed young woman with deep terracotta skin and dense voluminous shoulder-length locs gathered loosely at the nape with a worn leather cord, a few golden cuff beads threaded throughout, wearing a cropped vintage racing-inspired bomber jacket in faded oxblood leather with oversized wool-lined collar and hand-stitched sponsor patches from defunct fictional brands, layered over a ribbed charcoal compression top, high-waisted wide-leg mechanic trousers in dark indigo canvas with reinforced knee panels and dangling carabiner key rings clipped to a canvas utility belt slung low on one hip, hands wrapped in fraying ivory hand-wrap tape extending past the wrists, and chunky platform steel-toe boots in scuffed matte black with thick ridged rubber soles and asymmetric buckle straps, showing a poised calm stance with weight shifted to one leg and arms relaxed at her sides, designed where 3D is only the base structure, maintaining highly stylized elongated lanky proportions with sharp chiseled skeletal structures and exaggerated long fingers. [gear_module]: On the right side, an array of close-up callout square panels highlighting macro texture painting details of the cracked aged oxblood leather grain and frayed wool collar fibers of her bomber jacket, blueprint-style vector schematic line drawings of her custom titanium steering wheel with thumb-trigger nitrous activation and ergonomic suede grip wrapping, and technical lists detailing her modified 1997 coupe specifications including sequential twin-turbo inline six, hydraulic handbrake integration, roll cage geometry, and a cracked rearview mirror she refuses to replace for superstitious reasons. [expression_module]: Running along the bottom quadrant, a perfectly aligned horizontal row of 5 isolated headshot expressions displaying Neutral with half-lidded confidence, Smirk with one corner of her mouth pulled into a sly knowing grin, Focused with narrowed eyes and clenched jaw studying a road ahead, Shocked with widened asymmetrical eyes and parted lips, and Aggressive with bared teeth and deep furrowed brow veins visible at the temple, all featuring highly stylized 2.5D planar anatomy with volumetric chiseled shadow planes, soft textured loc volumes with golden bead glints rendered as flat pigment shapes, and vibrating grease-pencil outlines with heavy line-weight variation. [style_tags]: hand-painted 2.5D, texture painting, 3D is only the base structure, vibrating grease-pencil outlines, Arcane style painterly textures, thick oil-painterly brushstrokes with visible impasto canvas grain, non-action character study, deep ambient occlusion shadow planes, stepped cel-shading, printer halftone dot textures in transitional shadows, graphic ink slashes on clothing folds, matte sophisticated color blocking, masterwork model pack.
+```
+
+<!-- Case 91: Era Cube Visualizer Grid (by @Gdgtify) -->
+### Case 91: [Era Cube Visualizer Grid](https://x.com/Gdgtify/status/2062903770087084107) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case91/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Era Cube Visualizer Grid"></a> |
+
+**Prompt:**
+
+```
+I love these cube prompts for visualizing different eras. Pretty short but GPT Image 2 figures it out
+
+2x2 grid, do this for different years of vastly different eras:  ERA_TO_CUBE_SOLVER  INPUT ::= [TOPIC], [ERA]  STEP_1 :: infer era identity - time period or stage - dominant materials - key tools or artifacts - social/technical/cultural context - built environment or natural environment - representative agents or figures if relevant  STEP_2 :: compress into cube - large objects define cuboid edges - medium objects build internal scenes - small objects fill gaps - top, side, and front faces remain visible - everything stays inside a strict rectangular volume  STEP_3 :: create module text - large era label - short subtitle - compact bullet list - no fixed facts unless supplied  STEP_4 :: repeat across eras - preserve identical visual grammar - increase or transform complexity chronologically
+```
+
+<!-- Case 92: Chaotic Kitchen Freeze-Frame (by @iamaiistudio) -->
+### Case 92: [Chaotic Kitchen Freeze-Frame](https://x.com/iamaiistudio/status/2062762822468272327) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case92/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Chaotic Kitchen Freeze-Frame"></a> |
+
+**Prompt:**
+
+```
+Surreal comedic freeze-frame inside a modern kitchen: a young man arches backward in an extreme acrobatic dodge, body exaggerated, while a kettle hangs suspended mid-air above him, hot tea exploding outward in a dramatic splash. In the background a woman stands with one arm extended, looking completely shocked as if she just accidentally launched the kettle. Wide-angle lens distortion, crisp liquid physics, dynamic action freeze, sharp details, realistic lighting, cinematic color grading, humorous storytelling, high-resolution digital art.
+```
+
+<!-- Case 93: Innovation Reliquary Diagram (by @Gdgtify) -->
+### Case 93: [Innovation Reliquary Diagram](https://x.com/Gdgtify/status/2062720059575783713) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case93/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Innovation Reliquary Diagram"></a> |
+
+**Prompt:**
+
+```
+Have done so many of these prompts on inventions. Here is another way to  visualize them with GPT Image 2
+
+Function DrawInventionReliquary(input invention)
+
+Input Variable: [INSERT INVENTION]
+
+System Instruction:
+Generate a hyper-realistic "Innovation Reliquary Exploded Diagram."
+
+1. Semantic Extraction:
+AI infers:
+- Core problem solved
+- Mechanism
+- Historical era
+- Inventor culture
+- Materials
+- Failure points
+- Social impact
+
+2. Container:
+Structure: floating exploded object inside a glass museum case.
+Every part is suspended on brass rods and fine tension wires.
+
+3. Background:
+Patent-paper wall with faint diagrams, tolerances, labels, and archive stamps.
+
+4. Integration:
+The invention’s key insight becomes a central glowing mechanism.
+
+5. Visual Syntax:
+Materials: brushed steel, glass, brass, aged paper, black ink.
+Lighting: luxury product photography.
+No cheap blueprint clichés.
+
+Output:
+2x2 grid, 16:9, four world-changing inventions.
+```
+
 
 ## 🤝 How to Contribute
 
@@ -4217,7 +4579,7 @@ This repository was inspired by outstanding open prompt collections and communit
 
 Thanks to the creators and contributors who shared their work publicly and made these case studies possible.
 
-@BubbleBrain, [@iam_miharbi](https://x.com/iam_miharbi), @Shinning1010, [@patrickassale](https://x.com/patrickassale), [@Zoulinshen](https://x.com/Zoulinshen), [@WolfRiccardo](https://x.com/WolfRiccardo), [@Panda20230902](https://x.com/Panda20230902), @liyue_ai, [@blanplan](https://x.com/blanplan), [@4WEB1](https://x.com/4WEB1), [@lilimliliychan](https://x.com/lilimliliychan), [@Thereallo1026](https://x.com/Thereallo1026), @iamrednightS, [@09lyco](https://x.com/09lyco), [@tsubaki_ew](https://x.com/tsubaki_ew), [@Toshi_nyaruo_AI](https://x.com/Toshi_nyaruo_AI), [@yyu_hase](https://x.com/yyu_hase), @austinit, [@MrLarus](https://x.com/MrLarus), [@rionaifantasy](https://x.com/rionaifantasy), [@alanblogsooo](https://x.com/alanblogsooo), [@SKA_Neotype](https://x.com/SKA_Neotype), [@desds1678](https://x.com/desds1678), [@samifox_ai](https://x.com/samifox_ai), [@HuliJason](https://x.com/HuliJason), [@MikelEcheve](https://x.com/MikelEcheve), [@chetaslua](https://x.com/chetaslua), [@signedbywill](https://x.com/signedbywill), [@zerolu_eth](https://x.com/zerolu_eth), [@Cheney_NehcOal](https://x.com/Cheney_NehcOal), [@cnzoecomeback](https://x.com/cnzoecomeback), [@linxiaobei888](https://x.com/linxiaobei888), @old_pgmrs_will, [@kotsu_kotsu_san](https://x.com/kotsu_kotsu_san), [@samayousakadaru](https://x.com/samayousakadaru), [@saskr_13](https://x.com/saskr_13), [@kawai_design](https://x.com/kawai_design), [@otohitoyuuki](https://x.com/otohitoyuuki), [@jrpj2010](https://x.com/jrpj2010), [@CEs7J0Mfn8x37k5](https://x.com/CEs7J0Mfn8x37k5), [@pfanis](https://x.com/pfanis), [@yssrski](https://x.com/yssrski), [@overseas58](https://x.com/overseas58), [@opc_8838](https://x.com/opc_8838), [@RitaStar1128](https://x.com/RitaStar1128), [@Yuupapa_free](https://x.com/Yuupapa_free), [@tebasaki3D](https://x.com/tebasaki3D), [@Colin_Leeee](https://x.com/Colin_Leeee), [@IndieDevHailey](https://x.com/IndieDevHailey), [@wory37303852](https://x.com/wory37303852), [@mm_zzm44854](https://x.com/mm_zzm44854), [@sjbbxhz](https://x.com/sjbbxhz), @GeekCatX, [@makaneko_AI](https://x.com/makaneko_AI), [@Tanemomi_Ver2](https://x.com/Tanemomi_Ver2), [@chi_vc_](https://x.com/chi_vc_), [@S0N_IA_](https://x.com/S0N_IA_), [@Gugombly](https://x.com/Gugombly), [@rerxmsz06](https://x.com/rerxmsz06), [@Shion_yamabuki](https://x.com/Shion_yamabuki), [@SelenaGmzIN](https://x.com/SelenaGmzIN), [@chesnyfcb](https://x.com/chesnyfcb), [@MoveHiro1219](https://x.com/MoveHiro1219), [@mirochill](https://x.com/mirochill), [@Eris_Create_Lab](https://x.com/Eris_Create_Lab), [@Design4p0](https://x.com/Design4p0), [@mikko_20100518](https://x.com/mikko_20100518), [@sorane_aimusic](https://x.com/sorane_aimusic), [@Polanco_IA](https://x.com/Polanco_IA), @Strength04_X, [@edimakorfr](https://x.com/edimakorfr), @ShamsAmin56, [@dynamicwangs](https://x.com/dynamicwangs), [@MiguelMaestroIA](https://x.com/MiguelMaestroIA), @gdb, [@ToroJushiAi](https://x.com/ToroJushiAi), @Inshrah_ali_, [@XSydneyFan](https://x.com/XSydneyFan), [@Abdullah__Ai7](https://x.com/Abdullah__Ai7), [@yume00112211](https://x.com/yume00112211), [@jiajia232016](https://x.com/jiajia232016), [@libearal](https://x.com/libearal), [@jeremydevz](https://x.com/jeremydevz), [@megane_onesan](https://x.com/megane_onesan), [@kotobukigraphic](https://x.com/kotobukigraphic), [@Hair_Hair55](https://x.com/Hair_Hair55), [@erikmackinnon](https://x.com/erikmackinnon), [@FernandesK47117](https://x.com/FernandesK47117), [@aimikoda](https://x.com/aimikoda), [@mosthssan](https://x.com/mosthssan), [@SDAI1807097011](https://x.com/SDAI1807097011), [@AIillust_studio](https://x.com/AIillust_studio), [@Just_sharon7](https://x.com/Just_sharon7), [@AIMAG31G](https://x.com/AIMAG31G), [@yanagihara_0805](https://x.com/yanagihara_0805), [@Gorden_Sun](https://x.com/Gorden_Sun), [@m_Raiko_AIart](https://x.com/m_Raiko_AIart), [@sub_raw_jin](https://x.com/sub_raw_jin), @harboriis, [@Diplomeme](https://x.com/Diplomeme), [@zenkaiAI](https://x.com/zenkaiAI), [@_simonsmith](https://x.com/_simonsmith), [@leyu37829](https://x.com/leyu37829), [@mob_17](https://x.com/mob_17), [@komorimedia](https://x.com/komorimedia), [@degewa](https://x.com/degewa), [@GlennHasABeard](https://x.com/GlennHasABeard), [@TWnese](https://x.com/TWnese), [@Ciri_ai](https://x.com/Ciri_ai), [@tonysimons_](https://x.com/tonysimons_), [@himukai_an](https://x.com/himukai_an), [@Dakiny](https://x.com/Dakiny), [@ExquisitMe](https://x.com/ExquisitMe), [@xRahultripathi](https://x.com/xRahultripathi), [@JohnnyWang8802](https://x.com/JohnnyWang8802), @Professor_134, [@ArtwlDesign](https://x.com/ArtwlDesign), [@hoshi122221](https://x.com/hoshi122221), [@Ray_CROWN0](https://x.com/Ray_CROWN0), [@AllaAisling](https://x.com/AllaAisling), @AlwaveNazca, [@_LaurentB](https://x.com/_LaurentB), [@Salmaaboukarr](https://x.com/Salmaaboukarr), [@silentempiredev](https://x.com/silentempiredev), [@songguoxiansen](https://x.com/songguoxiansen), [@rojassartorio](https://x.com/rojassartorio), [@WooGabriel76263](https://x.com/WooGabriel76263), @SPEEDAI07, @Adam38363368936, @Magncsans, @ismajc, [@almimeister](https://x.com/almimeister), [@sarinaashapi](https://x.com/sarinaashapi), [@Kazuch75240438](https://x.com/Kazuch75240438), [@yy7482933910896](https://x.com/yy7482933910896), [@terunari](https://x.com/terunari), [@Gerry](https://x.com/Gerry), [@xc5_](https://x.com/xc5_), [@Ayu_AI_0912](https://x.com/Ayu_AI_0912), [@16kthir0GRXgNqn](https://x.com/16kthir0GRXgNqn), [@80vul](https://x.com/80vul), [@A9Quant](https://x.com/A9Quant), @AIwithAliya, [@AIwithSarah_](https://x.com/AIwithSarah_), [@AIwithSynthia](https://x.com/AIwithSynthia), [@AIwithkhan](https://x.com/AIwithkhan), @AZLnfvp, [@AntCaveClub](https://x.com/AntCaveClub), [@Aurora_62340](https://x.com/Aurora_62340), [@BNBOKBt5](https://x.com/BNBOKBt5), [@ChiefMonkeyMike](https://x.com/ChiefMonkeyMike), @ChillaiKalan__, [@CoderDaMing](https://x.com/CoderDaMing), [@D_studioproject](https://x.com/D_studioproject), [@FixlationAI](https://x.com/FixlationAI), @Gdgtify, [@Ghhhh3owi](https://x.com/Ghhhh3owi), @Goodmanprotocol, @JustinGorya, [@Kurt_Rousey466](https://x.com/Kurt_Rousey466), [@LVWANGJI_0327](https://x.com/LVWANGJI_0327), [@LoovaAI](https://x.com/LoovaAI), [@MANISH1027512](https://x.com/MANISH1027512), [@MajaDesignJP](https://x.com/MajaDesignJP), [@Malek1173989](https://x.com/Malek1173989), @Naiknelofar788, [@Preda2005](https://x.com/Preda2005), [@PrometheanAIX](https://x.com/PrometheanAIX), [@QamarRiaz1](https://x.com/QamarRiaz1), [@ReYYYYoking](https://x.com/ReYYYYoking), [@Rufus87078959](https://x.com/Rufus87078959), [@Sheldon056](https://x.com/Sheldon056), @Shorelyn_, [@SimplyAnnisa](https://x.com/SimplyAnnisa), [@Tresmort](https://x.com/Tresmort), [@Tz_2022](https://x.com/Tz_2022), [@WillSpagnoli](https://x.com/WillSpagnoli), [@XiaohuiAI666](https://x.com/XiaohuiAI666), [@ZaraIrahh](https://x.com/ZaraIrahh), [@Zhaoge01](https://x.com/Zhaoge01), [@agi_aibusi](https://x.com/agi_aibusi), [@ai_gezgini](https://x.com/ai_gezgini), [@ailovedirector](https://x.com/ailovedirector), [@akakageAI](https://x.com/akakageAI), [@alanlovelq](https://x.com/alanlovelq), [@anacoding](https://x.com/anacoding), [@andis13](https://x.com/andis13), [@caiziboshi](https://x.com/caiziboshi), [@carsonyungos](https://x.com/carsonyungos), [@cellinlab](https://x.com/cellinlab), [@charliejhills](https://x.com/charliejhills), [@chatcutapp](https://x.com/chatcutapp), [@chenenpei](https://x.com/chenenpei), [@cj858cjsoul](https://x.com/cj858cjsoul), [@ck_igarashi](https://x.com/ck_igarashi), [@commanderdgr8](https://x.com/commanderdgr8), @dotey, [@elliscrosby](https://x.com/elliscrosby), [@genel_ai](https://x.com/genel_ai), [@grok](https://x.com/grok), [@happycapyai](https://x.com/happycapyai), [@hmontilla_](https://x.com/hmontilla_), [@iaPulse_](https://x.com/iaPulse_), [@iamrealsnow](https://x.com/iamrealsnow), @iamsofiaijaz, [@joshesye](https://x.com/joshesye), [@khaiinit](https://x.com/khaiinit), [@kylegeeks](https://x.com/kylegeeks), [@laogeai](https://x.com/laogeai), [@llllegend0620](https://x.com/llllegend0620), [@loglogrog](https://x.com/loglogrog), [@madpencil_](https://x.com/madpencil_), [@mapasbr](https://x.com/mapasbr), [@meng_dagg695](https://x.com/meng_dagg695), @miratechtool, [@nidiedeba](https://x.com/nidiedeba), [@nijisora_yuma](https://x.com/nijisora_yuma), [@pavellaslov](https://x.com/pavellaslov), [@rovvmut_](https://x.com/rovvmut_), [@rs_elwood](https://x.com/rs_elwood), [@sciencedegens](https://x.com/sciencedegens), [@sdjn_wgc](https://x.com/sdjn_wgc), [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru), @sha_zdiii, [@stark_nico99](https://x.com/stark_nico99), [@the_wheel_2024](https://x.com/the_wheel_2024), [@underwoodxie96](https://x.com/underwoodxie96), [@verysmallwoods](https://x.com/verysmallwoods), [@weel_corp](https://x.com/weel_corp), [@workingclassbud](https://x.com/workingclassbud), [@yammamon](https://x.com/yammamon), [@zhiyangzhu22222](https://x.com/zhiyangzhu22222), @92digitalartArt, @abs_uiux, [@aiistudiocom](https://x.com/aiistudiocom), [@aitorwilzig](https://x.com/aitorwilzig), [@alantech_](https://x.com/alantech_), @amynys, @bmx_ai13, [@bonega_ai](https://x.com/bonega_ai), @churvikv, [@crayon1267](https://x.com/crayon1267), [@Cryptohaifeng_](https://x.com/Cryptohaifeng_), [@CurieuxExplorer](https://x.com/CurieuxExplorer), [@EchoraContinuum](https://x.com/EchoraContinuum), [@GeorgeWuAI](https://x.com/GeorgeWuAI), @getimg_ai, [@gold_force_guri](https://x.com/gold_force_guri), [@GoSailGlobal](https://x.com/GoSailGlobal), [@hosein2518](https://x.com/hosein2518), @iamaiistudio, [@itnavi2022](https://x.com/itnavi2022), [@Jawad_Rahman_](https://x.com/Jawad_Rahman_), [@john_my07](https://x.com/john_my07), [@Kashiko_AIart](https://x.com/Kashiko_AIart), [@LoverCrick28247](https://x.com/LoverCrick28247), @Mavericks_Prod, @MayorKingAI, @miilesus, @Mind_Boticni, [@mirai_ai2050](https://x.com/mirai_ai2050), [@oggii_0](https://x.com/oggii_0), [@os_shim](https://x.com/os_shim), [@RainHuangapp](https://x.com/RainHuangapp), @realsigridjin, @SaasJunctionHQ, @Sairah_0, [@saniaspeaks_](https://x.com/saniaspeaks_), [@ShamiWeb3](https://x.com/ShamiWeb3), @Taaruk_, @TechieBySA, @TheRoaringToady, [@weiinberg](https://x.com/weiinberg), [@X7649158034321](https://x.com/X7649158034321), [@xpg0970](https://x.com/xpg0970), @YaZoraiz, @you1873118
+[@BubbleBrain](https://x.com/BubbleBrain), [@iam_miharbi](https://x.com/iam_miharbi), [@Shinning1010](https://x.com/Shinning1010), [@patrickassale](https://x.com/patrickassale), [@Zoulinshen](https://x.com/Zoulinshen), [@Tz_2022](https://x.com/Tz_2022), [@Malek1173989](https://x.com/Malek1173989), [@80vul](https://x.com/80vul), [@WolfRiccardo](https://x.com/WolfRiccardo), [@Panda20230902](https://x.com/Panda20230902), [@liyue_ai](https://x.com/liyue_ai), [@blanplan](https://x.com/blanplan), [@4WEB1](https://x.com/4WEB1), [@lilimliliychan](https://x.com/lilimliliychan), [@llllegend0620](https://x.com/llllegend0620), [@grok](https://x.com/grok), [@Ghhhh3owi](https://x.com/Ghhhh3owi), [@alanlovelq](https://x.com/alanlovelq), [@xpg0970](https://x.com/xpg0970), [@hmontilla_](https://x.com/hmontilla_), [@pfanis](https://x.com/pfanis), [@overseas58](https://x.com/overseas58), [@MrLarus](https://x.com/MrLarus), [@opc_8838](https://x.com/opc_8838), [@tebasaki3D](https://x.com/tebasaki3D), [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru), [@genel_ai](https://x.com/genel_ai), [@itnavi2022](https://x.com/itnavi2022), [@underwoodxie96](https://x.com/underwoodxie96), [@carsonyungos](https://x.com/carsonyungos), [@weel_corp](https://x.com/weel_corp), [@A9Quant](https://x.com/A9Quant), [@ck_igarashi](https://x.com/ck_igarashi), [@EchoraContinuum](https://x.com/EchoraContinuum), [@RainHuangapp](https://x.com/RainHuangapp), [@Kurt_Rousey466](https://x.com/Kurt_Rousey466), [@Thereallo1026](https://x.com/Thereallo1026), [@iamrednightS](https://x.com/iamrednightS), [@09lyco](https://x.com/09lyco), [@Toshi_nyaruo_AI](https://x.com/Toshi_nyaruo_AI), [@old_pgmrs_will](https://x.com/old_pgmrs_will), [@songguoxiansen](https://x.com/songguoxiansen), [@loglogrog](https://x.com/loglogrog), [@austinit](https://x.com/austinit), [@alanblogsooo](https://x.com/alanblogsooo), [@SKA_Neotype](https://x.com/SKA_Neotype), [@stark_nico99](https://x.com/stark_nico99), [@yammamon](https://x.com/yammamon), [@Kashiko_AIart](https://x.com/Kashiko_AIart), [@GoSailGlobal](https://x.com/GoSailGlobal), [@Cryptohaifeng_](https://x.com/Cryptohaifeng_), [@agi_aibusi](https://x.com/agi_aibusi), [@the_wheel_2024](https://x.com/the_wheel_2024), [@kylegeeks](https://x.com/kylegeeks), [@AZLnfvp](https://x.com/AZLnfvp), [@chetaslua](https://x.com/chetaslua), [@saskr_13](https://x.com/saskr_13), [@MANISH1027512](https://x.com/MANISH1027512), [@yssrski](https://x.com/yssrski), [@RitaStar1128](https://x.com/RitaStar1128), [@joshesye](https://x.com/joshesye), [@FixlationAI](https://x.com/FixlationAI), [@JustinGorya](https://x.com/JustinGorya), [@ReYYYYoking](https://x.com/ReYYYYoking), [@XiaohuiAI666](https://x.com/XiaohuiAI666), [@workingclassbud](https://x.com/workingclassbud), [@16kthir0GRXgNqn](https://x.com/16kthir0GRXgNqn), [@anacoding](https://x.com/anacoding), [@iaPulse_](https://x.com/iaPulse_), [@ai_gezgini](https://x.com/ai_gezgini), [@ailovedirector](https://x.com/ailovedirector), [@AIwithSarah_](https://x.com/AIwithSarah_), [@chatcutapp](https://x.com/chatcutapp), [@meng_dagg695](https://x.com/meng_dagg695), [@khaiinit](https://x.com/khaiinit), [@D_studioproject](https://x.com/D_studioproject), [@Rufus87078959](https://x.com/Rufus87078959), [@elliscrosby](https://x.com/elliscrosby), [@bonega_ai](https://x.com/bonega_ai), [@Naiknelofar788](https://x.com/Naiknelofar788), [@andis13](https://x.com/andis13), [@aimikoda](https://x.com/aimikoda), [@rs_elwood](https://x.com/rs_elwood), [@aitorwilzig](https://x.com/aitorwilzig), [@pavellaslov](https://x.com/pavellaslov), [@ZaraIrahh](https://x.com/ZaraIrahh), [@harboriis](https://x.com/harboriis), [@dotey](https://x.com/dotey), [@WillSpagnoli](https://x.com/WillSpagnoli), [@laogeai](https://x.com/laogeai), [@GeekCatX](https://x.com/GeekCatX), [@BNBOKBt5](https://x.com/BNBOKBt5), [@nidiedeba](https://x.com/nidiedeba), [@Aurora_62340](https://x.com/Aurora_62340), [@AntCaveClub](https://x.com/AntCaveClub), [@CoderDaMing](https://x.com/CoderDaMing), [@Zhaoge01](https://x.com/Zhaoge01), [@Tresmort](https://x.com/Tresmort), [@cj858cjsoul](https://x.com/cj858cjsoul), [@caiziboshi](https://x.com/caiziboshi), [@verysmallwoods](https://x.com/verysmallwoods), [@chenenpei](https://x.com/chenenpei), [@sdjn_wgc](https://x.com/sdjn_wgc), [@LVWANGJI_0327](https://x.com/LVWANGJI_0327), [@zhiyangzhu22222](https://x.com/zhiyangzhu22222), [@MajaDesignJP](https://x.com/MajaDesignJP), [@os_shim](https://x.com/os_shim), [@mirai_ai2050](https://x.com/mirai_ai2050), [@Adam38363368936](https://x.com/Adam38363368936), [@charliejhills](https://x.com/charliejhills), [@commanderdgr8](https://x.com/commanderdgr8), [@iamsofiaijaz](https://x.com/iamsofiaijaz), [@ChillaiKalan__](https://x.com/ChillaiKalan__), [@akakageAI](https://x.com/akakageAI), [@Shorelyn_](https://x.com/Shorelyn_), [@Goodmanprotocol](https://x.com/Goodmanprotocol), [@AIwithkhan](https://x.com/AIwithkhan), [@AIwithSynthia](https://x.com/AIwithSynthia), [@Preda2005](https://x.com/Preda2005), [@iamrealsnow](https://x.com/iamrealsnow), [@Sheldon056](https://x.com/Sheldon056), [@miratechtool](https://x.com/miratechtool), [@QamarRiaz1](https://x.com/QamarRiaz1), [@rovvmut_](https://x.com/rovvmut_), [@ChiefMonkeyMike](https://x.com/ChiefMonkeyMike), [@Colin_Leeee](https://x.com/Colin_Leeee), [@IndieDevHailey](https://x.com/IndieDevHailey), [@wory37303852](https://x.com/wory37303852), [@mm_zzm44854](https://x.com/mm_zzm44854), [@sjbbxhz](https://x.com/sjbbxhz), [@makaneko_AI](https://x.com/makaneko_AI), [@Tanemomi_Ver2](https://x.com/Tanemomi_Ver2), [@chi_vc_](https://x.com/chi_vc_), [@S0N_IA_](https://x.com/S0N_IA_), [@Gugombly](https://x.com/Gugombly), [@rerxmsz06](https://x.com/rerxmsz06), [@Shion_yamabuki](https://x.com/Shion_yamabuki), [@SelenaGmzIN](https://x.com/SelenaGmzIN), [@chesnyfcb](https://x.com/chesnyfcb), [@MoveHiro1219](https://x.com/MoveHiro1219), [@mirochill](https://x.com/mirochill), [@Eris_Create_Lab](https://x.com/Eris_Create_Lab), [@Design4p0](https://x.com/Design4p0), [@mikko_20100518](https://x.com/mikko_20100518), [@sorane_aimusic](https://x.com/sorane_aimusic), [@Polanco_IA](https://x.com/Polanco_IA), [@Strength04_X](https://x.com/Strength04_X), [@edimakorfr](https://x.com/edimakorfr), [@ShamsAmin56](https://x.com/ShamsAmin56), [@dynamicwangs](https://x.com/dynamicwangs), [@MiguelMaestroIA](https://x.com/MiguelMaestroIA), [@gdb](https://x.com/gdb), [@ToroJushiAi](https://x.com/ToroJushiAi), [@Inshrah_ali_](https://x.com/Inshrah_ali_), [@XSydneyFan](https://x.com/XSydneyFan), [@Abdullah__Ai7](https://x.com/Abdullah__Ai7), [@yume00112211](https://x.com/yume00112211), [@jiajia232016](https://x.com/jiajia232016), [@libearal](https://x.com/libearal), [@jeremydevz](https://x.com/jeremydevz), [@megane_onesan](https://x.com/megane_onesan), [@kotobukigraphic](https://x.com/kotobukigraphic), [@Hair_Hair55](https://x.com/Hair_Hair55), [@erikmackinnon](https://x.com/erikmackinnon), [@FernandesK47117](https://x.com/FernandesK47117), [@mosthssan](https://x.com/mosthssan), [@SDAI1807097011](https://x.com/SDAI1807097011), [@AIillust_studio](https://x.com/AIillust_studio), [@Just_sharon7](https://x.com/Just_sharon7), [@AIMAG31G](https://x.com/AIMAG31G), [@yanagihara_0805](https://x.com/yanagihara_0805), [@Gorden_Sun](https://x.com/Gorden_Sun), [@m_Raiko_AIart](https://x.com/m_Raiko_AIart), [@sub_raw_jin](https://x.com/sub_raw_jin), [@Diplomeme](https://x.com/Diplomeme), [@zenkaiAI](https://x.com/zenkaiAI), [@_simonsmith](https://x.com/_simonsmith), [@leyu37829](https://x.com/leyu37829), [@mob_17](https://x.com/mob_17), [@komorimedia](https://x.com/komorimedia), [@degewa](https://x.com/degewa), [@GlennHasABeard](https://x.com/GlennHasABeard), [@TWnese](https://x.com/TWnese), [@Ciri_ai](https://x.com/Ciri_ai), [@tonysimons_](https://x.com/tonysimons_), [@himukai_an](https://x.com/himukai_an), [@Dakiny](https://x.com/Dakiny), [@ExquisitMe](https://x.com/ExquisitMe), [@xRahultripathi](https://x.com/xRahultripathi), [@JohnnyWang8802](https://x.com/JohnnyWang8802), [@Professor_134](https://x.com/Professor_134), [@ArtwlDesign](https://x.com/ArtwlDesign), [@hoshi122221](https://x.com/hoshi122221), [@Ray_CROWN0](https://x.com/Ray_CROWN0), [@AllaAisling](https://x.com/AllaAisling), [@AlwaveNazca](https://x.com/AlwaveNazca), [@_LaurentB](https://x.com/_LaurentB), [@Salmaaboukarr](https://x.com/Salmaaboukarr), [@silentempiredev](https://x.com/silentempiredev), [@rojassartorio](https://x.com/rojassartorio), [@WooGabriel76263](https://x.com/WooGabriel76263), [@SPEEDAI07](https://x.com/SPEEDAI07), [@Magncsans](https://x.com/Magncsans), [@ismajc](https://x.com/ismajc), [@almimeister](https://x.com/almimeister), [@sarinaashapi](https://x.com/sarinaashapi), [@Kazuch75240438](https://x.com/Kazuch75240438), [@yy7482933910896](https://x.com/yy7482933910896), [@terunari](https://x.com/terunari), [@Gerry](https://x.com/Gerry), [@xc5_](https://x.com/xc5_), [@Ayu_AI_0912](https://x.com/Ayu_AI_0912), [@madpencil_](https://x.com/madpencil_), [@cellinlab](https://x.com/cellinlab), [@sha_zdiii](https://x.com/sha_zdiii), [@LoovaAI](https://x.com/LoovaAI), [@PrometheanAIX](https://x.com/PrometheanAIX), [@nijisora_yuma](https://x.com/nijisora_yuma), [@AIwithAliya](https://x.com/AIwithAliya), [@SimplyAnnisa](https://x.com/SimplyAnnisa), [@happycapyai](https://x.com/happycapyai), [@sciencedegens](https://x.com/sciencedegens), [@mapasbr](https://x.com/mapasbr), [@Gdgtify](https://x.com/Gdgtify), [@weiinberg](https://x.com/weiinberg), [@X7649158034321](https://x.com/X7649158034321), [@CurieuxExplorer](https://x.com/CurieuxExplorer), [@Taaruk_](https://x.com/Taaruk_), [@TheRoaringToady](https://x.com/TheRoaringToady), [@saniaspeaks_](https://x.com/saniaspeaks_), [@alantech_](https://x.com/alantech_), [@john_my07](https://x.com/john_my07), [@you1873118](https://x.com/you1873118), [@gold_force_guri](https://x.com/gold_force_guri), [@Sairah_0](https://x.com/Sairah_0), [@bmx_ai13](https://x.com/bmx_ai13), [@GeorgeWuAI](https://x.com/GeorgeWuAI), [@aiistudiocom](https://x.com/aiistudiocom), [@crayon1267](https://x.com/crayon1267), [@hosein2518](https://x.com/hosein2518), [@SaasJunctionHQ](https://x.com/SaasJunctionHQ), [@LoverCrick28247](https://x.com/LoverCrick28247), [@realsigridjin](https://x.com/realsigridjin), [@Mavericks_Prod](https://x.com/Mavericks_Prod), [@amynys](https://x.com/amynys), [@churvikv](https://x.com/churvikv), [@miilesus](https://x.com/miilesus), [@MayorKingAI](https://x.com/MayorKingAI), [@YaZoraiz](https://x.com/YaZoraiz), [@iamaiistudio](https://x.com/iamaiistudio), [@Mind_Boticni](https://x.com/Mind_Boticni), [@getimg_ai](https://x.com/getimg_ai), [@TechieBySA](https://x.com/TechieBySA), [@92digitalartArt](https://x.com/92digitalartArt), [@abs_uiux](https://x.com/abs_uiux), [@noorlewisx](https://x.com/noorlewisx), [@Noor_ul_ain43](https://x.com/Noor_ul_ain43), [@EricoolWong](https://x.com/EricoolWong), [@kingofdairyque](https://x.com/kingofdairyque), [@frametheory058](https://x.com/frametheory058), [@MrDasOnX](https://x.com/MrDasOnX), [@0kncn](https://x.com/0kncn), [@heyfatema](https://x.com/heyfatema), [@chatgptpaglu](https://x.com/chatgptpaglu), [@sdhilip](https://x.com/sdhilip), [@Ankit_patel211](https://x.com/Ankit_patel211), [@itsphotogptai](https://x.com/itsphotogptai), [@guicastellanos1](https://x.com/guicastellanos1), [@ZephyraLeigh](https://x.com/ZephyraLeigh), [@robertsmith_ai](https://x.com/robertsmith_ai), [@mehvishs25](https://x.com/mehvishs25), [@ShamiWeb3](https://x.com/ShamiWeb3), [@linaa_ai](https://x.com/linaa_ai), [@AiwithZohaib](https://x.com/AiwithZohaib), [@zulkarnaimx](https://x.com/zulkarnaimx), [@NyaiiBubu](https://x.com/NyaiiBubu), [@ZaraElira4](https://x.com/ZaraElira4), [@j_smeaton99](https://x.com/j_smeaton99), [@de_mon010](https://x.com/de_mon010), [@aiwithaly](https://x.com/aiwithaly), [@Kashberg_0](https://x.com/Kashberg_0), [@DoctorAmna11](https://x.com/DoctorAmna11), [@oggii_0](https://x.com/oggii_0), [@Hope_Ai01](https://x.com/Hope_Ai01), [@rionaifantasy](https://x.com/rionaifantasy), [@HeyAbhishek](https://x.com/HeyAbhishek), [@AvelyrahnAI](https://x.com/AvelyrahnAI), [@Ozayrr_irl](https://x.com/Ozayrr_irl), [@Anifun_AI](https://x.com/Anifun_AI), [@CamikaApp](https://x.com/CamikaApp), [@vireonixx](https://x.com/vireonixx), [@KingNyalTut](https://x.com/KingNyalTut)
 
 > We cannot guarantee that every case is attributed to the original creator. If anything needs to be corrected, please contact us and we will update it.
 

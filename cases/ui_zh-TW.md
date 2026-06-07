@@ -2052,3 +2052,151 @@ Quality: hyper-detailed, ultra-realistic materials, photorealistic objects, cine
 
 <img src="../images/ui_case168/output.jpg" width="500">
 
+---
+### Case 169: Embossed Metal Logo Bas-Relief
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063065673740497022)
+
+**Prompt**:
+```
+Replace [BRAND NAME] with your brand and [COLOR] with your preferred metal tone.
+
+Act as a Senior CGI Artist. Create a premium bas-relief logo visualization where the brand mark appears embossed outward from a metallic surface, like a coin, hallmark stamp, or luxury seal. The logo rises as a unified raised form from the surface itself.
+
+Surface: One continuous material plane filling the entire canvas. Use the metal tone from [COLOR]: silver/grey becomes brushed steel, gold becomes warm brushed metal, black becomes anodized aluminum, white becomes matte ceramic, saturated colors become anodized colored metal. Apply radial brushed grain and fine film grain for tactility.
+
+Emboss: The brand's primary logo mark rises as a full bas-relief, like a coin die-stamp. The entire filled silhouette pushes outward as one solid mass at uniform height. Top face is slightly convex, catching key light. Smooth beveled edge transitions from flat surface to raised form. Interior negative spaces recess back to surface level. Substantial raised height like a thick coin.
+
+Lighting: Primary soft area light from upper-left (10-11 o'clock), broad and diffused. Light temperature matches [COLOR]: cool white for silver/grey/blue, warm amber for gold/copper, neutral for white/black. Subtle fill light from lower-right at 10-15% intensity. No hard shadows.
+
+Typography: Below the embossed mark, minimal lockup on the same surface. Small flat brand icon, brand name in spaced geometric caps, one light italic descriptor line (founding year, category, or tagline). Centered, vertically stacked.
+
+Render: Ray tracing enabled for self-shadowing. Full sharpness edge to edge. Uniform film grain. No chromatic aberration. The mark must read as PUSHED OUTWARD from the surface.
+```
+
+**Output**:
+
+<img src="../images/ui_case169/output.jpg" width="500">
+
+---
+### Case 170: Sculptural Fruit Packaging Design
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062959343658754160)
+
+**Prompt**:
+```
+Professional product photography of a sculptural packaging design built for [Fruit Name]. The box is premium corrugated cardboard shaped and cut into the exact silhouette of a giant [Shape — spherical, curved, or elongated] [Fruit Name].
+
+Outer surface is printed with a bold, minimal [Pattern — geometric hexagons / organic wavy lines / botanical line-art / horizontal ridges] that echoes the natural skin texture, rendered in a duo-tone scheme of [Color 1] and [Color 2].
+
+Die-cut window panels expose the [Product Inside] nestled inside. Clean modern sans-serif text on the side reads "[BRAND NAME]". Eco details include a recycling icon and a sculpted corrugated [Stem / Leaf / Crown] on top.
+
+Soft diffused studio lighting, gentle drop shadows, set against a solid pastel [Background Color]. 8K, photorealistic, cinematic framing, industrial design aesthetic.
+```
+
+**Output**:
+
+<img src="../images/ui_case170/output.jpg" width="500">
+
+---
+### Case 171: Luxury Perfume Infographic Ad
+
+**Source**: [@iamrealsnow](https://x.com/iamrealsnow/status/2062888729023557979)
+
+**Prompt**:
+```
+Ultra-premium luxury perfume infographic advertisement, centerpiece crystal perfume bottle with intricate glass detailing, surrounded by flowing liquid gold splashes and floating flower petals, elegant black and gold color palette, cinematic studio lighting, glossy reflections, fashion magazine quality, luxury beauty campaign design.
+
+Highly organized infographic layout with premium sections and elegant typography:
+• Fragrance Pyramid (Top Notes, Heart Notes, Base Notes) with luxury ingredient visuals.
+• Key Ingredients showcase with realistic botanical illustrations.
+• Longevity and Performance metrics using premium golden icons.
+• Bottle Design Breakdown with callout lines and annotations.
+• Perfect Occasions section featuring luxury lifestyle imagery.
+• How To Wear guide with minimalistic illustrated icons.
+• Sustainability, Cruelty Free, Premium Craftsmanship badges.
+
+Center composition dominated by hero perfume bottle, surrounded by information panels arranged symmetrically. Gold foil typography, luxury branding elements, elegant dividers, premium editorial layout, luxury cosmetics catalog design, infographic meets high-end advertisement, sophisticated visual hierarchy, ultra-detailed glass textures, photorealistic product rendering, luxury magazine spread, award-winning advertising agency quality, masterpiece, ultra sharp details, HDR, 8K, commercial product photography.
+
+Style references: Chanel, Dior, Tom Ford, Maison Francis Kurkdjian, luxury fashion magazine editorial, premium infographic design, black background, gold accents, museum-quality luxury presentation.
+```
+
+**Output**:
+
+<img src="../images/ui_case171/output.jpg" width="500">
+
+---
+### Case 172: AAA Game Loading Screen Portrait
+
+**Source**: [@yulikay](https://x.com/yulikay/status/2062850006537953367)
+
+**Prompt**:
+```
+Step 1. Uploaded a reference selfie to Higgsfield.
+
+Generated the still loading screen using GPT Image 2.
+
+Prompt (you can adjust the details with your name, bio, etc.):
+
+Generate a hyper-realistic in-game cinematic still from a fictional unreleased AAA video game, rendered in Unreal Engine 5 with MetaHuman-quality character fidelity, Nanite-level environment detail, and full ray-traced lighting. The result should look indistinguishable from a real 4K screenshot pulled directly from a modern AAA title like Death Stranding 2, Hellblade 2: Senua's Saga, The Last of Us Part 2, Cyberpunk 2077, or Black Myth: Wukong.
+
+The character (right two-thirds of the frame)
+
+Render the uploaded person Image 1 as the playable protagonist of this fictional game. Keep the person's exact facial likeness, skin tone, eye colour, and hair colour as the anchor (the digital double must read as them, not a generic model).
+
+Photoreal skin: visible pores, subsurface scattering through the cheeks and ears, micro-detail on the lips, faint natural blemishes preserved. Hair rendered with individual strand detail, soft physics, slight backlit halo. Eyes with full catchlight, wet sheen, subtle iris detail, faint moisture in the lower lid line.
+
+Wardrobe: contemporary cinematic styling that fits the game's world.
+- A tailored cropped leather jacket over a fitted silk top, with delicate gold chain jewellery
+
+Pose: three-quarter angle, head turned slightly toward camera, calm confident posture. Subtle stylized stance, not theatrical.
+
+The environment (background)
+
+A photoreal AAA game environment behind the character. Pick ONE based on mood:
+- Golden-hour rooftop of a fictional cinematic Tokyo, neon signs in soft bokeh, distant skyline, warm haze
+- Misty forest with shafts of god rays cutting through canopy, soft moss detail, distant fog
+- Rain-slick neon-lit alley in a Cyberpunk-style city, puddles reflecting magenta and teal, drifting steam
+- A coastal cliff at golden hour, wildflowers in the foreground, ocean haze on the horizon
+
+Full Lumen global illumination, ray-traced reflections, photoreal depth of field with character in sharp focus and background in cinematic soft blur. Photoreal volumetric lighting and atmospheric haze.
+
+UI overlay (left third of the screen)
+
+A minimalist modern AAA game UI panel, semi-transparent matte black with thin warm-gold accent lines (inspired by Death Stranding's clean menu aesthetic). The panel feels expensive, technical, and restrained.
+
+Display the following character profile, rendered in a custom game-UI typeface (clean modern serif for headings, fine sans-serif for body):
+
+- CHARACTER: YULI
+- TITLE: The Soft-Power Heroine
+- CLASS: Wanderer · Creator · Aesthete
+- LEVEL: 30
+- REGION: Currently exploring · Asia
+- AFFINITY: Light & Warmth
+- BIO: Main Character Energy
+
+Each field separated by a thin gold dividing line. Subtle text glow.
+
+Game title bar (top of frame)
+
+At the top centre, a fictional AAA game title in refined serif: "AETHER · A Soft Power Adventure"
+Below it, in fine all-caps tracked text: "CHAPTER ONE · NOW LOADING..."
+
+Loading bar (bottom of frame)
+
+A horizontal minimalist loading bar at 73% complete. The filled portion glows faint warm gold. Below the bar in small italic text: "TIP: Beauty is data. Travel often. Save your screenshots."
+
+Visual treatment (post-processing)
+
+Cinematic AAA post-processing stack: subtle chromatic aberration at edges, soft film grain, gentle vignette, faint lens dirt on the highlights, warm-cool colour grading. The image should feel like a 4K screenshot taken from a $200 million production game, not a graphic poster.
+
+Output
+
+4K resolution, 16:9 aspect ratio, photoreal AAA quality, screenshot-authentic. Looks like a frame pulled from a real high-end console game running on a PS5 Pro or high-end PC.
+```
+
+**Output**:
+
+<img src="../images/ui_case172/output.jpg" width="500">
+
+

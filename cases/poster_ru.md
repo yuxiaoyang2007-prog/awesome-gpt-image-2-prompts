@@ -5540,3 +5540,140 @@ The image should communicate human connection, cosmic wonder, the contrast betwe
 
 <img src="../images/poster_case334/output.jpg" width="500">
 
+---
+### Case 335: Mixed-Media Editorial Portrait
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063050883651547471)
+
+**Prompt**:
+```
+A mixed-media portrait of [SUBJECT] showing [EXPRESSION], looking [GAZE DIRECTION], styled with [ACCESSORY/STYLING]. Realistic identity rendered with bold black sketch strokes layered over torn newspaper collage fragments and acrylic paint splashes. Editorial print texture throughout, seamlessly blending photorealism with abstract expressionism. Premium poster aesthetic with a tactile, handmade feel. High contrast composition, ultra-detailed face and eyes. [PRIMARY COLORS] and [SECONDARY COLORS] palette.
+```
+
+**Output**:
+
+<img src="../images/poster_case335/output.jpg" width="500">
+
+---
+### Case 336: Landmark Miniature Diorama
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063020385420161405)
+
+**Prompt**:
+```
+Isometric miniature diorama of [LANDMARK NAME], capturing its real-world structure and proportions on a small floating platform, surrounded by buildings and landscape details from [CITY / COUNTRY]. Physically accurate materials including stone, concrete, metal, and glass. True-to-life color palette, muted and realistic tones matching the actual landmark. Off-white studio background with soft natural lighting, gentle shadows, and clean composition. High-detail 3D render, premium architectural model aesthetic, no people, no text.
+```
+
+**Output**:
+
+<img src="../images/poster_case336/output.jpg" width="500">
+
+---
+### Case 337: Glass Skeleton Study Desk
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062915921371644352)
+
+**Prompt**:
+```
+Stylized 3D render of a clear glass skeleton with black-rimmed glasses, seated at a wooden desk, looking down at an open textbook while highlighting text with a yellow highlighter. A warm gold desk lamp on the right casts cozy yellow light with glossy reflections on the glass surface. The desk has a white coffee mug, stack of hardcover books, and scattered pens with pastel pink and yellow highlighters. Soft pink wall background. Warm, studious aesthetic. No text or watermarks.
+```
+
+**Output**:
+
+<img src="../images/poster_case337/output.jpg" width="500">
+
+---
+### Case 338: Pastel Paper-Collage Travel Poster
+
+**Source**: [@Ciri_ai](https://x.com/Ciri_ai/status/2062906835460641113)
+
+**Prompt**:
+```
+Create a refined wide landscape illustration of [CITY/SUBJECT], naturally featuring [ICONIC LANDMARK] as the main recognizable visual anchor.
+
+CORE STYLE:
+Depict [SUBJECT] as a calm, elegant, highly stylized scene in a toned-down pastel paper-collage poster style. The scene should feel minimal, clean, poetic, modern, cultured, leisurely, and softly cheerful rather than realistic.
+
+COMPOSITION:
+Use a spacious horizontal composition. Place [MAIN SUBJECT] as the central focus, clearly recognizable through its iconic [DISTINCTIVE FEATURES] rising above the layered scene. Surround it with simplified [CONTEXTUAL ELEMENTS]. Reinterpret in highly stylized illustrated forms using clean geometric shapes, layered color planes, soft curves, crisp silhouettes, and paper-like cutout forms. Avoid photorealism.
+
+VISUAL ELEMENTS:
+Include minimal charming details: simplified forms, tiny expressive people for scale, small architectural/environmental accents, organic elements (trees, plants), calm open sky with generous breathing space, clean horizontal layered divisions suggesting depth and atmosphere.
+
+COLOR PALETTE (Toned-Down Pastels):
+Soft sky blue, hazy blue-gray, pale cobalt, muted sage green, powder mint, warm cream, light beige, pale stone gray, dusty coral, soft peach, muted yellow, off-white, very small accents of navy or charcoal. [Add subject-specific accent colors as needed]
+
+TACTILE QUALITY:
+The image should feel tactile and handmade, like carefully arranged colored paper and gouache-painted poster board. Add subtle paper grain, matte printed texture, soft raised edges, delicate embossing, slight cut-paper shadows, gentle surface roughness. Keep surface refined and minimal, not messy.
+
+VISUAL LANGUAGE:
+Minimal paper collage, pastel travel poster, flat graphic shapes, subtle 3D paper relief, clean silhouettes, simplified architecture, soft matte texture, crisp color fields, gentle shadows, minimal linework, refined editorial illustration, modern [cultural context] poster mood. Wide landscape format, balanced negative space, strong graphic layering, clear focal area, simplified zones arranged harmoniously, airy composed and visually restful.
+
+LIGHTING & MOOD:
+Bright soft daylight, clean atmosphere, gentle shadows, warm relaxed tone, cultured and optimistic mood, quiet and sophisticated travel-poster feeling.
+
+TYPOGRAPHY (Upper-left corner):
+Main title '[CITY/SUBJECT NAME]' in geometric uppercase sans-serif font with wide letter-spacing, solid white color. Below: smaller native text '[Local Language · Translation]' and English subtext '[LANDMARK/SUBTITLE]', all in matching white, left-aligned, thin stroke weights with airy spacious tracking.
+
+AVOID:
+Photorealism, realistic photography, over-detailed buildings, heavy outlines, messy brushwork, neon cyberpunk style, dark gloomy lighting, excessive gradients, crowded scenes, readable signage, logos, watermarks.
+
+FINAL RESULT:
+A polished minimal pastel paper-collage landscape illustration of [SUBJECT], with [ICONIC ELEMENT] as the main recognizable visual anchor, featuring tactile paper texture, soft shadows, clean geometric color blocking, generous negative space, and a refined modern travel-illustration mood.
+
+=====================================
+VARIABLE REPLACEMENT GUIDE:
+[CITY/SUBJECT] = Target city or subject
+[ICONIC LANDMARK] = Main recognizable landmark
+[DISTINCTIVE FEATURES] = Key identifying characteristics
+[CONTEXTUAL ELEMENTS] = Supporting environmental details
+[cultural context] = Cultural/regional context (e.g., Korean, Japanese, Chinese, French)
+[SUBJECT-SPECIFIC COLORS] = Custom accent colors (cherry blossoms: blush pink, lavender fields: soft lavender, etc.)
+Images
+```
+
+**Output**:
+
+<img src="../images/poster_case338/output.jpg" width="500">
+
+---
+### Case 339: Sketch Portrait Breaking Paper
+
+**Source**: [@Fujimoto_hina](https://x.com/Fujimoto_hina/status/2062869471203844457)
+
+**Prompt**:
+```
+{
+  "prompt": "A hyper-realistic top-down photograph of a white sketch paper lying on a rustic wooden table. On the paper is an incredibly detailed graphite pencil sketch of a handsome young man with the exact facial features, hairstyle, glasses, smile, proportions, and expression from the uploaded reference image. The portrait is rendered in realistic graphite pencil shading with exceptional detail. He is wearing a modern black American-style jacket and shirt, with only the clothing rendered in full color while the face remains a pencil sketch. The man is holding a real photorealistic 3D black coffee mug labeled 'AEGON' that appears to break through the boundaries of the paper and extend into the real world. The coffee mug is rendered in full color with realistic reflections and texture. His hand holding the mug is also fully photorealistic and colored, seamlessly blending with the sketch to create an impressive trompe-l'oeil illusion. Realistic steam rises from the hot coffee and partially covers the lower part of his face. The white sketch paper rests on a rustic wooden tabletop surrounded by scattered coffee beans, two sharpened black pencils, subtle sketching tools, and warm natural sunlight creating soft shadows. Cozy coffee shop atmosphere, shallow depth of field, cinematic lighting, premium composition. Photorealistic mixed-media artwork, pencil drawing combined with 3D realism, illusion art, trompe-l'oeil effect, ultra-detailed textures, realistic steam, professional studio-quality lighting, highly detailed graphite shading, 8K resolution, masterpiece quality. In the bottom-left corner of the paper, add a small minimalist triangle containing a stylized letter 'A' with the text 'A.E.G.O.N' elegantly written beneath it as an artist signature. Preserve the reference face exactly.",
+  "size": "1024x1792",
+  "style": "photorealistic",
+  "quality": "ultra",
+  "aspect_ratio": "9:16",
+  "lighting": "warm natural sunlight",
+  "camera_angle": "top-down",
+  "detail_level": "8K",
+  "negative_prompt": "blurry, low resolution, distorted face, extra fingers, duplicate hands, bad anatomy, cartoon, anime, painting, watercolor, oversaturated colors, low detail, text artifacts, cropped face, unrealistic steam, deformed mug, unrealistic proportions"
+}
+```
+
+**Output**:
+
+<img src="../images/poster_case339/output.jpg" width="500">
+
+---
+### Case 340: Passport Worlds Atlas Scene
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062824097164476733)
+
+**Prompt**:
+```
+Breathtaking 3D scene: a worn passport lays open, each visa stamp exploding into the places it represents. Every inked mark becomes a gateway—[CITY 1] emerges in miniature from one stamp with [DETAIL 1], [CITY 2] breaks through another with [DETAIL 2], [CITY 3] materializes with [DETAIL 3]. [LANDMARK 1], [LANDMARK 2], and [LANDMARK 3] rise at different scales across the pages. Flight paths sweep overhead as radiant golden arcs weaving between all the worlds.
+Coffee rings transform into lakes. Frayed edges dissolve into coastlines. [ATMOSPHERIC ELEMENT 1] drifts from one destination while [ATMOSPHERIC ELEMENT 2] swirls near another.
+Dramatic raking light, tilt-shift depth of field, 8K, UE5, cinematic lighting. A bureaucratic document reborn as a living atlas of adventures.
+```
+
+**Output**:
+
+<img src="../images/poster_case340/output.jpg" width="500">
+
+

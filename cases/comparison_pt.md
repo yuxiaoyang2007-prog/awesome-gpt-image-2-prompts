@@ -958,3 +958,98 @@ As the players emerge, they interact with the fans in a euphoric post-goal momen
 ```
 Build a full visual worldbuilding kit for a futuristic solar-powered desert civilization. Include multiple images covering architecture, characters, clothing, vehicles, and maps, all sharing one cohesive design language, with cinematic realism and ultra detailed finish.
 ```
+
+---
+### Case 90: Racer Character Model Sheet
+
+**Source**: [@itsPixieVerse](https://x.com/itsPixieVerse/status/2063062387394216112)
+
+**Prompt**:
+```
+[layout_setup]: A comprehensive, full-page character model design sheet layout strictly on a pristine solid white background with no gradients, no environmental art, and no photorealistic elements whatsoever. [identity_module]: On the left side, large ultra-bold minimalist design typography spelling 'REINA VOSS' next to clean monospace text columns detailing character age 24, classification traits as underground circuit legend and drift specialist, tactical description blocks reading former getaway wheelman turned undefeated canyon queen with a photographic memory for road geometry and an obsessive ritual of wrapping her knuckles before every race. [turnaround_module]: Centered prominently on the sheet is a full-body orthographic turnaround lineup showing identical front view, side profile view, and back view of a tall, sharp-jawed young woman with deep terracotta skin and dense voluminous shoulder-length locs gathered loosely at the nape with a worn leather cord, a few golden cuff beads threaded throughout, wearing a cropped vintage racing-inspired bomber jacket in faded oxblood leather with oversized wool-lined collar and hand-stitched sponsor patches from defunct fictional brands, layered over a ribbed charcoal compression top, high-waisted wide-leg mechanic trousers in dark indigo canvas with reinforced knee panels and dangling carabiner key rings clipped to a canvas utility belt slung low on one hip, hands wrapped in fraying ivory hand-wrap tape extending past the wrists, and chunky platform steel-toe boots in scuffed matte black with thick ridged rubber soles and asymmetric buckle straps, showing a poised calm stance with weight shifted to one leg and arms relaxed at her sides, designed where 3D is only the base structure, maintaining highly stylized elongated lanky proportions with sharp chiseled skeletal structures and exaggerated long fingers. [gear_module]: On the right side, an array of close-up callout square panels highlighting macro texture painting details of the cracked aged oxblood leather grain and frayed wool collar fibers of her bomber jacket, blueprint-style vector schematic line drawings of her custom titanium steering wheel with thumb-trigger nitrous activation and ergonomic suede grip wrapping, and technical lists detailing her modified 1997 coupe specifications including sequential twin-turbo inline six, hydraulic handbrake integration, roll cage geometry, and a cracked rearview mirror she refuses to replace for superstitious reasons. [expression_module]: Running along the bottom quadrant, a perfectly aligned horizontal row of 5 isolated headshot expressions displaying Neutral with half-lidded confidence, Smirk with one corner of her mouth pulled into a sly knowing grin, Focused with narrowed eyes and clenched jaw studying a road ahead, Shocked with widened asymmetrical eyes and parted lips, and Aggressive with bared teeth and deep furrowed brow veins visible at the temple, all featuring highly stylized 2.5D planar anatomy with volumetric chiseled shadow planes, soft textured loc volumes with golden bead glints rendered as flat pigment shapes, and vibrating grease-pencil outlines with heavy line-weight variation. [style_tags]: hand-painted 2.5D, texture painting, 3D is only the base structure, vibrating grease-pencil outlines, Arcane style painterly textures, thick oil-painterly brushstrokes with visible impasto canvas grain, non-action character study, deep ambient occlusion shadow planes, stepped cel-shading, printer halftone dot textures in transitional shadows, graphic ink slashes on clothing folds, matte sophisticated color blocking, masterwork model pack.
+```
+
+**Output**:
+
+<img src="../images/comparison_case90/output.jpg" width="500">
+
+---
+### Case 91: Era Cube Visualizer Grid
+
+**Source**: [@Gdgtify](https://x.com/Gdgtify/status/2062903770087084107)
+
+**Prompt**:
+```
+I love these cube prompts for visualizing different eras. Pretty short but GPT Image 2 figures it out
+
+2x2 grid, do this for different years of vastly different eras:  ERA_TO_CUBE_SOLVER  INPUT ::= [TOPIC], [ERA]  STEP_1 :: infer era identity - time period or stage - dominant materials - key tools or artifacts - social/technical/cultural context - built environment or natural environment - representative agents or figures if relevant  STEP_2 :: compress into cube - large objects define cuboid edges - medium objects build internal scenes - small objects fill gaps - top, side, and front faces remain visible - everything stays inside a strict rectangular volume  STEP_3 :: create module text - large era label - short subtitle - compact bullet list - no fixed facts unless supplied  STEP_4 :: repeat across eras - preserve identical visual grammar - increase or transform complexity chronologically
+```
+
+**Output**:
+
+<img src="../images/comparison_case91/output.jpg" width="500">
+
+---
+### Case 92: Chaotic Kitchen Freeze-Frame
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062762822468272327)
+
+**Prompt**:
+```
+Surreal comedic freeze-frame inside a modern kitchen: a young man arches backward in an extreme acrobatic dodge, body exaggerated, while a kettle hangs suspended mid-air above him, hot tea exploding outward in a dramatic splash. In the background a woman stands with one arm extended, looking completely shocked as if she just accidentally launched the kettle. Wide-angle lens distortion, crisp liquid physics, dynamic action freeze, sharp details, realistic lighting, cinematic color grading, humorous storytelling, high-resolution digital art.
+```
+
+**Output**:
+
+<img src="../images/comparison_case92/output.jpg" width="500">
+
+---
+### Case 93: Innovation Reliquary Diagram
+
+**Source**: [@Gdgtify](https://x.com/Gdgtify/status/2062720059575783713)
+
+**Prompt**:
+```
+Have done so many of these prompts on inventions. Here is another way to  visualize them with GPT Image 2
+
+Function DrawInventionReliquary(input invention)
+
+Input Variable: [INSERT INVENTION]
+
+System Instruction:
+Generate a hyper-realistic "Innovation Reliquary Exploded Diagram."
+
+1. Semantic Extraction:
+AI infers:
+- Core problem solved
+- Mechanism
+- Historical era
+- Inventor culture
+- Materials
+- Failure points
+- Social impact
+
+2. Container:
+Structure: floating exploded object inside a glass museum case.
+Every part is suspended on brass rods and fine tension wires.
+
+3. Background:
+Patent-paper wall with faint diagrams, tolerances, labels, and archive stamps.
+
+4. Integration:
+The invention’s key insight becomes a central glowing mechanism.
+
+5. Visual Syntax:
+Materials: brushed steel, glass, brass, aged paper, black ink.
+Lighting: luxury product photography.
+No cheap blueprint clichés.
+
+Output:
+2x2 grid, 16:9, four world-changing inventions.
+```
+
+**Output**:
+
+<img src="../images/comparison_case93/output.jpg" width="500">
+
+

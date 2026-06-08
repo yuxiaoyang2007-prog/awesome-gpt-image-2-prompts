@@ -5676,4 +5676,709 @@ Dramatic raking light, tilt-shift depth of field, 8K, UE5, cinematic lighting. A
 
 <img src="../images/poster_case340/output.jpg" width="500">
 
+---
+### Case 341: Chaotic Doodle Photo Portrait
 
+**Source**: [@Shorelyn_](https://x.com/Shorelyn_/status/2063235707632533954)
+
+**Output**:
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case341/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case341/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case341/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case341/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Turn this photo into a chaotic funny doodle illustration, intentionally messy and low-skill, as if drawn quickly with a cheap marker, crayon, or worn-out felt pen on paper.
+
+Create exaggerated facial features with awkward proportions, uneven eyes, oversized head, tiny body, crooked smile, and clumsy anatomy while still keeping the person recognizable. Use rough childish sketch lines, shaky hand-drawn strokes, visible scribbles, overlapping outlines, accidental marks, and random doodles around the scene. Add a simple cartoon-style background with badly drawn buildings, trees, clouds, street elements, and uneven perspective. Coloring should look careless and imperfect, with visible stroke texture, inconsistent fill areas, wax crayon texture, marker bleed, and irregular shading. Include playful imperfections like crossed-out lines, unfinished details, random arrows, tiny notes, stars, swirls, and abstract scribbles. Overall aesthetic should feel humorous, spontaneous, handmade, energetic, goofy, and intentionally unpolished, resembling a child's sketchbook mixed with absurd internet meme art. High texture detail, paper grain visible, asymmetrical composition, awkward framing, expressive doodle chaos, raw sketch energy.
+```
+
+---
+### Case 342: Semi-3D Fashion Editorial Avatar
+
+**Source**: [@AIwithSynthia](https://x.com/AIwithSynthia/status/2063299903582003607)
+
+**Output**:
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case342/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case342/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Create a premium high-resolution vector-cartoon / semi-3D illustration of the person from the reference image. Reimagine them in a stylish modern fashion-editorial look, sitting confidently on a sleek designer chair. Outfit: trendy T-shirt, fashionable skirt/pants, stylish sneakers, and bold sunglasses as the hero accessory. Exaggerate key facial features while maintaining recognizable likeness. Clean flat-colored background (single vibrant color), smooth lines, sharp details, soft studio lighting, luxury advertising aesthetic, centered composition with ample negative space for branding and headlines. Ultra-detailed, print-ready, billboard-quality, modern eyewear campaign style.
+```
+
+---
+### Case 343: Retro Automotive Travel Poster Template
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063276384924111329)
+
+**Output**:
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case343/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case343/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case343/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case343/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+prompt:
+
+Create a vertical retro automotive travel poster featuring [CAR MODEL] either parked or driving through [SCENERY]. Use a bold 1970s printmaking style with a strict 4-color palette only: [COLORS]. Build the image with flat silkscreen-style color blocking, strong contrast shadows, simplified geometric reflections, slight ink misregistration, subtle paper grain, distressed print texture, and graphic halftone shading.
+
+Avoid gradients, photorealism, glossy 3D rendering, and modern digital polish. The car should feel iconic and graphic, with thick simplified contour shapes and a warm nostalgic travel-ad atmosphere.
+
+Include vintage advertisement typography that reads "[TITLE]" and integrate an authentic [BRAND LOGO] naturally into the layout. Add stylized trees, buildings, road signs, landscape shapes, or location details in the background so the setting clearly supports the travel-poster story.
+
+The composition should feel like a strong mid-century tourism poster: balanced, editorial, poster-ready, and visually bold. Keep the design clean and intentional, with no stamp border.
+```
+
+---
+### Case 344: Family Watercolor Fashion Sketch
+
+**Source**: [@AiwithZohaib](https://x.com/AiwithZohaib/status/2063277611409879452)
+
+**Output**:
+
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case344/output.jpg" width="500" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A stylish family standing together, digital watercolor and ink sketch illustration, fashion illustration style, white clean background with abstract beige brush strokes, soft lighting, expressive line art, casual modern clothing, denim jeans, black hijabs, relaxed happy pose, elegant minimal aesthetic, high detail, editorial sketch look.
+```
+
+---
+### Case 345: Japanese Fashion Cover Illustration
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063291615205314737)
+
+**Output**:
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case345/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case345/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case345/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case345/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+prompt:
+
+Create a high-end Japanese fashion magazine cover illustration. The subject is [XXX]. Use a minimalist, modern fashion-digital-illustration style with refined cel shading, crisp clean large color-block modeling, almost no visible linework, and elegant sharp edges.
+
+Keep a blue-and-white structural palette as the foundation, with restrained accents of coral red, misty purple, pale yellow, ash pink, sage green, silver gray, or similar soft secondary tones. The final image should stay minimal, premium, cohesive, and not flashy.
+
+Use a clean background, such as cobalt blue, royal blue, misty blue, or another pure large color field, with generous negative space. Strong sunlight enters from the upper left. White areas should be bright and close to overexposed, while shadows are built from hard-edged planes of cool blue, gray-blue, and blue-purple.
+
+Give the subject a slender silhouette and a quiet, aloof posture. Simplify details while keeping the form accurate. The overall mood should feel translucent, cool, elegant, fashionable, and suitable for a premium magazine cover poster.
+
+Avoid text, watermarks, complex backgrounds, photorealistic photography, 3D, heavy impasto, childish cartoon styling, and cluttered decoration.
+```
+
+---
+### Case 346: Love Bites Cyberpunk Manga Cover
+
+**Source**: [@her19845](https://x.com/her19845/status/2063310953475678229)
+
+**Output**:
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case346/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case346/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Generate a vintage vinyl album cover with a cyberpunk and manga aesthetic, grainy and worn. The background is dark and textured, with scratches and dust. At the top, the title "LOVE BITES" appears in large white and gray capital letters, with two red lines crossed out. To the left of the title is a red six-pointed star symbol with a central asterisk. Below the title is the text: "BEAUTY IS POWER, SILENCE IS WAR."
+
+In the center is a monochrome manga-style illustration of the attached image. Behind it is a monochrome illustration of a 1990s JDM sports car.
+
+Includes multiple graphic details and logos:
+
+Top left: logos for "STEREOPHONIC HIGH FIDELITY RECORDING," "33 ⅓ RPM," and "LP."
+
+Top right: a red circle that reads "VOL. 01."
+
+On the left: the text "HER19845", a barcode, and a tracklist with 6 numbered songs (e.g., "01. SILENT GAZE", "02. LOVE BITES", "03. NIGHT DRIVE", "04. EMPTY PROMISES", "05. FAKE SMILE", "06. BLEED QUIET").
+
+On the right: a red square with a globe logo, the text "YOU CAN WATCH BUT YOU WON'T UNDERSTAND", asterisks, and "@IMAGE_5".
+
+Bottom left: the Japanese text "美しさは力である" and a barcode "0025".
+
+Bottom right: a silver "PARENTAL ADVISORY EXPLICIT CONTENT" label and red graffiti "DON'T FALL IN LOVE" with a crossed-out heart.
+
+Copyright text "ALL RIGHTS RESERVED" at the bottom edge.
+
+The overall aesthetic should be nostalgic, underground, and raw, with the grain and texture of a real vinyl record. The color scheme is monochromatic with red accents.
+
+Use a 3:4 aspect ratio.
+```
+
+---
+### Case 347: World Cup Hero Poster
+
+**Source**: [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2063677927057981650)
+
+**Output**:
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case347/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case347/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case347/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case347/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Create a cinematic ultra-detailed football poster of [PLAYER NAME] playing for [TEAM/COUNTRY], chest-up portrait, looking away from camera, dramatic team color rim lighting, floating embers, atmospheric smoke, premium sports marketing campaign style, photorealistic skin texture, highly detailed jersey with team crest, massive vertical typography displaying player's surname on the left side, "FIFA WORLD CUP 2026" text near bottom center, luxury editorial photography, AAA game key visual quality, Unreal Engine 5 rendering, ultra-sharp focus, high contrast, 8K masterpiece, smartphone wallpaper composition, character occupying 90% of frame.
+
+Composition:
+
+Vertical smartphone wallpaper (9:16 ratio)
+
+Chest-up portrait occupying 85–90% of the frame
+
+Subject positioned slightly right of center
+
+Extreme close-up perspective with strong visual presence
+
+Head turned slightly to the side, looking off-camera
+
+Heroic, confident, focused expression
+
+Lighting:
+
+Dramatic cinematic rim lighting
+
+Strong team color backlight from camera-left
+
+Soft warm key light illuminating facial details
+
+Deep shadows with high contrast
+
+Volumetric atmosphere and subtle haze
+
+Premium studio photography quality
+
+Character Detail:
+
+Hyper-realistic skin texture
+
+Sharp eyes with natural catchlights
+
+Highly detailed hair strands
+
+Photorealistic facial features
+
+Ultra-clean professional athlete appearance
+
+Realistic fabric folds and stitching
+
+Jersey:
+
+New football kit with sponsor logo
+
+Premium fabric texture
+
+Detailed team crest
+
+Realistic sponsor and badge embossing
+
+Subtle reflective highlights
+
+Match-day elite aesthetic
+
+Background:
+
+Dark black-to-deep-team color gradient
+
+Atmospheric smoke and mist
+
+Floating ember particles
+
+Cinematic depth
+
+Minimal distractions
+
+Character remains the brightest focal point
+
+Typography Layout:
+
+Massive vertical surname along left side
+
+Small first name at top
+
+Team name and position near lower-left corner
+
+Social media handle at bottom center
+
+Modern condensed sports typography
+
+Bold typography matching lighting palette
+
+Color Palette:
+
+Deep black
+
+Team color
+
+Dark team color
+
+Warm skin tones
+
+High contrast cinematic grading
+
+Quality:
+
+Unreal Engine 5 quality
+
+8K ultra-detailed
+
+Sports marketing campaign quality
+
+Premium poster design
+
+Sharp focus
+
+Photorealistic rendering
+
+Professional color grading
+
+Award-winning sports photography aesthetic.
+
+Aspect Ratio: 9:16
+
+Always generate the player in the context of the FIFA World Cup 2026, using the official national team colors, kit, and tournament atmosphere appropriate to the player's country.
+```
+
+---
+### Case 348: Destination Diorama Filmstrip
+
+**Source**: [@Naiknelofar788](https://x.com/Naiknelofar788/status/2063582448689336690)
+
+**Output**:
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case348/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case348/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+[LOCATION]
+Generate all landmarks, scenery, cultural elements, architecture, wildlife, transportation, food, and local experiences automatically based on the destination.
+
+STYLE DIRECTION
+Combine three visual styles:
+
+1. Photorealistic cinematic background
+2. Premium stylized 3D traveler character
+3. Handcrafted papercut diorama film-strip scenes
+
+The contrast between these styles should feel intentional, premium, and editorial.
+
+LAYOUT
+
+Vertical 4:5 poster format.
+
+LEFT SIDE:
+A large vintage black film strip running vertically from top to bottom.
+
+RIGHT SIDE:
+A highly detailed 3D traveler character walking confidently toward the viewer.
+
+CENTER/TOP:
+Large hand-lettered headline:
+
+"Every Frame a Destination"
+
+Generate a destination-inspired subtitle automatically.
+
+CHARACTER
+
+Create a premium stylized 3D travel creator.
+
+The character should automatically suit the destination:
+
+Examples:
+
+- Travel photographer
+- Travel vlogger
+- Adventure explorer
+- Wildlife photographer
+- Luxury traveler
+- Backpacker
+- Cultural storyteller
+
+Character requirements:
+
+- High-end 3D rendering
+- Photorealistic materials
+- Natural human proportions
+- Attractive and relatable
+- Walking confidently
+- Holding a professional camera
+- Wearing destination-appropriate clothing
+- Backpack or camera bag
+- Strong visual presence
+- Social-media-friendly appearance
+
+The traveler should be the main focal point of the poster.
+
+FILM STRIP
+
+Populate the film strip with 5 iconic destination highlights automatically selected from the location.
+
+IMPORTANT:
+
+Do NOT use photographs inside the film strip
+
+Each film frame should contain a handcrafted papercut diorama version of the destination.
+
+Papercut Diorama Style:
+
+- Layered paper artwork
+- Multiple depth layers
+- Paper-cut architecture
+- Paper-cut landscapes
+- Paper-cut vegetation
+- Miniature handcrafted appearance
+- Rich paper textures
+- Soft shadowing between layers
+- Premium paper sculpture craftsmanship
+- Editorial-quality design
+
+Each frame should feel like a miniature handcrafted world.
+
+One or two elements may slightly extend outside the film frame for depth.
+
+Examples:
+
+- Landmark extending beyond border
+- Wildlife partially escaping frame
+- Local transportation overlapping frame edge
+- Natural elements extending outside frame
+
+One frame should contain:
+
+- Travel journal page
+- Vintage stamp
+- Passport marks
+- Handwritten travel note
+- Destination-inspired quote
+
+BACKGROUND
+
+Create a photorealistic blurred background inspired by the destination.
+
+Examples:
+
+- Historic city streets
+- Coastal roads
+- Mountain scenery
+- Safari landscapes
+- Tropical settings
+- Cultural neighborhoods
+
+Requirements:
+
+- Cinematic golden-hour lighting
+- Soft depth of field
+- Photographic realism
+- Warm color grading
+- Background remains blurred enough to keep focus on character and film strip
+
+TRAVEL MEMORABILIA
+
+Add destination-specific:
+
+- Vintage stamps
+- Passport stamps
+- Travel tickets
+- Postcards
+- Travel badges
+- Local cultural symbols
+
+DOODLES
+
+Add minimal black-and-white travel doodles.
+
+Examples:
+
+- Airplane flight path
+- Camera icon
+- Location pin
+- Compass
+- Local transportation icon
+- Local food or drink icon
+- Small destination-themed symbols
+
+Keep doodles subtle and premium.
+
+VISUAL STYLE
+
+- Viral Instagram travel poster
+- Luxury tourism campaign
+- National Geographic meets modern Instagram
+- Editorial magazine cover
+- Premium travel branding
+- Award-winning design
+- Cinematic storytelling
+- Rich golden-hour lighting
+- Ultra-detailed textures
+- Professional typography
+- Strong visual hierarchy
+
+PRIORITY ORDER
+
+1. 3D traveler character
+2. Papercut diorama film strip
+3. Typography
+4. Travel memorabilia
+5. Minimal doodles
+
+Avoid cartoon styling.
+Avoid low-poly aesthetics.
+Avoid stock-photo appearance
+
+The final result should feel like a premium travel campaign that is instantly understandable on Instagram while rewarding viewers with intricate papercut details when they zoom in.
+```
+
+---
+### Case 349: Sleep-Deprived Chibi Creator
+
+**Source**: [@john_my07](https://x.com/john_my07/status/2063556594671964302)
+
+**Output**:
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case349/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case349/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Use my uploaded photo as the sole facial reference. Preserve my exact identity, facial proportions, eye shape, skin tone, lip shape, nose structure, and all distinctive features with exceptional accuracy and no facial drift.
+
+Create a highly detailed cinematic 3D chibi-style character portrait inspired by top-tier animated films, luxury collectible figurines, and contemporary designer toy aesthetics. The character represents a brilliant AI-powered digital creator running on pure creativity and almost no sleep after a marathon night of editing and designing.
+
+Scene:
+Early morning inside a cozy creative studio. She sits drowsily on the edge of a weathered wooden workbench, legs gently swinging, looking exhausted yet irresistibly charming. Her fluffy hair is gathered into a loose messy bun with flyaway strands escaping in every direction. Sleepy half-open eyes, subtle under-eye shadows, a tiny rosy nose, and an expression that perfectly captures "I've been awake for way too long but I still have ideas."
+
+Outfit:
+
+Oversized soft-cream pajama set
+
+Tiny embroidered logo reading "Pixel & Coffee Club"
+
+Relaxed knitted cardigan casually slipping from one shoulder
+
+Plush cloud-shaped slippers
+
+Minimal pearl stud earrings
+
+Cozy oversized sleeves partially covering her hands
+
+Environment:
+Warm sunrise light fills the room through large studio windows. A steaming mug of coffee rests beside her. The background is softly blurred, filled with artistic clutter, creative tools, and subtle storytelling details that suggest endless projects in progress.
+
+Personality Elements Floating Around Her:
+
+Mini holographic editing timelines
+
+Tiny floating storyboard frames
+
+Digital sketch concepts
+
+Glowing location pins and travel stickers
+
+Sticky notes filled with random ideas
+
+Compact laptop displaying an unfinished creative project
+
+Pencil sketches and concept doodles
+
+Floating play-button icons
+
+Small animated stars, clouds, and creative symbols
+
+Tiny productivity meters running dangerously low
+
+Expression & Mood:
+
+Brilliant but overworked creator energy
+
+Lovably exhausted
+
+Chronic "one last revision" mindset
+
+Quietly chaotic genius
+
+Soft humor mixed with creative burnout
+
+Dreamy, relatable, and emotionally expressive
+
+Art Style:
+Ultra-premium stylized realism, luxury designer collectible quality, highly detailed hair fibers, realistic fabric textures, soft skin rendering, cinematic depth of field, subtle emotional storytelling, cozy lifestyle aesthetic, handcrafted figurine finish, social-media-worthy presentation.
+```
+
+---
+### Case 350: Spring Garden Watercolor Couple
+
+**Source**: [@NoOneIsHere2603](https://x.com/NoOneIsHere2603/status/2063599542843723983)
+
+**Output**:
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case350/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case350/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Fashion editorial watercolor portrait illustration of a romantic young Korean couple in a blooming spring garden, standing close together in a soft intimate moment — the boy gently holding the girl's hand while she leans slightly toward him with a warm shy smile. The woman wears an elegant flowing blush-pink dress with delicate fabric movement, while the man wears a soft ivory-beige shirt layered with a light pastel cardigan, creating a dreamy romantic harmony. Soft Korean facial features, healthy glowing skin texture, subtle natural makeup, calm affectionate expressions, relaxed posture, gentle head tilt, slight three-quarter angle, waist-up framing.
+
+Set in a glowing May flower garden filled with delicate pastel blossoms, fluttering petals, and warm spring sunlight filtering softly through flowers and greenery. Romantic atmosphere with soft emotional chemistry, dreamy yet elegant mood.
+
+Rendered in a minimalist contemporary watercolor fashion sketch aesthetic, featuring fine delicate ink and pencil linework layered over translucent watercolor washes, loose fluid brush strokes, wet-on-wet blending, soft bleeding edges, unfinished artistic brush textures, visible premium watercolor paper grain, elegant negative space. Soft blush pinks, warm peach tones, creamy whites, faded sage greens, and delicate floral hues naturally melting into the background.
+
+Flat editorial lighting, refined luxury magazine illustration feel, poetic spring romance atmosphere. No photorealism, no 3D render, no bokeh, no depth-of-field blur, no harsh outlines, no caricature, no cluttered background, no over-detailing.
+```
+
+---
+### Case 351: Cosmic Anime Villain Poster
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2063651919596568876)
+
+**Output**:
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case351/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case351/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case351/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case351/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Ultra-detailed anime villain portrait poster, dark cosmic background, legendary antagonist standing front-facing, one hand covering the lower face in a sinister pose, glowing eyes staring directly at the viewer, powerful aura exploding around the body, energy particles, nebula clouds, ink splashes, cosmic dust, dramatic rim lighting, high contrast shadows, cinematic anime illustration, sharp facial details, muscular physique, premium manga cover aesthetic, vibrant monochromatic color theme matching the character, giant distressed typography behind the character displaying the name in huge bold letters, Japanese kanji and English subtitles, character quote on the side, power stats panel, classification section, signature abilities list, collectible trading-card layout, magazine infographic design, luxury poster composition, white and black graphic elements, ultra-clean typography, layered visual hierarchy, glowing effects, dynamic atmosphere, masterpiece anime artwork, poster design, highly detailed, 8K, vertical wallpaper, trending on ArtStation.
+```
+
+---
+### Case 352: Animated Character Design Sheet
+
+**Source**: [@0kncn](https://x.com/0kncn/status/2063734037928452120)
+
+**Output**:
+
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case352/output.jpg" width="500" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a highly detailed full-color character design sheet in 16:9 horizontal format for an original [CHARACTER TYPE / HERO / CREATURE / VILLAIN].
+
+STYLE:
+stylized cinematic character design,
+high-quality animated feature look,
+clean readable shapes,
+strong silhouette,
+premium concept art presentation,
+bold graphic color palette,
+comic-book inspired energy,
+polished but production-ready design,
+clear anatomy and costume readability.
+CHARACTER IDENTITY:
+[CHARACTER NAME / ROLE]
+[AGE / SPECIES / BODY TYPE]
+[PERSONALITY ARCHETYPE]
+[POWER / SKILL / SPECIAL EQUIPMENT]
+MAIN DESIGN:
+The character should have a distinctive, memorable silhouette.
+Use a clear costume language with recognizable shapes, strong color blocking, and functional details.
+The design must feel original, not based on any existing franchise character.
+No copyrighted logos, no recognizable existing superhero symbols, no direct imitation of known characters.
+OUTFIT / ARMOR:
+[DESCRIBE COSTUME OR ARMOR]
+Include practical design details:
+gloves / wrist devices
+boots / shoes
+belt gear
+armor plates
+fabric folds
+glowing elements if needed
+
+utility tools or weapons if needed
+COLOR PALETTE:
+[MAIN COLOR]
+[SECONDARY COLOR]
+[ACCENT COLOR]
+Use a bold cinematic palette with strong contrast.
+The colors should be clear enough for animation and video generation consistency.
+CHARACTER SHEET LAYOUT:
+Show the same character in multiple views on one clean sheet:
+front view full body
+side view full body
+
+back view full body
+three-quarter action pose
+close-up face / mask expression
+hand / glove / equipment detail
+special ability or weapon detail
+
+POSES:
+Use confident readable poses.
+The action pose should show the character’s main movement style:
+[RUNNING / JUMPING / FLYING / SWINGING / FIGHTING / CASTING POWER / USING EQUIPMENT]
+EQUIPMENT / POWER DETAIL:
+Show how the character’s signature equipment or power works.
+Example:
+magnetic grappling cables,
+energy gauntlets,
+kinetic boots,
+utility belt,
+glowing power core,
+mechanical wings,
+elemental weapon,
+or custom ability system.
+BACKGROUND:
+clean light neutral background,
+minimal graphic design,
+no complex environment,
+no text-heavy poster design,
+small visual notes allowed only if clean and readable.
+
+QUALITY:
+high detail,
+sharp clean rendering,
+consistent proportions across all views,
+same face and body structure in every pose,
+clear costume continuity,
+production-ready character sheet,
+suitable as a reference image for storyboard and AI video generation.
+```
+
+---
+### Case 353: Nordic Literary Editorial Illustration
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063670695020868046)
+
+**Output**:
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case353/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case353/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case353/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case353/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+prompt:
+
+A minimalist modern editorial illustration. Style: Nordic lifestyle magazine meets Korean literary book cover meets indie architectural sketch. Natural eye-level composition, everyday setting. Color palette: creamy white, ivory, gray-beige, sage green, deep olive, ink black, tiny touches of grayish-pink. Thin black ink outlines, slightly hand-drawn feel. Highly abstracted shapes, elongated quiet silhouettes. Background textures: aged paper grain, scratches, ink spots, print noise. Shadows rendered as solid blocks of pure black or dark green, no gradients, no realistic lighting, no 3D rendering. Quiet, cool, literary, restrained aesthetic. High-end editorial and independent publication finish. No text, no watermark, no high-saturation colors, no photographic feel.
+```

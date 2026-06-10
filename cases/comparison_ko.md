@@ -1641,3 +1641,136 @@ KEY INSTRUCTIONS:
 * End with quiet survival and life continuing under the couch.
 * Do not show panel boxes, labels, numbers, captions, storyboard borders, or camera notes.
 ```
+
+### Case 100: [Action Storyboard Sheet](https://x.com/neural_aperture/status/2064048487583424581) (by [@neural_aperture](https://x.com/neural_aperture))
+
+![Action Storyboard Sheet](../../images/comparison_case100/output.jpg)
+
+**Prompt:**
+```
+Create a 16:9 image.
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: KUROSHI VS ARACHNEX: BLITZ
+META LINE: relentless explosive / futuristic samurai vs spider-mech / max-dynamism one-take action
+PRIORITY: constant motion readability, one-take camera continuity, leg-cut and core-kill clarity, massive scale contrast
+MICRO BRIEF: Build a compact rough-sketch storyboard sheet for a 15-second Seedance BLITZ sequence where KUROSHI destroys ARACHNEX with uninterrupted high-speed katana choreography.
+[CONTINUITY HEADER]
+SEQUENCE ID: KUR-ARX-BLITZ-15S-STB
+REFERENCE PRIORITY: @image1 controls C1 KUROSHI identity, wardrobe, armor, helmet, cables, katana, proportions; @image2 controls C2 ARACHNEX identity, weapon layout, eight-leg structure, scale, armor; @image3 controls P01 starting-frame composition exactly; storyboard controls staging, camera sampling, movement, geography, damage continuity.
+[SCENE PACKET]
+PREMISE: KUROSHI erupts from a cold starting-frame profile into a relentless one-take fight, sprinting through ARACHNEX's attacks, climbing the machine, and killing it through the sensor core.
+LOCATION: open Japanese mountain field at blue hour, ankle-high wind-blown grass, wet earth, ground mist, distant pine ridges, layered mountain silhouettes, wide sky, no buildings, no roads, no extra fighters.
+```
+
+
+### Case 101: [Churro Maker Storyboard Poster](https://x.com/TechieBySA/status/2064032022830502202) (by [@TechieBySA](https://x.com/TechieBySA))
+
+![Churro Maker Storyboard Poster](../../images/comparison_case101/output.jpg)
+
+**Prompt:**
+```
+“Create a crisp, clean infographic storyboard poster for THE CHURRO MAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — golden fried dough, sparkling white cinnamon sugar, rich dark chocolate sauce, vivid warm Spanish street food energy throughout.
+
+Top header:
+
+•THE CHURRO MAKER
+•TOTAL VIDEO TIME: 12 SECONDS
+• 8 SHOTS · GOLDEN · CRISPY · IRRESISTIBLE
+•Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT
+
+Same Pixar-style young Spanish male street vendor throughout — warm smile, white t-shirt, red apron, small bright outdoor churro cart, morning sunshine, cobblestone street, warm golden light everywhere. Fresh, bright, joyful — nothing dark, nothing moody.
+
+8 panels:
+
+Panel 1 — THE OPENER: Wide shot. Young vendor stands behind his bright churro cart on a sunny cobblestone street, morning light flooding everything. He ties his red apron with a warm confident smile, looks up at the camera. The churro machine gleaming beside him. Bright blue sky above. You know exactly what’s coming.
+
+Panel 2 — THE DOUGH: Close-up. Thick churro dough being loaded into the piping gun — smooth, pale, creamy. Vendor’s hands pressing it in firmly. Steam rising slightly. The dough is alive and ready.
+
+Panel 3 — THE PIPE: The most satisfying panel. Close-up dramatic shot — vendor squeezes the piping gun over hot golden oil, a perfect ridged churro rope emerging in a long straight line, the star-shaped ridges crisp and defined. The dough hits the oil with an immediate aggressive sizzle. Bright and energetic.
+
+Panel 4 — THE FRY: Wide medium shot with vendor visible. Churros frying in vivid golden oil — bubbling vigorously all around them, the color deepening from pale to rich gold before your eyes. Vendor watches with a satisfied expression, tongs ready. The transformation happening live.
+
+Panel 5 — THE LIFT: Close-up hero shot. Tongs lifting a perfectly fried churro from the oil — golden, crispy, glistening, held up against the bright morning sky. Oil dripping back into the fryer below. The most beautiful single churro you have ever seen.
+
+Panel 6 — THE SUGAR ROLL: The scroll-stopper. Close-up overhead. The hot churro rolled through a tray of cinnamon sugar — white sugar and cinnamon coating every ridge perfectly, sparkling in the morning light, the heat making the sugar cling and glisten. The most textural and satisfying panel.
+
+Panel 7 — THE CHOCOLATE: Beauty shot. Dark glossy chocolate dipping sauce poured into a small white ceramic cup in a slow arc — rich, dark, steaming. The churro resting beside it, golden and sugar-coated. The contrast of deep dark chocolate against bright golden churro. Irresistible.
+
+Panel 8 — THE DIP AND BITE: Wide warm shot. A customer’s hand dips the churro into the chocolate sauce — it comes out coated and glossy — then takes a bite. The crunch implied in every pixel. Eyes close. Pure street food joy. Vendor visible in the background, arms crossed, warm proud smile. Morning sunshine all around.
+
+Footer:
+
+•VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. Dough to first dip.
+•CAMERA TIPS: wide on the sunny opener, close-up on the pipe into oil, wide medium on the fry, hero close-up on the lift, overhead on the sugar roll, beauty shot on the chocolate pour, wide warm on the dip and bite
+•LIGHT & STYLE: bright warm Spanish morning sunshine throughout, golden fried dough, sparkling white cinnamon sugar, rich dark chocolate, vivid red apron, cobblestone street, Pixar vivid bright colors — nothing dark, nothing moody
+•VENDOR NOTES: one vendor, one cart, one perfect churro. Golden, crispy, and impossible to walk past.”
+```
+
+### Case 102: [Food Anime Storyboard Generator](https://x.com/tanabe_fragm/status/2064510342328353143) (by [@tanabe_fragm](https://x.com/tanabe_fragm))
+
+![Food Anime Storyboard Generator](../../images/comparison_case102/output.jpg)
+
+**Prompt:**
+```
+Create a professional anime production storyboard sheet for a **15-second cooking animation featuring authentic Edo-style Sushi (江戸前寿司 / 握り寿司)**.
+
+The cooking process should accurately reflect professional Tokyo high-end sushi restaurant techniques while delivering elegant anime-style food presentation and a **calm early summer atmosphere in a refined Tokyo sushi counter setting (初夏・静謐な高級寿司店の空気感)**.
+
+The storyboard should depict the complete preparation process of **maguro (tuna), toro (fatty tuna), and unagi (eel)** sushi while maintaining strict visual continuity across all panels.
+
+---
+
+# Workflow Adaptation Rule
+
+Before creating the storyboard:
+
+1. Follow authentic Edo-mae sushi counter workflow
+2. Separate fish preparation, rice shaping, and nigiri assembly stages
+3. Emphasize craftsmanship and hand technique
+4. Highlight maguro, toro, and unagi equally
+5. Build toward final plated sushi as the hero composition
+6. Maintain strict continuity of counter, lighting, and tools
+
+---
+
+# Realism and Culinary Accuracy Rules
+
+Prioritize authentic sushi craftsmanship:
+
+* Precise slicing of maguro and toro
+* Hand-formed sushi rice (shari)
+* Clean, minimal unagi handling
+* Realistic weight, pressure, and texture of food
+
+Avoid all exaggerated or stylized effects.
+
+---
+
+## Ingredient Preparation Rules
+
+* Maguro: clean block slicing into uniform nigiri portions
+* Toro: delicate slicing emphasizing marbling texture
+* Unagi: already grilled kabayaki, cut into sushi topping size
+
+---
+
+## Unagi Correct Technique Rule (FINAL)
+
+For unagi nigiri:
+
+* Grilled eel (kabayaki) is placed on top of hand-formed sushi rice
+* After the nigiri is fully formed, the chef applies tare sauce **using a brush directly on the surface of the eel**
+* Brush movement is slow, precise, and minimal
+* No pre-dipping in sauce
+* No cutting during final assembly
+* Focus on glossy finish and craftsmanship, not drama
+
+---
+
+## Liquid Realism Rules
+
+* Sauce is applied as a thin controlled glaze via brush
+* No drip
+```
+

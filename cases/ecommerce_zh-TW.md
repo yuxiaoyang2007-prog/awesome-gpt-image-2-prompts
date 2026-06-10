@@ -499,3 +499,13 @@ The final image should feel like a world-class luxury editorial ad from a top cr
 
 Avoid repeated concepts, repeated props, repeated backgrounds, flat lighting, weak framing, visual clutter, cheap styling, generic catalog presentation, text, watermark, and logos.
 ```
+
+### Case 171: [Miniature Brand Universe Shoe](https://x.com/AIwithAliya/status/2064034557352202253) (by [@AIwithAliya](https://x.com/AIwithAliya))
+
+![Miniature Brand Universe Shoe](../../images/ecommerce_case171/output.jpg)
+
+**Prompt:**
+```
+A high-performance running shoe transformed into a miniature brand universe. The shoe is the hero character, surrounded by floating speed trails, miniature running tracks, energetic mascot companions, stopwatch icons, clouds, and dynamic sports-inspired elements. Oversized bold typography integrated into the scene. Clean commercial 3D rendering, pastel orange, white, and gray color palette derived from the product, premium packaging aesthetics, soft gloss, graphic backgrounds, floating platforms, collectible toy-like charm. Modern consumer branding, cute yet premium, highly shareable social-media campaign visual, rich detail, centered composition, studio quality.
+```
+

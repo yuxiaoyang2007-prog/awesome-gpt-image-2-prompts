@@ -1774,3 +1774,39 @@ For unagi nigiri:
 * No drip
 ```
 
+---
+### Case 103: Old Footage Restoration with GPT-Image 2
+
+**Source**: [@CuriousRefuge](https://x.com/CuriousRefuge/status/2065139340486045905)
+
+**輸出效果:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case103/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Old Footage Restoration with GPT-Image 2"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case103/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Old Footage Restoration with GPT-Image 2"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case103/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Old Footage Restoration with GPT-Image 2"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case103/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Old Footage Restoration with GPT-Image 2"></a></td></tr>
+</table>
+
+**提示詞:**
+
+```
+Transform the attached image into a high resolution digital photo that looks like it was taken yesterday. Make it look like it was taken with a Canon EOS R6. Cinematic color grading and lighting. Keep details the same, only change the quality and resolution.
+
+Once GPT-Image 2 gives you the first ultra high quality image, upload the rest of your stills and input the following prompt: do the same for these attached photos  Download all the ultra high quality images
+```
+
+---
+### Case 104: 4 Architectural Styles 2×2 Grid
+
+**Source**: [@Gdgtify](https://x.com/Gdgtify/status/2065191846800740636)
+
+**輸出效果:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case104/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 4 Architectural Styles 2×2 Grid"></a> |
+
+**提示詞:**
+
+```
+2x2 grid, do this for 4 famous architectural styles. Anchor: [Architectural Style] :: [Geometric Essence & Period]. Each panel shows a representative building in that exact style with consistent camera angle and neutral sky background.
+```

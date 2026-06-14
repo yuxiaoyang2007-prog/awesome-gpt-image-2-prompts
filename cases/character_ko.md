@@ -43,9 +43,9 @@ Show me the attached image as a snapshot from an actual anime
 
 「ここに自己紹介」
 
-名前:（ここに名前） 
-イメージカラー:（ここに色） 
-身長:（ここに身長）cm 
+名前:（ここに名前）
+イメージカラー:（ここに色）
+身長:（ここに身長）cm
 体重:（ここに体重）kg
 キャッチコピー:"「ここにセリフ」"
 ```
@@ -60,11 +60,11 @@ Show me the attached image as a snapshot from an actual anime
 **프롬프트：**
 
 ```
-このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 
-・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 
-・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる 
+このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。
+・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加
+・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる
 ・全体は整理されたレイアウト
-（白背景、図解風） 
+（白背景、図解風）
 ・アスペクト比16：9
 
 高解像度、プロのコンセプトアートスタイル
@@ -134,9 +134,9 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 - ロゴ、透かし、人工的なCG感。
 
 --- Definition of Done (DoD)
-- 全体は「混沌としたメモ・記号の集合体」として成立している。  
-- 与えられたキャラクターの顔が、混沌の濃淡・配置から自然に浮かび上がる。  
-- 色はモノクロ+赤アクセントのみ。  
+- 全体は「混沌としたメモ・記号の集合体」として成立している。
+- 与えられたキャラクターの顔が、混沌の濃淡・配置から自然に浮かび上がる。
+- 色はモノクロ+赤アクセントのみ。
 - 紙とインクの手描き的質感を保持している。
 ```
 
@@ -258,3 +258,308 @@ Aspect ratio: 4:5 vertical.
 
 <img src="../images/character_case18/output.jpg" width="500">
 
+---
+### Case 19: 40K Power Armour Squad Portrait
+
+**Source**: [@EvaGlitchAI](https://x.com/EvaGlitchAI/status/2065204081363435604)
+
+**결과:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case19/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 40K Power Armour Squad Portrait"></a> |
+
+**프롬프트:**
+
+```
+Prompt of the Day: 40K POWER ARMOUR SQUAD ⚔️🛡️💜💚
+
+Today’s Prompt of the Day turns your characters into a 40K-inspired warriors. Yes this was done before but i wanted to see how much better GPT 2 can do it now
+
+Use one character reference for a solo warrior, or attach multiple character references to create a full squad. The prompt is built to count every reference image and turn each one into a separate visible character, with no helmets covering their faces.
+
+Type your chosen scene into the SCENE SELECTOR at the top, then attach your character reference image or images.
+
+Try scenes like:
+
+a brutal battlefield charge
+a gothic starship boarding action
+a candlelit shrine world cathedral
+an industrial forge world
+a grim underhive alley
+a quiet off-duty barracks scene
+a solemn prayer before battle
+
+Have fun with this one ⚔️🛡️
+
+............................PROMPT STARTS HERE............................
+
+SCENE SELECTOR:
+[Type the 40K-inspired scene you want here.]
+Examples:
+
+brutal battlefield charge through smoke, fire, shell craters, and ruined gothic architecture
+
+boarding action inside a colossal warship corridor
+cathedral-like shrine world interior filled with candles, banners, stained glass, and incense haze
+industrial forge world with sparks, chains, molten metal, pipes, and huge machinery
+command deck before battle with tactical holograms and vast void windows
+grim underhive alleyway with pipes, neon grime, metal walkways, and urban decay
+heroic last stand surrounded by wreckage, fallen enemies, burning vehicles, and drifting ash
+quiet off-duty scene inside a fortress barracks, armoury, workshop, canteen, or hangar
+solemn prayer before battle with relics, banners, candles, incense smoke, and sacred war symbols
+everyday-life scene in a gothic sci-fi military stronghold, training yard, armoury, repair bay, or mess hall
+Use the typed scene selector as the main scene concept.
+If no custom scene is typed, choose one of the example scenes that best fits the attached character reference image or images and the overall character vibe.
+Adapt the environment, action, pose, props, camera, and mood to match the selected scene.
+Keep the final scene clearly inspired by 40K-style grimdark far-future gothic military sci-fi.
+
+STRICT REFERENCE COUNT RULE:
+Before creating the image, count the number of attached character reference images.
+Create exactly one main character from each attached character reference image.
+The number of main characters in the final image must exactly match the number of attached character reference images.
+If 1 character reference image is attached, create exactly 1 main character.
+If 2 character reference images are attached, create exactly 2 main characters.
+If 3 character reference images are attached, create exactly 3 main characters.
+If 4 character reference images are attached, create exactly 4 main characters.
+If more character reference images are attached, create exactly that same number of main characters.
+Each attached character reference image is a separate person.
+Each attached character reference image must appear once and only once as their own distinct main character.
+Do not treat any attached character reference image as optional.
+Do not ignore, drop, replace, combine, or simplify any attached character reference image.
+
+MULTI-CHARACTER IDENTITY RULE:
+Use every attached character reference image as its own separate character identity source.
+Character 1 must be based only on the first attached character reference image.
+Character 2 must be based only on the second attached character reference image.
+Character 3 must be based only on the third attached character reference image.
+Character 4 must be based only on the fourth attached character reference image.
+Continue this pattern for any additional attached character reference images.
+
+Do not use the first attached character reference image to create multiple characters.
+Do not duplicate the first character to fill the group.
+Do not create variations, twins, clones, alternate outfits, mirrored copies, recolours, or slightly edited versions of the same character.
+Do not merge two or more attached character references into one design.
+Do not let one character’s face, hairstyle, colours, outfit motifs, body type, species traits, or accessories replace another character’s identity.
+SINGLE-CHARACTER FALLBACK RULE:
+If only one character reference image is attached, create one main character only.
+Do not create a squad, clone group, twin, alternate version, second warrior, companion, or duplicate of the character.
+The single character should remain the only main subject.
+
+THREE-CHARACTER PRIORITY RULE:
+If three character reference images are attached, this is a three-character squad image.
+All three referenced characters must appear together in the same scene.
+All three faces must be visible.
+All three armour designs must be distinct.
+All three characters must be clearly separated in the composition.
+Use a readable left-center-right squad arrangement unless the selected scene needs another clear formation.
+CHARACTER REFERENCE RULES:
+Preserve each attached character’s face shape, hairstyle, hair colour, eye colour, expression, body language, signature colour palette, outfit motifs, accessories, silhouette, species traits, proportions, and overall character vibe.
+The final image must clearly show every attached character as a separate, recognizable individual.
+Every character must still clearly look like their own attached reference image.
+
+Keep each character’s head uncovered with no helmet, full face mask, or visor covering the face.
+The face, hair, and identity of every referenced character must remain clearly visible.
+Hard style rule:
+Use the attached character reference image or images as the visual style reference for the final image.
+Preserve the visual art style, rendering language, line quality, colour handling, facial stylization, shading style, texture treatment, background treatment, and overall stylization of the attached reference image or images while transforming the character or characters into 40K-inspired power-armoured warriors.
+If the references are anime, keep them anime. If they are stylized, keep that stylization.
+Do not turn the final image photorealistic unless specifically requested.
+Scene concept:
+Create a 16:9 horizontal widescreen cinematic illustration based on the scene written in the SCENE SELECTOR.
+Show the attached character or characters transformed into custom 40K-inspired grimdark far-future power-armoured warriors.
+The image should feel heavy, dramatic, mythic, warlike, and character-driven, with strong atmosphere, clear storytelling, and a powerful sense of scale.
+
+Character transformation:
+Transform every attached reference character into a custom 40K-inspired power-armoured version of themselves while preserving their original identity.
+The redesign should center on massive stylized power armour with broad shoulder plates, reinforced chest armour, heavy gauntlets, armoured boots, thick mechanical joints, gothic sci-fi military detailing, sacred-warrior ornamentation, battlefield wear, and an oversized futuristic weapon.
+The armour must feel imposing, brutal, ceremonial, expensive, and engineered for endless war.
+Keep the head uncovered so each character’s original face, hair, and expression remain visible.
+Use each attached character’s colours, motifs, accessories, outfit shapes, symbols, materials, personality, and overall vibe as the foundation for their armour redesign.
+The armour should feel like it belongs in a 40K-inspired universe, but it must be custom-built from the attached character’s own identity.
+If multiple characters are present, each one must have a distinct armour design based on their own original reference rather than all wearing identical suits.
+Armour design:
+Give each character huge futuristic power armour inspired by 40K-style grimdark gothic sci-fi warfare.
+Include broad pauldrons, a strong chest plate, layered armour segments, mechanical joints, reinforced thighs, heavy boots, thick gauntlets, power cables, vents, seals, relic-like details, engraved plates, purity-scroll-like decorations, battle damage, and character-specific symbols.
+Adapt each armour design to that character’s original style, colour palette, outfit motifs, accessories, personality, and silhouette.
+Keep the armour stylized to match the attached reference image or images rather than realistic.
+
+Weapon design:
+Give each character a fitting oversized futuristic weapon inspired by 40K-style grimdark sci-fi warfare.
+The weapon can be a heavy explosive sci-fi rifle, massive energy weapon, brutal motorized serrated melee weapon, glowing power blade, ceremonial war hammer, plasma-like cannon, heavy pistol, or other far-future battlefield weapon appropriate to their vibe and role.
+Each character’s weapon should be different and should match that character’s identity, armour design, and role in the scene.
+If the selected scene is calm, ceremonial, or off-duty, the weapon may be held at rest, slung, holstered, leaned nearby, placed on a table, or carried ceremonially, but it should still be visible.
+If the selected scene is battle-heavy, make each weapon active, weighty, readable, and integrated into the pose.
+Scene adaptation rules:
+If the selected scene is battle-heavy, make the action dynamic but readable, with strong poses, clear silhouettes, environmental destruction, smoke, fire, debris, and a strong sense of momentum.
+If the selected scene is solemn, sacred, or ceremonial, focus on mood, scale, banners, relics, candles, incense, stained glass, and reverent atmosphere.
+If the selected scene is indoors, use gothic sci-fi architecture, industrial machinery, cathedral-scale interiors, fortress spaces, armouries, barracks, command rooms, or military infrastructure that fit the selected location.
+If the selected scene is everyday-life or off-duty, keep the armour and 40K-inspired universe intact, but show the character or characters in a grounded moment such as maintenance, briefing, prayer, conversation, eating, resting, training, repairing gear, or preparing equipment.
+If multiple characters are present, make their interaction clear and readable, with each one contributing to the scene rather than standing as vague duplicates.
+Environment and composition:
+Build the environment around the selected scene.
+The setting should feel like the kind of place the character or characters naturally belong in once translated into a 40K-inspired grimdark far-future war universe.
+Use a wide 16:9 horizontal cinematic composition.
+Keep the main subject or subjects clearly visible, central or compositionally dominant, and easy to read at a glance.
+If one character is present, give them a strong hero composition with a clear silhouette and dominant visual presence.
+If multiple characters are present, arrange them so every character remains readable and identifiable with clean silhouette separation.
+For three attached references, use a clear three-person squad composition with all three faces visible.
+Use background architecture, smoke, debris, banners, machinery, sparks, haze, relics, gothic shapes, or cathedral-like scale to support the scene without overpowering the characters.
+Lighting and mood:
+Use lighting that matches the selected scene.
+The image should feel grim, cinematic, epic, and immersive, with dramatic contrast and strong atmosphere.
+Use battlefield firelight, smoky haze, stained-glass glow, cold ship lighting, industrial sparks, moody rim light, incense haze, harsh military illumination, glowing machinery, or distant explosions where appropriate.
+The mood should feel powerful, warlike, sacred, brutal, and character-specific while still reflecting each original character’s personality.
+Quality and rendering:
+Polished, premium-quality stylized illustration with clean linework, crisp rendering, readable forms, powerful armour design, expressive visible faces, strong weapon design, and clear composition.
+Keep the strongest detail concentrated on the referenced character or characters, their armour, their faces, and their weapons.
+Maintain strong visual hierarchy and readability.
+The background should support the characters rather than becoming busier than them.
+
+Do not:
+Do not ignore the SCENE SELECTOR.
+Do not create more or fewer main characters than the number of attached character reference images.
+Do not create only two characters if three character reference images are attached.
+Do not duplicate the first attached character instead of using the second or third reference.
+
+Do not merge multiple attached references into fewer characters.
+Do not make any referenced character a clone, twin, recolour, armour variant, or alternate version of another referenced character.
+Do not hide, crop, mask, or cover any referenced character’s face.
+Do not make every character wear the same identical armour if multiple references are provided.
+
+Do not make the weapon tiny, modern, toy-like, or visually unimportant.
+Do not make the background busier than the characters.
+Do not make the main subjects blurry, tiny, hidden, or unreadable.
+Do not create messy anatomy, extra limbs, malformed hands, distorted faces, or muddy textures.
+Do not use photorealism unless specifically requested.
+
+..............................END OF PROMPT..................................
+#POTD #promptoftheday #AI #AiArt #Art #AnimeArt #40K #Grimdark #PowerArmour #SciFi #CharacterDesign #DigitalArt #AnimeStyle #CommunityPrompt
+```
+
+---
+### Case 20: Vertical Character Concept Sheet
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065118633198829601)
+
+**결과:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case20/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vertical Character Concept Sheet"></a> |
+
+**프롬프트:**
+
+```
+prompt:
+
+Design a high-resolution vertical character concept poster with a luxurious pink and white aesthetic that blends elegance with edgy modern fashion. The layout should feel like a premium magazine profile with clean sections and precise grid alignment.
+
+Main subject: An original young woman (not based on any real person), with long silky dark hair featuring subtle pink highlights. She has a confident, calm expression with a slightly mysterious aura. She wears a black and pink hybrid outfit (merging streetwear with idol fashion) featuring glossy textures, lace details, and metallic accents. Lighting is soft but dramatic, with a neon pink glow set against dark tones.
+
+Top section:
+Large hero portrait on one side. On the opposite side, a sleek profile panel with refined English text:
+
+Name: Nyra Vale
+Age: 23
+Height: 170 cm
+Style: Dark Elegance
+
+Short bio:
+"She doesn't follow trends, she sets them. Quiet strength, sharp vision, and a presence that speaks without words."
+
+Include a Traits section with stylized progress bars:
+
+Confidence
+Creativity
+Discipline
+Charisma
+Emotional Depth
+
+Middle section:
+A grid of 5-6 small portraits capturing different expressions (soft smile, intense gaze, playful smirk, thoughtful, confident).
+
+Lower sections:
+
+Full-body poses (front view, side view, walking pose, power stance, casual stance).
+Outfit variations (street luxe, stage outfit, minimal chic).
+Accessories panel (heels, boots, chains, rings, handbags, hairstyles).
+
+Text tone:
+Bold, meaningful, and confident, emphasizing individuality, self-worth, and quiet power. No filler text.
+
+Style:
+Ultra-detailed, 4K quality, glossy magazine finish, cinematic lighting, sharp focus, balanced contrast, modern editorial layout, perfectly aligned grid.
+
+#AIart #GPTImage2
+```
+
+---
+### Case 21: 3D Acrobat Jumping Editorial Cartoon
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065058228585844954)
+
+**결과:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case21/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Acrobat Jumping Editorial Cartoon"></a> |
+
+**프롬프트:**
+
+```
+prompt:
+
+One complete 3D illustration, editorial exaggerated cartoon style, single standalone image, not a storyboard or multi-panel layout.
+
+Central character: a cartoon figure with a tiny head, chubby round torso, super-long limbs, huge hands and bulky shoes, slightly off-balance, caught mid-jump in a dramatic pose radiating tension and playful energy.
+
+The silhouette reads like a soft toy sculpture — plump, springy, and exaggerated, not anatomically realistic.
+
+Surface quality: matte rubber, fuzzy textile, knitted detail, clay-like feel, subtle fiber grain, handmade texture. Avoid shiny plastic, transparent glass, or high-spec reflections.
+
+Color: vibrant dopamine palette, high saturation, strong color contrasts, large bold flat fills — vivid but not neon-overexposed.
+
+Background: pure white, minimal staging, just a gentle oval drop shadow beneath the character, no elaborate setting.
+
+Decorative floating elements orbiting the character: stars, wavy lines, spheres, cubes, icons, abstract shapes — all sculpted as soft rubber or paper-like 3D props, amplifying motion and graphic energy.
+
+Lighting: soft studio setup, global illumination, diffused shadows, low contrast, polished commercial feel.
+
+Rendered in C4D or Blender: stylized soft-sculpture aesthetic, matte clay finish, knitted fabric surface, playful editorial tone, high resolution.
+
+— Scene: a pastel-toned acrobat throwing both arms up in a victorious airborne leap, wearing chunky multicolor sneakers
+
+#AIart #GPTImage2
+```
+
+---
+### Case 22: 雨中灵姬东方幻想 3D CG 角色
+
+**Source**: [@liyue_ai](https://x.com/liyue_ai/status/2065107695557075460)
+
+**결과:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case22/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 雨中灵姬东方幻想 3D CG 角色"></a> |
+
+**프롬프트:**
+
+```
+9:16 竖版，高精度 3D CG 东方幻想女性角色写真，3D CG oriental fantasy beauty portrait，anime-style 3D CG character art，semi-realistic 3D character render，镜头为大腿及上半身构图，画面主体是一位明确成年的年轻东方幻想系女性，视觉年龄约 20–26 岁，整体气质清冷、空灵、精致、安静，带有雨中水系精灵般的神秘感与高级感。整体不是平面插画，而是高完成度 3D CG 角色渲染，具有精致角色建模、真实材质表现、电影级冷调柔光与高级虚拟角色海报质感。
+
+人物拥有精致的东方美型脸，小巧流畅的鹅蛋脸，皮肤冷白细腻，带轻微通透感与柔和皮肤着色，肌肤表面有细腻水珠与湿润反光。眼睛细长清澈，瞳色为冰蓝绿调，瞳孔有通透玻璃感与细致高光，眼神微垂，安静、疏离、略带脆弱感。睫毛纤长，眼妆干净克制，鼻梁秀气挺直，嘴唇柔软，唇色为低饱和裸粉色，嘴唇微启，神情冷静而迷人。
+
+发型为短款蓝黑色渐变发，主色为浓黑与深海军蓝，发尾带冷调蓝色高光，发型为短层次波浪感短发，一侧额发自然垂落遮住部分脸颊，顶部带编发结构，发丝湿润、轻盈、细腻，具有高精度发丝建模与柔顺光泽。耳部佩戴精致蓝色水晶几何耳饰与金属耳骨夹，增强东方幻想与水元素气质。颈部佩戴白色高领装饰项圈与青蓝色宝石流苏细节，精致而高级。
+
+服装为精致的东方幻想水系礼装，上半身穿着白色轻薄、湿润感的缎面的贴身长裙，布料柔软垂坠，带细腻高光和微透感，胸口与躯干线条以克制优雅的方式表现。外层披着一件宽松白色衬衫式轻纱外搭，自然滑落至手臂与腰侧，形成层叠褶皱与飘逸感，增强随性与梦幻氛围。腰臀处可见黑色蕾丝边短裤细节，作为整体造型中的轻哥特点缀，使画面更具层次与精致感，但整体保持高级、克制、不低俗。
+
+人物姿势为优雅侧身站立，身体呈现流畅的 S 型曲线，肩颈舒展，背部与腰线自然延展，头部微微低垂侧转，视线向下，整体姿态安静、轻盈、克制。手臂自然下垂，手指修长，姿态如同在雨中静立的一瞬间，突出侧脸、肩颈、背部、腰臀线条与服装湿润材质的精致表现。
+
+背景调整为精致的东方幻想水境场景，整体以冷白、冰蓝、淡灰为主色调。背景为朦胧的雨幕、轻雾与若隐若现的东方幻想建筑轮廓，可融入远处模糊的亭台、石阶、水池边缘或空灵宫殿轮廓，营造高级幻想空间感。人物周围有动态水花、水流弧线与透明水晶般飞溅效果，像由水元素凝结出的装饰性波纹，背景适度虚化，既通透空灵，又不喧宾夺主。
+
+光线采用冷白主光与柔和逆光结合，整体为雨天高调低饱和电影感打光。面部、锁骨、肩背、手臂与腿部有细腻湿润高光，发丝边缘与水花边缘有轻微轮廓光。白色布料、蕾丝、金属、宝石、水珠与水花都具有真实清晰的材质反馈。整体画面干净、通透、冷艳、梦幻、精修感强，具有高端收藏级 3D CG 东方幻想角色海报质感。
+
+high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic lighting, PBR materials, subsurface scattering skin, realistic wet hair strands, translucent wet fabric, crystal water splash effects, delicate lace details, elegant oriental fantasy styling, aquatic spirit atmosphere, volumetric light, cinematic depth of field, soft bloom, ultra detailed, polished anime realism, premium virtual character portrait
+```

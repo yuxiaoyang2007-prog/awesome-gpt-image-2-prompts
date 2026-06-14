@@ -1012,7 +1012,7 @@ Ultra-realistic lifestyle portrait of a smiling young woman standing on a desert
 
 **Prompt**:
 ```
-GPT image 2 on ChatGPT 
+GPT image 2 on ChatGPT
 
 Reverse haze, diffused blur, soft focus, close-up shot of an ethereal and pure beautiful girl or boy inspired by the character Frieren from Frieren: Beyond Journey’s End. Blurred portrait and scenery, emphasizing the chaotic beauty of flowing dynamic hair. Extremely attractive appearance, dreamy and elusive atmosphere, Rembrandt lighting, high saturation, reflections and refractions, rich texture details, glowing bloom blur diffusion, low noise, subtle film grain texture, minimalist style, soft-focus aesthetics, emotional impressionism, avant-garde visual art aesthetics, cinematic luxury composition, masterpiece-level film aesthetics. CGI, Unreal Engine 5 rendering, Octane Render.
 ```
@@ -1655,7 +1655,7 @@ Stylized 3D designer-toy portrait, centered symmetrical close-up composition, ma
 
 ```
 Ultra-realistic cozy bedroom portrait of the same beautiful Korean girl from the previous images, maintaining identical facial appearance, silky long black hair, glossy eyes, soft blush makeup, youthful Korean beauty aesthetic, and realistic skin texture consistency.
-She is lying comfortably on her stomach across a soft cream-colored bed in her cozy bedroom at night, posing playfully toward the camera with a gentle relaxed smile. Her legs are bent upward behind her while resting her chin softly 
+She is lying comfortably on her stomach across a soft cream-colored bed in her cozy bedroom at night, posing playfully toward the camera with a gentle relaxed smile. Her legs are bent upward behind her while resting her chin softly
 ```
 
 ### Case 193: [Anime Brand Campaign Portrait](https://x.com/ChillaiKalan__/status/2056580787538161753) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
@@ -1706,7 +1706,7 @@ Create a premium summer campus lifestyle Tesla poster focused mainly on an adult
 Use case: identity-preserve style-transfer
 Asset type: vertical photorealistic action portrait for social post
 Primary request: create a dynamic bubble-tea shop action portrait using the uploaded portrait photo as the appearance reference for the person.
-Scene/backdrop: a bright modern bubble-tea counter interior with stainless steel panels, glass display edges, overhead circular lights, drink-making equipment, and a dramatic low-angle view from near the floor. Pink strawberry milk tea splashes 
+Scene/backdrop: a bright modern bubble-tea counter interior with stainless steel panels, glass display edges, overhead circular lights, drink-making equipment, and a dramatic low-angle view from near the floor. Pink strawberry milk tea splashes
 ```
 
 ### Case 197: [Night Outdoor Portrait](https://x.com/chatgptpaglu/status/2056603808403485006) (by [@chatgptpaglu](https://x.com/chatgptpaglu))
@@ -1944,7 +1944,7 @@ STYLE NOTES: Pixar 3D vivid rendering. Clean white background on both character 
 **Prompt：**
 
 ```
-👇 
+👇
 
 ultra realistic surreal beauty editorial portrait, matcha goddess aesthetic, ethereal asian woman with glossy dewy skin, face covered in dripping liquid matcha cream, surreal cosmetic food fusion, floating matcha cubes, matcha powder particles, green tea mousse textures, edible haute couture, cinematic luxury skincare campaign, dreamy fantasy atmosphere, glowing olive green tones, wet reflective skin, delicate floral accents, suspended droplets, gold flakes, soft volumetric lighting, macro beauty photography, shallow depth of field, highly detailed skin texture, elegant feminine pose, luxury fashion editorial, surreal dessert inspired composition, artistic liquid dynamics, photorealistic, cinematic bokeh background, ultra detailed, 8k, soft glow, clean composition, no text, no logo, no product packaging, vertical 9:16
 ```
@@ -1985,11 +1985,11 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 ```
 生成一张 9:16 竖版写实感人物照片，参考高级手机自拍质感，但不要完全普通生活照。整体像是用 iPhone 前置摄像头在温馨卧室中拍摄的精致自拍，保留柔和美型、干净构图和自然高级感。画质为真实手机照片质感，有轻微噪点、轻微柔焦和自然光感，但人物依然精致、漂亮、肤质自然干净，不要变成粗糙低质照片。
 
-画面中是一位成年东方女性，坐在温馨卧室床上，上半身近景自拍构图，镜头略微从上方俯拍，人物位于画面中央偏右，头部微微低下，视线安静看向右下方，表情自然、平静、温柔，嘴唇自然闭合，整体气质柔和、成熟、安静。 
+画面中是一位成年东方女性，坐在温馨卧室床上，上半身近景自拍构图，镜头略微从上方俯拍，人物位于画面中央偏右，头部微微低下，视线安静看向右下方，表情自然、平静、温柔，嘴唇自然闭合，整体气质柔和、成熟、安静。
 
 人物拥有浅蓝色或冰蓝色长发，发丝自然蓬松，有轻微凌乱感，部分头发垂落在脸侧和肩颈周围。人物保持精致写实美型，脸型柔和自然，五官清秀，皮肤白皙但不过度磨皮，可保留少量真实肤质纹理、细小毛孔、轻微肤色不均和几处很淡的小黑痣，但整体仍然干净、柔和、好看。不要明显暗沉，不要粗糙脏感。
 
-人物身材丰腴，肩颈线条柔和，胸部饱满，不卡通化。服装为浅蓝色丝缎吊带睡裙，带白色蕾丝花边，胸前有简洁小蝴蝶结和自然褶皱，布料柔软贴合身体，呈现真实丝缎材质光泽。人物一只手自然轻轻拉住肩带或肩部附近衣料，手指数量正常，姿态自然。 
+人物身材丰腴，肩颈线条柔和，胸部饱满，不卡通化。服装为浅蓝色丝缎吊带睡裙，带白色蕾丝花边，胸前有简洁小蝴蝶结和自然褶皱，布料柔软贴合身体，呈现真实丝缎材质光泽。人物一只手自然轻轻拉住肩带或肩部附近衣料，手指数量正常，姿态自然。
 
 背景为温馨卧室，有床铺、浅色床品、木质床头柜、暖黄色床头灯、窗帘和柔和室内光。背景轻微虚化，保留真实居家空间感。光线为室内暖光与自然光混合，略微偏暖，画面柔和、亲密、生活化，但保持干净高级。
 
@@ -2566,7 +2566,7 @@ Transform the uploaded portrait into a highly stylized 3D cartoon avatar with a 
 
 **Prompt**:
 ```
-Turn the uploaded image into a funny toddler-style crayon drawing, like it was made by a 3–4 year old kid who tried their best but had absolutely no idea what they were doing 
+Turn the uploaded image into a funny toddler-style crayon drawing, like it was made by a 3–4 year old kid who tried their best but had absolutely no idea what they were doing
 
 Keep the drawing messy, clumsy, uneven, and adorably inaccurate. The lines should look rough and scribbly, shapes should feel awkward, proportions can be completely wrong, and details should be super simplified. It should feel like a child quickly drew the scene from memory using random crayons.
 
@@ -2954,7 +2954,7 @@ Pinterest aesthetic, Instagram nightlife photography, candid fashion editorial, 
 **Промпт:**
 
 ```
-The generated image uses the uploaded image as a reference for the character, wearing a high-necked, tight-fitting black long-sleeved dress. A cluster of withered wood and orange-pink flowers lies beside an old newsstand, the grainy texture of vintage film interwoven, the blurred background with noticeable trailing shadows, and the double-image effect creating a fantastical atmosphere. A bewitchingly beautiful girl, carrying flowers, is shown in profile, her fair skin delicate and translucent. 
+The generated image uses the uploaded image as a reference for the character, wearing a high-necked, tight-fitting black long-sleeved dress. A cluster of withered wood and orange-pink flowers lies beside an old newsstand, the grainy texture of vintage film interwoven, the blurred background with noticeable trailing shadows, and the double-image effect creating a fantastical atmosphere. A bewitchingly beautiful girl, carrying flowers, is shown in profile, her fair skin delicate and translucent.
 
 Her exquisite face is blurred with motion, the outline of her figure slightly swaying with the panning camera, the soft focus making the image even more hazy and languid. A warm-toned, low-saturation filter enhances the effect, her long, backlit hair glowing with a soft glow, the messy strands sweeping wildly across her jawline, the details concealing a captivating yet dangerous allure.Cute movements add dynamism, the motion blur blending with the film grain, creating a trendy, Instagram-worthy image while the blurred image outlines a dynamic scene full of story, cleverly balancing bewitching and sweetness.
 Follow : @AiwithZohaib
@@ -3058,11 +3058,11 @@ Negative prompt:
 
 **Prompt:**
 ```
-Edit foto wanita tersebut menjadi potret High Angle Sinematik dari seorang wanita muda yang cantik dari sudut pandang belakang. Fokus utamanya adalah pada bahu, lengan, dan sebagian wajahnya yang menghadap ke samping dengan ekspresi tenang. Riasan flawess natural eye shadow semi peach-brown lembut, bulu mata lentik, blush on tipis peach lembut dengan lisptik glossy peach lembut, rambut lurusnya tersanggul keatas agak longgar sedikit ada helaian rambut samping kanan-kirinya membingkai wajahnya. Ia mengenakan atasan sweater rajut dengan model sabrina berwarna cokelat muda. Tekstur kulitnya terlihat sangat halus di bawah siraman cahaya matahari yang terfilter. Latar belakang di outdoor buram (bokeh). Wajahnya menoleh ke samping melihat ke sikataran dengan ekspresi tenang dan sendu. 
+Edit foto wanita tersebut menjadi potret High Angle Sinematik dari seorang wanita muda yang cantik dari sudut pandang belakang. Fokus utamanya adalah pada bahu, lengan, dan sebagian wajahnya yang menghadap ke samping dengan ekspresi tenang. Riasan flawess natural eye shadow semi peach-brown lembut, bulu mata lentik, blush on tipis peach lembut dengan lisptik glossy peach lembut, rambut lurusnya tersanggul keatas agak longgar sedikit ada helaian rambut samping kanan-kirinya membingkai wajahnya. Ia mengenakan atasan sweater rajut dengan model sabrina berwarna cokelat muda. Tekstur kulitnya terlihat sangat halus di bawah siraman cahaya matahari yang terfilter. Latar belakang di outdoor buram (bokeh). Wajahnya menoleh ke samping melihat ke sikataran dengan ekspresi tenang dan sendu.
 
 Pencahayaan dan Warna :
 Foto ini menggunakan teknik pencahayaan yang kontras (terang-gelap). Cahaya matahari jatuh di bagian bahu dan wajahnya, sementara bagian lainnya tenggelam dalam bayangan. Terdapat bayangan siluet dedaunan atau ranting yang jatuh di punggung dan wajah wanita tersebut, memberikan kesan ia berada di bawah pohon saat matahari mulai terbenam (golden hour).
-Palet Warna: Didominasi oleh warna-warna hangat seperti oranye, golden hour, cokelat yang dikontraskan dengan latar belakang yang redup. 
+Palet Warna: Didominasi oleh warna-warna hangat seperti oranye, golden hour, cokelat yang dikontraskan dengan latar belakang yang redup.
 
 Komposisi dan Estetika
 Depth of Field: Latar belakangnya sangat buram (bokeh), membuat subjek wanita menonjol. Kesan yang ditampilkan adalah kelembutan, ketenangan. Foto ini tidak terasa seperti foto potret biasa, melainkan lebih seperti potongan adegan dari sebuah film drama puitis.
@@ -3227,3 +3227,473 @@ A full shot of a man sitting on a white chair with his legs crossed, wearing a d
 인물에 대한 직접 조명은 전혀 없으며 에펠탑 아래에서 은은하게 자연광이 있을 뿐입니다. 바닥에서 하늘을 수직에 가깝게 올려다보는 극단적인 로우 앵글(웜즈 아이 뷰)로 촬영되었습니다. 화면 전체를 거대하게 감싸며 가로지르는 파리 에펠탑의 정교하고 거대한 짙은 회색 철골 격자 구조물이 배경입니다.
 ```
 
+---
+### Case 285: Anime-Inspired Pastel Hoodie Portrait
+
+**Source**: [@de_mon010](https://x.com/de_mon010/status/2065247896287744162)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case285/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anime-Inspired Pastel Hoodie Portrait"></a> |
+
+**Промпт:**
+
+```
+Semi-realistic anime-inspired portrait of a stylish man, delicate round-frame glasses, and a gentle confident expression. he wears an oversized pastel lilac hoodie with rolled sleeves paired with a flowing ivory joggers. Full-body composition, standing casually with relaxed posture. Behind his is an artistic collage of hand-drawn monochrome character studies, loose pencil sketches, manga panels, playful doodles, and handwritten notes scattered organically across the backdrop.Contemporary anime fashion illustration with mixed ink-and-pencil textures, clean linework, subtle cel shading, bright white background, magazine-cover aesthetic, highly detailed, ultra-sharp, vibrant yet elegant, 8K masterpiece.
+```
+
+---
+### Case 286: Italian Summer Afternoon Portrait
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065209349132501265)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case286/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Italian Summer Afternoon Portrait"></a> |
+
+**Промпт:**
+
+```
+prompt:
+
+Ultra photorealistic portrait of a young woman with long straight dark brown hair, sun-kissed glowing skin, seated at an outdoor cafe table. She's wearing a white vintage Swiss dot corset mini dress with a sweetheart neckline, ruffled cap sleeves, front lace-up ribbon detailing, fitted bodice, and slightly sheer ruffled hem. Hands raised playfully covering her eyes, head tilted back laughing, red manicured nails, thin bracelet and ring on left hand. Setting: luxury outdoor hotel terrace at Hotel Florence, historic yellow building with "HOTEL FLORENCE" signage, lush green mountains in the background, cloudy blue sky, vintage globe street lamps, round glass-top table with two white ceramic coffee cups and a paperback book. Coquette cottagecore soft feminine luxury aesthetic. Natural bright afternoon sunlight, high contrast, sharp shadows on the table, backlighting creates a hair halo effect, warm vibrant color grading. DSLR 85mm portrait lens, f/2.8 shallow depth of field, 1/500s shutter, ISO 100, 8k RAW photo.
+
+#AIart #GPTImage2
+```
+
+---
+### Case 287: Rainy Night Cinematic Portrait
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065194222408577258)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case287/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Rainy Night Cinematic Portrait"></a> |
+
+**Промпт:**
+
+```
+Full prompt:
+
+Photorealistic cinematic close-up of a young woman in her early 30s, standing in a downpour at night with arms stretched wide and head tilted back, eyes shut, embracing the rain. Warm golden-orange backlight from the left side catches each raindrop, turning them into glowing particles around her silhouette. Soaking wet black tee clinging to her figure, water beading on her skin. Deep contrast between the dark background and the fiery orange sidelight. Expression radiates liberation and calm. Shot on an 85mm lens, f/1.8, 8K, shallow depth of field, vertical framing, dramatic cinematic atmosphere.
+
+#AIart #GPTImage2
+```
+
+---
+### Case 288: 7-Panel Emotion Grid Portrait
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065179623697306098)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case288/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 7-Panel Emotion Grid Portrait"></a> |
+
+**Промпт:**
+
+```
+Full prompt:
+
+Grid layout with thin white gaps between panels and a subtle outer white border around the entire composition. Clean, modern UI aesthetic with slight rounded corners on every tile.
+
+Panel 1: Joyful (Yellow). Warm yellow gradient. Arms raised overhead. Eyes shut. Wide open laugh. High-energy pose.
+Panel 2: Shocked (Blue). Blue gradient. Both hands cupping cheeks. Eyes wide open. Mouth agape. Eyebrows arched high.
+Panel 3: Stern (Red). Solid red background. Arms folded. Brows furrowed. Lips pressed tight. Dark hoodie.
+Panel 4: Affectionate (Pink). Soft pink gradient. Cradling a small brown dog. Gentle smile. Cozy knit sweater.
+Panel 5: Confident (Purple). Purple gradient. One hand resting on hip. Slight smirk. Graphic tee. Easy, relaxed stance.
+Panel 6: Approving (Green). Green gradient. Baseball cap and denim jacket. Thumbs up. Relaxed smile.
+Panel 7: Melancholy (Gray). Gray gradient. Eyes angled slightly downward. Inner brows slightly raised. Lips gently curved down.
+
+#AIart #GPTImage2
+```
+
+---
+### Case 289: Cozy Pastel Morning Overhead Lifestyle
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065149291099021650)
+
+**Результат:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case289/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Pastel Morning Overhead Lifestyle"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case289/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Pastel Morning Overhead Lifestyle"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case289/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Pastel Morning Overhead Lifestyle"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+prompt:
+
+Overhead lifestyle photo shot from a slightly tilted high angle, looking down at a cozy bed. A slim young woman lies on her back with a relaxed, lazy weekend morning energy. She has long, slightly tousled straight black hair with subtle pink highlights spread softly across a purple pillow, tidy bangs framing her face. Her makeup is a soft East Asian aesthetic with noticeable pink blush and lightly parted glossy lips, her gaze directed softly up into the camera. She wears a white ribbed cotton camisole with front buttons and lace trim, slightly raised at the waist, paired with light pink satin pajama shorts. Her right arm rests casually behind her head, exposing her smooth underarm and shoulder, while her left knee is gently bent, revealing a fair soft upper thigh. The skin on her arms, chest, stomach, and legs looks smooth and luminous, lit by soft diffused daylight spilling through a window on the left. A silver charm bracelet sits on her left wrist. The bedroom is styled throughout in pastel tones. She rests on ruffled pastel purple pillows and a white blanket with subtle purple floral patterns. Two white plush bunnies are placed near her head. In the slightly blurred lower right foreground, a wooden nightstand holds a glass of lemon water, a small pink digital clock showing 8:47, an earbuds case, and an ELLE magazine. Shot on a 35mm lens at a moderate aperture for a natural, slightly imperfect snapshot aesthetic with soft daylight and gentle shadows, capturing the tranquil slow morning mood.
+
+#AIart #GPTImage2
+```
+
+---
+### Case 290: Stylish Woman Outside Cozy Café Portrait
+
+**Source**: [@sakshi___007](https://x.com/sakshi___007/status/2065118696788631921)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case290/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Stylish Woman Outside Cozy Café Portrait"></a> |
+
+**Промпт:**
+
+```
+An ultra-realistic lifestyle portrait of a stylish young woman standing outside a modern cozy café during daytime, smiling warmly at the camera with a soft natural expression. She has short wavy platinum blonde hair styled in a soft messy bob, glowing skin, minimal natural makeup, and a fresh effortless beauty aesthetic. She wears an elegant oversized white blouse with soft flowing sleeves, tucked into high-waisted beige wide-leg trousers with a black belt, creating a classy minimalist fashion look. In one hand she holds an iced latte in a transparent cup, and in the other she gently carries a small adorable apricot toy poodle dog wearing a cute dark bandana. Warm natural sunlight, cozy café storefront background with glass windows, soft bokeh lighting, aesthetic urban lifestyle atmosphere, calm and wholesome mood, photorealistic details, fashionable Korean street style, soft neutral color palette, editorial portrait photography, realistic skin texture, cozy café culture vibe, luxury casual fashion, soft cinematic color grading, high detail, elegant modern aesthetic, Pinterest-inspired photography, ultra detailed, 8k quality.
+```
+
+---
+### Case 291: Luxury Streetwear Chrome Chair Portrait
+
+**Source**: [@AiwithLariab](https://x.com/AiwithLariab/status/2065115460820218326)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case291/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Streetwear Chrome Chair Portrait"></a> |
+
+**Промпт:**
+
+```
+Ultra-premium fashion editorial poster, luxury streetwear aesthetic, 4:5 portrait composition. A confident young woman sitting casually on a modern chrome chair, wearing an oversized black leather bomber jacket, black oversized t-shirt, baggy black cargo pants, and black-and-white luxury sneakers. Relaxed but powerful pose with one arm resting on the chair and direct eye contact with the camera.
+
+Massive bold typography in the background reading:
+
+I AM A
+CREATOR
+
+Large beige typography integrated into the composition, partially behind and around the model, creating a premium magazine-cover design. Dark charcoal black studio background with subtle texture and depth.
+
+Professional fashion campaign photography, cinematic studio lighting, dramatic spotlight from upper right corner, soft shadows, luxury fashion branding aesthetic, high-end streetwear advertisement, strong visual hierarchy.
+
+Natural voluminous hair with soft waves, realistic skin texture, sharp facial details, crystal clear eyes, premium color grading, shallow depth of field, ultra-realistic photography, Vogue magazine quality, luxury campaign poster, modern creative entrepreneur branding.
+
+Minimalist design, clean composition, bold typography, premium editorial layout, luxury fashion poster aesthetic, masterpiece, 8K, hyper-realistic, professional retouching, high contrast, ultra detailed.
+
+Small text in bottom left:
+"CREATIVITY IS NOT JUST WHAT YOU MAKE IT'S WHO YOU ARE"
+"ESTD. 2024"
+
+Face preservation priority: maximum.
+Identity consistency: maximum.
+Text accuracy: high.
+Poster design quality: luxury fashion campaign level.
+```
+
+---
+### Case 292: South Korea Graffiti Street Art Portrait
+
+**Source**: [@Kashberg_0](https://x.com/Kashberg_0/status/2065112085269504508)
+
+**Результат:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case292/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - South Korea Graffiti Street Art Portrait"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case292/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - South Korea Graffiti Street Art Portrait"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+Create a viral CapCut-style
+South korea graffiti image from
+the uploaded person. Keep
+the face consistent. Add
+South korea jersey, full-body pose,
+giant hand-painted mural
+portrait in the background,
+South korea logo, South korea 2026 text,
+yellow and green football
+colors, concrete wall, clean
+poster composition, realistic 闪
+photo foreground, illustrated
+thelifeafptfiti b--'ground,TikTok
+```
+
+---
+### Case 293: Korean Webtoon Couple Selfie
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2065105428862886301)
+
+**Результат:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case293/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Korean Webtoon Couple Selfie"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case293/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Korean Webtoon Couple Selfie"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+Transform the uploaded photo into a cute hand-painted Korean webtoon illustration of a happy couple taking a selfie outdoors. Soft pastel color palette, round expressive eyes, rosy cheeks, warm smiles, cozy romantic atmosphere, charming doodle elements floating around them (hearts, flowers, stars, swirls, sunshine icons). Lush green park or beach scenery in the background, bright sunny day, whimsical children's-book aesthetic, clean line art, soft painterly shading, adorable proportions, cozy cottagecore vibes, dreamy and cheerful mood, highly detailed digital illustration, storybook quality, kawaii aesthetic, gentle textures, vibrant yet soft colors, Instagram-worthy artwork, wholesome couple portrait, cute lifestyle illustration, masterpiece, ultra detailed.
+```
+
+---
+### Case 294: Non-Existent 1870s Vintage Photograph
+
+**Source**: [@Arminn_Ai](https://x.com/Arminn_Ai/status/2065104900590109130)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case294/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Non-Existent 1870s Vintage Photograph"></a> |
+
+**Промпт:**
+
+```
+Non Existence Vintage Photographs with GPT Image 2 📸
+
+- Prompt 👇
+a photographic image in the style of 1870, [SCENE DESCRIPTION], with [CHARACTERS described in period accurate clothing], [Describe the interaction].
+
+The photo has an aged and worn appearance, as it was taken in 1870. It features prominent time-induced chemical stains, heavy grain, sepia toning, and deep scratches.
+
+Significantly reduce the sharpness so that the details of the [SUBJECT] are not crisp, making the [SUBJECT] blurry and low-fidelity.
+
+Greatly increase the wear of the photo, including small tears, missing corners, water damage, and small wormholes caused by insect damage. Add a prominent, jagged diagonal cut across the photo, mended clumsily with old, discolored tape.
+```
+
+---
+### Case 295: Doll-ification Concept Portrait
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065104023011868884)
+
+**Результат:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case295/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Doll-ification Concept Portrait"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case295/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Doll-ification Concept Portrait"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+prompt:
+
+Ultra-realistic full-body portrait of a woman posed exactly as in the reference photo, stylized as a sleek female action figure. She stands with arms folded across her chest on top of a massive Microsoft Surface Tablet, dressed in urban streetwear — black hoodie, jeans, sneakers — with sharp red tech glasses.
+
+Floating around her in a dynamic layout are designer tools: a next-gen camera with a blue holographic glow, a geometric mouse with electric sparks, a digital stylus leaving wireframe trails, a Pantone color guide in bold blue and black, and a minimal black coffee cup with binary code steam rising from it.
+
+Bold blue-and-orange color palette with dramatic lighting throughout. Cyberpunk vibe, neon details, particle effects scattered across the scene. Visual style blends 3D animation with tech photography. Crisp focus, cinematic lighting, 8k resolution.
+
+#AIart #GPTImage2
+```
+
+---
+### Case 296: Neon Doodle Gallery Snapshot Template
+
+**Source**: [@im_shahid7](https://x.com/im_shahid7/status/2065099049938878503)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case296/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Neon Doodle Gallery Snapshot Template"></a> |
+
+**Промпт:**
+
+```
+Create a 9:16 image in the "Neon Doodle Gallery Snapshot" style.
+
+Subject: [SUBJECT].
+Subject action: [SUBJECT_ACTION].
+Prop or product: [PRODUCT_OR_PROP].
+Location: [kashmir].
+Background elements: [wooden interior ].
+Main handwritten text: "[Focus mode on]".
+Secondary handwritten text: "[keep going]".
+Accent symbol: [ACCENT_SYMBOL].
+Wardrobe style: [WARDROBE_STYLE].
+
+Use a realistic candid phone-photo as the base layer. The setting should feel specific and ordinary: visible walls, art, shelves, labels, tables, lamps, posters, people, bags, shadows, grain, and imperfect handheld framing.
+
+Draw a loud digital marker layer directly on top of the photo. Wrap the main subject with a thick hot-pink contour and a cyan offset glow. Add yellow-orange monster spikes, horns, rays, fins, or sunburst shapes around the silhouette. Scatter rough hand-drawn symbols around the frame: stars, paw prints, spiderweb corners, halos, abstract eyes, plants, flowers, scribble underlines, tally marks, arrows, hearts, and sticker-like blobs.
+
+Place rough uppercase handwritten marker text in open areas, using white, yellow, or lime green. The text should feel funny, personal, distracted, and student-made. Preserve the contrast between a real candid photo and chaotic handmade doodles.
+
+Avoid watermarks, usernames, platform logos, creator IDs, app marks, QR codes, clean vector-only illustration, fully illustrated backgrounds, polished ad layout, luxury editorial styling, perfect typography, empty sterile locations, identifiable celebrities, and tiny unreadable text.
+
+--- VARIABLES ---
+
+[ACCENT_SYMBOL] — star, paw print, spiderweb, halo, abstract eye, plant, flower, underline, arrow, tally mark, or scribble
+[BACKGROUND_ELEMENTS] — real photo details such as wall art, labels, shelves, posters, tables, lamps, signage, crowds, fabric, shadows, and phone-camera grain
+[LOCATION] — art gallery, campus hallway, library, studio critique room, classroom, night market, cafe, bookstore, museum, or city wall
+[MAIN_TEXT] — large hand-drawn caption or emotional headline
+[PRODUCT_OR_PROP] — notebook, tote bag, coffee, phone, headphones, sketchbook, jacket, snack, poster, camera, book, or exhibition card
+[SECONDARY_TEXT] — small handwritten notes, repeated words, short joke, date-like label, or study annotation
+[SUBJECT] — main person, group, student, artist, friend, commuter, shopper, or quiet candid figure
+[SUBJECT_ACTION] — looking at art, studying, walking, waiting, browsing, reacting, hiding, laughing, or holding a prop
+[WARDROBE_STYLE] — casual student streetwear, oversized shirt, hoodie, tote bag, loose trousers, jacket, headphones, sneakers, or art-school layers
+
+--- NEGATIVE PROMPT ---
+
+watermark, username, creator ID, platform logo, app mark, QR code, clean vector poster, fully illustrated scene, polished advertising layout, luxury editorial shoot, sterile studio, perfect typography, perfect sticker sheet, subtle doodles, empty background, corporate mascot, identifiable celebrity, real public figure, tiny unreadable text
+```
+
+---
+### Case 297: Face-Reference Consistent Portrait
+
+**Source**: [@john_my07](https://x.com/john_my07/status/2065092295092051994)
+
+**Результат:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case297/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Reference Consistent Portrait"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case297/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Reference Consistent Portrait"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case297/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Reference Consistent Portrait"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+Use the attached reference image as the exclusive guide for facial identity, bone structure, body proportions, skin tone, facial features, and overall physical likeness. Create an ultra-realistic luxury fashion editorial portrait of a stunning young woman captured in a premium lifestyle photoshoot.
+She wears an oversized designer crimson-red T-shirt crafted from heavyweight cotton, featuring the striking white slogan "WHATEVER" across the chest in contemporary minimalist typography. A crisp white curved-brim cap adds a sporty upscale touch, while sleek dark aviator-inspired sunglasses rest slightly lower on the bridge of her nose, revealing her eyes and enhancing the fashion-forward aesthetic.
+The subject is seated comfortably in an elegant sunlit setting, positioned at a subtle three-quarter angle. One hand lightly touches the brim of her cap while the other rests naturally near her knee, displaying a refined gold luxury timepiece. Her posture conveys confidence, sophistication, and effortless style, with a gentle head tilt and captivating direct gaze toward the camera.
+Her exceptionally long chestnut-brown hair cascades over one shoulder in soft, voluminous waves, enriched with warm caramel and hazelnut highlights. Individual strands catch the sunlight, creating natural dimension, movement, and silky texture.
+Professional beauty styling includes radiant luminous skin, softly sculpted cheekbones, precise winged eyeliner, naturally full brows, dramatic lashes, subtle champagne highlighter, delicate peach blush, and glossy coral-nude lips. Makeup appears polished yet realistic, suitable for a high-end fashion campaign.
+Accessories are tastefully curated: layered fine gold chains, elegant hoop earrings, a slim gold bracelet, and a premium luxury wristwatch. The jewelry enhances the look without overpowering it.
+Photographed in the style of an international fashion magazine cover, with warm late-afternoon sunlight, creamy background separation, cinematic depth of field, realistic skin detail, ultra-sharp eye focus, premium fabric texture, luxury lifestyle ambiance, sophisticated color grading, and impeccable commercial fashion photography. Hyper-realistic, editorial quality, Vogue-inspired, high-fashion advertising campaign, 8K resolution, award-winning portrait imagery.
+```
+
+---
+### Case 298: 日本コンビニ店員 昼夜対比写真
+
+**Source**: [@johnAGI168](https://x.com/johnAGI168/status/2065080792548618431)
+
+**Результат:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case298/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 日本コンビニ店員 昼夜対比写真"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case298/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 日本コンビニ店員 昼夜対比写真"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+上班山田😊
+
+下班田山🕶
+
+GPT- image 2 prompt👇
+Daytime Yamada cashier version, 3:4 vertical image. Create a realistic live-action portrait of an adult young Japanese woman, around 24 years old. She has fair skin, soft delicate facial features, a gentle oval face, calm dark eyes, natural light makeup, reddish hair, straight blunt bangs, and long side locks framing both sides of her face. Her expression is gentle, polite, slightly shy, and quietly mature, like a reliable supermarket cashier with a warm customer-service smile.
+
+Scene: daytime inside a Japanese supermarket checkout area. She is standing behind or beside the checkout counter, facing the camera, with a polite gentle smile. The background has blurred product shelves, checkout counter details, and clean supermarket lighting.
+
+Outfit: Japanese supermarket employee uniform. Deep red headscarf covering the back of her hair while still showing her straight bangs and red side locks, pale green or beige striped short-sleeve work shirt, deep red apron, black flared work pants. Add a small rectangular employee name badge pinned on the upper chest or apron with readable Japanese text “山田”. The badge should be realistic, small, and clear. The only readable text in the image should be “山田”.
+
+Style: realistic live-action Japanese drama still, 3:4 vertical portrait, waist-up or three-quarter body, natural indoor fluorescent supermarket lighting, shallow depth of field, muted realistic colors, natural skin texture, 35mm lens look, high detail.
+```
+
+---
+### Case 299: Dreamlike Cloud Face Portrait
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065073375463325883)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case299/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dreamlike Cloud Face Portrait"></a> |
+
+**Промпт:**
+
+```
+prompt:
+
+Reimagine [NAME] as a dreamlike cloud portrait, keeping their face, expression, and defining features clearly recognizable while transforming the form into soft billowing clouds against a bright blue sky.
+The portrait should look like the face is materializing from or melting into the clouds, with gentle diffused natural light casting soft highlights and airy shadows for depth and realism.
+Avoid sharp edges, visible skin texture, or hard details, keeping the transition symbolic and organic.
+Preserve facial proportions, eyes, smile, and distinctive features through the cloud structure.
+Style: dreamy, ethereal, cinematic, surreal
+Lighting: volumetric sunlight, soft glow, natural
+Color palette: sky blue, white, soft gradient tones
+Mood: serene, uplifting, peaceful
+Layer clouds naturally around and within the face for a smooth, seamless transition. Keep the background a clean blue sky with soft gradient clouds.
+Ultra-realistic cloud texture, high resolution, seamless blending, no watermarks, no text.
+
+#AIart #GPTImage2
+```
+
+---
+### Case 300: Face-Preserved Ultra-Realistic Portrait
+
+**Source**: [@Rainlanded](https://x.com/Rainlanded/status/2065071103316484451)
+
+**Результат:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case300/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Preserved Ultra-Realistic Portrait"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case300/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Preserved Ultra-Realistic Portrait"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+low quality, blurry, distorted face, bad anatomy, extra limbs, stiff pose, unnatural selfie angle, overexposed skin, harsh flash, plastic skin, overly bright colors, cheap fabric, messy background, cartoon style, exaggerated beauty filter, unrealistic eyes, artificial hair, bad hands, awkward arm, noisy image.
+```
+
+---
+### Case 301: Sharp Digital Portrait Illustration
+
+**Source**: [@JamilAI55](https://x.com/JamilAI55/status/2065060797861023948)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case301/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sharp Digital Portrait Illustration"></a> |
+
+**Промпт:**
+
+```
+Open Gemini / Grok / GPT Image 2.0
+2. Upload your photo
+3. Copy the prompt
+4. Generate
+5. Prompt ⤵️
+Prompt 👇
+Ultra-detailed digital portrait illustration of a confident young man with sharp facial features and intense dark eyes, looking directly into the camera. His hand covers the lower half of his face, creating a mysterious and powerful expression. Stylish voluminous black hair, wearing a deep red shirt over a black t-shirt, black wrist wrap, and a subtle gold chain. Dramatic red rim lighting outlining the hair, face, shoulders, and clothing against a pure black background. High-contrast cinematic lighting, dark moody atmosphere, bold shadows, comic-book and graphic novel style, semi-realistic digital painting, ultra-sharp details, textured brushwork, modern masculine aesthetic, centered composition, portrait crop, 4K quality, trending on ArtStation, masterpiece, highly detailed, red and black color palette, powerful gaze, edgy and stylish character design
+```
+
+---
+### Case 302: 파리 가로등 기댄 감성 전신 포즈
+
+**Source**: [@CHAseUnre](https://x.com/CHAseUnre/status/2065240920283398353)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case302/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 파리 가로등 기댄 감성 전신 포즈"></a> |
+
+**Промпт:**
+
+```
+[인물] 이미지1, 이미지2 참조. 파리의 길거리 표지판 기둥에 몸을 비스듬히 기대어 서 있는 전신 포즈입니다. 고개를 살짝 왼쪽으로 기울이고 눈을 감은 채 입술을 아주 약간 내밀며 나른하고 감성적인 표정을 짓고 있습니다. 왼손에는 테이크아웃 커피 컵을 가볍게 쥐고 있습니다. 배경: 파리 거리 분위기, 흐린 자연광.
+```
+
+---
+### Case 303: 深夜调酒师暗红酒吧封面写真
+
+**Source**: [@liyue_ai](https://x.com/liyue_ai/status/2064965712406556931)
+
+**Результат:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case303/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 深夜调酒师暗红酒吧封面写真"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case303/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 深夜调酒师暗红酒吧封面写真"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case303/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 深夜调酒师暗红酒吧封面写真"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+深夜调酒师人物摄影：高级酒吧场景、暗红灯光、玻璃酒杯反光 + 黑衬衫、深酒红马甲、袖箍建立人物身份感 + 调酒动作、抬眼看镜头、金色边缘光建立封面气场。危险但克制的气质，深夜暗红酒吧封面风。
+```

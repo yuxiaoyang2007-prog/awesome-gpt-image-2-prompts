@@ -880,7 +880,7 @@ The final result should feel like a real photo transformed into a creative scrap
 **Prompt:**
 
 ```
-GPT Image 2 On ChatGPT 
+GPT Image 2 On ChatGPT
 
 Prompt : (Soft Serve Ice Cream Aesthetic)
 
@@ -936,3 +936,121 @@ Left-aligned composition:
 
 <img src="../images/ad-creative_case183/output.jpg" width="500">
 
+---
+### Case 184: Adidas Futuristic Drop Ad Poster 9:16
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065133774413906004)
+
+**Çıktı:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case184/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Adidas Futuristic Drop Ad Poster 9:16"></a> |
+
+**Prompt:**
+
+```
+Full prompt:
+
+Design a striking premium vertical advertising poster (9:16 format) for a fictional ultra-limited Adidas sneaker called "ADIDAS AEROBLADE X - LIMITED DROP". The creative direction should feel like a world-class agency campaign — original, futuristic, visually explosive.
+
+Main visual:
+A single hero sneaker floating center-frame, captured at a dramatic low angle as if levitating above a dark obsidian running track split by glowing energy cracks. The shoe combines knit mesh, sculpted foam, translucent panels, reflective stripes, and a carbon-fiber sole plate. Neon light trails swirl around it like captured speed. Particles and mist add motion and intensity. Background features faint silhouettes of elite sprinters frozen mid-dash, blurred enough to keep focus on the shoe.
+
+Color palette:
+Matte black, electric red, silver, deep charcoal, with subtle neon blue highlights.
+
+Typography and copy (sharp, clean, strong visual hierarchy):
+Main headline: "OWN THE SPEED"
+Product title: "ADIDAS AEROBLADE X"
+Subheadline: "Built for the ones who never run ordinary."
+Feature callouts in elegant boxed layout:
+- "Featherlight Adaptive Knit Upper"
+- "Carbon Energy Return Plate"
+- "Precision Grip Traction"
+- "Limited Collector Release"
+Price: "$280"
+Primary CTA: "DROP LIVE NOW"
+Secondary CTA: "Only at
+Footer text: "Performance innovation meets futuristic street identity."
+
+Layout:
+Bold oversized headline partially integrated into background. Product name near shoe in refined premium placement. Feature callouts stacked vertically along one side. Add a "LIMITED SERIES" badge. The composition blends luxury sports campaign with futuristic editorial design.
+
+Style: Ultra-detailed hyper-realistic product photography, cinematic studio lighting, premium advertising aesthetics, sharp focus, rich textures, subtle atmosphere, dynamic motion energy, high-end commercial poster feel. Aspect ratio 9:16.
+
+#AIart #GPTImage2
+```
+
+---
+### Case 185: Luxury Linen Texture Editorial Poster
+
+**Source**: [@ZephyraLeigh](https://x.com/ZephyraLeigh/status/2065123985713700925)
+
+**Çıktı:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case185/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Luxury Linen Texture Editorial Poster"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case185/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Luxury Linen Texture Editorial Poster"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+GPT Image 2 on ChatGPT 🪄
+
+PROMPT ⬇
+
+A photorealistic luxury editorial poster, 3:4 portrait ratio. Full frame covered in premium off-white Italian linen paper wall texture — warm ivory tone, subtle grain, ultra-tactile surface. Center of wall features a large precision-carved football-shaped archway with deep architectural relief — visible carved edges, realistic inner shadow depth, sculptural beveled detailing, premium craftsmanship aesthetic.
+Inside the carved football frame: cinematic stadium atmosphere — deep blue and white luxury smoke trails drifting elegantly, gold and silver championship confetti cascading, white orchid and rose floral arrangements with dark green foliage accents, premium celebration balloons in royal blue and pearl white, championship trophy silhouettes subtly embedded in background haze. Atmosphere: elite sports gala, UEFA Champions League victory night energy.
+
+Subject: Cristiano Ronaldo, full figure, standing powerfully inside the carved frame. Wearing Portugal's premium crimson and green national kit — authentic jersey fabric with realistic textile folds, fitted athletic shorts, premium Adidas/Nike high-performance football boots. Iconic athletic build — broad shoulders, defined physique, elite footballer anatomy. Signature confident expression — sharp jaw, focused dark eyes, short textured dark hair, photorealistic skin texture with natural pore detail.
+
+Championship celebration pose — chest slightly forward, chin raised, one hand slightly relaxed, football resting precisely at his right boot.
+
+3D Breakout Effect: Face, right shoulder, right arm below elbow, and right football boot extend realistically beyond the carved frame boundary onto the wall surface — casting soft natural drop shadows onto the paper texture. Depth of field creates believable dimensional layering.
+Lighting: Premium stadium tungsten lighting blended with warm golden-hour cinematic sunlight entering from the upper left. Soft white rim light wrapping around shoulders and jawline. Subtle fill light on the wall from the right. No harsh overexposure, no fake neon — only warm, editorial luxury light grading.
+
+Wall Typography — Clean Minimalist Luxury Layout:
+
+CRISTIANO RONALDO — large, bold, high-end serif font (Didot or Bodoni style), embossed gold foil effect, positioned above the carved frame
+
+CHAPTER 41 — medium weight elegant tracking, warm bronze metallic tone, centered below the name
+
+365 MORE DAYS OF GREATNESS — refined thin uppercase sans-serif, spaced wide, cream-gold color, placed below Chapter line
+Technical: Ultra-photorealistic rendering, 8K detail sharpness, professional commercial sports photography quality, luxury magazine cover art direction, natural color grading — warm ivory + deep blue + gold palette, authentic shadow physics, zero AI artifacts, correct human anatomy, no extra limbs, no tree shadows, no distorted proportions, award-winning editorial masterpiece quality.
+```
+
+---
+### Case 186: Luxury Watch Dramatic Beam Product Shot
+
+**Source**: [@meng_dagg695](https://x.com/meng_dagg695/status/2065078841765458040)
+
+**Çıktı:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case186/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Watch Dramatic Beam Product Shot"></a> |
+
+**Prompt:**
+
+```
+A luxury watch emerges from darkness. Extreme macro shot of ticking gears and moving hands. Golden sparks and floating particles surround the watch. The camera circles the timepiece while dramatic light streaks reflect across the sapphire crystal. Slow-motion water splash freezes in midair around the watch. Mechanical components assemble themselves automatically. Cinematic black-and-gold environment, premium commercial lighting, ultra-realistic reflections, luxury lifestyle advertisement, powerful orchestral atmosphere, smooth camera motion, product hero shot, brand reveal, Hollywood-level commercial, 8K photorealism.
+```
+
+---
+### Case 187: 可口可乐百事雪碧品牌 KV 对比
+
+**Source**: [@liyue_ai](https://x.com/liyue_ai/status/2065039304175538382)
+
+**Çıktı:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case187/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 可口可乐百事雪碧品牌 KV 对比"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case187/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 可口可乐百事雪碧品牌 KV 对比"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case187/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 可口可乐百事雪碧品牌 KV 对比"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+品牌 KV 海报系列。使用统一提示词框架，针对不同饮料品牌调整视觉情绪色彩：可口可乐 → 热烈红色聚会感；百事可乐 → 年轻蓝色潮流感；雪碧 → 清爽绿色柠檬感。同一结构展现不同品牌 DNA。3 张对比输出。
+```

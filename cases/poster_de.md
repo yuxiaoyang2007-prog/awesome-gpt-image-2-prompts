@@ -280,7 +280,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 **Prompt：**
 
 ```
-请根据【主题】生成一张高质量竖版「科普百科图」。 
+请根据【主题】生成一张高质量竖版「科普百科图」。
 
 这张图不是普通海报,也不是单纯插画,而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。
 
@@ -432,7 +432,7 @@ In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” wit
 围绕【主题】自动生成一张顶级暗黑史诗概念海报 / 电影感信息图海报。
 
 唯一需要输入的变量只有:
-【主题】:___特朗普的思考____ 
+【主题】:___特朗普的思考____
 
 除【主题】之外,其余全部由 AI 自动适配完成,包括但不限于:
 - 核心主体(自动判断更适合人物、守护者、战士、产品、器物、雕像、抽象象征或其他主视觉对象)
@@ -581,7 +581,7 @@ Generate somthing super complex and info dense...
 **Prompt：**
 
 ```
-请根据【主题】生成一张高质量竖版「科普百科图」。 
+请根据【主题】生成一张高质量竖版「科普百科图」。
 
 这张图不是普通海报,也不是单纯插画,而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。
 
@@ -626,7 +626,7 @@ Generate somthing super complex and info dense...
 请围绕【主题】自动生成一张顶级概念海报 / 信息图式电影海报。
 
 唯一输入变量只有:
-【主题】:__中国历史上的皇帝排名_         
+【主题】:__中国历史上的皇帝排名_
 
 要求 AI 根据这个主题,自动推导并统一设计以下全部视觉系统,不需要我额外指定:
 - 核心主体(可以自动判断更适合人物、产品、建筑、器物、符号、场景或抽象意象)
@@ -948,7 +948,7 @@ Outfit includes a dark olive green padded hooded jacket worn open, clean white c
 
 Background is a vibrant electric blue seamless studio backdrop with subtle gradient lighting, soft glow streaks, and glossy floor reflection. Lighting is soft studio light with gentle shadows and polished commercial finish.
 
-Graphic poster layout with giant bold condensed sans serif text reading “JEANSWEST” vertically stretched across the background behind the model in light gray white. Add large text on lower right reading “JW26”. 
+Graphic poster layout with giant bold condensed sans serif text reading “JEANSWEST” vertically stretched across the background behind the model in light gray white. Add large text on lower right reading “JW26”.
 
 Composition should feel premium, trendy, clean, commercial, youthful, modern fashion ad campaign. Sharp focus, ultra realistic fabric texture, cinematic lighting, balanced negative space, sleek branding design, high resolution, vertical poster ratio.
 ```
@@ -1346,11 +1346,11 @@ Create a vintage illustrated travel poster in traditional Chinese for {argument 
 
 ```
 [STYLE]
-monochromatic grayscale illustration, 3D rendered character, clean instructional reference sheet, 
+monochromatic grayscale illustration, 3D rendered character, clean instructional reference sheet,
 white background, comic-style cell grid layout, technical diagram aesthetic
 
 [LAYOUT]
-4x4 grid layout, 16 panels total, each panel separated by thin black border lines, 
+4x4 grid layout, 16 panels total, each panel separated by thin black border lines,
 numbered cells from 1 to 16, consistent panel size
 
 [CHARACTER]
@@ -1363,15 +1363,15 @@ bottom-left: {argument name="description" default="Korean description text (3-4 
 overlay: directional arrows indicating movement direction
 
 [ARROWS / MOTION INDICATORS]
-curved arrows, straight arrows, circular rotation indicators, 
+curved arrows, straight arrows, circular rotation indicators,
 placed around the character to show movement flow and direction
 
 [RENDERING STYLE]
-high detail 3D sculpt style, soft studio lighting, subtle shadows, 
+high detail 3D sculpt style, soft studio lighting, subtle shadows,
 no color, grayscale shading, clean linework, game concept art quality
 
 [NEGATIVE]
-no background scenery, no color tones, no extra characters, 
+no background scenery, no color tones, no extra characters,
 no cluttered backgrounds
 ```
 
@@ -1808,7 +1808,7 @@ infográfico ASCII DENGUE
 **Prompt:**
 
 ```
-GPT Image 2 + Kling = 🔥 This was done for Tokyo. 
+GPT Image 2 + Kling = 🔥 This was done for Tokyo.
 
 [VAR_CITY] = "Tokyo, Japan"     [NODE 1: BASE_TOPOLOGY] Generate a complex, self-intersecting 3D endless loop (e.g., a thick Trefoil Knot or Gordian Knot). Material_Output: Raw, unfinished layered birch plywood. Visible wood grain.  [NODE 2: INSTANCER_LOGIC] AI_INFERENCE_TRIGGER: Analyze [VAR_CITY]. Extract its iconic architectural style, specific landmarks, and road infrastructure.  Action: Instance these urban elements directly onto the surface normals of the [BASE_TOPOLOGY].  [NODE 3: GRAVITY_WARP] The gravity vector is strictly relative to the surface of the knot. Buildings must project outward from the wood, regardless of whether the surface is facing up, down, or sideways. The roads must follow the curvature perfectly. Tiny metallic cars dot the highways.  [RENDER_ENGINE] Execute Tree. Output as a physical macro-photography studio shot. The object sits on a blank museum pedestal. Soft, diffuse top-lighting. Shallow depth of field to emphasize the miniature scale.
 ```
@@ -1836,7 +1836,7 @@ A cozy restaurant table filled with a vibrant Taiwanese meal, shot in warm natur
 **Prompt:**
 
 ```
-I asked GPT Image 2 to spill the beans on alien life. 
+I asked GPT Image 2 to spill the beans on alien life.
 
 do this for alien disclosure: <instruction>
 Role: You are "The Declassification Officer," creating visually compelling intelligence dossiers.
@@ -1937,7 +1937,7 @@ Ultra-realistic, 8K food photography, commercial advertising, sharp focus, drama
 **Prompt:**
 
 ```
-Created by using GPT Image 2. 
+Created by using GPT Image 2.
 
 Prompt👇
 Ultra cinematic hyper-realistic premium dairy lifestyle advertisement, Milky Mist Greek Yogurt Natural cup placed as hero center foreground on glossy white marble counter, lid partially peeled revealing thick creamy yogurt with perfect spiral swirl texture, ultra-detailed micro highlights, condensation droplets on surface, branding ultra sharp
@@ -2172,7 +2172,7 @@ Large dramatic silhouette of the warrior's head and upper torso, face angled sli
 “FLAVORS OF THE USA” Luxury Culinary Travel Poster
 Ultra-detailed infographic travel poster titled “FLAVORS OF THE USA”, elegant luxury editorial design, vertical composition, sophisticated culinary magazine aesthetic blended with modern 3D isometric cartography.
 
-At the center: a highly detailed 3D isometric map of the United States in carved ivory-white stone texture, divided into states with subtle engraved borders. 
+At the center: a highly detailed 3D isometric map of the United States in carved ivory-white stone texture, divided into states with subtle engraved borders.
 
 The map features miniature iconic American landmarks placed geographically:
 ```
@@ -2296,7 +2296,7 @@ Crisp geometric perspe
 
 **Prompt**:
 ```
-GPT image 2 on Chatgpt 
+GPT image 2 on Chatgpt
 
 Prompt 1 (Little girl version):
 Kawaii scrapbook-style children photography poster, cute little girl with long black hair posing on green grass, wearing sporty gray and white outfit with bunny hair clips, pastel yellow and green theme, large playful bubble typography with name text, polaroid photo cutouts layered around the composition, plush bunny toy, banana milk box, macarons, ribbons, flowers and doodle graphics, hand-drawn hearts, stars and swirls, cheerful Korean aesthetic, soft daylight, whimsical collage layout, vibrant yet soft pastel tones, magazine-style kids photoshoot, ultra detailed, adorable and playful atmosphere, trendy social media scrapbook design.
@@ -2317,7 +2317,7 @@ Cute kawaii scrapbook-style baby photography collage, smiling baby girl wearing 
 
 **Prompt**:
 ```
-GPT Image 2 on ChatGPT 
+GPT Image 2 on ChatGPT
 
 Prompt;
 
@@ -2402,7 +2402,7 @@ I am “TAURUS.” Create a poster inspired by Yumi’s Cells with the same soft
 
 **Prompt**:
 ```
-GPT Image 2 on ChatGPT 
+GPT Image 2 on ChatGPT
 
 Prompt :
 
@@ -2444,9 +2444,9 @@ A character promotional poster of [XXX], using a unified vertical key-visual com
 
 **Prompt**:
 ```
-GPT image 2 on ChatGPT 
+GPT image 2 on ChatGPT
 
-Prompt 👇 
+Prompt 👇
 
 Create a high-resolution 8K portrait poster in an Urban Fashion Editorial Collage style, blending contemporary street-fashion aesthetics with premium editorial magazine design. The overall composition should feel bold, stylish, modern, and visually layered, combining elements of luxury fashion campaigns, urban culture, and artistic collage experimentation. Incorporate dynamic poster ornaments and decorative elements that strongly reflect the Urban Fashion Editorial Collage aesthetic, such as ripped paper textures, layered magazine cutouts, abstract geometric accents, expressive brush strokes, typography fragments, street-style graphic overlays, halftone textures, tape effects, paint splashes, handwritten scribbles, and fashionable editorial layout compositions. Every decorative element should feel intentional, stylish, and visually balanced rather than overcrowded. Humanity really looked at torn paper and graffiti textures and decided, “yes, this is luxury now.” Somehow it works.
 
@@ -2465,7 +2465,7 @@ The subject’s pose must not resemble the reference photo. Create a completely 
 
 **Prompt**:
 ```
-GPT image 2 on @Hailuo_AI 
+GPT image 2 on @Hailuo_AI
 
 Prompt - A colorful kids advertisement poster featuring an adorable 6-year-old girl with pigtails laughing and running beside a giant cartoon-style backpack 3x her height in bright blue and yellow colors with star patches and “STARPACK” written on the front pocket. The scene has a bright sunny yellow school background filled with floating pencils, stars, and books, creating a cheerful and energetic atmosphere. Massive friendly rounded typography reading “STARPACK” in blue and yellow fills the background, while the tagline at the bottom says, “Adventure fits right on your back.” Small grey text in the top-right corner reads “Designed with GPT Image 2.” The overall style blends photorealistic details with playful cartoon aesthetics, giving it a fun school commercial mood.
 ```
@@ -3947,11 +3947,11 @@ Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury 
 **Prompt:**
 
 ```
-A stylized black-and-white pencil ink caricature portrait sheet featuring two distinct charismatic characters with contrasting face shapes and expressions. Drawn in a loose sketchbook style with visible construction lines, rough pencil strokes, expressive exaggerated facial proportions, modern caricature illustration aesthetic. 
+A stylized black-and-white pencil ink caricature portrait sheet featuring two distinct charismatic characters with contrasting face shapes and expressions. Drawn in a loose sketchbook style with visible construction lines, rough pencil strokes, expressive exaggerated facial proportions, modern caricature illustration aesthetic.
 
-Left character: handsome charismatic man with messy hair, sharp jawline, confident smirk, expressive sideways eyes, slim long face, casual t-shirt. 
+Left character: handsome charismatic man with messy hair, sharp jawline, confident smirk, expressive sideways eyes, slim long face, casual t-shirt.
 
-Right character: muscular bald man with raised eyebrow, thick neck, strong jawline, dominant confident expression, casual t-shirt. 
+Right character: muscular bald man with raised eyebrow, thick neck, strong jawline, dominant confident expression, casual t-shirt.
 
 Minimal shading, thin crosshatching, clean line art, monochrome aesthetic, white background, artistic character design concept sketch, highly detailed hand-drawn look, playful exaggerated anatomy, professional caricature sketch style
 ```
@@ -4071,16 +4071,16 @@ Overall aesthetic: warm, feminine, luxurious, ultra detailed, realistic photogra
 
 ```
 Create a dreamy handcrafted ( CITY)travel journal illustration, as if painted in an artist’s personal sketchbook while traveling through (COUNTRY )
-SCENE: A romantic Busan coastal setting inspired by Gamcheon Culture Village + Haeundae + Songdo seaside charm. Feature: oceanfront promenade gentle waves seagulls Korean seaside cafés pastel coastal buildings tiny fishing boats paper lantern accents boardwalk details colorful Busan hillside houses in the distance beach umbrellas ocean breeze atmosphere subtle Korean storefront signage travel discovery mood 
-SUBJECT: Place the woman from the uploaded reference naturally in the scene. Appearance:￼ long flowing copper auburn hair moving softly in the sea breeze hazel-green eyes fair skin natural elegant expression soft thoughtful gaze 
-WARDROBE: romantic coastal travel styling cream knit sweater flowing midi skirt light trench coat or airy cardigan delicate scarf moving with wind comfortable elegant walking shoes 
-POSE OPTIONS: ((walking along the Busan seaside promenade)) OR ((sitting at a Korean seaside café sketching in a journal)) OR￼ ￼ ((holding a travel journal while looking toward the ocean)) OR ((standing near the railing with wind in hair, candid cinematic pose)) 
-STYLE: premium watercolor travel-journal illustration hand-drawn ink sketch detailing transparent watercolor washes aged textured paper pigment bleeding ink splatters vintage travel scrapbook aesthetic editorial artistic composition luxury Pinterest-worthy illustration 
-ADD SCRAPBOOK ELEMENTS: handwritten diary notes "BUSAN" "KOREA" tiny illustrated coastline map￼ metro ticket fragments passport stamps vintage postage marks boarding pass scraps coffee stains botanical doodles hand-drawn arrows tiny seashell sketches travel annotations paper tape collage small Korean handwritten notes 
+SCENE: A romantic Busan coastal setting inspired by Gamcheon Culture Village + Haeundae + Songdo seaside charm. Feature: oceanfront promenade gentle waves seagulls Korean seaside cafés pastel coastal buildings tiny fishing boats paper lantern accents boardwalk details colorful Busan hillside houses in the distance beach umbrellas ocean breeze atmosphere subtle Korean storefront signage travel discovery mood
+SUBJECT: Place the woman from the uploaded reference naturally in the scene. Appearance:￼ long flowing copper auburn hair moving softly in the sea breeze hazel-green eyes fair skin natural elegant expression soft thoughtful gaze
+WARDROBE: romantic coastal travel styling cream knit sweater flowing midi skirt light trench coat or airy cardigan delicate scarf moving with wind comfortable elegant walking shoes
+POSE OPTIONS: ((walking along the Busan seaside promenade)) OR ((sitting at a Korean seaside café sketching in a journal)) OR￼ ￼ ((holding a travel journal while looking toward the ocean)) OR ((standing near the railing with wind in hair, candid cinematic pose))
+STYLE: premium watercolor travel-journal illustration hand-drawn ink sketch detailing transparent watercolor washes aged textured paper pigment bleeding ink splatters vintage travel scrapbook aesthetic editorial artistic composition luxury Pinterest-worthy illustration
+ADD SCRAPBOOK ELEMENTS: handwritten diary notes "BUSAN" "KOREA" tiny illustrated coastline map￼ metro ticket fragments passport stamps vintage postage marks boarding pass scraps coffee stains botanical doodles hand-drawn arrows tiny seashell sketches travel annotations paper tape collage small Korean handwritten notes
 COLOR PALETTE: soft ocean blue dusty aqua muted sand beige faded coral warm cream seafoam green soft terracotta accents washed watercolor neutrals LIGHTING: golden morning seaside sunlight airy coastal glow romantic atmospheric haze gentle cinematic warmth
- COMPOSITION: vertical travel journal page 4:5 aspect ratio ultra detailed cozy nostalgic storytelling peaceful romantic vacation mood 
-NEGATIVE PROMPT: CGI, photorealistic rendering, anime face, identity change, plastic skin, neon cyberpunk, futuristic objects, dark horror mood, distorted anatomy, extra limbs, messy cluttered composition, AI glitches, oversaturated colors 
-￼ metro ticket fragments passport stamps vintage postage marks boarding pass scraps coffee stains botanical doodles hand-drawn arrows tiny seashell sketches travel annotations paper tape collage small Korean handwritten notes 
+ COMPOSITION: vertical travel journal page 4:5 aspect ratio ultra detailed cozy nostalgic storytelling peaceful romantic vacation mood
+NEGATIVE PROMPT: CGI, photorealistic rendering, anime face, identity change, plastic skin, neon cyberpunk, futuristic objects, dark horror mood, distorted anatomy, extra limbs, messy cluttered composition, AI glitches, oversaturated colors
+￼ metro ticket fragments passport stamps vintage postage marks boarding pass scraps coffee stains botanical doodles hand-drawn arrows tiny seashell sketches travel annotations paper tape collage small Korean handwritten notes
 COLOR PALETTE: soft ocean blue dusty aqua muted sand beige faded coral warm cream seafoam green soft terracotta accents washed watercolor neutrals LIGHTING: golden morning seaside sunlight airy coastal glow romantic atmospheric haze gentle cinematic warmth
 ```
 
@@ -4098,24 +4098,24 @@ Photorealistic interior render, ultra-luxury industrial football war room and ma
 Architecture: the room feels like the inside of a repurposed Ruhr Valley steel factory — exposed raw steel walls with riveted panel texture painted in matte black, massive yellow steel I-beams crossing the ceiling horizontally, concrete floor sealed in high-gloss black epoxy with the BVB09 crest inlaid in signal yellow resin at center, glowing from LED underlighting.
 
 Back wall: the entire wall is a recreation of the Gelbe Wand the Yellow Wall standing terrace at Signal Iduna Park a full-width photorealistic mural of 81,000 fans in yellow and black holding a massive tifo, receding into the distance, backlit from behind the wall to create depth and glow.
-In front of the mural: a raised steel platform with a 
+In front of the mural: a raised steel platform with a
 black steel railing like a stadium terrace edge.
 
-Left wall: raw black steel display wall — welded steel frame shadow boxes containing Bundesliga trophies, DFB-Pokal cups, Champions League runners-up plates in industrial mounts, all under harsh yellow spotlights. Between display boxes: 
-BVB yellow jerseys framed in welded black steel frames, 
+Left wall: raw black steel display wall — welded steel frame shadow boxes containing Bundesliga trophies, DFB-Pokal cups, Champions League runners-up plates in industrial mounts, all under harsh yellow spotlights. Between display boxes:
+BVB yellow jerseys framed in welded black steel frames,
 no names visible.
 
-Center: two enormous black leather industrial recliners 
-facing a massive curved screen showing match footage 
+Center: two enormous black leather industrial recliners
+facing a massive curved screen showing match footage
 under Yellow Wall atmosphere, signal yellow cup holders built into the armrests.
 Right wall: black steel bar unit with yellow LED backlit shelving, yellow and black branded glassware, industrial pipe bar rail, three black steel bar stools with yellow leather seats.
 
-Floor detail: yellow painted hazard stripes along the 
-perimeter of the room, like factory safety markings, 
+Floor detail: yellow painted hazard stripes along the
+perimeter of the room, like factory safety markings,
 adding to the industrial authenticity.
 
-Ceiling: cluster of oversized industrial pendant lights 
-in matte black steel with signal yellow interior, 
+Ceiling: cluster of oversized industrial pendant lights
+in matte black steel with signal yellow interior,
 casting pools of sharp yellow light across the black epoxy floor.
 
 Window: steel-framed industrial window showing Signal Iduna Park stadium exterior at night, yellow exterior lights glowing through the Ruhr Valley fog.
@@ -4146,11 +4146,11 @@ Scene Variations:
 **Prompt:**
 
 ```
-Vintage watercolor travel poster of Marrakech, Morocco with a warm beige textured background. Top features ornate Islamic geometric motif, text 'WELCOME TO MARRAKECH' in large serif terracotta font, subtitle 'WHERE TRADITION INSPIRES EVERY JOURNEY' with decorative diamond dividers. 
+Vintage watercolor travel poster of Marrakech, Morocco with a warm beige textured background. Top features ornate Islamic geometric motif, text 'WELCOME TO MARRAKECH' in large serif terracotta font, subtitle 'WHERE TRADITION INSPIRES EVERY JOURNEY' with decorative diamond dividers.
 
 Foreground shows a cozy rooftop café scene: wrought iron table and chair with mosaic top, Moroccan teapot and glass of tea, chalkboard sign reading 'EXPLORE THE COLORS OF MOROCCO' with a hand-drawn sketch of a Moroccan gate and palm tree below. Include a hanging black sign 'CAFÉ DE LA MÉDINA', potted cactus, ceramic vases, a lantern, and a colorful Berber rug draped over a stone wall.
 
-Background depicts the Medina skyline with terracotta buildings, palm trees, the Koutoubia Mosque minaret, market stalls with umbrellas, crowds, and the Atlas Mountains in the distance under a soft sky with birds. Bougainvillea flowers and vines frame the left side. 
+Background depicts the Medina skyline with terracotta buildings, palm trees, the Koutoubia Mosque minaret, market stalls with umbrellas, crowds, and the Atlas Mountains in the distance under a soft sky with birds. Bougainvillea flowers and vines frame the left side.
 
 Bottom center has a palm tree icon with text 'MOROCCO' and small decorative motifs. Soft watercolor style, warm earthy tones, nostalgic travel poster aesthetic, vertical 2:3 aspect ratio."
 ```
@@ -4401,18 +4401,18 @@ Creator: @hermes_agent_kr on Threads
 服装需要融入手绘水彩风，不要像照片硬贴上去。
 
 每个月人物动作不同：
-1 月：坐着捧热咖啡，冬日温暖感  
-2 月：托腮坐着，周围有爱心元素  
-3 月：低头写手账或笔记本  
-4 月：拿着复古相机  
-5 月：坐着看书，旁边有书堆和茶杯  
-6 月：休闲坐姿，旁边有相机和蓝色水彩装饰  
-7 月：坐在躺椅上喝冰饮，夏日感  
-8 月：坐在海边木栈道，远处有帆船  
-9 月：坐着写日记，旁边有背包和秋叶  
-10 月：喝咖啡，旁边有南瓜灯和万圣节元素  
-11 月：围着棕色围巾，手拿热咖啡，背景有城市街景  
-12 月：坐在圣诞树旁，手捧热饮，旁边有礼物盒  
+1 月：坐着捧热咖啡，冬日温暖感
+2 月：托腮坐着，周围有爱心元素
+3 月：低头写手账或笔记本
+4 月：拿着复古相机
+5 月：坐着看书，旁边有书堆和茶杯
+6 月：休闲坐姿，旁边有相机和蓝色水彩装饰
+7 月：坐在躺椅上喝冰饮，夏日感
+8 月：坐在海边木栈道，远处有帆船
+9 月：坐着写日记，旁边有背包和秋叶
+10 月：喝咖啡，旁边有南瓜灯和万圣节元素
+11 月：围着棕色围巾，手拿热咖啡，背景有城市街景
+12 月：坐在圣诞树旁，手捧热饮，旁边有礼物盒
 
 日历要求：
 年份必须是 2026。
@@ -4497,7 +4497,7 @@ GPT Image 2提示词分享👇
 ```
 一位成年东方幻想系女性角色，梦幻唯美 3D CG 高精度渲染风格，9:16 竖版构图，坐在一架黑色三角钢琴前安静弹奏钢琴。画面氛围像高级幻想电影海报，柔和、浪漫、空灵、精致。
 
-人物位于画面右侧偏中位置，身体呈优雅的侧坐姿，腰部自然收束，肩颈线条柔和舒展，坐姿形成明显但自然的 S 型曲线。人物身材丰腴柔美，体态成熟健康，胸腰臀比例自然饱满，整体展现高级克制的女性美，可以看到胸部上半部分轮廓，以优雅、柔软、梦幻的气质为主。 
+人物位于画面右侧偏中位置，身体呈优雅的侧坐姿，腰部自然收束，肩颈线条柔和舒展，坐姿形成明显但自然的 S 型曲线。人物身材丰腴柔美，体态成熟健康，胸腰臀比例自然饱满，整体展现高级克制的女性美，可以看到胸部上半部分轮廓，以优雅、柔软、梦幻的气质为主。
 
 她拥有精致柔和的东方幻想系五官，白皙通透的肌肤，肤质细腻，带有柔和的次表面散射光感。神情安静、温柔、专注，微微低头看向钢琴琴键，眼神沉静而梦幻。她拥有银白色到淡紫色渐变的超长柔顺发丝，头发自然垂落在肩背与胸前，发丝轻盈细腻，带有柔雾高光。耳侧佩戴一朵蓝色梦幻花朵发饰，点缀细小金色耳坠。
 
@@ -5009,7 +5009,7 @@ Use a bright city-adaptive palette based on [New York]: coastal cities use aqu
 ```
 3D photorealistic travel poster for Bangkok, vertical layout, bright sunny day with clear blue sky and soft clouds.
 
-Main focus: The word 'BANGKOK' formed from giant, ornate 3D letters standing on a waterfront. Each letter is designed like Thai architecture and decorated with gold, blue, pink, and green patterns, mosaic tiles, and temple details. 
+Main focus: The word 'BANGKOK' formed from giant, ornate 3D letters standing on a waterfront. Each letter is designed like Thai architecture and decorated with gold, blue, pink, and green patterns, mosaic tiles, and temple details.
 - 'B' contains a miniature golden Thai temple spire and blue floral mosaic
 - 'A' is shaped like a white and gold temple gateway with a small archway
 - 'N' has gold statues and green tilework
@@ -6479,11 +6479,11 @@ INPUT: [layered dish]
 
 SYSTEM: Render the input as a master-folded origami and paper-craft architectural sculpture. Do not hardcode paper types unless inevitable. Infer the fold-geometry logic, structural load-bearing creases, layer-separation mechanics, color-blocking strategy, and the tactile grain direction of the materials.
 
-SEMANTIC SOLVE: ORIGAMI_FOOD_AUTOPSY = 
-  (INFER(fold_geometry FROM mountain_valley_ratio + structural_crease_load + interlocking_tabs + negative_space_utilization) ::5) + 
-  (INFER(material_logic FROM paper_grain_direction + GSM_weight + surface_coating + edge_burnishing + adhesive_visibility) ::4) + 
-  (INFER(color_blocking FROM ingredient_color_mapping + contrast_hierarchy + gradient_paper_layering + visual_weight_distribution) ::4) + 
-  (INFER(hidden_craft FROM fold_sequence_complexity + tolerance_margins + tool_marks + humidity_warping_prevention) ::3) - 
+SEMANTIC SOLVE: ORIGAMI_FOOD_AUTOPSY =
+  (INFER(fold_geometry FROM mountain_valley_ratio + structural_crease_load + interlocking_tabs + negative_space_utilization) ::5) +
+  (INFER(material_logic FROM paper_grain_direction + GSM_weight + surface_coating + edge_burnishing + adhesive_visibility) ::4) +
+  (INFER(color_blocking FROM ingredient_color_mapping + contrast_hierarchy + gradient_paper_layering + visual_weight_distribution) ::4) +
+  (INFER(hidden_craft FROM fold_sequence_complexity + tolerance_margins + tool_marks + humidity_warping_prevention) ::3) -
   (messy torn paper + realistic food textures + digital 3D paper shaders + cluttered craft desk + childish simple folds) ::-4
 
 COMPOSITION: One central food item completely reconstructed as an intricate, multi-layered paper-craft sculpture. The "ingredients" are represented by distinct, beautifully colored paper layers, cut and folded with razor-sharp precision. Show the "exploded" floating layers hovering above the base, revealing the internal fold structure and interlocking tabs.
@@ -6684,7 +6684,7 @@ Use this tri-fold layout:
 
 - The subject should be in a relaxed, neutral stance.
 
-- Place these views over very subtle vertical and horizontal 
+- Place these views over very subtle vertical and horizontal
 ```
 
 ### Case 371: [Dopamine Burst 3D Poster](https://x.com/iamaiistudio/status/2064485010653225077) (by [@iamaiistudio](https://x.com/iamaiistudio))
@@ -7077,3 +7077,678 @@ Epic frontal cinematic shot of massive
 A highly realistic, premium 3D product mockup for a [INSERT BUSINESS TYPE HERE, e.g., modern clothing brand]. A sleek, modern smartphone is elegantly levitating at a dynamic angle in mid-air. Emerging seamlessly from the phone's screen is a continuous, wavy, physical ribbon of printed photos that elegantly flows and wraps around the device in a surreal, gravity-defying way. The photos on the flowing ribbon display stunning, high-quality images of [INSERT PRODUCT/SERVICE IMAGES HERE]. The background is a minimalist, warm beige and soft cream environment with a subtle, textured stone floor. The lighting consists of soft, diffused natural sunlight casting an elegant, diagonal window shadow on the back wall, adding depth. Cinematic lighting, shallow depth of field, ultra-photorealistic, 8k resolution, highly detailed, trendy minimal aesthetic, perfect for an engaging and viral social media post, featuring clean negative space at the top for typography.
 ```
 
+---
+### Case 382: Travel Food Postcard Template
+
+**Source**: [@Naiknelofar788](https://x.com/Naiknelofar788/status/2065241908327378969)
+
+**Output:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case382/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Travel Food Postcard Template"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case382/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Travel Food Postcard Template"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case382/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Travel Food Postcard Template"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case382/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Travel Food Postcard Template"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Create a hyper-realistic travel-food postcard scene.
+INPUTS:
+City: [CITY NAME]
+Local Delicacy: [LOCAL DELICACY]
+Background Location: [BACKGROUND LOCATION OR LANDMARK]
+SCENE:
+A real human hand is holding a vintage travel postcard in the foreground.
+Inside the postcard is a large, beautifully styled, ultra-realistic food photograph of [LOCAL DELICACY], captured like premium food advertising. The dish should appear larger than life, with rich textures, realistic details, appetizing presentation, natural lighting, subtle steam, shallow depth of field, and cinematic food photography.
+A single miniature traveler wearing a backpack sits naturally on the top edge of the postcard with legs dangling over the front. The traveler should be realistic, highly detailed, and positioned so they appear to be admiring the local delicacy. The miniature traveler acts as the emotional focal point and creates a strong sense of scale and wonder.
+Outside the postcard is the authentic destination environment of [BACKGROUND LOCATION OR LANDMARK] in [CITY NAME]. The background should feature recognizable local architecture, streets, scenery, cultural elements, landmarks, atmosphere, colors, and visual details unique to the destination.
+Include a rustic wooden directional signpost naturally integrated into the environment. The signpost must automatically generate four short destination-specific labels based on the city, culture, attractions, food scene, landmarks, neighborhoods, natural features, or travel experiences associated with the location.
+The generated signboards should feel authentic to the destination and enhance the travel storytelling.
+Composition hierarchy:
+Miniature traveler
+Local delicacy inside postcard
+Destination background
+Destination signpost
+Style: Hyper-realistic photography, luxury tourism campaign aesthetic, cinematic storytelling, authentic destination atmosphere, realistic hand, realistic miniature traveler, highly detailed food photography, natural golden-hour lighting, shallow depth of field, rich colors, editorial travel magazine quality, Instagram-worthy social media content, visual wow factor, vertical 4:5 aspect ratio, extremely detailed, premium commercial advertising.
+```
+
+---
+### Case 383: Satellite Terrain Letter Typography Map
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065224886734438454)
+
+**Output:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case383/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Satellite Terrain Letter Typography Map"></a> |
+
+**Prompt:**
+
+```
+Ultra-realistic overhead satellite view from orbit, a crisp modern editorial layout featuring 9 vertical panels arranged side by side on a white background, together spelling "MADPENCIL", each panel containing a single letter formed entirely from real Earth terrain and natural topography, no text overlays:
+
+Panel 1 (M): jagged mountain ridges and deep ravines composing a sharp angular "M", dramatic shadows, rocky surface
+Panel 2 (A): a meandering river through thick tropical forest shaping an "A", vivid contrast between water and canopy
+Panel 3 (D): vast desert sand dunes sculpted by wind into a smooth "D", warm earthy tones, gentle gradients
+Panel 4 (P): patchwork cropland and geometric farm fields arranged into a structured "P", clean grid patterns
+Panel 5 (E): glacial formations and ice sheets carving a crisp "E", pure whites and deep icy blues, cracked textures
+Panel 6 (N): a braided floodplain river system forming "N", branching channels and natural flow patterns
+Panel 7 (C): a curved coastline and ocean meeting point shaping "C", wave breaks and sediment visible
+Panel 8 (I): a narrow slot canyon or straight waterway forming a minimal "I", strong vertical line
+Panel 9 (L): volcanic landscape with hardened lava flows forming an "L", dark basalt with glowing lava accents
+
+straight-down satellite perspective, NASA Earth imagery aesthetic, hyper-detailed terrain, realistic geography, consistent lighting and scale across panels, minimal cloud cover, high contrast, sharp resolution, subtle atmospheric haze, true-color grading, ultra high resolution 8K, clean panel spacing, gallery-style composition, visually unified but each panel a distinct biome, letters legible yet organically merged with the landscape
+
+#AIart #GPTImage2
+```
+
+---
+### Case 384: Polish PRL Era Magazine Spread
+
+**Source**: [@Riccardo_Nero](https://x.com/Riccardo_Nero/status/2065193845222944844)
+
+**Output:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case384/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Polish PRL Era Magazine Spread"></a> |
+
+**Prompt:**
+
+```
+Create a full two-page spread from a fictional Polish color weekly magazine from the PRL era, late 1950s to early 1960s. The image should look like an authentic vintage printed magazine: yellowed paper, offset printing, halftone dots, slight ink misregistration, muted aged colors, retro Polish typography, visible center gutter, margins, page numbers, captions and column layout.
+Theme: a Syrena 105 proudly showcased in modern-day North Korea, presented as a satirical alternate-history Polish PRL magazine artifact.
+The spread must be clearly split into two pages.
+LEFT PAGE:
+A Polish illustrated magazine article about the official presentation of the Syrena 105 in Pyongyang. Show a large main photo of the Syrena 105 on a ceremonial platform or red carpet, surrounded by officials, spectators, North Korean flags, banners and monumental North Korean architecture.
+The car must clearly look like a classic Syrena 105: compact body, rounded Eastern Bloc styling, simple practical proportions, modest chrome trim, characteristic front fascia, small wheels, realistic Polish car design language, slightly heroic but still humble and utilitarian.
+Use a bold Polish headline:
+“SYRENA zza ŻELAZNEJ KURTYNY”
+Add a subheadline:
+“Sensacyjna prezentacja w Pjongjangu: polska legenda motoryzacji w niezwykłej odsłonie.”
+Add several columns of Polish-looking article text, a red drop cap, small captions, and one or two inset images showing the rear of the Syrena 105 and the interior. The page should feel like a serious but slightly absurd PRL-era illustrated report. Include a believable Polish magazine masthead similar to a 1960s illustrated weekly.
+RIGHT PAGE:
+A classic 1950s-1960s Polish print advertisement for the same Syrena 105. Show the car large, heroic and glamorous, in a polished three-quarter view, with a dramatic retro city background inspired by Pyongyang. Use bold vintage ad typography, decorative colored blocks, stars, slogans and product badges.
+Main ad headline:
+“Nowa SYRENA 105 — duma nowoczesnej motoryzacji!”
+Add smaller Polish advertising copy:
+“Niezawodny silnik”
+“Praktyczna i oszczędna”
+“Komfort i elegancja”
+“Solidność konstrukcji”
+“Przyjaźń narodów”
+Add a fictional manufacturer line:
+“FSO”
+“Fabryka Samochodów Osobowych, Warszawa-Żerań”
+“Produkt przyjaźni Polska — Korea”
+The right page should look cleaner and more aspirational than the article page, like a period car advertisement. The whole image should feel like a convincing satirical alternate-history artifact: Polish PRL magazine design, Syrena 105 automotive fantasy, North Korean ceremonial propaganda and vintage print realism.
+Make all visible Polish text as clean and readable as possible.
+```
+
+---
+### Case 385: FIFA World Cup 2026 Throne Poster
+
+**Source**: [@SaasJunctionHQ](https://x.com/SaasJunctionHQ/status/2065181941939531936)
+
+**Output:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case385/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup 2026 Throne Poster"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case385/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup 2026 Throne Poster"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case385/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup 2026 Throne Poster"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case385/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup 2026 Throne Poster"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+FIFA World Cup 2026 hero throne sports artwork. 🧵
+```
+
+---
+### Case 386: Country Stylized Travel Poster Collage
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065164435237613822)
+
+**Output:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case386/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Country Stylized Travel Poster Collage"></a> |
+
+**Prompt:**
+
+```
+Full prompt:
+
+Design a stylized travel poster / graphic collage featuring [ALGERIA]. The central figure is a fashionable international tourist in [ALGERIA], visually distinct as a visitor rather than a local. Show the tourist in modern travel attire, with accessories like a camera, backpack, sunglasses, map, or suitcase, immersed in the culture and vibe of [ALGERIA]. Arrange the tourist in a bold composition surrounded by iconic buildings, streets, scenery, landmarks, transport, cuisine, signage, and cultural details specific to [ALGERIA]. Combine realistic character rendering with a graphic collage background featuring layered paper textures, torn poster edges, sticker accents, halftone dots, editorial typography, and strong geometric shapes. Weave in authentic Algerian visual motifs while keeping the tourist's look globally stylish and clearly from abroad. Include a large, legible headline: "VISIT [ALGERIA]". Aim for a modern, artistic, premium editorial travel poster feel, with a balanced layout and a print-ready composition.
+
+#AIart #GPTImage2
+```
+
+---
+### Case 387: Risograph Zine Rainforest Infographic
+
+**Source**: [@92digitalartArt](https://x.com/92digitalartArt/status/2065135532875645242)
+
+**Output:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case387/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Risograph Zine Rainforest Infographic"></a> |
+
+**Prompt:**
+
+```
+A risograph zine print style infographic poster in 16:9 horizontal format exploring the biodiversity of tropical rainforests, designed to look exactly like an indie science zine printed with overlapping risograph ink layers; the entire composition should show the characteristic risograph printing imperfections: ink grain, slight misregistration between color layers, halftone dot patterns visible in midtones, and a tactile paper texture underneath everything; use a strict three-color risograph palette of fluorescent green, deep navy blue, and warm yellow, with rich overprinting where colors overlap creating unexpected secondary tones like teal where green meets blue and olive where green meets yellow; the main illustration fills the center: a lush vertical cross-section of a rainforest showing all four layers — emergent layer at the top with giant canopy trees and toucans, canopy layer with howler monkeys and orchids, understory with poison dart frogs and ferns, and forest floor with mushrooms, beetles, and anacondas — each layer labeled with a handwritten-style annotation in the risograph aesthetic; surrounding the central forest illustration, organize zine-style content panels with irregular hand-cut border aesthetics, including sections titled HOW MANY SPECIES?, THE WATER CYCLE, THREATS TO THE FOREST, and WHY FORESTS MATTER, each with small lo-fi icons and concise punchy text in a mix of bold grotesque sans-serif and typewriter-style fonts; include a dramatic zine-style header reading RAINFOREST: EARTH'S LUNGS in large stencil-style all-caps lettering; add a small DID YOU KNOW? box with three striking facts, and a bottom strip reading issue no. 7 — field guide series to make it feel like a real indie publication; the overall mood should feel urgent, indie, ecologically passionate, beautifully imperfect, and visually electric, high quality, aspect ratio 16:9
+```
+
+---
+### Case 388: World Cup National Team Fashion Poster
+
+**Source**: [@Just_sharon7](https://x.com/Just_sharon7/status/2065123619844333737)
+
+**Output:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case388/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - World Cup National Team Fashion Poster"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case388/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - World Cup National Team Fashion Poster"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Who's gonna win tonight? Are you team Mexico or team South Africa?
+
+GPT Image 2
+
+Prompt
+
+SOUTH AFRICA NATIONAL TEAM
+
+"NEW UNIFORM"
+
+FORMAT
+
+Ultra-Premium Football Fashion SMM Promotional Poster
+Vertical 4:5
+Instagram Hero Creative
+Global Sportswear Advertising
+Commercial Football Graphic Design
+Agency-Level Art Direction
+Behance Front Page Quality
+8K UHD
+Hyper-Realistic
+Football × Fashion × Graphic Design Fusion
+Zero AI Slop
+Zero Generic Sports Posters
+Zero Match-Day Graphics
+Zero Editorial-Only Aesthetic
+
+CORE STRATEGY
+
+This is not a football poster.
+
+This is a national identity statement disguised as a uniform campaign.
+
+The design should feel like South Africa's biggest football billboard, a luxury sportswear campaign, and a continental football legacy poster merged into one visual.
+
+The graphic design is equally important as the athlete.
+
+Typography is not decoration.
+
+Typography is architecture.
+
+CAMPAIGN IDEA
+
+"NEW UNIFORM"
+
+Not just a jersey.
+
+A symbol of unity.
+
+A symbol of resilience.
+
+A symbol worn by those who carry a nation's pride forward.
+
+The uniform isn't being sold.
+
+The identity is.
+
+MASTER VISUAL
+
+Massive oversized SOUTH AFRICA typography dominates the entire composition.
+
+The words:
+
+SOUTH AFRICA
+
+occupy nearly 75% of the canvas.
+
+Typography is integrated into the design.
+
+Letters extend beyond frame edges.
+
+Some letters cropped.
+
+Some hidden behind the player.
+
+Some functioning as compositional structures.
+
+The typography should feel monumental.
+
+The official federation crest appears subtly integrated into the layout.
+
+HERO SUBJECT
+
+Elite female footballer.
+
+Natural beauty.
+
+Confident expression.
+
+Minimal makeup.
+
+Champion mentality.
+
+No smiling.
+
+No dramatic celebration.
+
+Relaxed confidence.
+
+Wardrobe:
+
+South Africa 2026 home jersey.
+
+Golden yellow base.
+
+Green detailing.
+
+Black accents.
+
+Matching shorts.
+
+Premium football socks.
+
+Modern football styling.
+
+Clean elite-athlete aesthetic.
+
+POSE
+
+Player stepping through the giant typography.
+
+One foot slightly forward.
+
+Direct eye contact.
+
+Hands relaxed.
+
+Body partially intersecting typography.
+
+The feeling:
+
+She carries the spirit of champions effortlessly.
+
+COMPOSITION
+
+Typography occupies 70%.
+
+Player occupies 20%.
+
+Promotional elements occupy 10%.
+
+Visual hierarchy:
+
+SOUTH AFRICA
+↓
+Player
+↓
+Promotion
+↓
+CTA
+
+Everything feels intentional.
+
+COLOR SYSTEM
+
+Primary:
+
+South Africa Gold
+
+Deep Green
+
+White
+
+Silver
+
+Soft Grey
+
+Accent:
+
+Black Heritage Details
+
+Federation Crest Gold
+
+Subtle Flag-Inspired Color Accents
+
+No neon colors.
+
+No trend-chasing palettes.
+
+Timeless sporting elegance.
+
+BACKGROUND
+
+Clean premium sports backdrop.
+
+Large soft gradient.
+
+Minimal studio environment.
+
+Subtle premium texture.
+
+No stadium.
+
+No crowd.
+
+No scenery.
+
+The design itself creates the environment.
+
+GRAPHIC DESIGN SYSTEM
+
+Floating collection cards.
+
+Heritage-inspired labels.
+
+Minimal grid system.
+
+Thin lines.
+
+Micro typography.
+
+Premium global football campaign hierarchy.
+
+International flagship-store energy.
+
+PROMOTIONAL ELEMENTS
+
+NEW UNIFORM
+
+SOUTH AFRICA 2026
+
+READY FOR THE WORLD STAGE
+
+LIMITED RELEASE
+
+OFFICIAL COLLECTION
+
+MEMBERS EARLY ACCESS
+
+FREE SHIPPING
+
+Integrated naturally into layout.
+
+Not banner spam.
+
+TYPOGRAPHY HIERARCHY
+
+Top Left
+
+SOUTH AFRICA
+
+small premium wordmark
+
+Center Massive Typography
+
+S
+O
+U
+T
+H
+
+A
+F
+R
+I
+C
+A
+
+occupying most of composition
+
+bold heritage typography
+
+extremely large scale
+
+partially cropped
+
+Campaign Title
+
+NEW
+UNIFORM
+
+bold elegant typography
+
+Supporting Copy
+
+Designed for those who carry greatness forward.
+
+PROMOTIONAL CTA BLOCK
+
+SHOP NOW →
+
+Explore the Official South Africa Collection
+
+BOTTOM FEATURE STRIP
+
+OFFICIAL JERSEYS
+
+NATIONAL COLLECTION
+
+MATCH ESSENTIALS
+
+LIMITED RELEASE
+
+Bottom Right
+
+Starting From $89
+
+Bottom Center
+
+
+
+Vertical Edge Text
+
+SOUTH AFRICA 2026
+
+LIGHTING
+
+Luxury sports studio lighting.
+
+Large soft source.
+
+Editorial contrast.
+
+Natural skin rendering.
+
+Premium fabric highlights.
+```
+
+---
+### Case 389: FIFA World Cup Country Emblem Badge
+
+**Source**: [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2065121892550558018)
+
+**Output:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case389/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup Country Emblem Badge"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case389/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup Country Emblem Badge"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case389/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup Country Emblem Badge"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case389/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup Country Emblem Badge"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Create a FIFA World Cup 2026 country variant emblem in a bold, flat, typographic illustration style. Preserve the official FIFA World Cup 2026 stacked identity exactly: the digit “2” occupies the upper half and the digit “6” occupies the lower half, both center-aligned and forming one unified vertical portrait block, with the FIFA World Cup Trophy integrated through the center in the same arrangement as the official emblem. The numerals must be outline-only, never filled, rendered with thick bold strokes in a single color taken from the national flag palette of [COUNTRY NAME], with fully transparent interiors so the trophy remains visible.
+
+STRICTLY use a 9:16 vertical aspect ratio.
+
+Do not alter the composition, proportions, or visual hierarchy. The result must closely resemble the official stacked 26 emblem and maintain the same graphic balance seen in premium country adaptations.
+
+The FIFA World Cup Trophy must follow the real trophy silhouette exactly and remain instantly recognizable, with two human figures lifting a faceted globe, a twisting narrow body, and a flared banded base. Render it as a flat vector illustration with zero gradients, zero textures, and no painterly effects, resembling an enamel badge or screen-print poster.
+
+Divide the trophy into clean flat sections following its natural contours. The globe and raised figures should use the darkest color from the national flag palette, with the official football federation crest of [COUNTRY NAME] placed prominently on the globe face. Add one floating star for each FIFA World Cup title won by [COUNTRY NAME], positioned to the right of the globe and colored with a flag accent color. ([NUMBER OF WORLD CUP TITLES WON]). Countries with zero World Cup titles must have no stars and no winning years.
+
+The central body section should use a contrasting flag color and contain the country's FIFA World Cup winning years stacked vertically in large ultra-bold condensed numerals. If [COUNTRY NAME] has never won the FIFA World Cup, leave this section blank with no years. The lower neck and flared base should use the primary flag color, with “[COUNTRY NAME]” written in massive ultra-bold condensed capital letters naturally fitted to the tapering base shape.
+
+Use thick black outlines throughout to separate every section and define the entire trophy silhouette. Maintain a highly graphic, iconic, and immediately country-identifiable appearance. Use a pure black background with no gradients or textures. The final result should feel exactly like a premium enamel pin, screen-print poster, or modern sports identity mark while preserving the official FIFA World Cup 2026 stacked emblem structure and central trophy integration, with no unnecessary stylistic deviations and no changes to the established layout.
+```
+
+---
+### Case 390: Double Exposure Art Director Poster
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065088795494773094)
+
+**Output:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case390/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Double Exposure Art Director Poster"></a> |
+
+**Prompt:**
+
+```
+prompt:
+
+[PERSONE]. Act as a Senior Art Director.
+
+PHASE 1: PHOTOGRAPHIC COMPOSITION.
+
+- Layered Effect: Double exposure photo collage. Sharp action shot in the foreground; massive monumental silhouette in the background.
+
+- Overlap: The subject blends seamlessly with the background graphic elements.
+
+PHASE 2: CONTEXTUAL VIBE.
+
+- Identity Analysis: Automatically detect the core industry of [PERSONE] (Sport, Music, Cinema, or Business).
+
+- Pose and Props tailored to match their identity.
+
+PHASE 3: DYNAMIC BRAND COLORS.
+
+- Primary Color: Identify the most iconic color tied to [PERSONE] or their team or brand. Apply to the background, halftone textures, and smoke effects.
+
+- Accent Color: Choose a high-contrast vibrant secondary hue (neon, gold, or electric white) for the radial burst rays.
+
+- Visual Texture: Heavy film grain and halftone dots in the shadow areas of the photos.
+
+PHASE 4: GRAPHIC ACCENTS.
+
+- Geometry: Bold radial rays bursting from the center. Fluid wave-like organic shapes at the base.
+
+- Birds: Minimal black bird silhouettes for scale and depth.
+
+PHASE 5: BRANDING AND TEXT.
+
+- Tagline: A powerful one- or two-word slogan that captures [PERSONE]'s legacy.
+
+- Logo: Minimalist industry-appropriate logo in the bottom corner.
+
+- Typography: Bold, high-impact sans-serif.
+
+TECHNICAL FINISH:
+
+- Quality: 8K resolution, authentic commercial photography style (not an illustration).
+
+- Lighting: Extreme studio rim lighting to separate the photographic subjects from the graphic layers.
+
+#AIart #GPTImage2
+```
+
+---
+### Case 391: Pixar 3D Kebab Maker Storyboard Poster
+
+**Source**: [@TechieBySA](https://x.com/TechieBySA/status/2065069836045033908)
+
+**Output:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case391/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar 3D Kebab Maker Storyboard Poster"></a> |
+
+**Prompt:**
+
+```
+“Create a crisp, clean infographic storyboard poster for THE KEBAB MAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — deep caramelized meat browns, vivid red tomatoes, fresh green lettuce, white garlic sauce, golden warm flatbread, warm Istanbul street light.
+
+Top header
+
+•THE KEBAB MAKER
+•TOTAL VIDEO TIME: 12 SECONDS
+•8 SHOTS · BOLD · SIZZLING · STRAIGHT FROM ISTANBUL
+•Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT
+
+Same Pixar-style middle-aged Turkish male kebab maker throughout — thick dark mustache, white t-shirt, red and white striped apron, small outdoor Istanbul kebab street stand, vertical doner spit glowing and rotating behind him, warm golden light, busy Turkish street with Galata Tower softly visible in background. Skilled, fast, proud.
+
+8 panels:
+
+Panel 1 — THE OPENER: Wide shot. Kebab maker stands behind his outdoor street stand, busy Istanbul street behind him, Galata Tower softly visible in warm afternoon light. Vertical doner spit rotating and glistening behind him. He slaps both hands on the counter and grins at the camera. The spit is already turning. You know exactly what’s coming.
+
+Panel 2 — THE BREAD: Close-up. Kebab maker opens a warm flatbread with both hands — the bread splitting open softly, steam rising from inside, soft and pillowy interior revealed. Warm golden bread catching the afternoon light. The base of everything. Anticipation building.
+
+Panel 3 — THE SPIT: Dramatic close-up. The vertical doner spit filling the entire frame — towering stack of layered marinated meat rotating slowly, outside layer deeply caramelized and glistening, heat element glowing orange behind it, steam rising. The most iconic kebab visual in the world.
+
+Panel 4 — THE SHAVE INTO BREAD: Hero craft frame. Wide medium with character visible. Kebab maker holds the open flatbread in one hand positioned directly below the spit, long knife in the other shaving meat in one confident downward stroke — thin caramelized strips falling directly into the open bread below. Meat, knife, bread and spit all in one frame. The most dynamic panel in the series.
+
+Panel 5 — THE SUMAC: Extreme close-up. Kebab maker’s hand sprinkling deep red sumac powder generously over the shaved meat — the vivid crimson powder catching the warm afternoon light as it falls, dusting every piece of meat. Deep red against deep brown. The most authentically Turkish panel in the series. The insider detail that makes Turkish viewers feel seen and everyone else curious.
+
+Panel 6 — THE SAUCE: Close-up hero shot. Thick white garlic sauce poured in a generous arc over the filling — cascading over the meat and vegetables. Then a zigzag of vivid red chili sauce over the top. White and red against deep brown meat. The most appetizing panel.
+
+Panel 7 — THE WRAP: Close-up dramatic. Both hands wrapping the flatbread tight and fast — filling bulging slightly at the ends, foil paper wrapped around the bottom. One confident twist. Done. The payoff of all the craft.
+
+Panel 8 — THE BITE: Wide warm shot. Customer standing on the Istanbul street takes the wrapped kebab, takes a massive first bite — filling visible at the end, sauce on their lip, eyes closing in pure street food satisfaction. Kebab maker watching from behind the stand, arms crossed, deeply proud. Istanbul street and Galata Tower glowing warmly behind them both.
+
+Footer:
+
+•VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. Spit to first bite.
+•CAMERA TIPS: wide on the Istanbul opener, close-up on the bread opening with steam, dramatic close-up on the spit, wide medium hero on the shave into bread, extreme close-up on the sumac dusting, close-up hero for the sauce, close-up dramatic for the wrap, wide warm for the Istanbul street bite
+•LIGHT & STYLE: warm Istanbul afternoon light, deep caramelized meat browns, vivid red sumac, white garlic sauce, red chili sauce, golden flatbread, red”
+```
+
+---
+### Case 392: BMX Rider Streetwear Mixed-Media Collage
+
+**Source**: [@omnitrix204](https://x.com/omnitrix204/status/2065069786753872120)
+
+**Output:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case392/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - BMX Rider Streetwear Mixed-Media Collage"></a> |
+
+**Prompt:**
+
+```
+Ultra-creative streetwear collage poster featuring a tattooed BMX rider and urban lifestyle athlete. Multiple cutout photographs arranged in a layered mixed-media composition. One large back-facing portrait wearing an oversized black graphic t-shirt and cap dominates the center. A second portrait faces the camera while lifting his shirt over part of his face, revealing intense eyes and tattooed arms.
+A dynamic BMX action shot performing a trick is positioned in the foreground. Torn paper edges, ripped poster textures, magazine cutouts, handwritten signatures, stickers, stamps, urban symbols, architectural photography, and layered graphic elements create a premium street culture aesthetic.
+Predominantly black-and-white photography with selective electric blue accents. Crumpled paper background texture, photocopy effects, editorial typography, distressed print details, urban skate and BMX culture influences. Contemporary streetwear advertising campaign, zine-inspired layout, high-fashion graphic design, raw underground energy.
+Highly detailed collage artwork, premium poster composition, monochrome photography, torn paper effects, streetwear branding aesthetic, fashion editorial design, modern youth culture visuals, 8K resolution.
+Style Keywords: BMX culture, streetwear collage, monochrome poster, ripped paper design, urban editorial, grunge graphic design, fashion zine, underground culture, mixed media artwork.
+```
+
+---
+### Case 393: Luxury Historical Civilization Strategy Card
+
+**Source**: [@Gdgtify](https://x.com/Gdgtify/status/2065057210426900515)
+
+**Output:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case393/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Historical Civilization Strategy Card"></a> |
+
+**Prompt:**
+
+```
+SYSTEM: Render the input as a luxury historical civilization stratigraphy poster. Do not hardcode dates unless inevitable. Infer the territorial expansion phases, economic foundation pillars, military innovation cycles, cultural assimilation patterns, and the geological layers of decline.  SEMANTIC SOLVE: EMPIRE_AUTOPSY =    (INFER(territorial_architecture FROM founding_core + expansion_vectors + frontier_fortifications + trade_route_control + vassal_networks) ::5) +    (INFER(economic_pillars FROM agricultural_base + mineral_resources + taxation_system + currency_standard + labor_organization) ::4) +    (INFER(military_innovation FROM weapon_technology + tactical_doctrine + logistics_chain + fortification_engineering + naval_capacity) ::4) +    (INFER(decline_mechanics FROM succession_crises + economic_inflation + frontier_pressure + internal_rebellion + environmental_stress) ::3) -    (generic timeline infographics + cartoon maps + cluttered textbook layouts + stock-photo ruins + cheap educational posters) ::-4  COMPOSITION: One central empire visualized as a multi-layered archaeological cross-section. The bottom layer shows the founding settlement, middle layers reveal territorial expansion through colored strata, and the top layer displays the fragmentation pattern. Surrounding the core are floating callouts showing key battles, economic indicators, and dynastic transitions mapped as physical artifacts. Use callout lines like an archaeological dig site report crossed with a military campaign map.  STYLE DNA: Ancient Roman Tabula Peutingeriana ::0.30 archaeological stratigraphy diagram ::0.25 vintage military campaign map ::0.20 museum exhibit infographic ::0.15 aged parchment with stain texture ::0.10  OUTPUT: Warm sepia or deep terracotta background luxury history poster, elegant classical serif + handwritten annotation typography, restrained callouts, hyper-realistic map textures, refined aging effects, premium negative space.  NEGATIVE: no holograms, no glowing elements, no VR/AR overlays, no modern digital maps, no cartoon illustrations, no cluttered timelines, no stock-photo emperors, no watermark, no anachronistic elements.
+```

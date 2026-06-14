@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![806 Curated Prompts](https://img.shields.io/badge/Prompts-806_Curated_Cases-111111)](README.md)
+[![848 Curated Prompts](https://img.shields.io/badge/Prompts-848_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -41,7 +41,7 @@
 
 Welcome to the **Awesome GPT Image 2 API and Prompts** repository! 🤗
 
-A curated collection of **775+ high-quality GPT-Image-2 prompts**, API usage patterns, and reusable visual workflows for AI image generation.
+A curated collection of **848+ high-quality GPT-Image-2 prompts**, API usage patterns, and reusable visual workflows for AI image generation.
 
 Whether you're looking for GPT-Image-2 prompt examples, text-to-image best practices, image editing techniques, or ready-to-use prompt templates — this is your one-stop reference.
 
@@ -77,6 +77,8 @@ Works with OpenAI's standard API format (`/v1/images/generations`)
 > Learn more about using the API in the Use GPT Image 2 API section below.
 
 ## 📰 Novedades
+
+**June 12, 2026:** Added 42 new GPT-Image-2 prompt cases (19 portrait, 12 poster, 4 ad-creative, 4 character, 2 comparison, 1 ecommerce) from daily curation batch after approval and media validation; 2 approved candidates were skipped because the tweet lookup returned no usable media
 
 **10 de junio de 2026:** Se añadieron 31 nuevos casos de prompts GPT-Image-2 (9 retratos, 21 carteles, 1 comparación) del lote de curaduría diaria tras revisión y validación de medios
 
@@ -247,7 +249,7 @@ Full prompt:
 **Prompt:**
 
 ```
-Full prompt: 
+Full prompt:
 
 Ancient Chinese palace perfume advertisement inspired by the legendary dancer Zhao Feiyan. A bronze bottle with gold-inlaid twisting lotus vines. Mysterious, cold, and haunting imperial harem atmosphere. Vertical portrait format, 9:16 ratio.
 ```
@@ -348,6 +350,41 @@ Avoid repeated concepts, repeated props, repeated backgrounds, flat lighting, we
 ```
 A high-performance running shoe transformed into a miniature brand universe. The shoe is the hero character, surrounded by floating speed trails, miniature running tracks, energetic mascot companions, stopwatch icons, clouds, and dynamic sports-inspired elements. Oversized bold typography integrated into the scene. Clean commercial 3D rendering, pastel orange, white, and gray color palette derived from the product, premium packaging aesthetics, soft gloss, graphic backgrounds, floating platforms, collectible toy-like charm. Modern consumer branding, cute yet premium, highly shareable social-media campaign visual, rich detail, centered composition, studio quality.
 ```
+
+<!-- Case 172: Romantic Smartphone Couple Scene Product Shot (by @hmontilla_) -->
+### Case 172: [Romantic Smartphone Couple Scene Product Shot](https://x.com/hmontilla_/status/2065072437398589669) (by [@hmontilla_](https://x.com/hmontilla_))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ecommerce_case172/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Romantic Smartphone Couple Scene Product Shot"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ecommerce_case172/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Romantic Smartphone Couple Scene Product Shot"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ecommerce_case172/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Romantic Smartphone Couple Scene Product Shot"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Create a cozy cinematic romantic scene featuring two black smartphones standing vertically on a rustic wooden table, positioned side by side and slightly angled inward. Each phone displays a video call.
+
+On the left phone screen, show a smiling young woman with long brown hair, light skin, wearing a cream knitted sweater and a beige winter beanie with a pom-pom. She is looking warmly toward the other phone while raising her hand to form one half of a heart shape.
+
+On the right phone screen, show a smiling young man with light skin, subtle facial hair, wearing a gray winter beanie and a denim jacket with a soft shearling collar. He is looking toward the woman while raising his hand to form the other half of the heart shape.
+
+The hands from both screens should visually meet in the center between the two phones, creating a perfect heart shape, symbolizing long-distance love and connection.
+
+Set the scene in a warm indoor room during golden hour, with a large softly blurred window in the background, subtle potted plants, a cozy coffee mug, soft knitted fabric, floating dust particles, and warm cinematic bokeh lights. Use shallow depth of field, realistic glass reflections, soft rim lighting, warm amber highlights, and natural wooden table textures.
+
+Include minimal video-call UI elements on each phone screen: small video camera icon, green call button, microphone icon, and a subtle white home indicator bar. Keep the UI clean, modern, and realistic.
+
+Style and quality:
+
+Ultra-realistic cinematic digital art, premium lifestyle photography aesthetic, cozy winter romance mood, warm golden-hour sunlight, soft atmospheric haze, realistic skin texture, realistic knit fabric, detailed phone reflections, elegant composition, sharp focus on phones and faces, dreamy romantic bokeh, high-end editorial visual quality.
+
+Aspect ratio: 1:1 square composition.
+
+Negative prompt:
+
+Distorted hands, extra fingers, broken anatomy, duplicated limbs, unrealistic reflections, blurry faces, messy composition, unreadable UI, fake lighting, harsh shadows, low resolution, overexposed highlights, warped phones, text errors, AI artifacts, plastic skin, unnatural facial expressions.
+```
+
 
 ## 📣 Ad Creative Cases
 
@@ -584,6 +621,110 @@ STEP 5: GRAPHIC OVERLAY
 Left-aligned composition:
 - Large, clean white [BRAND NAME] logo placed in the negative space on the left.
 - Beneath the logo, small white text with the brand's official tagline.
+```
+
+
+<!-- Case 184: Adidas Futuristic Drop Ad Poster 9:16 (by @iamaiistudio) -->
+### Case 184: [Adidas Futuristic Drop Ad Poster 9:16](https://x.com/iamaiistudio/status/2065133774413906004) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case184/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Adidas Futuristic Drop Ad Poster 9:16"></a> |
+
+**Prompt:**
+
+```
+Full prompt:
+
+Design a striking premium vertical advertising poster (9:16 format) for a fictional ultra-limited Adidas sneaker called "ADIDAS AEROBLADE X - LIMITED DROP". The creative direction should feel like a world-class agency campaign — original, futuristic, visually explosive.
+
+Main visual:
+A single hero sneaker floating center-frame, captured at a dramatic low angle as if levitating above a dark obsidian running track split by glowing energy cracks. The shoe combines knit mesh, sculpted foam, translucent panels, reflective stripes, and a carbon-fiber sole plate. Neon light trails swirl around it like captured speed. Particles and mist add motion and intensity. Background features faint silhouettes of elite sprinters frozen mid-dash, blurred enough to keep focus on the shoe.
+
+Color palette:
+Matte black, electric red, silver, deep charcoal, with subtle neon blue highlights.
+
+Typography and copy (sharp, clean, strong visual hierarchy):
+Main headline: "OWN THE SPEED"
+Product title: "ADIDAS AEROBLADE X"
+Subheadline: "Built for the ones who never run ordinary."
+Feature callouts in elegant boxed layout:
+- "Featherlight Adaptive Knit Upper"
+- "Carbon Energy Return Plate"
+- "Precision Grip Traction"
+- "Limited Collector Release"
+Price: "$280"
+Primary CTA: "DROP LIVE NOW"
+Secondary CTA: "Only at
+Footer text: "Performance innovation meets futuristic street identity."
+
+Layout:
+Bold oversized headline partially integrated into background. Product name near shoe in refined premium placement. Feature callouts stacked vertically along one side. Add a "LIMITED SERIES" badge. The composition blends luxury sports campaign with futuristic editorial design.
+
+Style: Ultra-detailed hyper-realistic product photography, cinematic studio lighting, premium advertising aesthetics, sharp focus, rich textures, subtle atmosphere, dynamic motion energy, high-end commercial poster feel. Aspect ratio 9:16.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 185: Luxury Linen Texture Editorial Poster (by @ZephyraLeigh) -->
+### Case 185: [Luxury Linen Texture Editorial Poster](https://x.com/ZephyraLeigh/status/2065123985713700925) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case185/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Luxury Linen Texture Editorial Poster"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case185/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Luxury Linen Texture Editorial Poster"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+GPT Image 2 on ChatGPT 🪄
+
+PROMPT ⬇
+
+A photorealistic luxury editorial poster, 3:4 portrait ratio. Full frame covered in premium off-white Italian linen paper wall texture — warm ivory tone, subtle grain, ultra-tactile surface. Center of wall features a large precision-carved football-shaped archway with deep architectural relief — visible carved edges, realistic inner shadow depth, sculptural beveled detailing, premium craftsmanship aesthetic.
+Inside the carved football frame: cinematic stadium atmosphere — deep blue and white luxury smoke trails drifting elegantly, gold and silver championship confetti cascading, white orchid and rose floral arrangements with dark green foliage accents, premium celebration balloons in royal blue and pearl white, championship trophy silhouettes subtly embedded in background haze. Atmosphere: elite sports gala, UEFA Champions League victory night energy.
+
+Subject: Cristiano Ronaldo, full figure, standing powerfully inside the carved frame. Wearing Portugal's premium crimson and green national kit — authentic jersey fabric with realistic textile folds, fitted athletic shorts, premium Adidas/Nike high-performance football boots. Iconic athletic build — broad shoulders, defined physique, elite footballer anatomy. Signature confident expression — sharp jaw, focused dark eyes, short textured dark hair, photorealistic skin texture with natural pore detail.
+
+Championship celebration pose — chest slightly forward, chin raised, one hand slightly relaxed, football resting precisely at his right boot.
+
+3D Breakout Effect: Face, right shoulder, right arm below elbow, and right football boot extend realistically beyond the carved frame boundary onto the wall surface — casting soft natural drop shadows onto the paper texture. Depth of field creates believable dimensional layering.
+Lighting: Premium stadium tungsten lighting blended with warm golden-hour cinematic sunlight entering from the upper left. Soft white rim light wrapping around shoulders and jawline. Subtle fill light on the wall from the right. No harsh overexposure, no fake neon — only warm, editorial luxury light grading.
+
+Wall Typography — Clean Minimalist Luxury Layout:
+
+CRISTIANO RONALDO — large, bold, high-end serif font (Didot or Bodoni style), embossed gold foil effect, positioned above the carved frame
+
+CHAPTER 41 — medium weight elegant tracking, warm bronze metallic tone, centered below the name
+
+365 MORE DAYS OF GREATNESS — refined thin uppercase sans-serif, spaced wide, cream-gold color, placed below Chapter line
+Technical: Ultra-photorealistic rendering, 8K detail sharpness, professional commercial sports photography quality, luxury magazine cover art direction, natural color grading — warm ivory + deep blue + gold palette, authentic shadow physics, zero AI artifacts, correct human anatomy, no extra limbs, no tree shadows, no distorted proportions, award-winning editorial masterpiece quality.
+```
+
+<!-- Case 186: Luxury Watch Dramatic Beam Product Shot (by @meng_dagg695) -->
+### Case 186: [Luxury Watch Dramatic Beam Product Shot](https://x.com/meng_dagg695/status/2065078841765458040) (by [@meng_dagg695](https://x.com/meng_dagg695))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case186/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Watch Dramatic Beam Product Shot"></a> |
+
+**Prompt:**
+
+```
+A luxury watch emerges from darkness. Extreme macro shot of ticking gears and moving hands. Golden sparks and floating particles surround the watch. The camera circles the timepiece while dramatic light streaks reflect across the sapphire crystal. Slow-motion water splash freezes in midair around the watch. Mechanical components assemble themselves automatically. Cinematic black-and-gold environment, premium commercial lighting, ultra-realistic reflections, luxury lifestyle advertisement, powerful orchestral atmosphere, smooth camera motion, product hero shot, brand reveal, Hollywood-level commercial, 8K photorealism.
+```
+
+<!-- Case 187: 可口可乐百事雪碧品牌 KV 对比 (by @liyue_ai) -->
+### Case 187: [可口可乐百事雪碧品牌 KV 对比](https://x.com/liyue_ai/status/2065039304175538382) (by [@liyue_ai](https://x.com/liyue_ai))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case187/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 可口可乐百事雪碧品牌 KV 对比"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case187/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 可口可乐百事雪碧品牌 KV 对比"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case187/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 可口可乐百事雪碧品牌 KV 对比"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+品牌 KV 海报系列。使用统一提示词框架，针对不同饮料品牌调整视觉情绪色彩：可口可乐 → 热烈红色聚会感；百事可乐 → 年轻蓝色潮流感；雪碧 → 清爽绿色柠檬感。同一结构展现不同品牌 DNA。3 张对比输出。
 ```
 
 
@@ -914,7 +1055,7 @@ Stylized 3D designer-toy portrait, centered symmetrical close-up composition, ma
 
 ```
 Ultra-realistic cozy bedroom portrait of the same beautiful Korean girl from the previous images, maintaining identical facial appearance, silky long black hair, glossy eyes, soft blush makeup, youthful Korean beauty aesthetic, and realistic skin texture consistency.
-She is lying comfortably on her stomach across a soft cream-colored bed in her cozy bedroom at night, posing playfully toward the camera with a gentle relaxed smile. Her legs are bent upward behind her while resting her chin softly 
+She is lying comfortably on her stomach across a soft cream-colored bed in her cozy bedroom at night, posing playfully toward the camera with a gentle relaxed smile. Her legs are bent upward behind her while resting her chin softly
 ```
 
 <!-- Case 133: Anime Brand Campaign Portrait (by @ChillaiKalan__) -->
@@ -969,7 +1110,7 @@ Create a premium summer campus lifestyle Tesla poster focused mainly on an adult
 Use case: identity-preserve style-transfer
 Asset type: vertical photorealistic action portrait for social post
 Primary request: create a dynamic bubble-tea shop action portrait using the uploaded portrait photo as the appearance reference for the person.
-Scene/backdrop: a bright modern bubble-tea counter interior with stainless steel panels, glass display edges, overhead circular lights, drink-making equipment, and a dramatic low-angle view from near the floor. Pink strawberry milk tea splashes 
+Scene/backdrop: a bright modern bubble-tea counter interior with stainless steel panels, glass display edges, overhead circular lights, drink-making equipment, and a dramatic low-angle view from near the floor. Pink strawberry milk tea splashes
 ```
 
 <!-- Case 137: Night Outdoor Portrait (by @chatgptpaglu) -->
@@ -1208,7 +1349,7 @@ STYLE NOTES: Pixar 3D vivid rendering. Clean white background on both character 
 **Prompt:**
 
 ```
-👇 
+👇
 
 ultra realistic surreal beauty editorial portrait, matcha goddess aesthetic, ethereal asian woman with glossy dewy skin, face covered in dripping liquid matcha cream, surreal cosmetic food fusion, floating matcha cubes, matcha powder particles, green tea mousse textures, edible haute couture, cinematic luxury skincare campaign, dreamy fantasy atmosphere, glowing olive green tones, wet reflective skin, delicate floral accents, suspended droplets, gold flakes, soft volumetric lighting, macro beauty photography, shallow depth of field, highly detailed skin texture, elegant feminine pose, luxury fashion editorial, surreal dessert inspired composition, artistic liquid dynamics, photorealistic, cinematic bokeh background, ultra detailed, 8k, soft glow, clean composition, no text, no logo, no product packaging, vertical 9:16
 ```
@@ -1249,11 +1390,11 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 ```
 生成一张 9:16 竖版写实感人物照片，参考高级手机自拍质感，但不要完全普通生活照。整体像是用 iPhone 前置摄像头在温馨卧室中拍摄的精致自拍，保留柔和美型、干净构图和自然高级感。画质为真实手机照片质感，有轻微噪点、轻微柔焦和自然光感，但人物依然精致、漂亮、肤质自然干净，不要变成粗糙低质照片。
 
-画面中是一位成年东方女性，坐在温馨卧室床上，上半身近景自拍构图，镜头略微从上方俯拍，人物位于画面中央偏右，头部微微低下，视线安静看向右下方，表情自然、平静、温柔，嘴唇自然闭合，整体气质柔和、成熟、安静。 
+画面中是一位成年东方女性，坐在温馨卧室床上，上半身近景自拍构图，镜头略微从上方俯拍，人物位于画面中央偏右，头部微微低下，视线安静看向右下方，表情自然、平静、温柔，嘴唇自然闭合，整体气质柔和、成熟、安静。
 
 人物拥有浅蓝色或冰蓝色长发，发丝自然蓬松，有轻微凌乱感，部分头发垂落在脸侧和肩颈周围。人物保持精致写实美型，脸型柔和自然，五官清秀，皮肤白皙但不过度磨皮，可保留少量真实肤质纹理、细小毛孔、轻微肤色不均和几处很淡的小黑痣，但整体仍然干净、柔和、好看。不要明显暗沉，不要粗糙脏感。
 
-人物身材丰腴，肩颈线条柔和，胸部饱满，不卡通化。服装为浅蓝色丝缎吊带睡裙，带白色蕾丝花边，胸前有简洁小蝴蝶结和自然褶皱，布料柔软贴合身体，呈现真实丝缎材质光泽。人物一只手自然轻轻拉住肩带或肩部附近衣料，手指数量正常，姿态自然。 
+人物身材丰腴，肩颈线条柔和，胸部饱满，不卡通化。服装为浅蓝色丝缎吊带睡裙，带白色蕾丝花边，胸前有简洁小蝴蝶结和自然褶皱，布料柔软贴合身体，呈现真实丝缎材质光泽。人物一只手自然轻轻拉住肩带或肩部附近衣料，手指数量正常，姿态自然。
 
 背景为温馨卧室，有床铺、浅色床品、木质床头柜、暖黄色床头灯、窗帘和柔和室内光。背景轻微虚化，保留真实居家空间感。光线为室内暖光与自然光混合，略微偏暖，画面柔和、亲密、生活化，但保持干净高级。
 
@@ -2091,7 +2232,7 @@ Pinterest aesthetic, Instagram nightlife photography, candid fashion editorial, 
 **Prompt:**
 
 ```
-The generated image uses the uploaded image as a reference for the character, wearing a high-necked, tight-fitting black long-sleeved dress. A cluster of withered wood and orange-pink flowers lies beside an old newsstand, the grainy texture of vintage film interwoven, the blurred background with noticeable trailing shadows, and the double-image effect creating a fantastical atmosphere. A bewitchingly beautiful girl, carrying flowers, is shown in profile, her fair skin delicate and translucent. 
+The generated image uses the uploaded image as a reference for the character, wearing a high-necked, tight-fitting black long-sleeved dress. A cluster of withered wood and orange-pink flowers lies beside an old newsstand, the grainy texture of vintage film interwoven, the blurred background with noticeable trailing shadows, and the double-image effect creating a fantastical atmosphere. A bewitchingly beautiful girl, carrying flowers, is shown in profile, her fair skin delicate and translucent.
 
 Her exquisite face is blurred with motion, the outline of her figure slightly swaying with the panning camera, the soft focus making the image even more hazy and languid. A warm-toned, low-saturation filter enhances the effect, her long, backlit hair glowing with a soft glow, the messy strands sweeping wildly across her jawline, the details concealing a captivating yet dangerous allure.Cute movements add dynamism, the motion blur blending with the film grain, creating a trendy, Instagram-worthy image while the blurred image outlines a dynamic scene full of story, cleverly balancing bewitching and sweetness.
 Follow : @AiwithZohaib
@@ -2207,11 +2348,11 @@ Negative prompt:
 **Prompt:**
 
 ```
-Edit foto wanita tersebut menjadi potret High Angle Sinematik dari seorang wanita muda yang cantik dari sudut pandang belakang. Fokus utamanya adalah pada bahu, lengan, dan sebagian wajahnya yang menghadap ke samping dengan ekspresi tenang. Riasan flawess natural eye shadow semi peach-brown lembut, bulu mata lentik, blush on tipis peach lembut dengan lisptik glossy peach lembut, rambut lurusnya tersanggul keatas agak longgar sedikit ada helaian rambut samping kanan-kirinya membingkai wajahnya. Ia mengenakan atasan sweater rajut dengan model sabrina berwarna cokelat muda. Tekstur kulitnya terlihat sangat halus di bawah siraman cahaya matahari yang terfilter. Latar belakang di outdoor buram (bokeh). Wajahnya menoleh ke samping melihat ke sikataran dengan ekspresi tenang dan sendu. 
+Edit foto wanita tersebut menjadi potret High Angle Sinematik dari seorang wanita muda yang cantik dari sudut pandang belakang. Fokus utamanya adalah pada bahu, lengan, dan sebagian wajahnya yang menghadap ke samping dengan ekspresi tenang. Riasan flawess natural eye shadow semi peach-brown lembut, bulu mata lentik, blush on tipis peach lembut dengan lisptik glossy peach lembut, rambut lurusnya tersanggul keatas agak longgar sedikit ada helaian rambut samping kanan-kirinya membingkai wajahnya. Ia mengenakan atasan sweater rajut dengan model sabrina berwarna cokelat muda. Tekstur kulitnya terlihat sangat halus di bawah siraman cahaya matahari yang terfilter. Latar belakang di outdoor buram (bokeh). Wajahnya menoleh ke samping melihat ke sikataran dengan ekspresi tenang dan sendu.
 
 Pencahayaan dan Warna :
 Foto ini menggunakan teknik pencahayaan yang kontras (terang-gelap). Cahaya matahari jatuh di bagian bahu dan wajahnya, sementara bagian lainnya tenggelam dalam bayangan. Terdapat bayangan siluet dedaunan atau ranting yang jatuh di punggung dan wajah wanita tersebut, memberikan kesan ia berada di bawah pohon saat matahari mulai terbenam (golden hour).
-Palet Warna: Didominasi oleh warna-warna hangat seperti oranye, golden hour, cokelat yang dikontraskan dengan latar belakang yang redup. 
+Palet Warna: Didominasi oleh warna-warna hangat seperti oranye, golden hour, cokelat yang dikontraskan dengan latar belakang yang redup.
 
 Komposisi dan Estetika
 Depth of Field: Latar belakangnya sangat buram (bokeh), membuat subjek wanita menonjol. Kesan yang ditampilkan adalah kelembutan, ketenangan. Foto ini tidak terasa seperti foto potret biasa, melainkan lebih seperti potongan adegan dari sebuah film drama puitis.
@@ -2406,6 +2547,402 @@ A full shot of a man sitting on a white chair with his legs crossed, wearing a d
 몸에 부드럽게 밀착되는 정갈하고 심플한 화이트 반소매 라운드넥 티셔츠를 입고 있습니다. 머리카락은 바람을 맞아 자연스럽게 볼륨감이 살아서 얼굴 주변으로 흩날리고 있습니다. 실버 금속 테에 은은한 보랏빛이 도는 반투명 렌즈의 스퀘어 선글라스를 착용했으며, 촉촉한 연분홍색 립글로스를 바른 내추럴하고 깨끗한 메이크업입니다.
 
 인물에 대한 직접 조명은 전혀 없으며 에펠탑 아래에서 은은하게 자연광이 있을 뿐입니다. 바닥에서 하늘을 수직에 가깝게 올려다보는 극단적인 로우 앵글(웜즈 아이 뷰)로 촬영되었습니다. 화면 전체를 거대하게 감싸며 가로지르는 파리 에펠탑의 정교하고 거대한 짙은 회색 철골 격자 구조물이 배경입니다.
+```
+
+
+<!-- Case 285: Anime-Inspired Pastel Hoodie Portrait (by @de_mon010) -->
+### Case 285: [Anime-Inspired Pastel Hoodie Portrait](https://x.com/de_mon010/status/2065247896287744162) (by [@de_mon010](https://x.com/de_mon010))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case285/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anime-Inspired Pastel Hoodie Portrait"></a> |
+
+**Prompt:**
+
+```
+Semi-realistic anime-inspired portrait of a stylish man, delicate round-frame glasses, and a gentle confident expression. he wears an oversized pastel lilac hoodie with rolled sleeves paired with a flowing ivory joggers. Full-body composition, standing casually with relaxed posture. Behind his is an artistic collage of hand-drawn monochrome character studies, loose pencil sketches, manga panels, playful doodles, and handwritten notes scattered organically across the backdrop.Contemporary anime fashion illustration with mixed ink-and-pencil textures, clean linework, subtle cel shading, bright white background, magazine-cover aesthetic, highly detailed, ultra-sharp, vibrant yet elegant, 8K masterpiece.
+```
+
+<!-- Case 286: Italian Summer Afternoon Portrait (by @iamaiistudio) -->
+### Case 286: [Italian Summer Afternoon Portrait](https://x.com/iamaiistudio/status/2065209349132501265) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case286/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Italian Summer Afternoon Portrait"></a> |
+
+**Prompt:**
+
+```
+prompt:
+
+Ultra photorealistic portrait of a young woman with long straight dark brown hair, sun-kissed glowing skin, seated at an outdoor cafe table. She's wearing a white vintage Swiss dot corset mini dress with a sweetheart neckline, ruffled cap sleeves, front lace-up ribbon detailing, fitted bodice, and slightly sheer ruffled hem. Hands raised playfully covering her eyes, head tilted back laughing, red manicured nails, thin bracelet and ring on left hand. Setting: luxury outdoor hotel terrace at Hotel Florence, historic yellow building with "HOTEL FLORENCE" signage, lush green mountains in the background, cloudy blue sky, vintage globe street lamps, round glass-top table with two white ceramic coffee cups and a paperback book. Coquette cottagecore soft feminine luxury aesthetic. Natural bright afternoon sunlight, high contrast, sharp shadows on the table, backlighting creates a hair halo effect, warm vibrant color grading. DSLR 85mm portrait lens, f/2.8 shallow depth of field, 1/500s shutter, ISO 100, 8k RAW photo.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 287: Rainy Night Cinematic Portrait (by @iamaiistudio) -->
+### Case 287: [Rainy Night Cinematic Portrait](https://x.com/iamaiistudio/status/2065194222408577258) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case287/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Rainy Night Cinematic Portrait"></a> |
+
+**Prompt:**
+
+```
+Full prompt:
+
+Photorealistic cinematic close-up of a young woman in her early 30s, standing in a downpour at night with arms stretched wide and head tilted back, eyes shut, embracing the rain. Warm golden-orange backlight from the left side catches each raindrop, turning them into glowing particles around her silhouette. Soaking wet black tee clinging to her figure, water beading on her skin. Deep contrast between the dark background and the fiery orange sidelight. Expression radiates liberation and calm. Shot on an 85mm lens, f/1.8, 8K, shallow depth of field, vertical framing, dramatic cinematic atmosphere.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 288: 7-Panel Emotion Grid Portrait (by @iamaiistudio) -->
+### Case 288: [7-Panel Emotion Grid Portrait](https://x.com/iamaiistudio/status/2065179623697306098) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case288/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 7-Panel Emotion Grid Portrait"></a> |
+
+**Prompt:**
+
+```
+Full prompt:
+
+Grid layout with thin white gaps between panels and a subtle outer white border around the entire composition. Clean, modern UI aesthetic with slight rounded corners on every tile.
+
+Panel 1: Joyful (Yellow). Warm yellow gradient. Arms raised overhead. Eyes shut. Wide open laugh. High-energy pose.
+Panel 2: Shocked (Blue). Blue gradient. Both hands cupping cheeks. Eyes wide open. Mouth agape. Eyebrows arched high.
+Panel 3: Stern (Red). Solid red background. Arms folded. Brows furrowed. Lips pressed tight. Dark hoodie.
+Panel 4: Affectionate (Pink). Soft pink gradient. Cradling a small brown dog. Gentle smile. Cozy knit sweater.
+Panel 5: Confident (Purple). Purple gradient. One hand resting on hip. Slight smirk. Graphic tee. Easy, relaxed stance.
+Panel 6: Approving (Green). Green gradient. Baseball cap and denim jacket. Thumbs up. Relaxed smile.
+Panel 7: Melancholy (Gray). Gray gradient. Eyes angled slightly downward. Inner brows slightly raised. Lips gently curved down.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 289: Cozy Pastel Morning Overhead Lifestyle (by @iamaiistudio) -->
+### Case 289: [Cozy Pastel Morning Overhead Lifestyle](https://x.com/iamaiistudio/status/2065149291099021650) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case289/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Pastel Morning Overhead Lifestyle"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case289/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Pastel Morning Overhead Lifestyle"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case289/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Pastel Morning Overhead Lifestyle"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+prompt:
+
+Overhead lifestyle photo shot from a slightly tilted high angle, looking down at a cozy bed. A slim young woman lies on her back with a relaxed, lazy weekend morning energy. She has long, slightly tousled straight black hair with subtle pink highlights spread softly across a purple pillow, tidy bangs framing her face. Her makeup is a soft East Asian aesthetic with noticeable pink blush and lightly parted glossy lips, her gaze directed softly up into the camera. She wears a white ribbed cotton camisole with front buttons and lace trim, slightly raised at the waist, paired with light pink satin pajama shorts. Her right arm rests casually behind her head, exposing her smooth underarm and shoulder, while her left knee is gently bent, revealing a fair soft upper thigh. The skin on her arms, chest, stomach, and legs looks smooth and luminous, lit by soft diffused daylight spilling through a window on the left. A silver charm bracelet sits on her left wrist. The bedroom is styled throughout in pastel tones. She rests on ruffled pastel purple pillows and a white blanket with subtle purple floral patterns. Two white plush bunnies are placed near her head. In the slightly blurred lower right foreground, a wooden nightstand holds a glass of lemon water, a small pink digital clock showing 8:47, an earbuds case, and an ELLE magazine. Shot on a 35mm lens at a moderate aperture for a natural, slightly imperfect snapshot aesthetic with soft daylight and gentle shadows, capturing the tranquil slow morning mood.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 290: Stylish Woman Outside Cozy Café Portrait (by @sakshi___007) -->
+### Case 290: [Stylish Woman Outside Cozy Café Portrait](https://x.com/sakshi___007/status/2065118696788631921) (by [@sakshi___007](https://x.com/sakshi___007))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case290/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Stylish Woman Outside Cozy Café Portrait"></a> |
+
+**Prompt:**
+
+```
+An ultra-realistic lifestyle portrait of a stylish young woman standing outside a modern cozy café during daytime, smiling warmly at the camera with a soft natural expression. She has short wavy platinum blonde hair styled in a soft messy bob, glowing skin, minimal natural makeup, and a fresh effortless beauty aesthetic. She wears an elegant oversized white blouse with soft flowing sleeves, tucked into high-waisted beige wide-leg trousers with a black belt, creating a classy minimalist fashion look. In one hand she holds an iced latte in a transparent cup, and in the other she gently carries a small adorable apricot toy poodle dog wearing a cute dark bandana. Warm natural sunlight, cozy café storefront background with glass windows, soft bokeh lighting, aesthetic urban lifestyle atmosphere, calm and wholesome mood, photorealistic details, fashionable Korean street style, soft neutral color palette, editorial portrait photography, realistic skin texture, cozy café culture vibe, luxury casual fashion, soft cinematic color grading, high detail, elegant modern aesthetic, Pinterest-inspired photography, ultra detailed, 8k quality.
+```
+
+<!-- Case 291: Luxury Streetwear Chrome Chair Portrait (by @AiwithLariab) -->
+### Case 291: [Luxury Streetwear Chrome Chair Portrait](https://x.com/AiwithLariab/status/2065115460820218326) (by [@AiwithLariab](https://x.com/AiwithLariab))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case291/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Streetwear Chrome Chair Portrait"></a> |
+
+**Prompt:**
+
+```
+Ultra-premium fashion editorial poster, luxury streetwear aesthetic, 4:5 portrait composition. A confident young woman sitting casually on a modern chrome chair, wearing an oversized black leather bomber jacket, black oversized t-shirt, baggy black cargo pants, and black-and-white luxury sneakers. Relaxed but powerful pose with one arm resting on the chair and direct eye contact with the camera.
+
+Massive bold typography in the background reading:
+
+I AM A
+CREATOR
+
+Large beige typography integrated into the composition, partially behind and around the model, creating a premium magazine-cover design. Dark charcoal black studio background with subtle texture and depth.
+
+Professional fashion campaign photography, cinematic studio lighting, dramatic spotlight from upper right corner, soft shadows, luxury fashion branding aesthetic, high-end streetwear advertisement, strong visual hierarchy.
+
+Natural voluminous hair with soft waves, realistic skin texture, sharp facial details, crystal clear eyes, premium color grading, shallow depth of field, ultra-realistic photography, Vogue magazine quality, luxury campaign poster, modern creative entrepreneur branding.
+
+Minimalist design, clean composition, bold typography, premium editorial layout, luxury fashion poster aesthetic, masterpiece, 8K, hyper-realistic, professional retouching, high contrast, ultra detailed.
+
+Small text in bottom left:
+"CREATIVITY IS NOT JUST WHAT YOU MAKE IT'S WHO YOU ARE"
+"ESTD. 2024"
+
+Face preservation priority: maximum.
+Identity consistency: maximum.
+Text accuracy: high.
+Poster design quality: luxury fashion campaign level.
+```
+
+<!-- Case 292: South Korea Graffiti Street Art Portrait (by @Kashberg_0) -->
+### Case 292: [South Korea Graffiti Street Art Portrait](https://x.com/Kashberg_0/status/2065112085269504508) (by [@Kashberg_0](https://x.com/Kashberg_0))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case292/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - South Korea Graffiti Street Art Portrait"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case292/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - South Korea Graffiti Street Art Portrait"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Create a viral CapCut-style
+South korea graffiti image from
+the uploaded person. Keep
+the face consistent. Add
+South korea jersey, full-body pose,
+giant hand-painted mural
+portrait in the background,
+South korea logo, South korea 2026 text,
+yellow and green football
+colors, concrete wall, clean
+poster composition, realistic 闪
+photo foreground, illustrated
+thelifeafptfiti b--'ground,TikTok
+```
+
+<!-- Case 293: Korean Webtoon Couple Selfie (by @Taaruk_) -->
+### Case 293: [Korean Webtoon Couple Selfie](https://x.com/Taaruk_/status/2065105428862886301) (by [@Taaruk_](https://x.com/Taaruk_))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case293/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Korean Webtoon Couple Selfie"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case293/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Korean Webtoon Couple Selfie"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Transform the uploaded photo into a cute hand-painted Korean webtoon illustration of a happy couple taking a selfie outdoors. Soft pastel color palette, round expressive eyes, rosy cheeks, warm smiles, cozy romantic atmosphere, charming doodle elements floating around them (hearts, flowers, stars, swirls, sunshine icons). Lush green park or beach scenery in the background, bright sunny day, whimsical children's-book aesthetic, clean line art, soft painterly shading, adorable proportions, cozy cottagecore vibes, dreamy and cheerful mood, highly detailed digital illustration, storybook quality, kawaii aesthetic, gentle textures, vibrant yet soft colors, Instagram-worthy artwork, wholesome couple portrait, cute lifestyle illustration, masterpiece, ultra detailed.
+```
+
+<!-- Case 294: Non-Existent 1870s Vintage Photograph (by @Arminn_Ai) -->
+### Case 294: [Non-Existent 1870s Vintage Photograph](https://x.com/Arminn_Ai/status/2065104900590109130) (by [@Arminn_Ai](https://x.com/Arminn_Ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case294/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Non-Existent 1870s Vintage Photograph"></a> |
+
+**Prompt:**
+
+```
+Non Existence Vintage Photographs with GPT Image 2 📸
+
+- Prompt 👇
+a photographic image in the style of 1870, [SCENE DESCRIPTION], with [CHARACTERS described in period accurate clothing], [Describe the interaction].
+
+The photo has an aged and worn appearance, as it was taken in 1870. It features prominent time-induced chemical stains, heavy grain, sepia toning, and deep scratches.
+
+Significantly reduce the sharpness so that the details of the [SUBJECT] are not crisp, making the [SUBJECT] blurry and low-fidelity.
+
+Greatly increase the wear of the photo, including small tears, missing corners, water damage, and small wormholes caused by insect damage. Add a prominent, jagged diagonal cut across the photo, mended clumsily with old, discolored tape.
+```
+
+<!-- Case 295: Doll-ification Concept Portrait (by @iamaiistudio) -->
+### Case 295: [Doll-ification Concept Portrait](https://x.com/iamaiistudio/status/2065104023011868884) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case295/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Doll-ification Concept Portrait"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case295/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Doll-ification Concept Portrait"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+prompt:
+
+Ultra-realistic full-body portrait of a woman posed exactly as in the reference photo, stylized as a sleek female action figure. She stands with arms folded across her chest on top of a massive Microsoft Surface Tablet, dressed in urban streetwear — black hoodie, jeans, sneakers — with sharp red tech glasses.
+
+Floating around her in a dynamic layout are designer tools: a next-gen camera with a blue holographic glow, a geometric mouse with electric sparks, a digital stylus leaving wireframe trails, a Pantone color guide in bold blue and black, and a minimal black coffee cup with binary code steam rising from it.
+
+Bold blue-and-orange color palette with dramatic lighting throughout. Cyberpunk vibe, neon details, particle effects scattered across the scene. Visual style blends 3D animation with tech photography. Crisp focus, cinematic lighting, 8k resolution.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 296: Neon Doodle Gallery Snapshot Template (by @im_shahid7) -->
+### Case 296: [Neon Doodle Gallery Snapshot Template](https://x.com/im_shahid7/status/2065099049938878503) (by [@im_shahid7](https://x.com/im_shahid7))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case296/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Neon Doodle Gallery Snapshot Template"></a> |
+
+**Prompt:**
+
+```
+Create a 9:16 image in the "Neon Doodle Gallery Snapshot" style.
+
+Subject: [SUBJECT].
+Subject action: [SUBJECT_ACTION].
+Prop or product: [PRODUCT_OR_PROP].
+Location: [kashmir].
+Background elements: [wooden interior ].
+Main handwritten text: "[Focus mode on]".
+Secondary handwritten text: "[keep going]".
+Accent symbol: [ACCENT_SYMBOL].
+Wardrobe style: [WARDROBE_STYLE].
+
+Use a realistic candid phone-photo as the base layer. The setting should feel specific and ordinary: visible walls, art, shelves, labels, tables, lamps, posters, people, bags, shadows, grain, and imperfect handheld framing.
+
+Draw a loud digital marker layer directly on top of the photo. Wrap the main subject with a thick hot-pink contour and a cyan offset glow. Add yellow-orange monster spikes, horns, rays, fins, or sunburst shapes around the silhouette. Scatter rough hand-drawn symbols around the frame: stars, paw prints, spiderweb corners, halos, abstract eyes, plants, flowers, scribble underlines, tally marks, arrows, hearts, and sticker-like blobs.
+
+Place rough uppercase handwritten marker text in open areas, using white, yellow, or lime green. The text should feel funny, personal, distracted, and student-made. Preserve the contrast between a real candid photo and chaotic handmade doodles.
+
+Avoid watermarks, usernames, platform logos, creator IDs, app marks, QR codes, clean vector-only illustration, fully illustrated backgrounds, polished ad layout, luxury editorial styling, perfect typography, empty sterile locations, identifiable celebrities, and tiny unreadable text.
+
+--- VARIABLES ---
+
+[ACCENT_SYMBOL] — star, paw print, spiderweb, halo, abstract eye, plant, flower, underline, arrow, tally mark, or scribble
+[BACKGROUND_ELEMENTS] — real photo details such as wall art, labels, shelves, posters, tables, lamps, signage, crowds, fabric, shadows, and phone-camera grain
+[LOCATION] — art gallery, campus hallway, library, studio critique room, classroom, night market, cafe, bookstore, museum, or city wall
+[MAIN_TEXT] — large hand-drawn caption or emotional headline
+[PRODUCT_OR_PROP] — notebook, tote bag, coffee, phone, headphones, sketchbook, jacket, snack, poster, camera, book, or exhibition card
+[SECONDARY_TEXT] — small handwritten notes, repeated words, short joke, date-like label, or study annotation
+[SUBJECT] — main person, group, student, artist, friend, commuter, shopper, or quiet candid figure
+[SUBJECT_ACTION] — looking at art, studying, walking, waiting, browsing, reacting, hiding, laughing, or holding a prop
+[WARDROBE_STYLE] — casual student streetwear, oversized shirt, hoodie, tote bag, loose trousers, jacket, headphones, sneakers, or art-school layers
+
+--- NEGATIVE PROMPT ---
+
+watermark, username, creator ID, platform logo, app mark, QR code, clean vector poster, fully illustrated scene, polished advertising layout, luxury editorial shoot, sterile studio, perfect typography, perfect sticker sheet, subtle doodles, empty background, corporate mascot, identifiable celebrity, real public figure, tiny unreadable text
+```
+
+<!-- Case 297: Face-Reference Consistent Portrait (by @john_my07) -->
+### Case 297: [Face-Reference Consistent Portrait](https://x.com/john_my07/status/2065092295092051994) (by [@john_my07](https://x.com/john_my07))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case297/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Reference Consistent Portrait"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case297/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Reference Consistent Portrait"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case297/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Reference Consistent Portrait"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Use the attached reference image as the exclusive guide for facial identity, bone structure, body proportions, skin tone, facial features, and overall physical likeness. Create an ultra-realistic luxury fashion editorial portrait of a stunning young woman captured in a premium lifestyle photoshoot.
+She wears an oversized designer crimson-red T-shirt crafted from heavyweight cotton, featuring the striking white slogan "WHATEVER" across the chest in contemporary minimalist typography. A crisp white curved-brim cap adds a sporty upscale touch, while sleek dark aviator-inspired sunglasses rest slightly lower on the bridge of her nose, revealing her eyes and enhancing the fashion-forward aesthetic.
+The subject is seated comfortably in an elegant sunlit setting, positioned at a subtle three-quarter angle. One hand lightly touches the brim of her cap while the other rests naturally near her knee, displaying a refined gold luxury timepiece. Her posture conveys confidence, sophistication, and effortless style, with a gentle head tilt and captivating direct gaze toward the camera.
+Her exceptionally long chestnut-brown hair cascades over one shoulder in soft, voluminous waves, enriched with warm caramel and hazelnut highlights. Individual strands catch the sunlight, creating natural dimension, movement, and silky texture.
+Professional beauty styling includes radiant luminous skin, softly sculpted cheekbones, precise winged eyeliner, naturally full brows, dramatic lashes, subtle champagne highlighter, delicate peach blush, and glossy coral-nude lips. Makeup appears polished yet realistic, suitable for a high-end fashion campaign.
+Accessories are tastefully curated: layered fine gold chains, elegant hoop earrings, a slim gold bracelet, and a premium luxury wristwatch. The jewelry enhances the look without overpowering it.
+Photographed in the style of an international fashion magazine cover, with warm late-afternoon sunlight, creamy background separation, cinematic depth of field, realistic skin detail, ultra-sharp eye focus, premium fabric texture, luxury lifestyle ambiance, sophisticated color grading, and impeccable commercial fashion photography. Hyper-realistic, editorial quality, Vogue-inspired, high-fashion advertising campaign, 8K resolution, award-winning portrait imagery.
+```
+
+<!-- Case 298: 日本コンビニ店員 昼夜対比写真 (by @johnAGI168) -->
+### Case 298: [日本コンビニ店員 昼夜対比写真](https://x.com/johnAGI168/status/2065080792548618431) (by [@johnAGI168](https://x.com/johnAGI168))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case298/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 日本コンビニ店員 昼夜対比写真"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case298/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 日本コンビニ店員 昼夜対比写真"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+上班山田😊
+
+下班田山🕶
+
+GPT- image 2 prompt👇
+Daytime Yamada cashier version, 3:4 vertical image. Create a realistic live-action portrait of an adult young Japanese woman, around 24 years old. She has fair skin, soft delicate facial features, a gentle oval face, calm dark eyes, natural light makeup, reddish hair, straight blunt bangs, and long side locks framing both sides of her face. Her expression is gentle, polite, slightly shy, and quietly mature, like a reliable supermarket cashier with a warm customer-service smile.
+
+Scene: daytime inside a Japanese supermarket checkout area. She is standing behind or beside the checkout counter, facing the camera, with a polite gentle smile. The background has blurred product shelves, checkout counter details, and clean supermarket lighting.
+
+Outfit: Japanese supermarket employee uniform. Deep red headscarf covering the back of her hair while still showing her straight bangs and red side locks, pale green or beige striped short-sleeve work shirt, deep red apron, black flared work pants. Add a small rectangular employee name badge pinned on the upper chest or apron with readable Japanese text “山田”. The badge should be realistic, small, and clear. The only readable text in the image should be “山田”.
+
+Style: realistic live-action Japanese drama still, 3:4 vertical portrait, waist-up or three-quarter body, natural indoor fluorescent supermarket lighting, shallow depth of field, muted realistic colors, natural skin texture, 35mm lens look, high detail.
+```
+
+<!-- Case 299: Dreamlike Cloud Face Portrait (by @iamaiistudio) -->
+### Case 299: [Dreamlike Cloud Face Portrait](https://x.com/iamaiistudio/status/2065073375463325883) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case299/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dreamlike Cloud Face Portrait"></a> |
+
+**Prompt:**
+
+```
+prompt:
+
+Reimagine [NAME] as a dreamlike cloud portrait, keeping their face, expression, and defining features clearly recognizable while transforming the form into soft billowing clouds against a bright blue sky.
+The portrait should look like the face is materializing from or melting into the clouds, with gentle diffused natural light casting soft highlights and airy shadows for depth and realism.
+Avoid sharp edges, visible skin texture, or hard details, keeping the transition symbolic and organic.
+Preserve facial proportions, eyes, smile, and distinctive features through the cloud structure.
+Style: dreamy, ethereal, cinematic, surreal
+Lighting: volumetric sunlight, soft glow, natural
+Color palette: sky blue, white, soft gradient tones
+Mood: serene, uplifting, peaceful
+Layer clouds naturally around and within the face for a smooth, seamless transition. Keep the background a clean blue sky with soft gradient clouds.
+Ultra-realistic cloud texture, high resolution, seamless blending, no watermarks, no text.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 300: Face-Preserved Ultra-Realistic Portrait (by @Rainlanded) -->
+### Case 300: [Face-Preserved Ultra-Realistic Portrait](https://x.com/Rainlanded/status/2065071103316484451) (by [@Rainlanded](https://x.com/Rainlanded))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case300/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Preserved Ultra-Realistic Portrait"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case300/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Preserved Ultra-Realistic Portrait"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+low quality, blurry, distorted face, bad anatomy, extra limbs, stiff pose, unnatural selfie angle, overexposed skin, harsh flash, plastic skin, overly bright colors, cheap fabric, messy background, cartoon style, exaggerated beauty filter, unrealistic eyes, artificial hair, bad hands, awkward arm, noisy image.
+```
+
+<!-- Case 301: Sharp Digital Portrait Illustration (by @JamilAI55) -->
+### Case 301: [Sharp Digital Portrait Illustration](https://x.com/JamilAI55/status/2065060797861023948) (by [@JamilAI55](https://x.com/JamilAI55))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case301/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sharp Digital Portrait Illustration"></a> |
+
+**Prompt:**
+
+```
+Open Gemini / Grok / GPT Image 2.0
+2. Upload your photo
+3. Copy the prompt
+4. Generate
+5. Prompt ⤵️
+Prompt 👇
+Ultra-detailed digital portrait illustration of a confident young man with sharp facial features and intense dark eyes, looking directly into the camera. His hand covers the lower half of his face, creating a mysterious and powerful expression. Stylish voluminous black hair, wearing a deep red shirt over a black t-shirt, black wrist wrap, and a subtle gold chain. Dramatic red rim lighting outlining the hair, face, shoulders, and clothing against a pure black background. High-contrast cinematic lighting, dark moody atmosphere, bold shadows, comic-book and graphic novel style, semi-realistic digital painting, ultra-sharp details, textured brushwork, modern masculine aesthetic, centered composition, portrait crop, 4K quality, trending on ArtStation, masterpiece, highly detailed, red and black color palette, powerful gaze, edgy and stylish character design
+```
+
+<!-- Case 302: 파리 가로등 기댄 감성 전신 포즈 (by @CHAseUnre) -->
+### Case 302: [파리 가로등 기댄 감성 전신 포즈](https://x.com/CHAseUnre/status/2065240920283398353) (by [@CHAseUnre](https://x.com/CHAseUnre))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case302/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 파리 가로등 기댄 감성 전신 포즈"></a> |
+
+**Prompt:**
+
+```
+[인물] 이미지1, 이미지2 참조. 파리의 길거리 표지판 기둥에 몸을 비스듬히 기대어 서 있는 전신 포즈입니다. 고개를 살짝 왼쪽으로 기울이고 눈을 감은 채 입술을 아주 약간 내밀며 나른하고 감성적인 표정을 짓고 있습니다. 왼손에는 테이크아웃 커피 컵을 가볍게 쥐고 있습니다. 배경: 파리 거리 분위기, 흐린 자연광.
+```
+
+<!-- Case 303: 深夜调酒师暗红酒吧封面写真 (by @liyue_ai) -->
+### Case 303: [深夜调酒师暗红酒吧封面写真](https://x.com/liyue_ai/status/2064965712406556931) (by [@liyue_ai](https://x.com/liyue_ai))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case303/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 深夜调酒师暗红酒吧封面写真"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case303/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 深夜调酒师暗红酒吧封面写真"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case303/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 深夜调酒师暗红酒吧封面写真"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+深夜调酒师人物摄影：高级酒吧场景、暗红灯光、玻璃酒杯反光 + 黑衬衫、深酒红马甲、袖箍建立人物身份感 + 调酒动作、抬眼看镜头、金色边缘光建立封面气场。危险但克制的气质，深夜暗红酒吧封面风。
 ```
 
 
@@ -3010,11 +3547,11 @@ Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury 
 **Prompt:**
 
 ```
-A stylized black-and-white pencil ink caricature portrait sheet featuring two distinct charismatic characters with contrasting face shapes and expressions. Drawn in a loose sketchbook style with visible construction lines, rough pencil strokes, expressive exaggerated facial proportions, modern caricature illustration aesthetic. 
+A stylized black-and-white pencil ink caricature portrait sheet featuring two distinct charismatic characters with contrasting face shapes and expressions. Drawn in a loose sketchbook style with visible construction lines, rough pencil strokes, expressive exaggerated facial proportions, modern caricature illustration aesthetic.
 
-Left character: handsome charismatic man with messy hair, sharp jawline, confident smirk, expressive sideways eyes, slim long face, casual t-shirt. 
+Left character: handsome charismatic man with messy hair, sharp jawline, confident smirk, expressive sideways eyes, slim long face, casual t-shirt.
 
-Right character: muscular bald man with raised eyebrow, thick neck, strong jawline, dominant confident expression, casual t-shirt. 
+Right character: muscular bald man with raised eyebrow, thick neck, strong jawline, dominant confident expression, casual t-shirt.
 
 Minimal shading, thin crosshatching, clean line art, monochrome aesthetic, white background, artistic character design concept sketch, highly detailed hand-drawn look, playful exaggerated anatomy, professional caricature sketch style
 ```
@@ -4877,11 +5414,11 @@ INPUT: [layered dish]
 
 SYSTEM: Render the input as a master-folded origami and paper-craft architectural sculpture. Do not hardcode paper types unless inevitable. Infer the fold-geometry logic, structural load-bearing creases, layer-separation mechanics, color-blocking strategy, and the tactile grain direction of the materials.
 
-SEMANTIC SOLVE: ORIGAMI_FOOD_AUTOPSY = 
-  (INFER(fold_geometry FROM mountain_valley_ratio + structural_crease_load + interlocking_tabs + negative_space_utilization) ::5) + 
-  (INFER(material_logic FROM paper_grain_direction + GSM_weight + surface_coating + edge_burnishing + adhesive_visibility) ::4) + 
-  (INFER(color_blocking FROM ingredient_color_mapping + contrast_hierarchy + gradient_paper_layering + visual_weight_distribution) ::4) + 
-  (INFER(hidden_craft FROM fold_sequence_complexity + tolerance_margins + tool_marks + humidity_warping_prevention) ::3) - 
+SEMANTIC SOLVE: ORIGAMI_FOOD_AUTOPSY =
+  (INFER(fold_geometry FROM mountain_valley_ratio + structural_crease_load + interlocking_tabs + negative_space_utilization) ::5) +
+  (INFER(material_logic FROM paper_grain_direction + GSM_weight + surface_coating + edge_burnishing + adhesive_visibility) ::4) +
+  (INFER(color_blocking FROM ingredient_color_mapping + contrast_hierarchy + gradient_paper_layering + visual_weight_distribution) ::4) +
+  (INFER(hidden_craft FROM fold_sequence_complexity + tolerance_margins + tool_marks + humidity_warping_prevention) ::3) -
   (messy torn paper + realistic food textures + digital 3D paper shaders + cluttered craft desk + childish simple folds) ::-4
 
 COMPOSITION: One central food item completely reconstructed as an intricate, multi-layered paper-craft sculpture. The "ingredients" are represented by distinct, beautifully colored paper layers, cut and folded with razor-sharp precision. Show the "exploded" floating layers hovering above the base, revealing the internal fold structure and interlocking tabs.
@@ -5128,7 +5665,7 @@ Use this tri-fold layout:
 
 - The subject should be in a relaxed, neutral stance.
 
-- Place these views over very subtle vertical and horizontal 
+- Place these views over very subtle vertical and horizontal
 ```
 
 <!-- Case 371: Dopamine Burst 3D Poster (by @iamaiistudio) -->
@@ -5566,6 +6103,635 @@ A highly realistic, premium 3D product mockup for a [INSERT BUSINESS TYPE HERE, 
 ```
 
 
+<!-- Case 382: Travel Food Postcard Template (by @Naiknelofar788) -->
+### Case 382: [Travel Food Postcard Template](https://x.com/Naiknelofar788/status/2065241908327378969) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case382/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Travel Food Postcard Template"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case382/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Travel Food Postcard Template"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case382/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Travel Food Postcard Template"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case382/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Travel Food Postcard Template"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Create a hyper-realistic travel-food postcard scene.
+INPUTS:
+City: [CITY NAME]
+Local Delicacy: [LOCAL DELICACY]
+Background Location: [BACKGROUND LOCATION OR LANDMARK]
+SCENE:
+A real human hand is holding a vintage travel postcard in the foreground.
+Inside the postcard is a large, beautifully styled, ultra-realistic food photograph of [LOCAL DELICACY], captured like premium food advertising. The dish should appear larger than life, with rich textures, realistic details, appetizing presentation, natural lighting, subtle steam, shallow depth of field, and cinematic food photography.
+A single miniature traveler wearing a backpack sits naturally on the top edge of the postcard with legs dangling over the front. The traveler should be realistic, highly detailed, and positioned so they appear to be admiring the local delicacy. The miniature traveler acts as the emotional focal point and creates a strong sense of scale and wonder.
+Outside the postcard is the authentic destination environment of [BACKGROUND LOCATION OR LANDMARK] in [CITY NAME]. The background should feature recognizable local architecture, streets, scenery, cultural elements, landmarks, atmosphere, colors, and visual details unique to the destination.
+Include a rustic wooden directional signpost naturally integrated into the environment. The signpost must automatically generate four short destination-specific labels based on the city, culture, attractions, food scene, landmarks, neighborhoods, natural features, or travel experiences associated with the location.
+The generated signboards should feel authentic to the destination and enhance the travel storytelling.
+Composition hierarchy:
+Miniature traveler
+Local delicacy inside postcard
+Destination background
+Destination signpost
+Style: Hyper-realistic photography, luxury tourism campaign aesthetic, cinematic storytelling, authentic destination atmosphere, realistic hand, realistic miniature traveler, highly detailed food photography, natural golden-hour lighting, shallow depth of field, rich colors, editorial travel magazine quality, Instagram-worthy social media content, visual wow factor, vertical 4:5 aspect ratio, extremely detailed, premium commercial advertising.
+```
+
+<!-- Case 383: Satellite Terrain Letter Typography Map (by @iamaiistudio) -->
+### Case 383: [Satellite Terrain Letter Typography Map](https://x.com/iamaiistudio/status/2065224886734438454) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case383/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Satellite Terrain Letter Typography Map"></a> |
+
+**Prompt:**
+
+```
+Ultra-realistic overhead satellite view from orbit, a crisp modern editorial layout featuring 9 vertical panels arranged side by side on a white background, together spelling "MADPENCIL", each panel containing a single letter formed entirely from real Earth terrain and natural topography, no text overlays:
+
+Panel 1 (M): jagged mountain ridges and deep ravines composing a sharp angular "M", dramatic shadows, rocky surface
+Panel 2 (A): a meandering river through thick tropical forest shaping an "A", vivid contrast between water and canopy
+Panel 3 (D): vast desert sand dunes sculpted by wind into a smooth "D", warm earthy tones, gentle gradients
+Panel 4 (P): patchwork cropland and geometric farm fields arranged into a structured "P", clean grid patterns
+Panel 5 (E): glacial formations and ice sheets carving a crisp "E", pure whites and deep icy blues, cracked textures
+Panel 6 (N): a braided floodplain river system forming "N", branching channels and natural flow patterns
+Panel 7 (C): a curved coastline and ocean meeting point shaping "C", wave breaks and sediment visible
+Panel 8 (I): a narrow slot canyon or straight waterway forming a minimal "I", strong vertical line
+Panel 9 (L): volcanic landscape with hardened lava flows forming an "L", dark basalt with glowing lava accents
+
+straight-down satellite perspective, NASA Earth imagery aesthetic, hyper-detailed terrain, realistic geography, consistent lighting and scale across panels, minimal cloud cover, high contrast, sharp resolution, subtle atmospheric haze, true-color grading, ultra high resolution 8K, clean panel spacing, gallery-style composition, visually unified but each panel a distinct biome, letters legible yet organically merged with the landscape
+
+#AIart #GPTImage2
+```
+
+<!-- Case 384: Polish PRL Era Magazine Spread (by @Riccardo_Nero) -->
+### Case 384: [Polish PRL Era Magazine Spread](https://x.com/Riccardo_Nero/status/2065193845222944844) (by [@Riccardo_Nero](https://x.com/Riccardo_Nero))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case384/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Polish PRL Era Magazine Spread"></a> |
+
+**Prompt:**
+
+```
+Create a full two-page spread from a fictional Polish color weekly magazine from the PRL era, late 1950s to early 1960s. The image should look like an authentic vintage printed magazine: yellowed paper, offset printing, halftone dots, slight ink misregistration, muted aged colors, retro Polish typography, visible center gutter, margins, page numbers, captions and column layout.
+Theme: a Syrena 105 proudly showcased in modern-day North Korea, presented as a satirical alternate-history Polish PRL magazine artifact.
+The spread must be clearly split into two pages.
+LEFT PAGE:
+A Polish illustrated magazine article about the official presentation of the Syrena 105 in Pyongyang. Show a large main photo of the Syrena 105 on a ceremonial platform or red carpet, surrounded by officials, spectators, North Korean flags, banners and monumental North Korean architecture.
+The car must clearly look like a classic Syrena 105: compact body, rounded Eastern Bloc styling, simple practical proportions, modest chrome trim, characteristic front fascia, small wheels, realistic Polish car design language, slightly heroic but still humble and utilitarian.
+Use a bold Polish headline:
+“SYRENA zza ŻELAZNEJ KURTYNY”
+Add a subheadline:
+“Sensacyjna prezentacja w Pjongjangu: polska legenda motoryzacji w niezwykłej odsłonie.”
+Add several columns of Polish-looking article text, a red drop cap, small captions, and one or two inset images showing the rear of the Syrena 105 and the interior. The page should feel like a serious but slightly absurd PRL-era illustrated report. Include a believable Polish magazine masthead similar to a 1960s illustrated weekly.
+RIGHT PAGE:
+A classic 1950s-1960s Polish print advertisement for the same Syrena 105. Show the car large, heroic and glamorous, in a polished three-quarter view, with a dramatic retro city background inspired by Pyongyang. Use bold vintage ad typography, decorative colored blocks, stars, slogans and product badges.
+Main ad headline:
+“Nowa SYRENA 105 — duma nowoczesnej motoryzacji!”
+Add smaller Polish advertising copy:
+“Niezawodny silnik”
+“Praktyczna i oszczędna”
+“Komfort i elegancja”
+“Solidność konstrukcji”
+“Przyjaźń narodów”
+Add a fictional manufacturer line:
+“FSO”
+“Fabryka Samochodów Osobowych, Warszawa-Żerań”
+“Produkt przyjaźni Polska — Korea”
+The right page should look cleaner and more aspirational than the article page, like a period car advertisement. The whole image should feel like a convincing satirical alternate-history artifact: Polish PRL magazine design, Syrena 105 automotive fantasy, North Korean ceremonial propaganda and vintage print realism.
+Make all visible Polish text as clean and readable as possible.
+```
+
+<!-- Case 385: FIFA World Cup 2026 Throne Poster (by @SaasJunctionHQ) -->
+### Case 385: [FIFA World Cup 2026 Throne Poster](https://x.com/SaasJunctionHQ/status/2065181941939531936) (by [@SaasJunctionHQ](https://x.com/SaasJunctionHQ))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case385/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup 2026 Throne Poster"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case385/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup 2026 Throne Poster"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case385/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup 2026 Throne Poster"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case385/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup 2026 Throne Poster"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+FIFA World Cup 2026 hero throne sports artwork. 🧵
+```
+
+<!-- Case 386: Country Stylized Travel Poster Collage (by @iamaiistudio) -->
+### Case 386: [Country Stylized Travel Poster Collage](https://x.com/iamaiistudio/status/2065164435237613822) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case386/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Country Stylized Travel Poster Collage"></a> |
+
+**Prompt:**
+
+```
+Full prompt:
+
+Design a stylized travel poster / graphic collage featuring [ALGERIA]. The central figure is a fashionable international tourist in [ALGERIA], visually distinct as a visitor rather than a local. Show the tourist in modern travel attire, with accessories like a camera, backpack, sunglasses, map, or suitcase, immersed in the culture and vibe of [ALGERIA]. Arrange the tourist in a bold composition surrounded by iconic buildings, streets, scenery, landmarks, transport, cuisine, signage, and cultural details specific to [ALGERIA]. Combine realistic character rendering with a graphic collage background featuring layered paper textures, torn poster edges, sticker accents, halftone dots, editorial typography, and strong geometric shapes. Weave in authentic Algerian visual motifs while keeping the tourist's look globally stylish and clearly from abroad. Include a large, legible headline: "VISIT [ALGERIA]". Aim for a modern, artistic, premium editorial travel poster feel, with a balanced layout and a print-ready composition.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 387: Risograph Zine Rainforest Infographic (by @92digitalartArt) -->
+### Case 387: [Risograph Zine Rainforest Infographic](https://x.com/92digitalartArt/status/2065135532875645242) (by [@92digitalartArt](https://x.com/92digitalartArt))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case387/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Risograph Zine Rainforest Infographic"></a> |
+
+**Prompt:**
+
+```
+A risograph zine print style infographic poster in 16:9 horizontal format exploring the biodiversity of tropical rainforests, designed to look exactly like an indie science zine printed with overlapping risograph ink layers; the entire composition should show the characteristic risograph printing imperfections: ink grain, slight misregistration between color layers, halftone dot patterns visible in midtones, and a tactile paper texture underneath everything; use a strict three-color risograph palette of fluorescent green, deep navy blue, and warm yellow, with rich overprinting where colors overlap creating unexpected secondary tones like teal where green meets blue and olive where green meets yellow; the main illustration fills the center: a lush vertical cross-section of a rainforest showing all four layers — emergent layer at the top with giant canopy trees and toucans, canopy layer with howler monkeys and orchids, understory with poison dart frogs and ferns, and forest floor with mushrooms, beetles, and anacondas — each layer labeled with a handwritten-style annotation in the risograph aesthetic; surrounding the central forest illustration, organize zine-style content panels with irregular hand-cut border aesthetics, including sections titled HOW MANY SPECIES?, THE WATER CYCLE, THREATS TO THE FOREST, and WHY FORESTS MATTER, each with small lo-fi icons and concise punchy text in a mix of bold grotesque sans-serif and typewriter-style fonts; include a dramatic zine-style header reading RAINFOREST: EARTH'S LUNGS in large stencil-style all-caps lettering; add a small DID YOU KNOW? box with three striking facts, and a bottom strip reading issue no. 7 — field guide series to make it feel like a real indie publication; the overall mood should feel urgent, indie, ecologically passionate, beautifully imperfect, and visually electric, high quality, aspect ratio 16:9
+```
+
+<!-- Case 388: World Cup National Team Fashion Poster (by @Just_sharon7) -->
+### Case 388: [World Cup National Team Fashion Poster](https://x.com/Just_sharon7/status/2065123619844333737) (by [@Just_sharon7](https://x.com/Just_sharon7))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case388/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - World Cup National Team Fashion Poster"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case388/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - World Cup National Team Fashion Poster"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Who's gonna win tonight? Are you team Mexico or team South Africa?
+
+GPT Image 2
+
+Prompt
+
+SOUTH AFRICA NATIONAL TEAM
+
+"NEW UNIFORM"
+
+FORMAT
+
+Ultra-Premium Football Fashion SMM Promotional Poster
+Vertical 4:5
+Instagram Hero Creative
+Global Sportswear Advertising
+Commercial Football Graphic Design
+Agency-Level Art Direction
+Behance Front Page Quality
+8K UHD
+Hyper-Realistic
+Football × Fashion × Graphic Design Fusion
+Zero AI Slop
+Zero Generic Sports Posters
+Zero Match-Day Graphics
+Zero Editorial-Only Aesthetic
+
+CORE STRATEGY
+
+This is not a football poster.
+
+This is a national identity statement disguised as a uniform campaign.
+
+The design should feel like South Africa's biggest football billboard, a luxury sportswear campaign, and a continental football legacy poster merged into one visual.
+
+The graphic design is equally important as the athlete.
+
+Typography is not decoration.
+
+Typography is architecture.
+
+CAMPAIGN IDEA
+
+"NEW UNIFORM"
+
+Not just a jersey.
+
+A symbol of unity.
+
+A symbol of resilience.
+
+A symbol worn by those who carry a nation's pride forward.
+
+The uniform isn't being sold.
+
+The identity is.
+
+MASTER VISUAL
+
+Massive oversized SOUTH AFRICA typography dominates the entire composition.
+
+The words:
+
+SOUTH AFRICA
+
+occupy nearly 75% of the canvas.
+
+Typography is integrated into the design.
+
+Letters extend beyond frame edges.
+
+Some letters cropped.
+
+Some hidden behind the player.
+
+Some functioning as compositional structures.
+
+The typography should feel monumental.
+
+The official federation crest appears subtly integrated into the layout.
+
+HERO SUBJECT
+
+Elite female footballer.
+
+Natural beauty.
+
+Confident expression.
+
+Minimal makeup.
+
+Champion mentality.
+
+No smiling.
+
+No dramatic celebration.
+
+Relaxed confidence.
+
+Wardrobe:
+
+South Africa 2026 home jersey.
+
+Golden yellow base.
+
+Green detailing.
+
+Black accents.
+
+Matching shorts.
+
+Premium football socks.
+
+Modern football styling.
+
+Clean elite-athlete aesthetic.
+
+POSE
+
+Player stepping through the giant typography.
+
+One foot slightly forward.
+
+Direct eye contact.
+
+Hands relaxed.
+
+Body partially intersecting typography.
+
+The feeling:
+
+She carries the spirit of champions effortlessly.
+
+COMPOSITION
+
+Typography occupies 70%.
+
+Player occupies 20%.
+
+Promotional elements occupy 10%.
+
+Visual hierarchy:
+
+SOUTH AFRICA
+↓
+Player
+↓
+Promotion
+↓
+CTA
+
+Everything feels intentional.
+
+COLOR SYSTEM
+
+Primary:
+
+South Africa Gold
+
+Deep Green
+
+White
+
+Silver
+
+Soft Grey
+
+Accent:
+
+Black Heritage Details
+
+Federation Crest Gold
+
+Subtle Flag-Inspired Color Accents
+
+No neon colors.
+
+No trend-chasing palettes.
+
+Timeless sporting elegance.
+
+BACKGROUND
+
+Clean premium sports backdrop.
+
+Large soft gradient.
+
+Minimal studio environment.
+
+Subtle premium texture.
+
+No stadium.
+
+No crowd.
+
+No scenery.
+
+The design itself creates the environment.
+
+GRAPHIC DESIGN SYSTEM
+
+Floating collection cards.
+
+Heritage-inspired labels.
+
+Minimal grid system.
+
+Thin lines.
+
+Micro typography.
+
+Premium global football campaign hierarchy.
+
+International flagship-store energy.
+
+PROMOTIONAL ELEMENTS
+
+NEW UNIFORM
+
+SOUTH AFRICA 2026
+
+READY FOR THE WORLD STAGE
+
+LIMITED RELEASE
+
+OFFICIAL COLLECTION
+
+MEMBERS EARLY ACCESS
+
+FREE SHIPPING
+
+Integrated naturally into layout.
+
+Not banner spam.
+
+TYPOGRAPHY HIERARCHY
+
+Top Left
+
+SOUTH AFRICA
+
+small premium wordmark
+
+Center Massive Typography
+
+S
+O
+U
+T
+H
+
+A
+F
+R
+I
+C
+A
+
+occupying most of composition
+
+bold heritage typography
+
+extremely large scale
+
+partially cropped
+
+Campaign Title
+
+NEW
+UNIFORM
+
+bold elegant typography
+
+Supporting Copy
+
+Designed for those who carry greatness forward.
+
+PROMOTIONAL CTA BLOCK
+
+SHOP NOW →
+
+Explore the Official South Africa Collection
+
+BOTTOM FEATURE STRIP
+
+OFFICIAL JERSEYS
+
+NATIONAL COLLECTION
+
+MATCH ESSENTIALS
+
+LIMITED RELEASE
+
+Bottom Right
+
+Starting From $89
+
+Bottom Center
+
+
+
+Vertical Edge Text
+
+SOUTH AFRICA 2026
+
+LIGHTING
+
+Luxury sports studio lighting.
+
+Large soft source.
+
+Editorial contrast.
+
+Natural skin rendering.
+
+Premium fabric highlights.
+```
+
+<!-- Case 389: FIFA World Cup Country Emblem Badge (by @Goodmanprotocol) -->
+### Case 389: [FIFA World Cup Country Emblem Badge](https://x.com/Goodmanprotocol/status/2065121892550558018) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case389/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup Country Emblem Badge"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case389/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup Country Emblem Badge"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case389/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup Country Emblem Badge"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case389/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup Country Emblem Badge"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Create a FIFA World Cup 2026 country variant emblem in a bold, flat, typographic illustration style. Preserve the official FIFA World Cup 2026 stacked identity exactly: the digit “2” occupies the upper half and the digit “6” occupies the lower half, both center-aligned and forming one unified vertical portrait block, with the FIFA World Cup Trophy integrated through the center in the same arrangement as the official emblem. The numerals must be outline-only, never filled, rendered with thick bold strokes in a single color taken from the national flag palette of [COUNTRY NAME], with fully transparent interiors so the trophy remains visible.
+
+STRICTLY use a 9:16 vertical aspect ratio.
+
+Do not alter the composition, proportions, or visual hierarchy. The result must closely resemble the official stacked 26 emblem and maintain the same graphic balance seen in premium country adaptations.
+
+The FIFA World Cup Trophy must follow the real trophy silhouette exactly and remain instantly recognizable, with two human figures lifting a faceted globe, a twisting narrow body, and a flared banded base. Render it as a flat vector illustration with zero gradients, zero textures, and no painterly effects, resembling an enamel badge or screen-print poster.
+
+Divide the trophy into clean flat sections following its natural contours. The globe and raised figures should use the darkest color from the national flag palette, with the official football federation crest of [COUNTRY NAME] placed prominently on the globe face. Add one floating star for each FIFA World Cup title won by [COUNTRY NAME], positioned to the right of the globe and colored with a flag accent color. ([NUMBER OF WORLD CUP TITLES WON]). Countries with zero World Cup titles must have no stars and no winning years.
+
+The central body section should use a contrasting flag color and contain the country's FIFA World Cup winning years stacked vertically in large ultra-bold condensed numerals. If [COUNTRY NAME] has never won the FIFA World Cup, leave this section blank with no years. The lower neck and flared base should use the primary flag color, with “[COUNTRY NAME]” written in massive ultra-bold condensed capital letters naturally fitted to the tapering base shape.
+
+Use thick black outlines throughout to separate every section and define the entire trophy silhouette. Maintain a highly graphic, iconic, and immediately country-identifiable appearance. Use a pure black background with no gradients or textures. The final result should feel exactly like a premium enamel pin, screen-print poster, or modern sports identity mark while preserving the official FIFA World Cup 2026 stacked emblem structure and central trophy integration, with no unnecessary stylistic deviations and no changes to the established layout.
+```
+
+<!-- Case 390: Double Exposure Art Director Poster (by @iamaiistudio) -->
+### Case 390: [Double Exposure Art Director Poster](https://x.com/iamaiistudio/status/2065088795494773094) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case390/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Double Exposure Art Director Poster"></a> |
+
+**Prompt:**
+
+```
+prompt:
+
+[PERSONE]. Act as a Senior Art Director.
+
+PHASE 1: PHOTOGRAPHIC COMPOSITION.
+
+- Layered Effect: Double exposure photo collage. Sharp action shot in the foreground; massive monumental silhouette in the background.
+
+- Overlap: The subject blends seamlessly with the background graphic elements.
+
+PHASE 2: CONTEXTUAL VIBE.
+
+- Identity Analysis: Automatically detect the core industry of [PERSONE] (Sport, Music, Cinema, or Business).
+
+- Pose and Props tailored to match their identity.
+
+PHASE 3: DYNAMIC BRAND COLORS.
+
+- Primary Color: Identify the most iconic color tied to [PERSONE] or their team or brand. Apply to the background, halftone textures, and smoke effects.
+
+- Accent Color: Choose a high-contrast vibrant secondary hue (neon, gold, or electric white) for the radial burst rays.
+
+- Visual Texture: Heavy film grain and halftone dots in the shadow areas of the photos.
+
+PHASE 4: GRAPHIC ACCENTS.
+
+- Geometry: Bold radial rays bursting from the center. Fluid wave-like organic shapes at the base.
+
+- Birds: Minimal black bird silhouettes for scale and depth.
+
+PHASE 5: BRANDING AND TEXT.
+
+- Tagline: A powerful one- or two-word slogan that captures [PERSONE]'s legacy.
+
+- Logo: Minimalist industry-appropriate logo in the bottom corner.
+
+- Typography: Bold, high-impact sans-serif.
+
+TECHNICAL FINISH:
+
+- Quality: 8K resolution, authentic commercial photography style (not an illustration).
+
+- Lighting: Extreme studio rim lighting to separate the photographic subjects from the graphic layers.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 391: Pixar 3D Kebab Maker Storyboard Poster (by @TechieBySA) -->
+### Case 391: [Pixar 3D Kebab Maker Storyboard Poster](https://x.com/TechieBySA/status/2065069836045033908) (by [@TechieBySA](https://x.com/TechieBySA))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case391/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar 3D Kebab Maker Storyboard Poster"></a> |
+
+**Prompt:**
+
+```
+“Create a crisp, clean infographic storyboard poster for THE KEBAB MAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — deep caramelized meat browns, vivid red tomatoes, fresh green lettuce, white garlic sauce, golden warm flatbread, warm Istanbul street light.
+
+Top header
+
+•THE KEBAB MAKER
+•TOTAL VIDEO TIME: 12 SECONDS
+•8 SHOTS · BOLD · SIZZLING · STRAIGHT FROM ISTANBUL
+•Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT
+
+Same Pixar-style middle-aged Turkish male kebab maker throughout — thick dark mustache, white t-shirt, red and white striped apron, small outdoor Istanbul kebab street stand, vertical doner spit glowing and rotating behind him, warm golden light, busy Turkish street with Galata Tower softly visible in background. Skilled, fast, proud.
+
+8 panels:
+
+Panel 1 — THE OPENER: Wide shot. Kebab maker stands behind his outdoor street stand, busy Istanbul street behind him, Galata Tower softly visible in warm afternoon light. Vertical doner spit rotating and glistening behind him. He slaps both hands on the counter and grins at the camera. The spit is already turning. You know exactly what’s coming.
+
+Panel 2 — THE BREAD: Close-up. Kebab maker opens a warm flatbread with both hands — the bread splitting open softly, steam rising from inside, soft and pillowy interior revealed. Warm golden bread catching the afternoon light. The base of everything. Anticipation building.
+
+Panel 3 — THE SPIT: Dramatic close-up. The vertical doner spit filling the entire frame — towering stack of layered marinated meat rotating slowly, outside layer deeply caramelized and glistening, heat element glowing orange behind it, steam rising. The most iconic kebab visual in the world.
+
+Panel 4 — THE SHAVE INTO BREAD: Hero craft frame. Wide medium with character visible. Kebab maker holds the open flatbread in one hand positioned directly below the spit, long knife in the other shaving meat in one confident downward stroke — thin caramelized strips falling directly into the open bread below. Meat, knife, bread and spit all in one frame. The most dynamic panel in the series.
+
+Panel 5 — THE SUMAC: Extreme close-up. Kebab maker’s hand sprinkling deep red sumac powder generously over the shaved meat — the vivid crimson powder catching the warm afternoon light as it falls, dusting every piece of meat. Deep red against deep brown. The most authentically Turkish panel in the series. The insider detail that makes Turkish viewers feel seen and everyone else curious.
+
+Panel 6 — THE SAUCE: Close-up hero shot. Thick white garlic sauce poured in a generous arc over the filling — cascading over the meat and vegetables. Then a zigzag of vivid red chili sauce over the top. White and red against deep brown meat. The most appetizing panel.
+
+Panel 7 — THE WRAP: Close-up dramatic. Both hands wrapping the flatbread tight and fast — filling bulging slightly at the ends, foil paper wrapped around the bottom. One confident twist. Done. The payoff of all the craft.
+
+Panel 8 — THE BITE: Wide warm shot. Customer standing on the Istanbul street takes the wrapped kebab, takes a massive first bite — filling visible at the end, sauce on their lip, eyes closing in pure street food satisfaction. Kebab maker watching from behind the stand, arms crossed, deeply proud. Istanbul street and Galata Tower glowing warmly behind them both.
+
+Footer:
+
+•VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. Spit to first bite.
+•CAMERA TIPS: wide on the Istanbul opener, close-up on the bread opening with steam, dramatic close-up on the spit, wide medium hero on the shave into bread, extreme close-up on the sumac dusting, close-up hero for the sauce, close-up dramatic for the wrap, wide warm for the Istanbul street bite
+•LIGHT & STYLE: warm Istanbul afternoon light, deep caramelized meat browns, vivid red sumac, white garlic sauce, red chili sauce, golden flatbread, red”
+```
+
+<!-- Case 392: BMX Rider Streetwear Mixed-Media Collage (by @omnitrix204) -->
+### Case 392: [BMX Rider Streetwear Mixed-Media Collage](https://x.com/omnitrix204/status/2065069786753872120) (by [@omnitrix204](https://x.com/omnitrix204))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case392/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - BMX Rider Streetwear Mixed-Media Collage"></a> |
+
+**Prompt:**
+
+```
+Ultra-creative streetwear collage poster featuring a tattooed BMX rider and urban lifestyle athlete. Multiple cutout photographs arranged in a layered mixed-media composition. One large back-facing portrait wearing an oversized black graphic t-shirt and cap dominates the center. A second portrait faces the camera while lifting his shirt over part of his face, revealing intense eyes and tattooed arms.
+A dynamic BMX action shot performing a trick is positioned in the foreground. Torn paper edges, ripped poster textures, magazine cutouts, handwritten signatures, stickers, stamps, urban symbols, architectural photography, and layered graphic elements create a premium street culture aesthetic.
+Predominantly black-and-white photography with selective electric blue accents. Crumpled paper background texture, photocopy effects, editorial typography, distressed print details, urban skate and BMX culture influences. Contemporary streetwear advertising campaign, zine-inspired layout, high-fashion graphic design, raw underground energy.
+Highly detailed collage artwork, premium poster composition, monochrome photography, torn paper effects, streetwear branding aesthetic, fashion editorial design, modern youth culture visuals, 8K resolution.
+Style Keywords: BMX culture, streetwear collage, monochrome poster, ripped paper design, urban editorial, grunge graphic design, fashion zine, underground culture, mixed media artwork.
+```
+
+<!-- Case 393: Luxury Historical Civilization Strategy Card (by @Gdgtify) -->
+### Case 393: [Luxury Historical Civilization Strategy Card](https://x.com/Gdgtify/status/2065057210426900515) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case393/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Historical Civilization Strategy Card"></a> |
+
+**Prompt:**
+
+```
+SYSTEM: Render the input as a luxury historical civilization stratigraphy poster. Do not hardcode dates unless inevitable. Infer the territorial expansion phases, economic foundation pillars, military innovation cycles, cultural assimilation patterns, and the geological layers of decline.  SEMANTIC SOLVE: EMPIRE_AUTOPSY =    (INFER(territorial_architecture FROM founding_core + expansion_vectors + frontier_fortifications + trade_route_control + vassal_networks) ::5) +    (INFER(economic_pillars FROM agricultural_base + mineral_resources + taxation_system + currency_standard + labor_organization) ::4) +    (INFER(military_innovation FROM weapon_technology + tactical_doctrine + logistics_chain + fortification_engineering + naval_capacity) ::4) +    (INFER(decline_mechanics FROM succession_crises + economic_inflation + frontier_pressure + internal_rebellion + environmental_stress) ::3) -    (generic timeline infographics + cartoon maps + cluttered textbook layouts + stock-photo ruins + cheap educational posters) ::-4  COMPOSITION: One central empire visualized as a multi-layered archaeological cross-section. The bottom layer shows the founding settlement, middle layers reveal territorial expansion through colored strata, and the top layer displays the fragmentation pattern. Surrounding the core are floating callouts showing key battles, economic indicators, and dynastic transitions mapped as physical artifacts. Use callout lines like an archaeological dig site report crossed with a military campaign map.  STYLE DNA: Ancient Roman Tabula Peutingeriana ::0.30 archaeological stratigraphy diagram ::0.25 vintage military campaign map ::0.20 museum exhibit infographic ::0.15 aged parchment with stain texture ::0.10  OUTPUT: Warm sepia or deep terracotta background luxury history poster, elegant classical serif + handwritten annotation typography, restrained callouts, hyper-realistic map textures, refined aging effects, premium negative space.  NEGATIVE: no holograms, no glowing elements, no VR/AR overlays, no modern digital maps, no cartoon illustrations, no cluttered timelines, no stock-photo emperors, no watermark, no anachronistic elements.
+```
+
+
 ## 🧍 Character Design Cases
 
 > **4 curated cases** — [Explore all Character Design Prompts →](cases/character.md)
@@ -5651,6 +6817,297 @@ Extra details:
 Add stickers, embroidered patches, smiley pins, doodles, skate-culture details, early-2000s urban energy, cinematic render quality, and a polished animation-studio finish.
 
 Aspect ratio: 4:5 vertical.
+```
+
+
+<!-- Case 19: 40K Power Armour Squad Portrait (by @EvaGlitchAI) -->
+### Case 19: [40K Power Armour Squad Portrait](https://x.com/EvaGlitchAI/status/2065204081363435604) (by [@EvaGlitchAI](https://x.com/EvaGlitchAI))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case19/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 40K Power Armour Squad Portrait"></a> |
+
+**Prompt:**
+
+```
+Prompt of the Day: 40K POWER ARMOUR SQUAD ⚔️🛡️💜💚
+
+Today’s Prompt of the Day turns your characters into a 40K-inspired warriors. Yes this was done before but i wanted to see how much better GPT 2 can do it now
+
+Use one character reference for a solo warrior, or attach multiple character references to create a full squad. The prompt is built to count every reference image and turn each one into a separate visible character, with no helmets covering their faces.
+
+Type your chosen scene into the SCENE SELECTOR at the top, then attach your character reference image or images.
+
+Try scenes like:
+
+a brutal battlefield charge
+a gothic starship boarding action
+a candlelit shrine world cathedral
+an industrial forge world
+a grim underhive alley
+a quiet off-duty barracks scene
+a solemn prayer before battle
+
+Have fun with this one ⚔️🛡️
+
+............................PROMPT STARTS HERE............................
+
+SCENE SELECTOR:
+[Type the 40K-inspired scene you want here.]
+Examples:
+
+brutal battlefield charge through smoke, fire, shell craters, and ruined gothic architecture
+
+boarding action inside a colossal warship corridor
+cathedral-like shrine world interior filled with candles, banners, stained glass, and incense haze
+industrial forge world with sparks, chains, molten metal, pipes, and huge machinery
+command deck before battle with tactical holograms and vast void windows
+grim underhive alleyway with pipes, neon grime, metal walkways, and urban decay
+heroic last stand surrounded by wreckage, fallen enemies, burning vehicles, and drifting ash
+quiet off-duty scene inside a fortress barracks, armoury, workshop, canteen, or hangar
+solemn prayer before battle with relics, banners, candles, incense smoke, and sacred war symbols
+everyday-life scene in a gothic sci-fi military stronghold, training yard, armoury, repair bay, or mess hall
+Use the typed scene selector as the main scene concept.
+If no custom scene is typed, choose one of the example scenes that best fits the attached character reference image or images and the overall character vibe.
+Adapt the environment, action, pose, props, camera, and mood to match the selected scene.
+Keep the final scene clearly inspired by 40K-style grimdark far-future gothic military sci-fi.
+
+STRICT REFERENCE COUNT RULE:
+Before creating the image, count the number of attached character reference images.
+Create exactly one main character from each attached character reference image.
+The number of main characters in the final image must exactly match the number of attached character reference images.
+If 1 character reference image is attached, create exactly 1 main character.
+If 2 character reference images are attached, create exactly 2 main characters.
+If 3 character reference images are attached, create exactly 3 main characters.
+If 4 character reference images are attached, create exactly 4 main characters.
+If more character reference images are attached, create exactly that same number of main characters.
+Each attached character reference image is a separate person.
+Each attached character reference image must appear once and only once as their own distinct main character.
+Do not treat any attached character reference image as optional.
+Do not ignore, drop, replace, combine, or simplify any attached character reference image.
+
+MULTI-CHARACTER IDENTITY RULE:
+Use every attached character reference image as its own separate character identity source.
+Character 1 must be based only on the first attached character reference image.
+Character 2 must be based only on the second attached character reference image.
+Character 3 must be based only on the third attached character reference image.
+Character 4 must be based only on the fourth attached character reference image.
+Continue this pattern for any additional attached character reference images.
+
+Do not use the first attached character reference image to create multiple characters.
+Do not duplicate the first character to fill the group.
+Do not create variations, twins, clones, alternate outfits, mirrored copies, recolours, or slightly edited versions of the same character.
+Do not merge two or more attached character references into one design.
+Do not let one character’s face, hairstyle, colours, outfit motifs, body type, species traits, or accessories replace another character’s identity.
+SINGLE-CHARACTER FALLBACK RULE:
+If only one character reference image is attached, create one main character only.
+Do not create a squad, clone group, twin, alternate version, second warrior, companion, or duplicate of the character.
+The single character should remain the only main subject.
+
+THREE-CHARACTER PRIORITY RULE:
+If three character reference images are attached, this is a three-character squad image.
+All three referenced characters must appear together in the same scene.
+All three faces must be visible.
+All three armour designs must be distinct.
+All three characters must be clearly separated in the composition.
+Use a readable left-center-right squad arrangement unless the selected scene needs another clear formation.
+CHARACTER REFERENCE RULES:
+Preserve each attached character’s face shape, hairstyle, hair colour, eye colour, expression, body language, signature colour palette, outfit motifs, accessories, silhouette, species traits, proportions, and overall character vibe.
+The final image must clearly show every attached character as a separate, recognizable individual.
+Every character must still clearly look like their own attached reference image.
+
+Keep each character’s head uncovered with no helmet, full face mask, or visor covering the face.
+The face, hair, and identity of every referenced character must remain clearly visible.
+Hard style rule:
+Use the attached character reference image or images as the visual style reference for the final image.
+Preserve the visual art style, rendering language, line quality, colour handling, facial stylization, shading style, texture treatment, background treatment, and overall stylization of the attached reference image or images while transforming the character or characters into 40K-inspired power-armoured warriors.
+If the references are anime, keep them anime. If they are stylized, keep that stylization.
+Do not turn the final image photorealistic unless specifically requested.
+Scene concept:
+Create a 16:9 horizontal widescreen cinematic illustration based on the scene written in the SCENE SELECTOR.
+Show the attached character or characters transformed into custom 40K-inspired grimdark far-future power-armoured warriors.
+The image should feel heavy, dramatic, mythic, warlike, and character-driven, with strong atmosphere, clear storytelling, and a powerful sense of scale.
+
+Character transformation:
+Transform every attached reference character into a custom 40K-inspired power-armoured version of themselves while preserving their original identity.
+The redesign should center on massive stylized power armour with broad shoulder plates, reinforced chest armour, heavy gauntlets, armoured boots, thick mechanical joints, gothic sci-fi military detailing, sacred-warrior ornamentation, battlefield wear, and an oversized futuristic weapon.
+The armour must feel imposing, brutal, ceremonial, expensive, and engineered for endless war.
+Keep the head uncovered so each character’s original face, hair, and expression remain visible.
+Use each attached character’s colours, motifs, accessories, outfit shapes, symbols, materials, personality, and overall vibe as the foundation for their armour redesign.
+The armour should feel like it belongs in a 40K-inspired universe, but it must be custom-built from the attached character’s own identity.
+If multiple characters are present, each one must have a distinct armour design based on their own original reference rather than all wearing identical suits.
+Armour design:
+Give each character huge futuristic power armour inspired by 40K-style grimdark gothic sci-fi warfare.
+Include broad pauldrons, a strong chest plate, layered armour segments, mechanical joints, reinforced thighs, heavy boots, thick gauntlets, power cables, vents, seals, relic-like details, engraved plates, purity-scroll-like decorations, battle damage, and character-specific symbols.
+Adapt each armour design to that character’s original style, colour palette, outfit motifs, accessories, personality, and silhouette.
+Keep the armour stylized to match the attached reference image or images rather than realistic.
+
+Weapon design:
+Give each character a fitting oversized futuristic weapon inspired by 40K-style grimdark sci-fi warfare.
+The weapon can be a heavy explosive sci-fi rifle, massive energy weapon, brutal motorized serrated melee weapon, glowing power blade, ceremonial war hammer, plasma-like cannon, heavy pistol, or other far-future battlefield weapon appropriate to their vibe and role.
+Each character’s weapon should be different and should match that character’s identity, armour design, and role in the scene.
+If the selected scene is calm, ceremonial, or off-duty, the weapon may be held at rest, slung, holstered, leaned nearby, placed on a table, or carried ceremonially, but it should still be visible.
+If the selected scene is battle-heavy, make each weapon active, weighty, readable, and integrated into the pose.
+Scene adaptation rules:
+If the selected scene is battle-heavy, make the action dynamic but readable, with strong poses, clear silhouettes, environmental destruction, smoke, fire, debris, and a strong sense of momentum.
+If the selected scene is solemn, sacred, or ceremonial, focus on mood, scale, banners, relics, candles, incense, stained glass, and reverent atmosphere.
+If the selected scene is indoors, use gothic sci-fi architecture, industrial machinery, cathedral-scale interiors, fortress spaces, armouries, barracks, command rooms, or military infrastructure that fit the selected location.
+If the selected scene is everyday-life or off-duty, keep the armour and 40K-inspired universe intact, but show the character or characters in a grounded moment such as maintenance, briefing, prayer, conversation, eating, resting, training, repairing gear, or preparing equipment.
+If multiple characters are present, make their interaction clear and readable, with each one contributing to the scene rather than standing as vague duplicates.
+Environment and composition:
+Build the environment around the selected scene.
+The setting should feel like the kind of place the character or characters naturally belong in once translated into a 40K-inspired grimdark far-future war universe.
+Use a wide 16:9 horizontal cinematic composition.
+Keep the main subject or subjects clearly visible, central or compositionally dominant, and easy to read at a glance.
+If one character is present, give them a strong hero composition with a clear silhouette and dominant visual presence.
+If multiple characters are present, arrange them so every character remains readable and identifiable with clean silhouette separation.
+For three attached references, use a clear three-person squad composition with all three faces visible.
+Use background architecture, smoke, debris, banners, machinery, sparks, haze, relics, gothic shapes, or cathedral-like scale to support the scene without overpowering the characters.
+Lighting and mood:
+Use lighting that matches the selected scene.
+The image should feel grim, cinematic, epic, and immersive, with dramatic contrast and strong atmosphere.
+Use battlefield firelight, smoky haze, stained-glass glow, cold ship lighting, industrial sparks, moody rim light, incense haze, harsh military illumination, glowing machinery, or distant explosions where appropriate.
+The mood should feel powerful, warlike, sacred, brutal, and character-specific while still reflecting each original character’s personality.
+Quality and rendering:
+Polished, premium-quality stylized illustration with clean linework, crisp rendering, readable forms, powerful armour design, expressive visible faces, strong weapon design, and clear composition.
+Keep the strongest detail concentrated on the referenced character or characters, their armour, their faces, and their weapons.
+Maintain strong visual hierarchy and readability.
+The background should support the characters rather than becoming busier than them.
+
+Do not:
+Do not ignore the SCENE SELECTOR.
+Do not create more or fewer main characters than the number of attached character reference images.
+Do not create only two characters if three character reference images are attached.
+Do not duplicate the first attached character instead of using the second or third reference.
+
+Do not merge multiple attached references into fewer characters.
+Do not make any referenced character a clone, twin, recolour, armour variant, or alternate version of another referenced character.
+Do not hide, crop, mask, or cover any referenced character’s face.
+Do not make every character wear the same identical armour if multiple references are provided.
+
+Do not make the weapon tiny, modern, toy-like, or visually unimportant.
+Do not make the background busier than the characters.
+Do not make the main subjects blurry, tiny, hidden, or unreadable.
+Do not create messy anatomy, extra limbs, malformed hands, distorted faces, or muddy textures.
+Do not use photorealism unless specifically requested.
+
+..............................END OF PROMPT..................................
+#POTD #promptoftheday #AI #AiArt #Art #AnimeArt #40K #Grimdark #PowerArmour #SciFi #CharacterDesign #DigitalArt #AnimeStyle #CommunityPrompt
+```
+
+<!-- Case 20: Vertical Character Concept Sheet (by @iamaiistudio) -->
+### Case 20: [Vertical Character Concept Sheet](https://x.com/iamaiistudio/status/2065118633198829601) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case20/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vertical Character Concept Sheet"></a> |
+
+**Prompt:**
+
+```
+prompt:
+
+Design a high-resolution vertical character concept poster with a luxurious pink and white aesthetic that blends elegance with edgy modern fashion. The layout should feel like a premium magazine profile with clean sections and precise grid alignment.
+
+Main subject: An original young woman (not based on any real person), with long silky dark hair featuring subtle pink highlights. She has a confident, calm expression with a slightly mysterious aura. She wears a black and pink hybrid outfit (merging streetwear with idol fashion) featuring glossy textures, lace details, and metallic accents. Lighting is soft but dramatic, with a neon pink glow set against dark tones.
+
+Top section:
+Large hero portrait on one side. On the opposite side, a sleek profile panel with refined English text:
+
+Name: Nyra Vale
+Age: 23
+Height: 170 cm
+Style: Dark Elegance
+
+Short bio:
+"She doesn't follow trends, she sets them. Quiet strength, sharp vision, and a presence that speaks without words."
+
+Include a Traits section with stylized progress bars:
+
+Confidence
+Creativity
+Discipline
+Charisma
+Emotional Depth
+
+Middle section:
+A grid of 5-6 small portraits capturing different expressions (soft smile, intense gaze, playful smirk, thoughtful, confident).
+
+Lower sections:
+
+Full-body poses (front view, side view, walking pose, power stance, casual stance).
+Outfit variations (street luxe, stage outfit, minimal chic).
+Accessories panel (heels, boots, chains, rings, handbags, hairstyles).
+
+Text tone:
+Bold, meaningful, and confident, emphasizing individuality, self-worth, and quiet power. No filler text.
+
+Style:
+Ultra-detailed, 4K quality, glossy magazine finish, cinematic lighting, sharp focus, balanced contrast, modern editorial layout, perfectly aligned grid.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 21: 3D Acrobat Jumping Editorial Cartoon (by @iamaiistudio) -->
+### Case 21: [3D Acrobat Jumping Editorial Cartoon](https://x.com/iamaiistudio/status/2065058228585844954) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case21/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Acrobat Jumping Editorial Cartoon"></a> |
+
+**Prompt:**
+
+```
+prompt:
+
+One complete 3D illustration, editorial exaggerated cartoon style, single standalone image, not a storyboard or multi-panel layout.
+
+Central character: a cartoon figure with a tiny head, chubby round torso, super-long limbs, huge hands and bulky shoes, slightly off-balance, caught mid-jump in a dramatic pose radiating tension and playful energy.
+
+The silhouette reads like a soft toy sculpture — plump, springy, and exaggerated, not anatomically realistic.
+
+Surface quality: matte rubber, fuzzy textile, knitted detail, clay-like feel, subtle fiber grain, handmade texture. Avoid shiny plastic, transparent glass, or high-spec reflections.
+
+Color: vibrant dopamine palette, high saturation, strong color contrasts, large bold flat fills — vivid but not neon-overexposed.
+
+Background: pure white, minimal staging, just a gentle oval drop shadow beneath the character, no elaborate setting.
+
+Decorative floating elements orbiting the character: stars, wavy lines, spheres, cubes, icons, abstract shapes — all sculpted as soft rubber or paper-like 3D props, amplifying motion and graphic energy.
+
+Lighting: soft studio setup, global illumination, diffused shadows, low contrast, polished commercial feel.
+
+Rendered in C4D or Blender: stylized soft-sculpture aesthetic, matte clay finish, knitted fabric surface, playful editorial tone, high resolution.
+
+— Scene: a pastel-toned acrobat throwing both arms up in a victorious airborne leap, wearing chunky multicolor sneakers
+
+#AIart #GPTImage2
+```
+
+<!-- Case 22: 雨中灵姬东方幻想 3D CG 角色 (by @liyue_ai) -->
+### Case 22: [雨中灵姬东方幻想 3D CG 角色](https://x.com/liyue_ai/status/2065107695557075460) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case22/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 雨中灵姬东方幻想 3D CG 角色"></a> |
+
+**Prompt:**
+
+```
+9:16 竖版，高精度 3D CG 东方幻想女性角色写真，3D CG oriental fantasy beauty portrait，anime-style 3D CG character art，semi-realistic 3D character render，镜头为大腿及上半身构图，画面主体是一位明确成年的年轻东方幻想系女性，视觉年龄约 20–26 岁，整体气质清冷、空灵、精致、安静，带有雨中水系精灵般的神秘感与高级感。整体不是平面插画，而是高完成度 3D CG 角色渲染，具有精致角色建模、真实材质表现、电影级冷调柔光与高级虚拟角色海报质感。
+
+人物拥有精致的东方美型脸，小巧流畅的鹅蛋脸，皮肤冷白细腻，带轻微通透感与柔和皮肤着色，肌肤表面有细腻水珠与湿润反光。眼睛细长清澈，瞳色为冰蓝绿调，瞳孔有通透玻璃感与细致高光，眼神微垂，安静、疏离、略带脆弱感。睫毛纤长，眼妆干净克制，鼻梁秀气挺直，嘴唇柔软，唇色为低饱和裸粉色，嘴唇微启，神情冷静而迷人。
+
+发型为短款蓝黑色渐变发，主色为浓黑与深海军蓝，发尾带冷调蓝色高光，发型为短层次波浪感短发，一侧额发自然垂落遮住部分脸颊，顶部带编发结构，发丝湿润、轻盈、细腻，具有高精度发丝建模与柔顺光泽。耳部佩戴精致蓝色水晶几何耳饰与金属耳骨夹，增强东方幻想与水元素气质。颈部佩戴白色高领装饰项圈与青蓝色宝石流苏细节，精致而高级。
+
+服装为精致的东方幻想水系礼装，上半身穿着白色轻薄、湿润感的缎面的贴身长裙，布料柔软垂坠，带细腻高光和微透感，胸口与躯干线条以克制优雅的方式表现。外层披着一件宽松白色衬衫式轻纱外搭，自然滑落至手臂与腰侧，形成层叠褶皱与飘逸感，增强随性与梦幻氛围。腰臀处可见黑色蕾丝边短裤细节，作为整体造型中的轻哥特点缀，使画面更具层次与精致感，但整体保持高级、克制、不低俗。
+
+人物姿势为优雅侧身站立，身体呈现流畅的 S 型曲线，肩颈舒展，背部与腰线自然延展，头部微微低垂侧转，视线向下，整体姿态安静、轻盈、克制。手臂自然下垂，手指修长，姿态如同在雨中静立的一瞬间，突出侧脸、肩颈、背部、腰臀线条与服装湿润材质的精致表现。
+
+背景调整为精致的东方幻想水境场景，整体以冷白、冰蓝、淡灰为主色调。背景为朦胧的雨幕、轻雾与若隐若现的东方幻想建筑轮廓，可融入远处模糊的亭台、石阶、水池边缘或空灵宫殿轮廓，营造高级幻想空间感。人物周围有动态水花、水流弧线与透明水晶般飞溅效果，像由水元素凝结出的装饰性波纹，背景适度虚化，既通透空灵，又不喧宾夺主。
+
+光线采用冷白主光与柔和逆光结合，整体为雨天高调低饱和电影感打光。面部、锁骨、肩背、手臂与腿部有细腻湿润高光，发丝边缘与水花边缘有轻微轮廓光。白色布料、蕾丝、金属、宝石、水珠与水花都具有真实清晰的材质反馈。整体画面干净、通透、冷艳、梦幻、精修感强，具有高端收藏级 3D CG 东方幻想角色海报质感。
+
+high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic lighting, PBR materials, subsurface scattering skin, realistic wet hair strands, translucent wet fabric, crystal water splash effects, delicate lace details, elegant oriental fantasy styling, aquatic spirit atmosphere, volumetric light, cinematic depth of field, soft bloom, ultra detailed, polished anime realism, premium virtual character portrait
 ```
 
 
@@ -6611,7 +8068,7 @@ Full prompt:
 **Prompt:**
 
 ```
-Full prompt: 
+Full prompt:
 
 Using the attached image, create a professional industrial packaging design illustration sheet.
 
@@ -7702,6 +9159,36 @@ Prioritize authentic sushi craftsmanship:
 Avoid all exaggerated or stylized effects.
 
 ---
+
+<!-- Case 103: Old Footage Restoration with GPT-Image 2 (by @CuriousRefuge) -->
+### Case 103: [Old Footage Restoration with GPT-Image 2](https://x.com/CuriousRefuge/status/2065139340486045905) (by [@CuriousRefuge](https://x.com/CuriousRefuge))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case103/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Old Footage Restoration with GPT-Image 2"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case103/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Old Footage Restoration with GPT-Image 2"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case103/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Old Footage Restoration with GPT-Image 2"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case103/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Old Footage Restoration with GPT-Image 2"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Transform the attached image into a high resolution digital photo that looks like it was taken yesterday. Make it look like it was taken with a Canon EOS R6. Cinematic color grading and lighting. Keep details the same, only change the quality and resolution.
+
+Once GPT-Image 2 gives you the first ultra high quality image, upload the rest of your stills and input the following prompt: do the same for these attached photos  Download all the ultra high quality images
+```
+
+<!-- Case 104: 4 Architectural Styles 2×2 Grid (by @Gdgtify) -->
+### Case 104: [4 Architectural Styles 2×2 Grid](https://x.com/Gdgtify/status/2065191846800740636) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case104/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 4 Architectural Styles 2×2 Grid"></a> |
+
+**Prompt:**
+
+```
+2x2 grid, do this for 4 famous architectural styles. Anchor: [Architectural Style] :: [Geometric Essence & Period]. Each panel shows a representative building in that exact style with consistent camera angle and neutral sky background.
+```
+
 
 ## Ingredient Preparation Rules
 

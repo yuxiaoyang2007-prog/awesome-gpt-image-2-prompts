@@ -589,3 +589,21 @@ Rendered in C4D or Blender: stylized soft-sculpture aesthetic, matte clay finish
 
 high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic lighting, PBR materials, subsurface scattering skin, realistic wet hair strands, translucent wet fabric, crystal water splash effects, delicate lace details, elegant oriental fantasy styling, aquatic spirit atmosphere, volumetric light, cinematic depth of field, soft bloom, ultra detailed, polished anime realism, premium virtual character portrait
 ```
+
+---
+### Case 23: Surreal Cartoon Portrait Template
+
+**Source**: [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2066048157805629937)
+
+**Output:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case23/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case23/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case23/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case23/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Vertical bizarre flat cartoon portrait of [SUBJECT from the attached photo] with a high geometric head shape, a long narrow neck, huge round eyes, a tiny mouth and an unflappable laugh, dressed in [CLOTHES from the photo], with a [OBJECT/CREATURE] sitting on their head like a living hat. Pure black outline, smooth color fills, simple face shapes, rare drawings on animal fur or skin, playful surreal character design, bold graphic palette [COLOR]. Background decorations: [ENVIRONMENT DECORATIONS from LOCATION/SCENE], made using simplified shapes, clear depth, a small amount of scenery from the environment and a clear cartoon perspective. Clear digital illustration, vertical framing in the form of a poster, no realism, no 3D rendering, no picturesque shading, aspect ratio 4:5.
+```

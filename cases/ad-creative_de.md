@@ -1054,3 +1054,179 @@ A luxury watch emerges from darkness. Extreme macro shot of ticking gears and mo
 ```
 品牌 KV 海报系列。使用统一提示词框架，针对不同饮料品牌调整视觉情绪色彩：可口可乐 → 热烈红色聚会感；百事可乐 → 年轻蓝色潮流感；雪碧 → 清爽绿色柠檬感。同一结构展现不同品牌 DNA。3 张对比输出。
 ```
+
+---
+### Case 188: Luxus-Sneaker-Editorialraster
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065964253505585436)
+
+**Output:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case188/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+
+**Prompt:**
+
+```
+Louis Vuitton luxury leather sneaker campaign. High-fashion editorial, avant-garde aesthetic. Aspect ratio 3:4.
+
+Materials: Full-grain calf leather, Monogram Embossed Canvas, Polished Gold Hardware.
+Color palette: Cognac Brown, Deep Obsidian, Champagne Gold.
+Lighting: High-contrast Chiaroscuro with soft-box key lighting.
+
+9-cell editorial grid:
+
+Row 1, Heritage:
+- Hero side-profile: sneaker resting on a vintage LV trunk, side-lit to reveal the leather grain texture.
+- Extreme macro close-up: gold-tone "LV" lace aglets and precision stitching detail.
+- Dynamic shot: gold dust particles swirling around the sole as the shoe steps into frame.
+
+Row 2, Innovation:
+- Minimalist: sneaker balanced on top of an abstract, floating glass "V" sculpture.
+- Floating deconstructed view: sole and upper suspended in a void.
+- Sensory: a gloved hand adjusting the tongue, highlighting the softness of the leather.
+
+Row 3, Surrealism:
+- Monochromatic scene in LV Havane brown with liquid silk drapes.
+- Abstract: rubber sole pattern reimagined as a geometric desert landscape.
+- Fusion: sneaker walking on a mirror-still lake reflecting a Parisian sunset skyline.
+```
+
+---
+### Case 189: Lifestyle-Anzeige für kabellose Ohrhörer
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065753093283991651)
+
+**Output:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case189/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+
+**Prompt:**
+
+```
+Design a 9:16 vertical product infographic for Bolt True Wireless Earbuds with a high-end lifestyle ad feel.
+Composition & Framing
+Full-body shot of a young woman whose face, skin tone, and hairstyle match the reference photo exactly
+Slightly low camera angle close to the subject, fashion campaign style, for depth and visual presence
+She's seated casually on the floor, one knee up, one leg stretched toward the camera
+Foreground (Product)
+She holds an open Bolt earbud charging case out toward the viewer
+One earbud is visible inside the case, the other is in her ear
+The case is glossy white with "BOLT" branding
+Slight macro bokeh blur on the hand and case for cinematic depth
+Outfit & Style
+Modern athleisure streetwear: off-white or neutral lightweight jacket, crop top or sports bra, soft pink joggers, textured white sneakers
+Expression: confident and relaxed, subtle smile
+Pose feels natural and lifestyle-driven, not posed
+Background
+Soft gray gradient studio background
+Rainbow prism lens flares and subtle light leaks
+Floating blurred earbuds and case in background
+Studio floor texture visible underfoot
+Lighting
+Diffused commercial studio lighting emphasizing skin texture, the glossy case, and fabric detail
+Soft rim light to separate the subject from the background
+Text Overlays (modern sans-serif, white)
+Top Center: "BOLT" in large bold text, partially behind the subject
+Top Right: Bolt Earbuds / True Wireless
+Mid Left: Powerful sound. / Effortless vibes. / Engineered for every beat of your day.
+Mid Right: 30 hours of playtime / IPX5 water resistant
+Bottom Right: 1 year warranty
+Quality
+8K ultra-realistic commercial photography
+Sharp on face and earbuds, gentle depth blur on foreground and background
+Clean Apple/Nike premium ad aesthetic, strong negative space
+```
+
+<!-- Case 190: Kinder-Joy-Szene mit Schaukelsessel (by @iamaiistudio) -->
+### Case 190: [Kinder-Joy-Szene mit Schaukelsessel](https://x.com/iamaiistudio/status/2066312771978092587) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case190/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Kinder-Joy-Szene mit Schaukelsessel"></a> |
+
+**Prompt:**
+
+```
+Hyper-realistic 8k medium shot photograph with shallow depth of field, surreal indoor scene with cinematic lighting. A normal-sized woman sits cross-legged inside a massive, highly detailed Kinder Joy egg that's been converted into a swing chair. The egg is split open, its white interior forming the seat and orange textured exterior visible, suspended by dark metal chains from a curved metal stand.
+
+She wears a black t-shirt and blue-and-white plaid pajama pants, holding a small white teacup with both hands, gazing directly at the viewer with a calm, relaxed expression. Use uploaded face as reference.
+
+On a polished wooden table to the left foreground: another gigantic fully wrapped Kinder Joy egg with intricate foil texture and branding details. To the right of the swing base: a vintage-style wooden radio with white dials, and a tiny bonsai tree in a small pot.
+
+Soft warm directional lighting from the left casts subtle shadows, highlighting the detailed egg wrapper textures, clothing, and wooden surface. Background is a softly blurred warm-toned interior wall with pleasing bokeh. Standard lens, shot from mid-height.
+```
+
+<!-- Case 191: Invisible Shield Sonnencreme-Anzeige (by @iamrealsnow) -->
+### Case 191: [Invisible Shield Sonnencreme-Anzeige](https://x.com/iamrealsnow/status/2066200217347854445) (by [@iamrealsnow](https://x.com/iamrealsnow))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case191/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Invisible Shield Sonnencreme-Anzeige"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case191/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Invisible Shield Sonnencreme-Anzeige"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+SUNSCREEN AD, “THE INVISIBLE SHIELD”
+
+Luxury skincare advertising masterpiece, a colossal premium sunscreen bottle standing on a pristine tropical shoreline at golden hour, powerful beams of sunlight crashing down from the sky and splitting apart upon contact with a transparent protective energy dome radiating from the sunscreen, millions of sparkling UV particles dissolving into golden dust before reaching flawless skin, crystal clear ocean reflections, flowing water suspended in mid air around the product, microscopic droplets catching cinematic sunlight, ultra realistic textures revealing every detail of the bottle surface, luxury beauty campaign aesthetics, dramatic volumetric lighting, glowing atmospheric haze, premium white and gold color palette, futuristic protection technology visualized as elegant light waves, hyper detailed environment, commercial photography perfection, award winning advertising design, photorealistic rendering, 16K ultra resolution, global skincare brand campaign, masterpiece quality.
+
+Text Overlay:
+SUNSCREEN
+
+Tagline:
+“Protect Every Ray. Reveal Every Glow.
+```
+
+<!-- Case 192: Landschaftsillusion mit verstecktem Logo (by @iamaiistudio) -->
+### Case 192: [Landschaftsillusion mit verstecktem Logo](https://x.com/iamaiistudio/status/2066191259354689714) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case192/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Landschaftsillusion mit verstecktem Logo"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case192/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Landschaftsillusion mit verstecktem Logo"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Create a subliminal advertising landscape photograph where a recognizable brand logo (like the Apple logo, Nike swoosh, or Batman symbol) is secretly embedded into a breathtaking natural environment (like snowy mountains, dense jungle, sand dunes, or ocean coastline).
+
+The logo must be formed entirely by the physical geography of the terrain — NOT overlaid digitally. The main body of the logo appears as a carved void (a deep valley, cliff edge, or sharp color contrast in the terrain), while any disconnected elements (like Apple's leaf) float as a suspended island of rock and earth in the misty sky above.
+
+Camera: wide aerial drone shot, landscape stretching vast and majestic across the frame.
+
+Atmosphere: dramatic and moody — heavy swirling clouds, rolling mist through valleys, crepuscular god rays bursting through gaps in the clouds, defining the hidden silhouette.
+
+Visual rule: at first glance it must look like a 100% authentic nature photo. The brand logo only emerges as an optical illusion (pareidolia) on second look. Edges must be slightly jagged and organic, shaped by real geological features like cliff faces and treelines — never perfect vector shapes.
+
+Lighting: high contrast between dark shadowed valleys (dense forests) and bright snow or sunlit highlights. Sun partially hidden behind clouds or the floating landmass, backlighting the entire scene.
+
+Mood: cinematic, majestic, subtly surreal.
+
+Output: 1:1 square, photorealistic, National Geographic aerial photography aesthetic.
+```
+
+<!-- Case 193: SPLASH-Modeposter mit Flüssiglogo (by @iamaiistudio) -->
+### Case 193: [SPLASH-Modeposter mit Flüssiglogo](https://x.com/iamaiistudio/status/2065979523229975021) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case193/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - SPLASH-Modeposter mit Flüssiglogo"></a> |
+
+**Prompt:**
+
+```
+Hyper-realistic fashion campaign poster for brand "SPLASH". A girl (matching the reference photo exactly, same face) seated confidently atop a gleaming, water-like 3D SPLASH logo surrounded by dynamic water splash effects. Editorial pose: one leg loose, one bent.
+
+Enormous bold "SPLASH" typography fills the background, partially behind her. Small tagline reads: "Own Your Style."
+
+Clothing: contemporary black streetwear (blazer, fitted top, trousers, sneakers).
+
+Lighting: cinematic studio setup with soft key light and rim light, glossy reflections on the liquid logo.
+
+Style: luxury fashion campaign aesthetic (Zara / H&M), polished clean environment.
+
+Shot with an 85mm lens, shallow depth of field, 8K resolution, ultra-detailed, photorealistic.
+```

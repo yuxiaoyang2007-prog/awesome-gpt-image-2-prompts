@@ -3697,3 +3697,20 @@ Ultra-detailed digital portrait illustration of a confident young man with sharp
 ```
 深夜调酒师人物摄影：高级酒吧场景、暗红灯光、玻璃酒杯反光 + 黑衬衫、深酒红马甲、袖箍建立人物身份感 + 调酒动作、抬眼看镜头、金色边缘光建立封面气场。危险但克制的气质，深夜暗红酒吧封面风。
 ```
+
+<!-- Case 304: 針氈羊毛微縮人偶 (by @iamaiistudio) -->
+### Case 304: [針氈羊毛微縮人偶](https://x.com/iamaiistudio/status/2066206049464660301) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case304/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 針氈羊毛微縮人偶"></a> |
+
+**提示詞:**
+
+```
+Transform the subject into a handcrafted needle-felted wool miniature. Material: organic roving wool with visible needle-punch textures, soft fuzzy surface, and handcrafted seams. Eyes are tiny black bead eyes or simple felted circles.
+
+Style rules: slightly oversized head with simplified limbs and a cute, charming aesthetic. Retain the original colors from the source image but soften them with wool texture. Clothing becomes simplified felt versions of the original outfits with tiny fabric buttons and stitched details. Accessories are recreated as miniature felted props.
+
+Camera: macro photography, close-up shot. Soft studio lighting with warm highlights and gentle shadows. Clean, out-of-focus bokeh background in a neutral craft studio setting. Shallow depth of field (f/2.8). High fidelity, 8k resolution, photorealistic wool texture, Pixar-like character charm.
+```

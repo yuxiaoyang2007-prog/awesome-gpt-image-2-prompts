@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![848 Curated Prompts](https://img.shields.io/badge/Prompts-848_Curated_Cases-111111)](README.md)
+[![871 Curated Prompts](https://img.shields.io/badge/Prompts-871_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -28,57 +28,64 @@
 - [🍌 Einführung](#-einführung)
 - [❓ Was ist GPT Image 2?](#-was-ist-gpt-image-2)
 - [📰 Neuigkeiten](#-neuigkeiten)
-- [🔌 Use GPT Image 2 API](#-use-gpt-image-2-api)
-- [🛒 E-commerce Cases](#-e-commerce-cases)
-- [📣 Ad Creative Cases](#-ad-creative-cases)
-- [🍌 Portrait & Photography Cases](#-portrait--photography-cases)
-- [🎨 Poster & Illustration Cases](#-poster--illustration-cases)
-- [🧍 Character Design Cases](#-character-design-cases)
-- [📱 UI & Social Media Mockup Cases](#-ui--social-media-mockup-cases)
-- [🧪 Comparison & Community Examples](#-comparison--community-examples)
+- [🔌 GPT Image 2 API verwenden](#-gpt-image-2-api-verwenden)
+- [🛒 E-Commerce-Cases](#-e-commerce-cases)
+- [📣 Werbe-Creative-Cases](#-ad-creative-cases)
+- [🍌 Portrait- und Fotografie-Cases](#-portrait--photography-cases)
+- [🎨 Poster- und Illustrations-Cases](#-poster--illustration-cases)
+- [🧍 Charakterdesign-Cases](#-character-design-cases)
+- [📱 UI- und Social-Media-Mockup-Cases](#-ui--social-media-mockup-cases)
+- [🧪 Vergleichs- und Community-Beispiele](#-comparison--community-examples)
 - [🤝 Mitwirken](#-mitwirken)
-- [🙏 Acknowledge](#acknowledge)## 🍌 Introduction
+- [🙏 Danksagung](#danksagung)
+- [Star-Verlauf](#star-verlauf)
 
-Welcome to the **Awesome GPT Image 2 API and Prompts** repository! 🤗
+## 🍌 Einführung
 
-A curated collection of **848+ high-quality GPT-Image-2 prompts**, API usage patterns, and reusable visual workflows for AI image generation.
+Willkommen im Repository **Awesome GPT Image 2 API and Prompts**! 🤗
 
-Whether you're looking for GPT-Image-2 prompt examples, text-to-image best practices, image editing techniques, or ready-to-use prompt templates — this is your one-stop reference.
+Eine kuratierte Sammlung von **871+ hochwertigen GPT-Image-2 Prompts**, API-Nutzungsmustern und wiederverwendbaren visuellen Workflows für KI-Bildgenerierung.
 
-**What you'll find here:**
-- 🎯 Production-ready prompts across 7 categories (portrait, poster, UI, e-commerce, ad creative, character design, comparison)
-- 🔌 GPT Image 2 API integration guides and callable skills
-- 🌍 Full documentation in 11 languages
-- 📸 Real output images for every prompt case
+Wenn du nach GPT-Image-2 Prompt-Beispielen, Best Practices für Text-zu-Bild, Bildbearbeitungstechniken oder direkt nutzbaren Prompt-Vorlagen suchst, findest du hier eine zentrale Referenz.
 
-Try it on Evolink: [GPT-Image-2 API](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
+**Was du hier findest:**
+- 🎯 Produktionsreife Prompts in 7 Kategorien (Portrait, Poster, UI, E-Commerce, Werbe-Creatives, Charakterdesign, Vergleich)
+- 🔌 Integrationshinweise für die GPT Image 2 API und aufrufbare Skills
+- 🌍 Vollständige Dokumentation in 11 Sprachen
+- 📸 Reale Ausgabebilder zu jedem Prompt-Case
 
-If you find this useful, consider giving it a star. ⭐
+Auf Evolink ausprobieren: [GPT-Image-2 API](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
+
+Wenn dir diese Sammlung hilft, freuen wir uns über einen Star. ⭐
 
 <a href='https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-API-and-Prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
 
-## ❓ What is GPT Image 2
+## ❓ Was ist GPT Image 2?
 
-**GPT Image 2** (also known as GPT-Image-2 or gpt-image-2) is OpenAI's latest image generation and editing model, integrated natively into ChatGPT and available via the OpenAI API.
+**GPT Image 2** (auch GPT-Image-2 oder gpt-image-2 genannt) ist OpenAIs aktuelles Modell für Bildgenerierung und Bildbearbeitung. Es ist nativ in ChatGPT integriert und über die OpenAI API verfügbar.
 
-**Key capabilities:**
-**Text-to-image generation** — Create photorealistic images, illustrations, posters, UI mockups, and more from natural language prompts
-**Image editing** — Modify existing images with text instructions (inpainting, outpainting, style transfer)
-**Multi-turn conversations** — Iteratively refine images through dialogue
-**High fidelity text rendering** — Accurately render text within generated images
-**Consistent character generation** — Maintain character identity across multiple generations
+**Kernfunktionen:**
+**Text-zu-Bild-Generierung** — Erstelle fotorealistische Bilder, Illustrationen, Poster, UI-Mockups und mehr aus natürlichsprachlichen Prompts
+**Bildbearbeitung** — Verändere bestehende Bilder per Textanweisung (Inpainting, Outpainting, Style Transfer)
+**Mehrstufige Dialoge** — Verfeinere Bilder iterativ im Gespräch
+**Hochpräzise Textdarstellung** — Rendere Text innerhalb generierter Bilder zuverlässig
+**Konsistente Charaktergenerierung** — Bewahre die Identität einer Figur über mehrere Generierungen hinweg
 
-**Why developers use the GPT Image 2 API:**
-One API call for both generation and editing
-Superior prompt adherence compared to previous models
-Native support for aspect ratios, transparency, and batch generation
-Works with OpenAI's standard API format (`/v1/images/generations`)
+**Warum Entwickler die GPT Image 2 API nutzen:**
+Ein API-Aufruf für Generierung und Bearbeitung
+Bessere Prompt-Treue als frühere Modelle
+Native Unterstützung für Seitenverhältnisse, Transparenz und Batch-Generierung
+Kompatibel mit OpenAIs Standard-API-Format (`/v1/images/generations`)
 
-> Learn more about using the API in the Use GPT Image 2 API section below.
+> Mehr zur API-Nutzung findest du im Abschnitt GPT Image 2 API verwenden.
 
 ## 📰 Neuigkeiten
 
-**June 12, 2026:** Added 42 new GPT-Image-2 prompt cases (19 portrait, 12 poster, 4 ad-creative, 4 character, 2 comparison, 1 ecommerce) from daily curation batch after approval and media validation; 2 approved candidates were skipped because the tweet lookup returned no usable media
+**15. Juni 2026:** 9 neue GPT-Image-2-Prompt-Cases hinzugefügt (4 Werbekreation, 3 Poster, 1 Portrait, 1 UI) aus dem Image-Prompt-Update-Loop nach semantischer Prüfung und Medienvalidierung
+
+**14. Juni 2026:** 14 neue GPT-Image-2-Prompt-Cases hinzugefügt (9 Poster, 2 Werbekreation, 1 Charakter, 1 UI, 1 Vergleich) aus dem Image-Prompt-Update-Loop nach semantischer Prüfung und Medienvalidierung
+
+**12. Juni 2026:** 42 neue GPT-Image-2 Prompt-Cases hinzugefügt (19 Portrait, 12 Poster, 4 Werbe-Creatives, 4 Charakter, 2 Vergleich, 1 E-Commerce) aus dem täglichen Kurationsbatch nach Freigabe und Medienvalidierung; 2 freigegebene Kandidaten wurden übersprungen, weil die Tweet-Abfrage keine nutzbaren Medien zurückgab
 
 **10. Juni 2026:** 31 neue GPT-Image-2 Prompt-Cases hinzugefügt (9 Portrait, 21 Poster, 1 Vergleich) aus dem täglichen Kurationsbatch nach Überprüfung und Medienvalidierung
 
@@ -116,22 +123,24 @@ Works with OpenAI's standard API format (`/v1/images/generations`)
 - **29. April 2026:** 22 neue Prompt-Fälle hinzugefügt (3 E-Commerce, 3 Werbung, 4 Portrait, 2 Charakter, 9 Poster, 1 Vergleich)
 - **18. April 2026:** Erste Veröffentlichung des Repositories mit kuratierter GPT-Image-2 Fallsammlung
 
-</details>## 🔌 Use GPT Image 2 API
+</details>
 
-Want to move from prompt inspiration to real image generation fast? Use the GPT Image 2 API docs together with the callable skill.
+## 🔌 GPT Image 2 API verwenden
 
-### 1. Quick Install the Skill
+Möchtest du schnell von Prompt-Inspiration zu echter Bildgenerierung wechseln? Nutze die GPT Image 2 API-Dokumentation zusammen mit dem aufrufbaren Skill.
 
-- [Go to gpt-image-2-gen-skill repository](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
-- One-line install:
+### 1. Skill schnell installieren
+
+- [Zum Repository gpt-image-2-gen-skill wechseln](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
+- Installation mit einem Befehl:
 
 ```bash
 npx evolink-gpt-image -y
 ```
 
-### 2. Quick Connect to the API
+### 2. Schnell mit der API verbinden
 
-- Connect command:
+- Verbindungsbefehl:
 
 ```bash
 curl --request POST \
@@ -144,12 +153,12 @@ curl --request POST \
 }'
 ```
 
-- [Get your API key](https://evolink.ai/dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
-- Read GPT Image 2 API docs
+- [API-Schlüssel abrufen](https://evolink.ai/dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
+- GPT Image 2 API-Dokumentation lesen
 
 ## 🛒 E-commerce Cases
 
-> **10 curated cases**
+> **12 curated cases**
 
 <!-- Case 151: E-commerce Main Image - Miniature Diorama Skincare Advertisement (by @Strength04_X) -->
 ### Case 151: [E-commerce Main Image - Miniature Diorama Skincare Advertisement](https://x.com/Strength04_X/status/2048074514278563949) (by [@Strength04_X](https://x.com/Strength04_X))
@@ -351,6 +360,7 @@ Avoid repeated concepts, repeated props, repeated backgrounds, flat lighting, we
 A high-performance running shoe transformed into a miniature brand universe. The shoe is the hero character, surrounded by floating speed trails, miniature running tracks, energetic mascot companions, stopwatch icons, clouds, and dynamic sports-inspired elements. Oversized bold typography integrated into the scene. Clean commercial 3D rendering, pastel orange, white, and gray color palette derived from the product, premium packaging aesthetics, soft gloss, graphic backgrounds, floating platforms, collectible toy-like charm. Modern consumer branding, cute yet premium, highly shareable social-media campaign visual, rich detail, centered composition, studio quality.
 ```
 
+
 <!-- Case 172: Romantic Smartphone Couple Scene Product Shot (by @hmontilla_) -->
 ### Case 172: [Romantic Smartphone Couple Scene Product Shot](https://x.com/hmontilla_/status/2065072437398589669) (by [@hmontilla_](https://x.com/hmontilla_))
 
@@ -388,7 +398,7 @@ Distorted hands, extra fingers, broken anatomy, duplicated limbs, unrealistic re
 
 ## 📣 Ad Creative Cases
 
-> **11 curated cases** — [Explore all Ad Creative Prompts →](cases/ad-creative.md)
+> **21 curated cases** — [Explore all Ad Creative Prompts →](cases/ad-creative.md)
 
 <!-- Case 176: Luxury Chronograph Watch Ad (by @AlwaveNazca) -->
 ### Case 176: [Luxury Chronograph Watch Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
@@ -728,9 +738,178 @@ A luxury watch emerges from darkness. Extreme macro shot of ticking gears and mo
 ```
 
 
+<!-- Case 188: Luxus-Sneaker-Editorialraster (by @iamaiistudio) -->
+### Case 188: [Luxus-Sneaker-Editorialraster](https://x.com/iamaiistudio/status/2065964253505585436) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case188/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+
+**Prompt:**
+
+```
+Louis Vuitton luxury leather sneaker campaign. High-fashion editorial, avant-garde aesthetic. Aspect ratio 3:4.
+
+Materials: Full-grain calf leather, Monogram Embossed Canvas, Polished Gold Hardware.
+Color palette: Cognac Brown, Deep Obsidian, Champagne Gold.
+Lighting: High-contrast Chiaroscuro with soft-box key lighting.
+
+9-cell editorial grid:
+
+Row 1, Heritage:
+- Hero side-profile: sneaker resting on a vintage LV trunk, side-lit to reveal the leather grain texture.
+- Extreme macro close-up: gold-tone "LV" lace aglets and precision stitching detail.
+- Dynamic shot: gold dust particles swirling around the sole as the shoe steps into frame.
+
+Row 2, Innovation:
+- Minimalist: sneaker balanced on top of an abstract, floating glass "V" sculpture.
+- Floating deconstructed view: sole and upper suspended in a void.
+- Sensory: a gloved hand adjusting the tongue, highlighting the softness of the leather.
+
+Row 3, Surrealism:
+- Monochromatic scene in LV Havane brown with liquid silk drapes.
+- Abstract: rubber sole pattern reimagined as a geometric desert landscape.
+- Fusion: sneaker walking on a mirror-still lake reflecting a Parisian sunset skyline.
+```
+
+
+<!-- Case 189: Lifestyle-Anzeige für kabellose Ohrhörer (by @iamaiistudio) -->
+### Case 189: [Lifestyle-Anzeige für kabellose Ohrhörer](https://x.com/iamaiistudio/status/2065753093283991651) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case189/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+
+**Prompt:**
+
+```
+Design a 9:16 vertical product infographic for Bolt True Wireless Earbuds with a high-end lifestyle ad feel.
+Composition & Framing
+Full-body shot of a young woman whose face, skin tone, and hairstyle match the reference photo exactly
+Slightly low camera angle close to the subject, fashion campaign style, for depth and visual presence
+She's seated casually on the floor, one knee up, one leg stretched toward the camera
+Foreground (Product)
+She holds an open Bolt earbud charging case out toward the viewer
+One earbud is visible inside the case, the other is in her ear
+The case is glossy white with "BOLT" branding
+Slight macro bokeh blur on the hand and case for cinematic depth
+Outfit & Style
+Modern athleisure streetwear: off-white or neutral lightweight jacket, crop top or sports bra, soft pink joggers, textured white sneakers
+Expression: confident and relaxed, subtle smile
+Pose feels natural and lifestyle-driven, not posed
+Background
+Soft gray gradient studio background
+Rainbow prism lens flares and subtle light leaks
+Floating blurred earbuds and case in background
+Studio floor texture visible underfoot
+Lighting
+Diffused commercial studio lighting emphasizing skin texture, the glossy case, and fabric detail
+Soft rim light to separate the subject from the background
+Text Overlays (modern sans-serif, white)
+Top Center: "BOLT" in large bold text, partially behind the subject
+Top Right: Bolt Earbuds / True Wireless
+Mid Left: Powerful sound. / Effortless vibes. / Engineered for every beat of your day.
+Mid Right: 30 hours of playtime / IPX5 water resistant
+Bottom Right: 1 year warranty
+Quality
+8K ultra-realistic commercial photography
+Sharp on face and earbuds, gentle depth blur on foreground and background
+Clean Apple/Nike premium ad aesthetic, strong negative space
+```
+
+<!-- Case 190: Kinder-Joy-Szene mit Schaukelsessel (by @iamaiistudio) -->
+### Case 190: [Kinder-Joy-Szene mit Schaukelsessel](https://x.com/iamaiistudio/status/2066312771978092587) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case190/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Kinder-Joy-Szene mit Schaukelsessel"></a> |
+
+**Einreichungsrichtlinien:**
+
+```
+Hyper-realistic 8k medium shot photograph with shallow depth of field, surreal indoor scene with cinematic lighting. A normal-sized woman sits cross-legged inside a massive, highly detailed Kinder Joy egg that's been converted into a swing chair. The egg is split open, its white interior forming the seat and orange textured exterior visible, suspended by dark metal chains from a curved metal stand.
+
+She wears a black t-shirt and blue-and-white plaid pajama pants, holding a small white teacup with both hands, gazing directly at the viewer with a calm, relaxed expression. Use uploaded face as reference.
+
+On a polished wooden table to the left foreground: another gigantic fully wrapped Kinder Joy egg with intricate foil texture and branding details. To the right of the swing base: a vintage-style wooden radio with white dials, and a tiny bonsai tree in a small pot.
+
+Soft warm directional lighting from the left casts subtle shadows, highlighting the detailed egg wrapper textures, clothing, and wooden surface. Background is a softly blurred warm-toned interior wall with pleasing bokeh. Standard lens, shot from mid-height.
+```
+
+<!-- Case 191: Invisible Shield Sonnencreme-Anzeige (by @iamrealsnow) -->
+### Case 191: [Invisible Shield Sonnencreme-Anzeige](https://x.com/iamrealsnow/status/2066200217347854445) (by [@iamrealsnow](https://x.com/iamrealsnow))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case191/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Invisible Shield Sonnencreme-Anzeige"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case191/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Invisible Shield Sonnencreme-Anzeige"></a></td></tr>
+</table>
+
+**Einreichungsrichtlinien:**
+
+```
+SUNSCREEN AD, “THE INVISIBLE SHIELD”
+
+Luxury skincare advertising masterpiece, a colossal premium sunscreen bottle standing on a pristine tropical shoreline at golden hour, powerful beams of sunlight crashing down from the sky and splitting apart upon contact with a transparent protective energy dome radiating from the sunscreen, millions of sparkling UV particles dissolving into golden dust before reaching flawless skin, crystal clear ocean reflections, flowing water suspended in mid air around the product, microscopic droplets catching cinematic sunlight, ultra realistic textures revealing every detail of the bottle surface, luxury beauty campaign aesthetics, dramatic volumetric lighting, glowing atmospheric haze, premium white and gold color palette, futuristic protection technology visualized as elegant light waves, hyper detailed environment, commercial photography perfection, award winning advertising design, photorealistic rendering, 16K ultra resolution, global skincare brand campaign, masterpiece quality.
+
+Text Overlay:
+SUNSCREEN
+
+Tagline:
+“Protect Every Ray. Reveal Every Glow.
+```
+
+<!-- Case 192: Landschaftsillusion mit verstecktem Logo (by @iamaiistudio) -->
+### Case 192: [Landschaftsillusion mit verstecktem Logo](https://x.com/iamaiistudio/status/2066191259354689714) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case192/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Landschaftsillusion mit verstecktem Logo"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case192/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Landschaftsillusion mit verstecktem Logo"></a></td></tr>
+</table>
+
+**Einreichungsrichtlinien:**
+
+```
+Create a subliminal advertising landscape photograph where a recognizable brand logo (like the Apple logo, Nike swoosh, or Batman symbol) is secretly embedded into a breathtaking natural environment (like snowy mountains, dense jungle, sand dunes, or ocean coastline).
+
+The logo must be formed entirely by the physical geography of the terrain — NOT overlaid digitally. The main body of the logo appears as a carved void (a deep valley, cliff edge, or sharp color contrast in the terrain), while any disconnected elements (like Apple's leaf) float as a suspended island of rock and earth in the misty sky above.
+
+Camera: wide aerial drone shot, landscape stretching vast and majestic across the frame.
+
+Atmosphere: dramatic and moody — heavy swirling clouds, rolling mist through valleys, crepuscular god rays bursting through gaps in the clouds, defining the hidden silhouette.
+
+Visual rule: at first glance it must look like a 100% authentic nature photo. The brand logo only emerges as an optical illusion (pareidolia) on second look. Edges must be slightly jagged and organic, shaped by real geological features like cliff faces and treelines — never perfect vector shapes.
+
+Lighting: high contrast between dark shadowed valleys (dense forests) and bright snow or sunlit highlights. Sun partially hidden behind clouds or the floating landmass, backlighting the entire scene.
+
+Mood: cinematic, majestic, subtly surreal.
+
+Output: 1:1 square, photorealistic, National Geographic aerial photography aesthetic.
+```
+
+<!-- Case 193: SPLASH-Modeposter mit Flüssiglogo (by @iamaiistudio) -->
+### Case 193: [SPLASH-Modeposter mit Flüssiglogo](https://x.com/iamaiistudio/status/2065979523229975021) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case193/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - SPLASH-Modeposter mit Flüssiglogo"></a> |
+
+**Einreichungsrichtlinien:**
+
+```
+Hyper-realistic fashion campaign poster for brand "SPLASH". A girl (matching the reference photo exactly, same face) seated confidently atop a gleaming, water-like 3D SPLASH logo surrounded by dynamic water splash effects. Editorial pose: one leg loose, one bent.
+
+Enormous bold "SPLASH" typography fills the background, partially behind her. Small tagline reads: "Own Your Style."
+
+Clothing: contemporary black streetwear (blazer, fitted top, trousers, sneakers).
+
+Lighting: cinematic studio setup with soft key light and rim light, glossy reflections on the liquid logo.
+
+Style: luxury fashion campaign aesthetic (Zara / H&M), polished clean environment.
+
+Shot with an 85mm lens, shallow depth of field, 8K resolution, ultra-detailed, photorealistic.
+```
+
 ## 🍌 Portrait & Photography Cases
 
-> **92 curated cases** — [Explore all Portrait Prompts →](cases/portrait.md)
+> **123 curated cases** — [Explore all Portrait Prompts →](cases/portrait.md)
 
 <!-- Case 124: Convenience Store Neon Portrait (by @BubbleBrain) -->
 ### Case 124: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
@@ -2252,6 +2431,7 @@ Follow : @AiwithZohaib
 Black-and-white fashion casting contact sheet of [HUMAN] with [HAIR], arranged in a clean 2x2 grid of four close portrait frames against [BACKGROUND], wearing [CLOTHING] and [ACCESSORY]. Each frame shows a different expression and angle: [EXPRESSIONS]. Soft studio lighting, crisp monochrome contrast, natural skin texture, visible facial details, clean plain backdrop, subtle film grain, high-end editorial test shoot, minimal styling, intimate camera distance, professional portrait photography, aspect ratio 4:5.
 ```
 
+
 <!-- Case 275: Identity-Locked Portrait Edit (by @Kashberg_0) -->
 ### Case 275: [Identity-Locked Portrait Edit](https://x.com/Kashberg_0/status/2064022776600760625) (by [@Kashberg_0](https://x.com/Kashberg_0))
 
@@ -2337,6 +2517,7 @@ Negative prompt:
 - no text
 - no watermark
 ```
+
 
 <!-- Case 276: High Angle Cinematic Portrait (by @AvelyrahnAI) -->
 ### Case 276: [High Angle Cinematic Portrait](https://x.com/AvelyrahnAI/status/2064547040508662240) (by [@AvelyrahnAI](https://x.com/AvelyrahnAI))
@@ -2945,10 +3126,26 @@ Ultra-detailed digital portrait illustration of a confident young man with sharp
 深夜调酒师人物摄影：高级酒吧场景、暗红灯光、玻璃酒杯反光 + 黑衬衫、深酒红马甲、袖箍建立人物身份感 + 调酒动作、抬眼看镜头、金色边缘光建立封面气场。危险但克制的气质，深夜暗红酒吧封面风。
 ```
 
+<!-- Case 304: Nadelgefilzte Wollminiatur (by @iamaiistudio) -->
+### Case 304: [Nadelgefilzte Wollminiatur](https://x.com/iamaiistudio/status/2066206049464660301) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case304/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Nadelgefilzte Wollminiatur"></a> |
+
+**Einreichungsrichtlinien:**
+
+```
+Transform the subject into a handcrafted needle-felted wool miniature. Material: organic roving wool with visible needle-punch textures, soft fuzzy surface, and handcrafted seams. Eyes are tiny black bead eyes or simple felted circles.
+
+Style rules: slightly oversized head with simplified limbs and a cute, charming aesthetic. Retain the original colors from the source image but soften them with wool texture. Clothing becomes simplified felt versions of the original outfits with tiny fabric buttons and stitched details. Accessories are recreated as miniature felted props.
+
+Camera: macro photography, close-up shot. Soft studio lighting with warm highlights and gentle shadows. Clean, out-of-focus bokeh background in a neutral craft studio setting. Shallow depth of field (f/2.8). High fidelity, 8k resolution, photorealistic wool texture, Pixar-like character charm.
+```
 
 ## 🎨 Poster & Illustration Cases
 
-> **90 curated cases** — [Explore all Poster Prompts →](cases/poster.md)
+> **142 curated cases** — [Explore all Poster Prompts →](cases/poster.md)
 
 <!-- Case 214: Peacock Botanical Vintage Symmetrical Art Print (by @dotey) -->
 ### Case 214: [Peacock Botanical Vintage Symmetrical Art Print](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
@@ -5321,6 +5518,7 @@ Photorealistic movie poster designed by a professional graphic designer with thi
 - At the top, 'World Cup 2026' logo
 ```
 
+
 <!-- Case 355: Cinematography Analysis Frame (by @bmx_ai13) -->
 ### Case 355: [Cinematography Analysis Frame](https://x.com/bmx_ai13/status/2064109968203362408) (by [@bmx_ai13](https://x.com/bmx_ai13))
 
@@ -5364,6 +5562,7 @@ Style: Luxury fashion editorial photography, soft cinematic realism, warm beige 
 Camera: 35mm lens, medium wide framing, eye level camera angle, 16:9 widescreen.
 ```
 
+
 <!-- Case 356: Vintage Anatomic Book Plate (by @livybabie) -->
 ### Case 356: [Vintage Anatomic Book Plate](https://x.com/livybabie/status/2064033077123236291) (by [@livybabie](https://x.com/livybabie))
 
@@ -5387,6 +5586,7 @@ Place the labels naturally around the figure, balancing readability and visual e
 Lighting should be soft and flat like a scanned antique page. The final result must feel like a scholarly anatomical illustration, not a modern infographic. High detail, precise linework, aged paper texture, anatomical accuracy, elegant composition, subtle red muscle fibers, pale blue veins, ivory bone rendering, dark graphite outlines, old medical atlas atmosphere, realistic printed-page imperfections.
 ```
 
+
 <!-- Case 357: Crowd Mosaic Football Portrait (by @Taaruk_) -->
 ### Case 357: [Crowd Mosaic Football Portrait](https://x.com/Taaruk_/status/2064032287969481186) (by [@Taaruk_](https://x.com/Taaruk_))
 
@@ -5399,6 +5599,7 @@ Lighting should be soft and flat like a scanned antique page. The final result m
 ```
 Ultra-detailed crowd mosaic portrait of a legendary football player, created entirely from thousands of tiny people standing and walking on a vast white surface. From a distance, the crowd forms a hyper-realistic giant face and upper body portrait; up close, every individual person is clearly visible. Long cinematic shadows, aerial top-down perspective, massive scale, intricate human arrangement, photorealistic details, high contrast lighting, clean minimalist background, depth and dimension, masterpiece composition, ultra-sharp focus, 8K resolution, social art installation, human mosaic effect, volumetric lighting, realistic skin tones formed by crowd density, award-winning conceptual photography, breathtaking visual illusion, drone photography, highly detailed faces, premium quality, modern generative art.
 ```
+
 
 <!-- Case 358: Origami Food Poster (by @Gdgtify) -->
 ### Case 358: [Origami Food Poster](https://x.com/Gdgtify/status/2064020126937039318) (by [@Gdgtify](https://x.com/Gdgtify))
@@ -5430,6 +5631,7 @@ OUTPUT: Soft off-white or pastel background, elegant minimalist typography, razo
 NEGATIVE: no holograms, no bioluminescent glows, no VR/AR elements, no realistic food photography, no messy torn paper edges, no visible digital 3D artifacts, no cluttered backgrounds, no watermark.
 ```
 
+
 <!-- Case 359: Surrealism History Timeline (by @92digitalartArt) -->
 ### Case 359: [Surrealism History Timeline](https://x.com/92digitalartArt/status/2064012013357928462) (by [@92digitalartArt](https://x.com/92digitalartArt))
 
@@ -5443,6 +5645,7 @@ NEGATIVE: no holograms, no bioluminescent glows, no VR/AR elements, no realistic
 A surrealist historical timeline infographic poster in 16:9 horizontal format inspired by Salvador Dalí, featuring a dreamlike desert landscape where a long melting clock transforms into a winding historical timeline path across the composition, with floating doors, stretched shadows, levitating drawers, cracked stone statues, and impossible reflections merging into one symbolic world; the timeline should run diagonally from left to right like a dream corridor, with key surrealism dates placed inside small elegant labels, including 1917, 1924, 1929, 1936, 1940s and 1960s, each date connected to a strange symbolic object such as an eye, an egg, a telephone, a bird cage, a face, or a candle, all drawn with refined illusionistic detail; the background should be a warm twilight gradient blending sand beige, pale gold, faded blue and shadowy violet, with clouds that look like painted smoke and a horizon that bends unnaturally; the title should be placed at the top center in large dramatic serif typography reading SURREALISM, with the subtitle TIMELINE OF THE SUBCONSCIOUS beneath it in smaller elegant text; fact panels should be placed asymmetrically around the dreamscape, each one framed like a museum label but slightly distorted, with short sections labeled ORIGINS, MANIFESTO, KEY ARTISTS, DREAM LOGIC, FAMOUS WORKS, and LEGACY, plus a small DID YOU KNOW? box near the lower right with five original facts; the entire image should feel uncanny, poetic, intellectually rich, visually luxurious, and unmistakably surrealist, with no copied artwork, no logos, no modern UI, 16:9 horizontal ratio
 ```
 
+
 <!-- Case 360: 3D Travel Ticket (by @AIwithkhan) -->
 ### Case 360: [3D Travel Ticket](https://x.com/AIwithkhan/status/2063963460963270774) (by [@AIwithkhan](https://x.com/AIwithkhan))
 
@@ -5455,6 +5658,7 @@ A surrealist historical timeline infographic poster in 16:9 horizontal format in
 ```
 Photorealistic 3D travel ticket concept, a close-up human hand holding a large vintage “NYC All Access Pass” ticket in front of a clean cream-colored background. The ticket acts as a portal window into New York City, revealing a detailed miniature Manhattan street scene inside the cutout frame. A realistic yellow NYC taxi emerges out of the ticket in 3D onto a floating road platform, creating a pop-out effect. The Empire State Building rises dramatically behind the ticket, with hand-drawn sketch illustrations of the Statue of Liberty, Brooklyn Bridge, Broadway sign, and coffee cup surrounding the composition. Premium paper texture, cinematic lighting, warm golden-hour tones, ultra-detailed miniature city diorama, depth of field, travel advertisement aesthetic, creative paper-craft design, hyperrealistic, clean studio background, professional product photography, sharp focus, 8K, vertical composition.
 ```
+
 
 <!-- Case 361: Luxury Birthday Poster 3:4 (by @Taaruk_) -->
 ### Case 361: [Luxury Birthday Poster 3:4](https://x.com/Taaruk_/status/2064548138422263945) (by [@Taaruk_](https://x.com/Taaruk_))
@@ -6732,9 +6936,218 @@ SYSTEM: Render the input as a luxury historical civilization stratigraphy poster
 ```
 
 
+<!-- Case 394: Explosionsdiagramm der Sony A7 (by @iamaiistudio) -->
+### Case 394: [Explosionsdiagramm der Sony A7](https://x.com/iamaiistudio/status/2066085004116193571) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case394/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+
+**Prompt:**
+
+```
+Detailed exploded-view diagram of a Sony A7 mirrorless camera, with all internal components separated and clearly visible, each part labeled with its name. Technical product illustration style, clean white background, precise and informative layout.
+```
+
+
+<!-- Case 395: Biomechanisches Organ-Produkt-Rendering (by @iamaiistudio) -->
+### Case 395: [Biomechanisches Organ-Produkt-Rendering](https://x.com/iamaiistudio/status/2066069842407416126) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case395/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+
+**Prompt:**
+
+```
+Ultra-realistic 3D anatomical human [organ] crafted from semi-translucent frosted polycarbonate with a milky matte finish that softly diffuses light. Features industrial injection-molded details, subtle micro-texture, and rounded edges with precise manufacturing seams. Interior reveals mechanical components in place of organic tissue — micro gears, pistons, circuitry, and engineered chambers seen through the translucent shell with a soft blur. A minimal white Apple logo is subtly embedded on the surface, understated and not overpowering. Diffused studio lighting, realistic plastic light refraction, gentle shadow underneath, centered framing, pure white background, ultra-detailed futuristic biomechanical render, 1:1 aspect ratio.
+```
+
+
+<!-- Case 396: WPA-Poster zu Sonnenstürmen (by @92digitalartArt) -->
+### Case 396: [WPA-Poster zu Sonnenstürmen](https://x.com/92digitalartArt/status/2066062156441735187) (by [@92digitalartArt](https://x.com/92digitalartArt))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case396/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+
+**Prompt:**
+
+```
+A 1930s WPA travel poster style infographic poster in 16:9 horizontal format about solar weather and space storms, designed to look exactly like a vintage Works Progress Administration national parks poster from the New Deal era, with flat gouache-style color fills, bold black outlines, dramatic perspective and zero photorealism; the background transitions from deep black space at the top to a glowing teal-green aurora sky at the bottom, divided into bold graphic bands of color in the WPA tradition; the central illustration shows the Sun in the upper left as a massive dramatic circle with stylized flat orange and yellow flame corona eruptions radiating outward, and a large coronal mass ejection arc sweeping diagonally toward Earth in the upper right, depicted as a simplified blue sphere with a thin atmosphere ring; mid-composition, the solar wind stream is shown as bold parallel lines of warm gold flowing between Sun and Earth, and where those lines hit the atmosphere they bloom into a spectacular aurora borealis rendered in flat curtains of teal, green and violet in the WPA graphic tradition; below the main illustration, a clean horizontal strip divides the composition into three labeled science panels in a sans-serif bold font: SOLAR FLARE, CORONAL MASS EJECTION, and AURORA BOREALIS, each with a minimal one-color icon and two lines of punchy educational text; the title at the top reads SOLAR STORMS in massive slab-serif WPA lettering, with the subtitle THE VIOLENT WEATHER OF SPACE in a smaller weight beneath; the full palette is restricted to five flat colors — black, deep cream, burnt orange, teal and violet — giving the whole piece the unmistakable graphic punch and populist optimism of a 1930s government art print, high quality, aspect ratio 16:9
+```
+
+
+<!-- Case 397: Premium-Automobil-Spezifikationsposter (by @iamaiistudio) -->
+### Case 397: [Premium-Automobil-Spezifikationsposter](https://x.com/iamaiistudio/status/2066055530012111310) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case397/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+
+**Prompt:**
+
+```
+Generate a stunning premium car poster for
+[CAR MODEL].
+
+Position the vehicle as the dominant centerpiece in a bold three-quarter side angle, visually striking and commanding full attention.
+
+Capture the full essence of the car with an aggressive stance, flawless proportions, luxury wheels, distinctive headlights, aerodynamic bodywork, spoilers, performance accents, and high-end design cues.
+
+Layer in crisp premium typography featuring the brand name, model designation, performance figures, horsepower rating, 0-60 time, top speed, engine details, and iconic milestones, seamlessly woven into the layout.
+
+Weave in subtle background motifs drawn from the car's history: ghost blueprint lines, motorsport heritage, silhouette overlays, legendary circuits, mechanical diagrams, velocity graphics, and collector-print vibes.
+
+Apply bold visual contrast, vivid premium hues (no dark or black-heavy backgrounds), cinematic illumination, razor-sharp reflections, glossy paint sheen, luxury magazine quality, slick graphic design, and a scroll-stopping poster energy.
+
+Polished composition, top-tier automotive ad aesthetic, collectible poster feel, ultra-detailed, visually commanding, premium masterpiece.
+```
+
+
+<!-- Case 398: Dopamin-3D-Stadtposter (by @iamaiistudio) -->
+### Case 398: [Dopamin-3D-Stadtposter](https://x.com/iamaiistudio/status/2066039955177234472) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case398/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+
+**Prompt:**
+
+```
+Top-tier internet marketing visual design, Behance / Dribbble inspired 3D illustration poster aesthetic, C4D rendering style, soft-light treatment, vivid high-saturation colors, dopamine-driven color palette, abstract artwork, clean minimalist background, fresh and lively feel, youthful and energetic vibe, polished and intricate. Theme: Urban Nomad Project.
+```
+
+
+<!-- Case 399: Quadratisches professionelles Werbeposter (by @iamaiistudio) -->
+### Case 399: [Quadratisches professionelles Werbeposter](https://x.com/iamaiistudio/status/2066024623637188813) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case399/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+
+**Prompt:**
+
+```
+Generate a 1:1 square poster with a professional advertising design aesthetic, suitable for promoting a book, course, or event. Include the following text verbatim:
+
+Ad Creative Production
+As soon as you think of it, you can play with it. AI x browser game-making is genuinely fun. Sounds hard, but it is actually easy to start. Even if you don't know code, you can build your first one.
+```
+
+
+<!-- Case 400: Blockbuster-Actionfilmszene (by @iamaiistudio) -->
+### Case 400: [Blockbuster-Actionfilmszene](https://x.com/iamaiistudio/status/2066009564018082289) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case400/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+
+**Prompt:**
+
+```
+Cinematic photorealistic action scene on a rain-soaked downtown street canyon. A dark-haired man in his 30s sprints toward the camera, soaked dark jacket and dark pants, mid-stride with a tense survival expression. Behind him, a massive urban explosion tears through a high-rise building -- fire, smoke, shattered concrete, glass, and metal debris blast outward. Exactly 3 damaged vehicles visible: a dark sedan left foreground with crumpled hood splashing through rainwater, a wrecked dark car right midground, and an overturned black SUV tilted up on the right. Wet asphalt reflects headlights and firelight. Dense debris frozen mid-air. Overcast stormy daylight, desaturated blue-gray palette with orange fire accents, motion blur on flying debris but sharp focus on the runner, low-angle wide-lens composition, ultra-detailed blockbuster disaster-movie realism, volumetric smoke, rain spray, cinematic lighting, high contrast.
+```
+
+
+<!-- Case 401: Editoriale Tuscheillustrationsvorlage (by @Naiknelofar788) -->
+### Case 401: [Editoriale Tuscheillustrationsvorlage](https://x.com/Naiknelofar788/status/2065973105823281314) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case401/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+
+**Prompt:**
+
+```
+Cinematic editorial ink illustration of [HUMAN] in [SCENERY], looking back over the shoulder with realistic proportions, windblown hair and sharp confident gaze. Wearing [CLOTHING]. Loose expressive black ink linework, visible sketch construction lines, high-contrast shadows, sunlit rim glow, weathered paper texture, ink splatters, distressed print marks, realistic road-movie environment, limited three-color palette: [PALETTE], contemporary fashion poster illustration, aspect ratio 4:5.
+```
+
+
+<!-- Case 402: Isometrisches Wahrzeichen-Diorama (by @iamaiistudio) -->
+### Case 402: [Isometrisches Wahrzeichen-Diorama](https://x.com/iamaiistudio/status/2065737739589615987) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case402/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case402/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case402/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case402/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Generate an isometric miniature 3D diorama of [COUNTRY NAME]'s iconic [FAMOUS STRUCTURE] landmark from a 45-degree top-down perspective.
+
+Use clean soft textures and realistic PBR materials with balanced, natural lighting. The elevated base features surrounding streets, landscape elements, and cultural details unique to the structure. Include tiny stylized figures of locals and tourists with detailed facial features.
+
+Set the background to solid [BACKGROUND COLOR]. Display [COUNTRY NAME] in bold text at the top center with [STRUCTURE NAME] on the next line, followed by a minimal architecture icon below. Adjust text color to ensure contrast.
+```
+
+<!-- Case 403: Miniaturwelt mit Aufziehmechanik (by @Gdgtify) -->
+### Case 403: [Miniaturwelt mit Aufziehmechanik](https://x.com/Gdgtify/status/2066192943887630372) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case403/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Miniaturwelt mit Aufziehmechanik"></a> |
+
+**Einreichungsrichtlinien:**
+
+```
+create a charming but ultra-refined scene centered on [wind-up toy / mechanical miniature world] where a tiny self-contained world is powered by a visible wind-up key and internal spring system. the toy should contain miniature architecture, characters, moving scenery, rotating signage, tiny lifts, oscillating parts, and small narrative moments that all activate from one central mechanism. mini world features: include visual zones for [main scene], [secondary scene], [moving prop], [character action], and [secret detail / easter egg]. surrounding close-ups can reveal the key, spring chamber, cams, and hidden moving linkages. visual style: japanese capsule toy magic meets luxury miniature cinematography meets premium collectible product photography. whimsical, intricate, emotionally irresistible. composition guidelines: the toy remains the hero, but the viewer should feel invited to peer into its tiny world. balance cuteness with high craftsmanship. make the mechanisms visible enough to create fascination. lighting & background: soft studio lighting with theatrical micro-shadows, premium pastel, lacquer, or dark velvet backdrop depending on [mood], hyper-detailed miniature realism, no watermark. variables: [wind-up toy / mechanical miniature world], [main scene], [secondary scene], [moving prop], [character action], [secret detail / easter egg], [mood]
+```
+
+<!-- Case 404: Quallenstadt über den Dünen (by @92digitalartArt) -->
+### Case 404: [Quallenstadt über den Dünen](https://x.com/92digitalartArt/status/2066176419038683562) (by [@92digitalartArt](https://x.com/92digitalartArt))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case404/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Quallenstadt über den Dünen"></a> |
+
+**Einreichungsrichtlinien:**
+
+```
+The Jellyfish City Above the Dunes
+
+On a desert world too hot to live on, entire cities float just above the dunes—built from colossal jellyfish that weave their own architecture in the sky.
+
+Soft solarpunk alien vibes, no horror.
+
+Prompt below for anyone exploring gentle alien worlds.
+
+PROMPT:
+
+A serene daylight scene on an alien desert planet, wide cinematic shot of a floating city made from enormous translucent jellyfish creatures drifting just above endless dunes; each jellyfish (Aeromedusae) is house‑sized, with a bulbous semi‑transparent dome filled with pale turquoise gas, long trailing tendrils weaving together into suspended walkways, platforms and hammock‑like membranes that form an aerial village; nacreous plates and chitin ribs have grown along their undersides to create skeletal arches and open “rooms,” shimmering with opalescent highlights; several Aeromedusae cluster together in a loose line, casting soft, organic shadows on the sand below; tiny silhouettes of ground caravans with insect‑like vehicles and fabric canopies move through the dunes, clearly dwarfed by the floating city overhead; distant rusted anchor towers and cables rise from the sand, hinting at a human or alien attempt to tether these living buildings; palette of warm sand beige, pale turquoise, dusty coral and soft white, with high noon sunlight, subtle heat haze and gentle lens bloom; the camera sits at a medium distance, slightly low angle, capturing both the jellyfish city and the ground caravans in one frame, 35mm lens, peaceful solarpunk‑like atmosphere, painterly yet detailed, no horror, one frame from a larger alien desert universe.
+
+NEGATIVE PROMPT:
+human-like alien, blue-skinned humanoid, generic sci-fi city, skyscrapers, cyberpunk neon, dark horror tone, gore, tentacle monster cliché, cheap sci-fi armor, guns, war scene, cartoon, anime chibi, bad anatomy, cluttered composition, oversaturated colors, heavy bloom, low detail, blurry image, noisy grain, HUD, UI, readable text, watermark, logo, plastic toy look, realistic Earth desert animals, Earth buildings, spaceships dogfighting
+```
+
+<!-- Case 405: Tilt-Shift-Reiseposter mit Stadtplan (by @iamaiistudio) -->
+### Case 405: [Tilt-Shift-Reiseposter mit Stadtplan](https://x.com/iamaiistudio/status/2066145999266128367) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case405/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Tilt-Shift-Reiseposter mit Stadtplan"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case405/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Tilt-Shift-Reiseposter mit Stadtplan"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case405/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Tilt-Shift-Reiseposter mit Stadtplan"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case405/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Tilt-Shift-Reiseposter mit Stadtplan"></a></td></tr>
+</table>
+
+**Einreichungsrichtlinien:**
+
+```
+Render a photorealistic tilt-shift miniature scene of [CITY NAME] with a [VEHICLE NAME] winding along an elevated road that rises organically from a vintage illustrated city map. The road sweeps toward the city's iconic skyline in the background, with the vehicle as the main subject up front. Seamlessly merge the real cityscape with the hand-drawn map so the road feels naturally embedded. Feature the city name in large bold lettering on the map foreground. Apply warm golden-hour light, shallow depth of field, cinematic shadows, aerial perspective, and hyper-realistic detail. Final look: a luxury travel poster crossed with a miniature diorama. Aspect ratio 1:1.
+
+Full prompt: 
+
+Create a highly detailed cinematic miniature tilt-shift travel scene of [CITY NAME] featuring a realistic [VEHICLE NAME] driving along a winding elevated road that emerges naturally from a printed vintage-style city map. The road should curve dramatically toward the background skyline and landmarks of [CITY NAME], while the vehicle remains the clear focal point in the foreground.
+
+Blend the real city seamlessly with the illustrated map surface so the road appears integrated into the map itself. Include recognizable local landmarks, waterways, architecture, vegetation, and atmosphere associated with [CITY NAME], but keep the composition clean and uncluttered.
+
+Show large bold typography of "[CITY NAME]" printed directly on the map in the foreground. Use warm golden-hour lighting, shallow depth of field, realistic textures, cinematic shadows, aerial perspective, and photorealistic detail. The overall aesthetic should feel like a premium Instagram travel poster mixed with a miniature diorama.
+
+Aspect ratio 1:1.
+```
+
 ## 🧍 Character Design Cases
 
-> **4 curated cases** — [Explore all Character Design Prompts →](cases/character.md)
+> **9 curated cases** — [Explore all Character Design Prompts →](cases/character.md)
 
 <!-- Case 2: Persona5 Character Reference Card (by @iamrednightS) -->
 ### Case 2: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
@@ -7111,9 +7524,23 @@ high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic l
 ```
 
 
+<!-- Case 23: Surreale Cartoon-Porträtvorlage (by @Goodmanprotocol) -->
+### Case 23: [Surreale Cartoon-Porträtvorlage](https://x.com/Goodmanprotocol/status/2066048157805629937) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case23/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case23/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case23/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case23/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Vertical bizarre flat cartoon portrait of [SUBJECT from the attached photo] with a high geometric head shape, a long narrow neck, huge round eyes, a tiny mouth and an unflappable laugh, dressed in [CLOTHES from the photo], with a [OBJECT/CREATURE] sitting on their head like a living hat. Pure black outline, smooth color fills, simple face shapes, rare drawings on animal fur or skin, playful surreal character design, bold graphic palette [COLOR]. Background decorations: [ENVIRONMENT DECORATIONS from LOCATION/SCENE], made using simplified shapes, clear depth, a small amount of scenery from the environment and a clear cartoon perspective. Clear digital illustration, vertical framing in the form of a poster, no realism, no 3D rendering, no picturesque shading, aspect ratio 4:5.
+```
+
 ## 📱 UI & Social Media Mockup Cases
 
-> **34 curated cases** — [Explore all UI & Mockup Prompts →](cases/ui.md)
+> **36 curated cases** — [Explore all UI & Mockup Prompts →](cases/ui.md)
 
 <!-- Case 130: One-Prompt UI Design Generation (by @austinit) -->
 ### Case 130: [One-Prompt UI Design Generation](https://x.com/austinit/status/2044968740782272596) (by [@austinit](https://x.com/austinit))
@@ -8158,9 +8585,73 @@ watermark, logo, low quality, blurry, bad anatomy, distorted hands, cluttered la
 ```
 
 
+<!-- Case 183: Portfolioseite im frühen Internetstil (by @Kashberg_0) -->
+### Case 183: [Portfolioseite im frühen Internetstil](https://x.com/Kashberg_0/status/2065992579502747850) (by [@Kashberg_0](https://x.com/Kashberg_0))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case183/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case183/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case183/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Design a minimal early-internet personal profile webpage / digital portfolio landing page on a large white canvas with generous negative space and a thin pastel pink browser-style frame. In the center, place a black-and-white editorial portrait of [SUBJECT], featuring soft film grain, subtle scanner texture, and low-contrast photographic tones.
+
+Surround the portrait with scattered profile metadata labels and small star-bullet elements arranged asymmetrically, resembling a playful personal résumé. Include descriptors such as:
+
+✦ creator
+✦ model
+✦ stylist
+✦ DJ
+✦ girl
+✦ photographer
+✦ collector
+✦ dreamer
+
+In the top-left corner, create a colorful hand-drawn logo or personal brand mark. Beneath it, add a tiny timestamp and date in a small system font, mimicking an old personal homepage.
+
+In the top-right corner, place irregular sticker-like navigation tabs in bright accent colors (pink, cyan, purple, yellow, and green). Use simple labels such as:
+
+HOME
+ABOUT
+WORK
+DIARY
+LINKS
+
+Scatter handwritten marker-style notes, introductions, personal thoughts, and lifestyle captions throughout the empty space. Examples:
+
+"currently making things online"
+"welcome to my homepage"
+"music, fashion, internet"
+"updated today"
+"living between projects"
+
+Maintain an anti-grid editorial layout with intentionally imperfect spacing and playful placement. Mix tiny system fonts, handwritten script, and casual notebook-style annotations. Keep the portrait entirely monochrome while reserving color only for the logo, navigation stickers, and a few small graphic accents.
+```
+
+<!-- Case 184: Fototransformation in Buntstiftoptik (by @AIwithSynthia) -->
+### Case 184: [Fototransformation in Buntstiftoptik](https://x.com/AIwithSynthia/status/2066154697828782245) (by [@AIwithSynthia](https://x.com/AIwithSynthia))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case184/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fototransformation in Buntstiftoptik"></a> |
+
+**Einreichungsrichtlinien:**
+
+```
+Transform the uploaded photo into a charming hand-drawn colored-pencil and crayon illustration while preserving the person's exact pose, facial features, outfit, expression, and background composition. Create a warm, whimsical sketchbook aesthetic with visible pencil strokes, crayon textures, and soft pastel colors.
+
+Place the illustrated version as the main full-frame artwork. Add playful doodles around the scene such as hearts, stars, flowers, clouds, sparkles, and cute hand-drawn elements that complement the environment. Use textured paper as the canvas background and maintain a cozy, nostalgic, storybook feel.
+
+In the bottom-right corner, include a rounded-rectangle inset containing the original unedited photo as a realistic reference image. The inset should resemble a social media post preview with subtle UI elements like a heart icon and engagement count. Ensure the illustrated version perfectly matches the original photo in composition, creating a striking before-and-after transformation effect.
+
+Highly detailed, colored pencil illustration, crayon art style, hand-sketched textures, vibrant yet soft pastel palette, Instagram-style layout, whimsical doodles, premium artwork, realistic reference inset, masterpiece, ultra-detailed, 4K.
+```
+
 ## 🧪 Comparison & Community Examples
 
-> **18 curated cases** — [Explore all Comparison Examples →](cases/comparison.md)
+> **24 curated cases** — [Explore all Comparison Examples →](cases/comparison.md)
 
 <!-- Case 80: Sam Altman Bear Selfie (by @JustinGorya) -->
 ### Case 80: [Sam Altman Bear Selfie](https://x.com/JustinGorya/status/2046510831832006970) (by [@JustinGorya](https://x.com/JustinGorya))
@@ -9069,6 +9560,7 @@ PREMISE: KUROSHI erupts from a cold starting-frame profile into a relentless one
 LOCATION: open Japanese mountain field at blue hour, ankle-high wind-blown grass, wet earth, ground mist, distant pine ridges, layered mountain silhouettes, wide sky, no buildings, no roads, no extra fighters.
 ```
 
+
 <!-- Case 101: Churro Maker Storyboard Poster (by @TechieBySA) -->
 ### Case 101: [Churro Maker Storyboard Poster](https://x.com/TechieBySA/status/2064032022830502202) (by [@TechieBySA](https://x.com/TechieBySA))
 
@@ -9116,6 +9608,7 @@ Footer:
 •VENDOR NOTES: one vendor, one cart, one perfect churro. Golden, crispy, and impossible to walk past.”
 ```
 
+
 <!-- Case 102: Food Anime Storyboard Generator (by @tanabe_fragm) -->
 ### Case 102: [Food Anime Storyboard Generator](https://x.com/tanabe_fragm/status/2064510342328353143) (by [@tanabe_fragm](https://x.com/tanabe_fragm))
 
@@ -9160,6 +9653,34 @@ Avoid all exaggerated or stylized effects.
 
 ---
 
+## Ingredient Preparation Rules
+
+* Maguro: clean block slicing into uniform nigiri portions
+* Toro: delicate slicing emphasizing marbling texture
+* Unagi: already grilled kabayaki, cut into sushi topping size
+
+---
+
+## Unagi Correct Technique Rule (FINAL)
+
+For unagi nigiri:
+
+* Grilled eel (kabayaki) is placed on top of hand-formed sushi rice
+* After the nigiri is fully formed, the chef applies tare sauce **using a brush directly on the surface of the eel**
+* Brush movement is slow, precise, and minimal
+* No pre-dipping in sauce
+* No cutting during final assembly
+* Focus on glossy finish and craftsmanship, not drama
+
+---
+
+## Liquid Realism Rules
+
+* Sauce is applied as a thin controlled glaze via brush
+* No drip
+```
+
+
 <!-- Case 103: Old Footage Restoration with GPT-Image 2 (by @CuriousRefuge) -->
 ### Case 103: [Old Footage Restoration with GPT-Image 2](https://x.com/CuriousRefuge/status/2065139340486045905) (by [@CuriousRefuge](https://x.com/CuriousRefuge))
 
@@ -9190,66 +9711,51 @@ Once GPT-Image 2 gives you the first ultra high quality image, upload the rest o
 ```
 
 
-## Ingredient Preparation Rules
+<!-- Case 105: Muenzrechen-Bearbeitungstest (by @iamaiistudio) -->
+### Case 105: [Muenzrechen-Bearbeitungstest](https://x.com/iamaiistudio/status/2065994787094983151) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
-* Maguro: clean block slicing into uniform nigiri portions
-* Toro: delicate slicing emphasizing marbling texture
-* Unagi: already grilled kabayaki, cut into sushi topping size
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case105/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
 
----
+**Prompt:**
 
-## Unagi Correct Technique Rule (FINAL)
-
-For unagi nigiri:
-
-* Grilled eel (kabayaki) is placed on top of hand-formed sushi rice
-* After the nigiri is fully formed, the chef applies tare sauce **using a brush directly on the surface of the eel**
-* Brush movement is slow, precise, and minimal
-* No pre-dipping in sauce
-* No cutting during final assembly
-* Focus on glossy finish and craftsmanship, not drama
-
----
-
-## Liquid Realism Rules
-
-* Sauce is applied as a thin controlled glaze via brush
-* No drip
+```
+Modify this photo so the total adds up to 244.5 baht. Adjust the number of coins in each stack until the combined value hits the target.
 ```
 
+## 🤝 Mitwirken
 
-## 🤝 How to Contribute
+Beiträge aus der Community sind willkommen! Wenn du einen starken GPT-Image-2 Prompt erstellt oder entdeckt hast, teile ihn gern mit der Community.
 
-We welcome community contributions! If you've created or discovered a great GPT-Image-2 prompt, share it with the community.
+### Möglichkeiten beizutragen
 
-### Ways to contribute
+Prompt per Issue einreichen: Nutze unser [Prompt Submission Template](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/issues/new?template=submit-prompt.yml), um deinen Prompt mit Ausgabebildern einzureichen.
 
-Submit a prompt via Issue: Use our [Prompt Submission Template](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/issues/new?template=submit-prompt.yml) to submit your prompt with output images.
+Pull Request öffnen: Füge deinen Case direkt in die passende Datei unter `cases/*.md` ein und halte dich an das bestehende Format.
 
-Open a Pull Request: Add your case directly to the appropriate `cases/*.md` file following the existing format.
+Probleme melden: Einen defekten Link oder einen falschen Prompt gefunden? [Issue öffnen](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/issues/new).
 
-Report issues: Found a broken link or incorrect prompt? [Open an issue](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/issues/new).
+**Einreichungsrichtlinien:**
+- Füge den vollständigen, wiederverwendbaren Prompt-Text hinzu (nicht nur eine Beschreibung)
+- Hänge mindestens ein Ausgabebild an oder verlinke es
+- Gib an, zu welcher Kategorie dein Prompt gehört
+- Nenne den ursprünglichen Autor, wenn du die Arbeit einer anderen Person teilst
 
-**Submission guidelines:**
-- Include the full, reusable prompt text (not just a description)
-- Attach or link at least one output image
-- Specify which category your prompt belongs to
-- Credit the original author if sharing someone else's work
+Ausführliche Hinweise findest du in [CONTRIBUTING.md](contributing.md).
 
-See [CONTRIBUTING.md](contributing.md) for detailed guidelines.
+## Danksagung
 
-## Acknowledge
+Dieses Repository wurde von hervorragenden offenen Prompt-Sammlungen und öffentlich geteilten GPT-Image-2 Experimenten der Community inspiriert.
 
-This repository was inspired by outstanding open prompt collections and community-shared GPT-Image-2 experiments.
-
-Thanks to the creators and contributors who shared their work publicly and made these case studies possible.
+Danke an alle Creator und Mitwirkenden, die ihre Arbeit öffentlich geteilt und diese Case Studies möglich gemacht haben.
 
 [@BubbleBrain](https://x.com/BubbleBrain), [@iam_miharbi](https://x.com/iam_miharbi), [@Shinning1010](https://x.com/Shinning1010), [@patrickassale](https://x.com/patrickassale), [@Zoulinshen](https://x.com/Zoulinshen), [@Tz_2022](https://x.com/Tz_2022), [@Malek1173989](https://x.com/Malek1173989), [@80vul](https://x.com/80vul), [@WolfRiccardo](https://x.com/WolfRiccardo), [@Panda20230902](https://x.com/Panda20230902), [@liyue_ai](https://x.com/liyue_ai), [@blanplan](https://x.com/blanplan), [@4WEB1](https://x.com/4WEB1), [@lilimliliychan](https://x.com/lilimliliychan), [@llllegend0620](https://x.com/llllegend0620), [@grok](https://x.com/grok), [@Ghhhh3owi](https://x.com/Ghhhh3owi), [@alanlovelq](https://x.com/alanlovelq), [@xpg0970](https://x.com/xpg0970), [@hmontilla_](https://x.com/hmontilla_), [@pfanis](https://x.com/pfanis), [@overseas58](https://x.com/overseas58), [@MrLarus](https://x.com/MrLarus), [@opc_8838](https://x.com/opc_8838), [@tebasaki3D](https://x.com/tebasaki3D), [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru), [@genel_ai](https://x.com/genel_ai), [@itnavi2022](https://x.com/itnavi2022), [@underwoodxie96](https://x.com/underwoodxie96), [@carsonyungos](https://x.com/carsonyungos), [@weel_corp](https://x.com/weel_corp), [@A9Quant](https://x.com/A9Quant), [@ck_igarashi](https://x.com/ck_igarashi), [@EchoraContinuum](https://x.com/EchoraContinuum), [@RainHuangapp](https://x.com/RainHuangapp), [@Kurt_Rousey466](https://x.com/Kurt_Rousey466), [@Thereallo1026](https://x.com/Thereallo1026), [@iamrednightS](https://x.com/iamrednightS), [@09lyco](https://x.com/09lyco), [@Toshi_nyaruo_AI](https://x.com/Toshi_nyaruo_AI), [@old_pgmrs_will](https://x.com/old_pgmrs_will), [@songguoxiansen](https://x.com/songguoxiansen), [@loglogrog](https://x.com/loglogrog), [@austinit](https://x.com/austinit), [@alanblogsooo](https://x.com/alanblogsooo), [@SKA_Neotype](https://x.com/SKA_Neotype), [@stark_nico99](https://x.com/stark_nico99), [@yammamon](https://x.com/yammamon), [@Kashiko_AIart](https://x.com/Kashiko_AIart), [@GoSailGlobal](https://x.com/GoSailGlobal), [@Cryptohaifeng_](https://x.com/Cryptohaifeng_), [@agi_aibusi](https://x.com/agi_aibusi), [@the_wheel_2024](https://x.com/the_wheel_2024), [@kylegeeks](https://x.com/kylegeeks), [@AZLnfvp](https://x.com/AZLnfvp), [@chetaslua](https://x.com/chetaslua), [@saskr_13](https://x.com/saskr_13), [@MANISH1027512](https://x.com/MANISH1027512), [@yssrski](https://x.com/yssrski), [@RitaStar1128](https://x.com/RitaStar1128), [@joshesye](https://x.com/joshesye), [@FixlationAI](https://x.com/FixlationAI), [@JustinGorya](https://x.com/JustinGorya), [@ReYYYYoking](https://x.com/ReYYYYoking), [@XiaohuiAI666](https://x.com/XiaohuiAI666), [@workingclassbud](https://x.com/workingclassbud), [@16kthir0GRXgNqn](https://x.com/16kthir0GRXgNqn), [@anacoding](https://x.com/anacoding), [@iaPulse_](https://x.com/iaPulse_), [@ai_gezgini](https://x.com/ai_gezgini), [@ailovedirector](https://x.com/ailovedirector), [@AIwithSarah_](https://x.com/AIwithSarah_), [@chatcutapp](https://x.com/chatcutapp), [@meng_dagg695](https://x.com/meng_dagg695), [@khaiinit](https://x.com/khaiinit), [@D_studioproject](https://x.com/D_studioproject), [@Rufus87078959](https://x.com/Rufus87078959), [@elliscrosby](https://x.com/elliscrosby), [@bonega_ai](https://x.com/bonega_ai), [@Naiknelofar788](https://x.com/Naiknelofar788), [@andis13](https://x.com/andis13), [@aimikoda](https://x.com/aimikoda), [@rs_elwood](https://x.com/rs_elwood), [@aitorwilzig](https://x.com/aitorwilzig), [@pavellaslov](https://x.com/pavellaslov), [@ZaraIrahh](https://x.com/ZaraIrahh), [@harboriis](https://x.com/harboriis), [@dotey](https://x.com/dotey), [@WillSpagnoli](https://x.com/WillSpagnoli), [@laogeai](https://x.com/laogeai), [@GeekCatX](https://x.com/GeekCatX), [@BNBOKBt5](https://x.com/BNBOKBt5), [@nidiedeba](https://x.com/nidiedeba), [@Aurora_62340](https://x.com/Aurora_62340), [@AntCaveClub](https://x.com/AntCaveClub), [@CoderDaMing](https://x.com/CoderDaMing), [@Zhaoge01](https://x.com/Zhaoge01), [@Tresmort](https://x.com/Tresmort), [@cj858cjsoul](https://x.com/cj858cjsoul), [@caiziboshi](https://x.com/caiziboshi), [@verysmallwoods](https://x.com/verysmallwoods), [@chenenpei](https://x.com/chenenpei), [@sdjn_wgc](https://x.com/sdjn_wgc), [@LVWANGJI_0327](https://x.com/LVWANGJI_0327), [@zhiyangzhu22222](https://x.com/zhiyangzhu22222), [@MajaDesignJP](https://x.com/MajaDesignJP), [@os_shim](https://x.com/os_shim), [@mirai_ai2050](https://x.com/mirai_ai2050), [@Adam38363368936](https://x.com/Adam38363368936), [@charliejhills](https://x.com/charliejhills), [@commanderdgr8](https://x.com/commanderdgr8), [@iamsofiaijaz](https://x.com/iamsofiaijaz), [@ChillaiKalan__](https://x.com/ChillaiKalan__), [@akakageAI](https://x.com/akakageAI), [@Shorelyn_](https://x.com/Shorelyn_), [@Goodmanprotocol](https://x.com/Goodmanprotocol), [@AIwithkhan](https://x.com/AIwithkhan), [@AIwithSynthia](https://x.com/AIwithSynthia), [@Preda2005](https://x.com/Preda2005), [@iamrealsnow](https://x.com/iamrealsnow), [@Sheldon056](https://x.com/Sheldon056), [@miratechtool](https://x.com/miratechtool), [@QamarRiaz1](https://x.com/QamarRiaz1), [@rovvmut_](https://x.com/rovvmut_), [@ChiefMonkeyMike](https://x.com/ChiefMonkeyMike), [@Colin_Leeee](https://x.com/Colin_Leeee), [@IndieDevHailey](https://x.com/IndieDevHailey), [@wory37303852](https://x.com/wory37303852), [@mm_zzm44854](https://x.com/mm_zzm44854), [@sjbbxhz](https://x.com/sjbbxhz), [@makaneko_AI](https://x.com/makaneko_AI), [@Tanemomi_Ver2](https://x.com/Tanemomi_Ver2), [@chi_vc_](https://x.com/chi_vc_), [@S0N_IA_](https://x.com/S0N_IA_), [@Gugombly](https://x.com/Gugombly), [@rerxmsz06](https://x.com/rerxmsz06), [@Shion_yamabuki](https://x.com/Shion_yamabuki), [@SelenaGmzIN](https://x.com/SelenaGmzIN), [@chesnyfcb](https://x.com/chesnyfcb), [@MoveHiro1219](https://x.com/MoveHiro1219), [@mirochill](https://x.com/mirochill), [@Eris_Create_Lab](https://x.com/Eris_Create_Lab), [@Design4p0](https://x.com/Design4p0), [@mikko_20100518](https://x.com/mikko_20100518), [@sorane_aimusic](https://x.com/sorane_aimusic), [@Polanco_IA](https://x.com/Polanco_IA), [@Strength04_X](https://x.com/Strength04_X), [@edimakorfr](https://x.com/edimakorfr), [@ShamsAmin56](https://x.com/ShamsAmin56), [@dynamicwangs](https://x.com/dynamicwangs), [@MiguelMaestroIA](https://x.com/MiguelMaestroIA), [@gdb](https://x.com/gdb), [@ToroJushiAi](https://x.com/ToroJushiAi), [@Inshrah_ali_](https://x.com/Inshrah_ali_), [@XSydneyFan](https://x.com/XSydneyFan), [@Abdullah__Ai7](https://x.com/Abdullah__Ai7), [@yume00112211](https://x.com/yume00112211), [@jiajia232016](https://x.com/jiajia232016), [@libearal](https://x.com/libearal), [@jeremydevz](https://x.com/jeremydevz), [@megane_onesan](https://x.com/megane_onesan), [@kotobukigraphic](https://x.com/kotobukigraphic), [@Hair_Hair55](https://x.com/Hair_Hair55), [@erikmackinnon](https://x.com/erikmackinnon), [@FernandesK47117](https://x.com/FernandesK47117), [@mosthssan](https://x.com/mosthssan), [@SDAI1807097011](https://x.com/SDAI1807097011), [@AIillust_studio](https://x.com/AIillust_studio), [@Just_sharon7](https://x.com/Just_sharon7), [@AIMAG31G](https://x.com/AIMAG31G), [@yanagihara_0805](https://x.com/yanagihara_0805), [@Gorden_Sun](https://x.com/Gorden_Sun), [@m_Raiko_AIart](https://x.com/m_Raiko_AIart), [@sub_raw_jin](https://x.com/sub_raw_jin), [@Diplomeme](https://x.com/Diplomeme), [@zenkaiAI](https://x.com/zenkaiAI), [@_simonsmith](https://x.com/_simonsmith), [@leyu37829](https://x.com/leyu37829), [@mob_17](https://x.com/mob_17), [@komorimedia](https://x.com/komorimedia), [@degewa](https://x.com/degewa), [@GlennHasABeard](https://x.com/GlennHasABeard), [@TWnese](https://x.com/TWnese), [@Ciri_ai](https://x.com/Ciri_ai), [@tonysimons_](https://x.com/tonysimons_), [@himukai_an](https://x.com/himukai_an), [@Dakiny](https://x.com/Dakiny), [@ExquisitMe](https://x.com/ExquisitMe), [@xRahultripathi](https://x.com/xRahultripathi), [@JohnnyWang8802](https://x.com/JohnnyWang8802), [@Professor_134](https://x.com/Professor_134), [@ArtwlDesign](https://x.com/ArtwlDesign), [@hoshi122221](https://x.com/hoshi122221), [@Ray_CROWN0](https://x.com/Ray_CROWN0), [@AllaAisling](https://x.com/AllaAisling), [@AlwaveNazca](https://x.com/AlwaveNazca), [@_LaurentB](https://x.com/_LaurentB), [@Salmaaboukarr](https://x.com/Salmaaboukarr), [@silentempiredev](https://x.com/silentempiredev), [@rojassartorio](https://x.com/rojassartorio), [@WooGabriel76263](https://x.com/WooGabriel76263), [@SPEEDAI07](https://x.com/SPEEDAI07), [@Magncsans](https://x.com/Magncsans), [@ismajc](https://x.com/ismajc), [@almimeister](https://x.com/almimeister), [@sarinaashapi](https://x.com/sarinaashapi), [@Kazuch75240438](https://x.com/Kazuch75240438), [@yy7482933910896](https://x.com/yy7482933910896), [@terunari](https://x.com/terunari), [@Gerry](https://x.com/Gerry), [@xc5_](https://x.com/xc5_), [@Ayu_AI_0912](https://x.com/Ayu_AI_0912), [@madpencil_](https://x.com/madpencil_), [@cellinlab](https://x.com/cellinlab), [@sha_zdiii](https://x.com/sha_zdiii), [@LoovaAI](https://x.com/LoovaAI), [@PrometheanAIX](https://x.com/PrometheanAIX), [@nijisora_yuma](https://x.com/nijisora_yuma), [@AIwithAliya](https://x.com/AIwithAliya), [@SimplyAnnisa](https://x.com/SimplyAnnisa), [@happycapyai](https://x.com/happycapyai), [@sciencedegens](https://x.com/sciencedegens), [@mapasbr](https://x.com/mapasbr), [@Gdgtify](https://x.com/Gdgtify), [@weiinberg](https://x.com/weiinberg), [@X7649158034321](https://x.com/X7649158034321), [@CurieuxExplorer](https://x.com/CurieuxExplorer), [@Taaruk_](https://x.com/Taaruk_), [@TheRoaringToady](https://x.com/TheRoaringToady), [@saniaspeaks_](https://x.com/saniaspeaks_), [@alantech_](https://x.com/alantech_), [@john_my07](https://x.com/john_my07), [@you1873118](https://x.com/you1873118), [@gold_force_guri](https://x.com/gold_force_guri), [@Sairah_0](https://x.com/Sairah_0), [@bmx_ai13](https://x.com/bmx_ai13), [@GeorgeWuAI](https://x.com/GeorgeWuAI), [@aiistudiocom](https://x.com/aiistudiocom), [@crayon1267](https://x.com/crayon1267), [@hosein2518](https://x.com/hosein2518), [@SaasJunctionHQ](https://x.com/SaasJunctionHQ), [@LoverCrick28247](https://x.com/LoverCrick28247), [@realsigridjin](https://x.com/realsigridjin), [@Mavericks_Prod](https://x.com/Mavericks_Prod), [@amynys](https://x.com/amynys), [@churvikv](https://x.com/churvikv), [@miilesus](https://x.com/miilesus), [@MayorKingAI](https://x.com/MayorKingAI), [@YaZoraiz](https://x.com/YaZoraiz), [@iamaiistudio](https://x.com/iamaiistudio), [@Mind_Boticni](https://x.com/Mind_Boticni), [@getimg_ai](https://x.com/getimg_ai), [@TechieBySA](https://x.com/TechieBySA), [@92digitalartArt](https://x.com/92digitalartArt), [@abs_uiux](https://x.com/abs_uiux), [@noorlewisx](https://x.com/noorlewisx), [@Noor_ul_ain43](https://x.com/Noor_ul_ain43), [@EricoolWong](https://x.com/EricoolWong), [@kingofdairyque](https://x.com/kingofdairyque), [@frametheory058](https://x.com/frametheory058), [@MrDasOnX](https://x.com/MrDasOnX), [@0kncn](https://x.com/0kncn), [@heyfatema](https://x.com/heyfatema), [@chatgptpaglu](https://x.com/chatgptpaglu), [@sdhilip](https://x.com/sdhilip), [@Ankit_patel211](https://x.com/Ankit_patel211), [@itsphotogptai](https://x.com/itsphotogptai), [@guicastellanos1](https://x.com/guicastellanos1), [@ZephyraLeigh](https://x.com/ZephyraLeigh), [@robertsmith_ai](https://x.com/robertsmith_ai), [@mehvishs25](https://x.com/mehvishs25), [@ShamiWeb3](https://x.com/ShamiWeb3), [@linaa_ai](https://x.com/linaa_ai), [@AiwithZohaib](https://x.com/AiwithZohaib), [@zulkarnaimx](https://x.com/zulkarnaimx), [@NyaiiBubu](https://x.com/NyaiiBubu), [@ZaraElira4](https://x.com/ZaraElira4), [@j_smeaton99](https://x.com/j_smeaton99), [@de_mon010](https://x.com/de_mon010), [@aiwithaly](https://x.com/aiwithaly), [@Kashberg_0](https://x.com/Kashberg_0), [@DoctorAmna11](https://x.com/DoctorAmna11), [@oggii_0](https://x.com/oggii_0), [@Hope_Ai01](https://x.com/Hope_Ai01), [@rionaifantasy](https://x.com/rionaifantasy), [@HeyAbhishek](https://x.com/HeyAbhishek), [@AvelyrahnAI](https://x.com/AvelyrahnAI), [@Ozayrr_irl](https://x.com/Ozayrr_irl), [@Anifun_AI](https://x.com/Anifun_AI), [@CamikaApp](https://x.com/CamikaApp), [@vireonixx](https://x.com/vireonixx), [@KingNyalTut](https://x.com/KingNyalTut)
 
-> We cannot guarantee that every case is attributed to the original creator. If anything needs to be corrected, please contact us and we will update it.
+> Wir können nicht garantieren, dass jeder Case dem ursprünglichen Creator korrekt zugeordnet ist. Wenn etwas korrigiert werden muss, kontaktiere uns bitte, damit wir es aktualisieren können.
 
-If you have more interesting GPT-Image-2 prompt cases to share, feel free to reach out and help us expand the Evolink prompt library.
+Wenn du weitere interessante GPT-Image-2 Prompt-Cases teilen möchtest, melde dich gern und hilf uns, die Evolink Prompt-Bibliothek zu erweitern.
 
-## Star History
+## Star-Verlauf
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gpt-image-2-API-and-Prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gpt-image-2-API-and-Prompts&Date)

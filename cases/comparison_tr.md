@@ -1810,3 +1810,20 @@ Once GPT-Image 2 gives you the first ultra high quality image, upload the rest o
 ```
 2x2 grid, do this for 4 famous architectural styles. Anchor: [Architectural Style] :: [Geometric Essence & Period]. Each panel shows a representative building in that exact style with consistent camera angle and neutral sky background.
 ```
+
+---
+### Case 105: Madeni Para Matematiği Düzenleme Testi
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065994787094983151)
+
+**Çıktı:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case105/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+
+**Prompt:**
+
+```
+Modify this photo so the total adds up to 244.5 baht. Adjust the number of coins in each stack until the combined value hits the target.
+```

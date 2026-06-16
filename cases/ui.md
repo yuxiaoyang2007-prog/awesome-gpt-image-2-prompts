@@ -2809,3 +2809,124 @@ In the bottom-right corner, include a rounded-rectangle inset containing the ori
 
 Highly detailed, colored pencil illustration, crayon art style, hand-sketched textures, vibrant yet soft pastel palette, Instagram-style layout, whimsical doodles, premium artwork, realistic reference inset, masterpiece, ultra-detailed, 4K.
 ```
+
+<!-- Case 185: Mascot Brand Identity Sheet (by @iamaiistudio) -->
+### Case 185: [Mascot Brand Identity Sheet](https://x.com/iamaiistudio/status/2066568983453880412) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case185/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mascot Brand Identity Sheet"></a> |
+
+**Prompt:**
+
+```json
+{
+  "type": "18-section complete brand identity and mascot design sheet",
+  "brand": {
+    "name": "{argument name=\"brand name\" default=\"MUYANG TEA\"}",
+    "industry": "{argument name=\"industry\" default=\"tea shop\"}",
+    "colors": ["{argument name=\"primary color\" default=\"yellow\"}", "{argument name=\"secondary color\" default=\"green\"}", "white", "brown", "dark green"]
+  },
+  "subject": "{argument name=\"character description\" default=\"3D rendered cute Shiba Inu mascot wearing a green apron\"}",
+  "layout": {
+    "grid": "3-column by 6-row grid layout",
+    "sections": [
+      {
+        "title": "01 BRAND DNA ANALYSIS",
+        "elements": ["brand logo", "5 color swatches", "6 brand icons", "target audience charts"]
+      },
+      {
+        "title": "02 CONCEPT MOODBOARD",
+        "elements": ["5 reference photos", "4 mood icons", "design concept equation"]
+      },
+      {
+        "title": "03 FORM STUDY",
+        "elements": ["4 logo anatomy icons", "4 design evolution steps", "4 character silhouettes"]
+      },
+      {
+        "title": "04 CONCEPT EXPLORATION",
+        "elements": ["12 line-art character concept sketches"]
+      },
+      {
+        "title": "05 REFINED LINE ART",
+        "elements": ["3 rows of front and side view line art with proportion guides"]
+      },
+      {
+        "title": "06 DETAIL REFINEMENT",
+        "elements": ["2 full-body renders with annotation labels", "4 circular close-up views"]
+      },
+      {
+        "title": "07 EXPRESSION SHEET",
+        "elements": ["11 3D rendered facial expressions"]
+      },
+      {
+        "title": "08 POSE LIBRARY",
+        "elements": ["9 full-body 3D rendered character poses"]
+      },
+      {
+        "title": "09 TURNAROUND VIEW",
+        "elements": ["5 full-body 3D renders from multiple angles", "5 matching line-art views"]
+      },
+      {
+        "title": "10 COLOR DEVELOPMENT",
+        "elements": ["5 rows of 5-color palette options", "color psychology explanations"]
+      },
+      {
+        "title": "11 MATERIAL SPECIFICATION",
+        "elements": ["5 surface texture swatches", "material property sliders", "4 manufacturing process icons"]
+      },
+      {
+        "title": "12 COLOR APPLICATION",
+        "elements": ["4 color scheme variant renders", "2 light and dark mode renders", "4 contrast rating indicators"]
+      },
+      {
+        "title": "13 CONSTRUCTION GUIDE",
+        "elements": ["2 line-art technical diagrams for geometry and grid system"]
+      },
+      {
+        "title": "14 DESIGN SYSTEM RULES",
+        "elements": ["minimum size icons", "clear space diagram", "4 correct and incorrect usage examples"]
+      },
+      {
+        "title": "15 ASSET VARIANTS",
+        "elements": ["3 scaled size variants", "3 line-art style variants", "3 simplified flat icon heads"]
+      },
+      {
+        "title": "16 DIGITAL APPLICATIONS",
+        "elements": ["1 app icon design", "2 social media avatar versions", "UI component elements", "3-frame animation cycle"]
+      },
+      {
+        "title": "17 PHYSICAL APPLICATIONS",
+        "elements": ["plush toy product mockup", "product packaging mockup", "branded merchandise mockup", "retail storefront mockup"]
+      },
+      {
+        "title": "18 FINAL RENDERING",
+        "elements": ["large high-resolution 3D mascot render holding tea cup", "finalized logo", "deliverable file format list"]
+      }
+    ]
+  }
+}
+```
+
+<!-- Case 186: Architectural Product Catalog Page (by @iamaiistudio) -->
+### Case 186: [Architectural Product Catalog Page](https://x.com/iamaiistudio/status/2066447564132745574) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case186/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Architectural Product Catalog Page"></a> |
+
+**Prompt:**
+
+```
+Create a vertical 3:4 product design catalog page with a warm neutral paper-like background.
+
+Top section — lifestyle hero shot: place the product (use the uploaded image as the exact reference, preserving its form, proportions, materials, and identity without redesign) center-dominant with generous whitespace. Setting is a minimal architectural interior with a textured plaster wall and subtle concrete/stone floor. Lighting is natural sunlight angled from the side, soft but casting high-contrast shadows. Render in editorial lifestyle photography style, high realism, warm and muted color grading.
+
+Bottom section — technical specification panel laid out in a clean modular grid:
+- Bottom left and center: orthographic architectural line drawings showing front view, side view, and three-quarter cutaway/profile view. Lines in muted red or sepia, fine technical weight, with minimal editorial measurement and construction callouts.
+- Bottom right: 3-4 material swatch samples derived from the product's actual materials (fabric, leather, metal, wood, or plastic as applicable), in square or rectangular format with small editorial captions.
+
+Typography: minimal editorial style, subtle captions only, no large headlines, soft black or dark brown.
+
+Overall mood: design catalog / product design journal — architectural, premium, calm. No clutter, no bold colors, no heavy branding, no decorative graphics, no perspective distortion in the technical drawings.
+```

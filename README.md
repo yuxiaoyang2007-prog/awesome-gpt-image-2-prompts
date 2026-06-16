@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![871 Curated Prompts](https://img.shields.io/badge/Prompts-871_Curated_Cases-111111)](README.md)
+[![878 Curated Prompts](https://img.shields.io/badge/Prompts-878_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -23,11 +23,35 @@
 
 </div>
 
+## EvoLink Quick Start
+
+Turn any prompt in this repository into a GPT Image 2 API call:
+
+<p align="center">
+  <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><strong>Model Page</strong></a> &nbsp;·&nbsp;
+  <a href="https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><strong>Docs</strong></a> &nbsp;·&nbsp;
+  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><strong>API Key</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/EvoLinkAI/gpt-image-2-gen-skill"><strong>Skill</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow"><strong>Workflow</strong></a>
+</p>
+
+```bash
+export EVOLINK_API_KEY="your_key_here"
+
+curl --request POST \
+  --url https://api.evolink.ai/v1/images/generations \
+  --header "Authorization: Bearer ${EVOLINK_API_KEY}" \
+  --header 'Content-Type: application/json' \
+  --data '{
+    "model": "gpt-image-2",
+    "prompt": "A premium ecommerce hero shot of a ceramic coffee dripper on a clean kitchen counter, soft morning light, realistic product photography"
+  }'
+```
+
 ## Contents
 
 - [🍌 Introduction](#-introduction)
 - [❓ What is GPT Image 2](#-what-is-gpt-image-2)
-- [📰 News](#-news)
 - [🔌 Use GPT Image 2 API](#-use-gpt-image-2-api)
 - [🛒 E-commerce Cases](#-e-commerce-cases)
 - [📣 Ad Creative Cases](#-ad-creative-cases)
@@ -79,86 +103,16 @@ Works with OpenAI's standard API format (`/v1/images/generations`)
 
 > Learn more about using the API in the Use GPT Image 2 API section below.
 
-## 📰 News
-
-**June 15, 2026:** Added 9 new GPT-Image-2 prompt cases (4 ad creative, 3 poster, 1 portrait, 1 ui) from the image prompt update loop after semantic review and media validation
-
-**June 14, 2026:** Added 14 new GPT-Image-2 prompt cases (9 poster, 2 ad creative, 1 character, 1 UI, 1 comparison) from the image prompt update loop after semantic review and media validation
-
-**June 12, 2026:** Added 42 new GPT-Image-2 prompt cases (19 portrait, 12 poster, 4 ad-creative, 4 character, 2 comparison, 1 ecommerce) from daily curation batch after approval and media validation; 2 approved candidates were skipped because the tweet lookup returned no usable media
-
-**June 10, 2026:** Added 31 new GPT-Image-2 prompt cases (9 portrait, 21 poster, 1 comparison) from daily curation batch after review and media validation
-
-**June 9, 2026:** Added 12 new GPT-Image-2 prompt cases (2 portrait, 7 poster, 2 comparison, 1 ecommerce) from daily curation batch after review and media validation
-
-**June 8, 2026:** Added 24 new GPT-Image-2 prompt cases (5 portrait, 7 poster, 5 ui, 3 ecommerce, 4 comparison) from the daily curation batch after approval, thread recovery, and media validation
-
-**June 7, 2026:** Added 19 new GPT-Image-2 prompt cases (2 portrait, 6 poster, 5 ui, 4 ecommerce, 2 comparison) from daily curation batch after review and media validation
-
-**June 6, 2026:** Added 14 new GPT-Image-2 prompt cases (6 poster, 4 ui, 4 comparison) from daily curation batch after review and media validation
-
-**June 4, 2026:** Added 17 new GPT-Image-2 prompt cases (2 portrait, 8 poster, 5 ui, 1 ad creative, 1 character) from daily curation batch after review and media validation
-
-**June 2, 2026:** Added 9 new GPT-Image-2 prompt cases (3 portrait, 5 poster, 1 ui) from daily curation batch after review and media validation
-
-**May 31, 2026:** Added 8 new GPT-Image-2 prompt cases (3 portrait, 4 poster, 1 ui) from daily curation batch after review and media validation
-
-**May 27, 2026:** Added 6 new GPT-Image-2 prompt cases (1 portrait, 3 poster, 1 ui, 1 comparison) from daily curation batch after review and media validation
-
-- **2026-05-22**: Added 38 new prompts — Portrait & Photography, Poster & Illustration
-
-**May 20, 2026:** Added 16 new GPT-Image-2 prompt cases (11 portrait, 5 poster) from daily curation batch
-
-**May 19, 2026:** Added 23 new GPT-Image-2 prompt cases (13 portrait, 8 poster, 2 ui) from daily curation batch
-
-
-**May 17, 2026:** Added 17 new GPT-Image-2 prompt cases (5 portrait, 5 poster, 2 ui, 2 comparison, 3 ad creative) from daily curation batch
-
-**May 14, 2026:** Added 19 new GPT-Image-2 prompt cases (3 portrait, 10 poster, 4 ui, 1 comparison, 1 ad creative) from daily curation batch
-
-**May 13, 2026:** Added 19 new GPT-Image-2 prompt cases (3 portrait, 10 poster, 1 ui, 1 comparison, 4 ad creative) from daily curation batch
-
-**May 12, 2026:** Added 12 new GPT-Image-2 prompt cases (2 portrait, 9 poster, 1 ui) from daily curation batch
-
-**May 11, 2026:** Added 16 new GPT-Image-2 prompt cases (5 portrait, 8 poster, 3 ad creative) from daily curation batch
-
-**May 10, 2026:** Added 19 new GPT-Image-2 prompt cases (4 portrait, 11 poster, 3 ui, 1 comparison) from daily curation batch
-
-**May 9, 2026:** Added 19 new GPT-Image-2 prompt cases (6 portrait, 12 poster, 1 comparison) from daily curation batch
-
-**May 8, 2026:** Added 36 new GPT-Image-2 prompt cases (24 portrait, 6 poster, 6 ui) from daily curation batch
-**May 7, 2026:** Added 20 new GPT-Image-2 prompt cases (10 portrait, 9 poster, 1 ui) from daily curation batch
-**May 6, 2026:** Added 7 new GPT-Image-2 prompt cases (2 portrait, 5 poster) from daily curation batch after review and media validation
-**May 5, 2026:** Added 12 new GPT-Image-2 prompt cases from today's approved curation batch (4 portrait, 5 poster, 3 ui) after review and media validation
-**May 3, 2026:** Added 10 new GPT-Image-2 prompt cases from the daily approved batch (1 e-commerce, 1 ad creative, 3 portrait, 2 poster, 3 ui) after review and media validation
-
-<details>
-<summary>📜 Older Updates</summary>
-
-**May 2, 2026:** Added 18 new GPT-Image-2 prompt cases from the last 48-hour search batch (3 portrait, 7 poster, 4 ui, 4 comparison) after review and media validation
-**April 30, 2026:** Added 9 new GPT-Image-2 prompt cases from the last 24-hour search batch (3 portrait, 1 poster, 3 ui, 2 comparison) after approval and media validation
-**April 29, 2026:** Added 22 new GPT-Image-2 prompt cases across the review batches (3 e-commerce, 3 ad creative, 4 portrait, 2 character, 9 poster, 1 comparison), synced localized prompt entries for Cases 102 and 103, and incorporated the broader valid keep-set pass
-**April 26, 2026:** Added 9 new GPT-Image-2 prompt cases (1 character, 7 poster, 1 ui)
-**April 25, 2026:** Added 81 new GPT-Image-2 prompt cases (2 character, 20 portrait, 42 poster, 17 ui)
-**April 24, 2026:** Added 19 new GPT-Image-2 prompt cases (6 comparison, 6 poster, 7 ui)
-**April 23, 2026:** Added 5 new GPT-Image-2 prompt cases (5 ui)
-**April 23, 2026:** Standardized case titles in `README.md` and all localized README files, including menu entries, anchors, and case headings
-**April 21, 2026:** Categorized 48 new prompt cases into the gallery sections and downloaded linked output images
-**April 21, 2026:** Added 12 new GPT-Image-2 prompts across portrait, poster, UI, and comparison cases
-**April 20, 2026:** Added 10 newly curated GPT-Image-2 prompts with local image assets and README updates.
-**April 20, 2026:** Added 2 new GPT-Image-2 prompt cases (1 character, 1 poster)
-**April 19, 2026:** Added 10 new GPT-Image-2 prompts across poster, UI, and comparison cases
-**April 19, 2026:** Added 5 new GPT-Image-2 prompt cases (3 poster, 2 ui)
-**April 18, 2026:** First repository release with curated GPT-Image-2 case set
-
-</details>
-
-
 ## 🔌 Use GPT Image 2 API
 
 Want to move from prompt inspiration to real image generation fast? Use the GPT Image 2 API docs together with the callable skill.
 
-### 1. Quick Install the Skill
+- [Open GPT Image 2 on EvoLink](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
+- [Read GPT Image 2 API docs](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
+- [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
+- [Go to the GPT Image 2 to Seedance 2.0 workflow repository](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
+
+### 1. Install the Skill
 
 - [Go to gpt-image-2-gen-skill repository](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
 - One-line install:
@@ -167,23 +121,22 @@ Want to move from prompt inspiration to real image generation fast? Use the GPT 
 npx evolink-gpt-image -y
 ```
 
-### 2. Quick Connect to the API
+### 2. Connect to the API
 
-- Connect command:
+Set your key once, then copy any prompt from this repository into the request body:
 
 ```bash
+export EVOLINK_API_KEY="your_key_here"
+
 curl --request POST \
   --url https://api.evolink.ai/v1/images/generations \
-  --header 'Authorization: Bearer YOUR_API_KEY' \
+  --header "Authorization: Bearer ${EVOLINK_API_KEY}" \
   --header 'Content-Type: application/json' \
   --data '{
   "model": "gpt-image-2",
   "prompt": "A beautiful colorful sunset over the ocean"
 }'
 ```
-
-- [Get your API key](https://evolink.ai/dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
-- Read GPT Image 2 API docs
 
 ## 🛒 E-commerce Cases
 
@@ -427,7 +380,7 @@ Distorted hands, extra fingers, broken anatomy, duplicated limbs, unrealistic re
 
 ## 📣 Ad Creative Cases
 
-> **21 curated cases** — [Explore all Ad Creative Prompts →](cases/ad-creative.md)
+> **22 curated cases** — [Explore all Ad Creative Prompts →](cases/ad-creative.md)
 
 <!-- Case 176: Luxury Chronograph Watch Ad (by @AlwaveNazca) -->
 ### Case 176: [Luxury Chronograph Watch Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
@@ -936,9 +889,22 @@ Style: luxury fashion campaign aesthetic (Zara / H&M), polished clean environmen
 Shot with an 85mm lens, shallow depth of field, 8K resolution, ultra-detailed, photorealistic.
 ```
 
+<!-- Case 194: OBSIDIAN Coffee Brand Campaign (by @iamaiistudio) -->
+### Case 194: [OBSIDIAN Coffee Brand Campaign](https://x.com/iamaiistudio/status/2066523210808484228) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case194/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - OBSIDIAN Coffee Brand Campaign"></a> |
+
+**Prompt:**
+
+```
+Generate four cohesive high-end realistic editorial visuals for OBSIDIAN coffee brand. Cinematic, dark, mature aesthetic inspired by luxury sportswear and premium coffee advertising. Studio lighting that's dramatic yet controlled, photorealistic textures, clean compositional layout. Shot 1: Hero brand poster featuring 'OBSIDIAN' lettering with an artful coffee display — steam rising, beans scattered. Shot 2: Full product range — coffee bags, cans, and capsules arranged together. Shot 3: Tight packaging detail with tagline 'Coffee for grown-ups who chase flavor.' Shot 4: Lifestyle close-up of a steaming cup. Ultra-polished finish, crisp realistic materials, unified brand identity, no fantastical or surreal elements
+```
+
 ## 🍌 Portrait & Photography Cases
 
-> **123 curated cases** — [Explore all Portrait & Photography Prompts →](cases/portrait.md)
+> **124 curated cases** — [Explore all Portrait & Photography Prompts →](cases/portrait.md)
 
 <!-- Case 124: Convenience Store Neon Portrait (by @BubbleBrain) -->
 ### Case 124: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
@@ -1339,7 +1305,7 @@ A medium-shot photograph of a young woman with wavy, light brown hair and soft, 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case198/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fashion Blueprint Editorial Sheet"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case198/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fashion Blueprint Editorial Sheet"></a> |
 
 **Prompt:**
 
@@ -1354,7 +1320,7 @@ Surrounding the model are fashion infographic elements, jewelry breakdowns, fabr
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case199/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Joyful Street Portrait with Drink"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case199/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Joyful Street Portrait with Drink"></a> |
 
 **Prompt:**
 
@@ -1367,7 +1333,7 @@ A medium low-angle shot of a joyful young woman with dark hair and straight bang
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case200/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Portrait Collage Film Strip Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case200/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Portrait Collage Film Strip Poster"></a> |
 
 **Prompt:**
 
@@ -1380,7 +1346,7 @@ High-end portrait collage poster in vertical format. The background contains fou
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case201/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Reference-Based Portrait Consistency"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case201/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Reference-Based Portrait Consistency"></a> |
 
 **Prompt:**
 
@@ -1399,7 +1365,7 @@ Calm slice-of-life atmosphere, minimalist Korean school aesthetic, candid model 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case202/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - London Fashion Street Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case202/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - London Fashion Street Portrait"></a> |
 
 **Prompt:**
 
@@ -1415,7 +1381,7 @@ Bright natural sunlight, shallow depth of field, smooth gimbal movement, luxury 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case203/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Travel Selfie Portrait Reference"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case203/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Travel Selfie Portrait Reference"></a> |
 
 **Prompt:**
 
@@ -1442,7 +1408,7 @@ watermark, logo, text, caption, signature, AI label, brand mark, extra fingers, 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case204/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ultra-Realistic Phone-Style Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case204/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ultra-Realistic Phone-Style Portrait"></a> |
 
 **Prompt:**
 
@@ -1491,7 +1457,7 @@ The overall result should resemble a genuine smartphone portrait captured casual
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case205/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Woodcut Engraving Portrait Style"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case205/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Woodcut Engraving Portrait Style"></a> |
 
 **Prompt:**
 
@@ -1510,7 +1476,7 @@ color, watercolor, soft shading, blurred lines, low contrast, realistic photogra
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case206/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar 3D Character Design Sheet"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case206/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar 3D Character Design Sheet"></a> |
 
 **Prompt:**
 
@@ -1552,7 +1518,7 @@ STYLE NOTES: Pixar 3D vivid rendering. Clean white background on both character 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case207/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Matcha Goddess Beauty Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case207/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Matcha Goddess Beauty Portrait"></a> |
 
 **Prompt:**
 
@@ -1567,7 +1533,7 @@ ultra realistic surreal beauty editorial portrait, matcha goddess aesthetic, eth
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case208/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Camera LCD Screen Shot"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case208/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Camera LCD Screen Shot"></a> |
 
 **Prompt:**
 
@@ -1591,7 +1557,7 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case209/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 写实感人物竖版照片"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case209/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 写实感人物竖版照片"></a> |
 
 **Prompt:**
 
@@ -1617,7 +1583,7 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case210/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Y2K Japanese Street Editorial Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case210/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Y2K Japanese Street Editorial Poster"></a> |
 
 **Prompt:**
 
@@ -1630,7 +1596,7 @@ Create a bold Y2K Japanese street-editorial collage poster with a clean high-fas
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case211/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Editorial Male Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case211/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Editorial Male Portrait"></a> |
 
 **Prompt:**
 
@@ -1643,7 +1609,7 @@ Ultra-realistic 8K editorial male portrait of the uploaded man, using his exact 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case212/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Avant-Garde Tokyo Fashion Zine Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case212/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Avant-Garde Tokyo Fashion Zine Poster"></a> |
 
 **Prompt:**
 
@@ -1660,7 +1626,7 @@ Overall mood: clean but rebellious, premium Japanese street-editorial energy, ci
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case213/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Miki Style Line Art Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case213/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Miki Style Line Art Portrait"></a> |
 
 **Prompt:**
 
@@ -1677,7 +1643,7 @@ Composition: Profile chest-up bust shot portrait, composed cleanly, with a calm,
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case214/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Beauty Ultra-Realistic Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case214/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Beauty Ultra-Realistic Portrait"></a> |
 
 **Prompt:**
 
@@ -1690,7 +1656,7 @@ low quality, blurry, distorted anatomy, extra fingers, bad hands, unrealistic sm
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case215/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic B&W Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case215/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic B&W Portrait"></a> |
 
 **Prompt:**
 
@@ -1703,7 +1669,7 @@ A hyper-realistic, cinematic black-and-white portrait of a woman caught in mid-m
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case216/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Artistic Sketch Portrait Young Man"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case216/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Artistic Sketch Portrait Young Man"></a> |
 
 **Prompt:**
 
@@ -1716,7 +1682,7 @@ Create a unique artistic sketch-style portrait of a modern young man wearing bla
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case217/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - NBA Legend Mid-Air Action Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case217/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - NBA Legend Mid-Air Action Poster"></a> |
 
 **Prompt:**
 
@@ -1729,7 +1695,7 @@ Dynamic NBA legend poster design, iconic basketball superstar in mid-air action 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case218/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Beauty Fashion Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case218/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Beauty Fashion Portrait"></a> |
 
 **Prompt:**
 
@@ -1742,7 +1708,7 @@ Create a high-quality “chibi sticker diary portrait” based on the uploaded r
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case219/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Football Portrait Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case219/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Football Portrait Poster"></a> |
 
 **Prompt:**
 
@@ -1755,7 +1721,7 @@ Ultra realistic cinematic football poster of a stylish young South Asian male fo
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case220/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Switzerland Watercolor Travel Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case220/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Switzerland Watercolor Travel Poster"></a> |
 
 **Prompt:**
 
@@ -1768,7 +1734,7 @@ Ultra realistic cinematic football poster of a stylish young South Asian male fo
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case221/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Lifestyle Outdoor Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case221/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Lifestyle Outdoor Portrait"></a> |
 
 **Prompt:**
 
@@ -1781,7 +1747,7 @@ Cinematic lifestyle portrait of a cheerful young woman sitting on a rustic woode
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case222/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Cycling Storyboard Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case222/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Cycling Storyboard Poster"></a> |
 
 **Prompt:**
 
@@ -1794,7 +1760,7 @@ Cinematic lifestyle portrait of a cheerful young woman sitting on a rustic woode
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case223/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Y2K Japanese Street Collage Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case223/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Y2K Japanese Street Collage Poster"></a> |
 
 **Prompt:**
 
@@ -1807,7 +1773,7 @@ Create a bold Y2K Japanese street-editorial collage poster with a clean high-fas
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case224/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cosmic Garden Fantasy Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case224/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cosmic Garden Fantasy Portrait"></a> |
 
 **Prompt:**
 
@@ -1820,7 +1786,7 @@ Ultra-realistic cinematic fantasy-science portrait of a beautiful young female s
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case225/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Streetwear Magazine Cover Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case225/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Streetwear Magazine Cover Portrait"></a> |
 
 **Prompt:**
 
@@ -1834,7 +1800,7 @@ snippets, and grunge borders, creating a cohesive Japanese street-culture aesthe
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case226/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cat-Eye Glasses Fashion Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case226/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cat-Eye Glasses Fashion Portrait"></a> |
 
 **Prompt:**
 
@@ -1847,7 +1813,7 @@ A young woman with long, dark hair and striking cat-eye glasses is captured in a
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case227/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bold Monochrome Identity Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case227/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bold Monochrome Identity Portrait"></a> |
 
 **Prompt:**
 
@@ -1860,7 +1826,7 @@ Use my uploaded image as the face reference.
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case228/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Clean Tech Advertisement Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case228/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Clean Tech Advertisement Poster"></a> |
 
 **Prompt:**
 
@@ -1873,7 +1839,7 @@ Use my uploaded image as the face reference.
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case229/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Flat Vector Editorial Pattern Illustration"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case229/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Flat Vector Editorial Pattern Illustration"></a> |
 
 **Prompt:**
 
@@ -1886,7 +1852,7 @@ Create a sophisticated flat-vector editorial pattern illustration of [Chicago bu
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case230/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Beauty Identity Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case230/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Beauty Identity Portrait"></a> |
 
 **Prompt:**
 
@@ -1899,7 +1865,7 @@ Using the provided reference image, create an ultra-realistic Korean street-fash
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case231/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Hollywood Luxury Anime Fashion Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case231/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Hollywood Luxury Anime Fashion Portrait"></a> |
 
 **Prompt:**
 
@@ -1912,7 +1878,7 @@ Create a premium 1:1 Hollywood-style luxury anime fashion editorial collage feat
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case232/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Identity Reference Beauty Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case232/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Identity Reference Beauty Portrait"></a> |
 
 **Prompt:**
 
@@ -1925,7 +1891,7 @@ Use only my uploaded portrait photo as the identity reference. Accurately preser
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case233/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixel Art Character Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case233/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixel Art Character Portrait"></a> |
 
 **Prompt:**
 
@@ -1938,7 +1904,7 @@ Create a cute and stylish pixel-art illustration based on the uploaded image in 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case234/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Negative Prompt Portrait Template"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case234/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Negative Prompt Portrait Template"></a> |
 
 **Prompt:**
 
@@ -1951,7 +1917,7 @@ low quality, blurry, distorted face, extra fingers, bad hands, duplicate facial 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case235/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Identity Reference Fashion Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case235/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Identity Reference Fashion Portrait"></a> |
 
 **Prompt:**
 
@@ -1970,7 +1936,7 @@ Avoid: pastel colors, kawaii styling, cartoon elements, bubbles, exaggerated neo
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case236/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar 3D Character Design Sheet"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case236/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar 3D Character Design Sheet"></a> |
 
 **Prompt:**
 
@@ -1983,7 +1949,7 @@ Avoid: pastel colors, kawaii styling, cartoon elements, bubbles, exaggerated neo
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case237/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Automotive Design Deconstruction Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case237/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Automotive Design Deconstruction Poster"></a> |
 
 **Prompt:**
 
@@ -1996,7 +1962,7 @@ You are an AI automotive designer that deconstructs any object's aerodynamic phi
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case238/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Graffiti Portrait Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case238/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Graffiti Portrait Poster"></a> |
 
 **Prompt:**
 
@@ -2009,7 +1975,7 @@ Create a high-detail portrait poster in a bold Japanese graffiti-inspired art st
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case239/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case239/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Portrait"></a> |
 
 **Prompt:**
 
@@ -2022,7 +1988,7 @@ Use my uploaded portrait photo as the only identity reference. Preserve only the
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case240/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Outdoor Lifestyle Open Sky Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case240/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Outdoor Lifestyle Open Sky Portrait"></a> |
 
 **Prompt:**
 
@@ -2035,7 +2001,7 @@ Vibe: outdoor lifestyle · introspective · open sky
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case241/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 高级男性魅力人像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case241/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 高级男性魅力人像"></a> |
 
 **Prompt:**
 
@@ -2054,7 +2020,7 @@ Vibe: outdoor lifestyle · introspective · open sky
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case242/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 沙滩场景丰腴人物写真"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case242/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 沙滩场景丰腴人物写真"></a> |
 
 **Prompt:**
 
@@ -2067,7 +2033,7 @@ Vibe: outdoor lifestyle · introspective · open sky
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case243/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Photorealistic Editorial Seated Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case243/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Photorealistic Editorial Seated Portrait"></a> |
 
 **Prompt:**
 
@@ -2080,7 +2046,7 @@ Photorealistic editorial portrait of a relaxed young man seated on minimalist wh
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case244/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Soft Aesthetic Fashion Magazine Cover"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case244/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Soft Aesthetic Fashion Magazine Cover"></a> |
 
 **Prompt:**
 
@@ -2093,7 +2059,7 @@ Ultra-realistic soft aesthetic fashion magazine cover portrait of a young East A
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case245/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pakistan Miniature World Map Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case245/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pakistan Miniature World Map Poster"></a> |
 
 **Prompt:**
 
@@ -2106,7 +2072,7 @@ Create an ultra-detailed hyper-realistic 9:16 cinematic miniature world map of P
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case246/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Film Aesthetic Airport Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case246/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Film Aesthetic Airport Portrait"></a> |
 
 **Prompt:**
 
@@ -3172,9 +3138,22 @@ Style rules: slightly oversized head with simplified limbs and a cute, charming 
 Camera: macro photography, close-up shot. Soft studio lighting with warm highlights and gentle shadows. Clean, out-of-focus bokeh background in a neutral craft studio setting. Shallow depth of field (f/2.8). High fidelity, 8k resolution, photorealistic wool texture, Pixar-like character charm.
 ```
 
+<!-- Case 305: Airy Japanese Window Portrait (by @iamaiistudio) -->
+### Case 305: [Airy Japanese Window Portrait](https://x.com/iamaiistudio/status/2066643592366727581) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case305/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Airy Japanese Window Portrait"></a> |
+
+**Prompt:**
+
+```
+35mm film photo, airy Japanese aesthetic, soft natural window light from the side, slightly overexposed, muted pastel colors, low contrast, bright gentle highlights, quiet indoor room beside sheer white curtains, pale wall, natural eye-level frame from mid-thigh upward, young East Asian woman, barely-there makeup, smooth natural skin, long loose dark hair, oversized white button-down shirt, casual shorts, bare feet, effortless everyday style, relaxed stance with arms lightly at sides or gently back, looking softly at the camera, calm quiet smile, stillness and lightness, fine film grain, gentle dreamy mood --ar 9:16
+```
+
 ## 🎨 Poster & Illustration Cases
 
-> **142 curated cases** — [Explore all Poster & Illustration Prompts →](cases/poster.md)
+> **143 curated cases** — [Explore all Poster & Illustration Prompts →](cases/poster.md)
 
 <!-- Case 214: Peacock Botanical Vintage Symmetrical Art Print (by @dotey) -->
 ### Case 214: [Peacock Botanical Vintage Symmetrical Art Print](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
@@ -4001,7 +3980,7 @@ Create a single image storyboard with 9 cinematic frames arranged in a  3×3 gri
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case293/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage 1960s Beer Ad Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case293/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage 1960s Beer Ad Poster"></a> |
 
 **Prompt:**
 
@@ -4014,7 +3993,7 @@ Authentic 1960s American advertising poster for [BREW], vintage mid-century comm
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case294/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Director's Pitch Board"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case294/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Director's Pitch Board"></a> |
 
 **Prompt:**
 
@@ -4027,7 +4006,7 @@ A premium director’s pitch presentation board for a high-budget cinematic prod
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case295/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Viral Food Infographic Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case295/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Viral Food Infographic Poster"></a> |
 
 **Prompt:**
 
@@ -4097,7 +4076,7 @@ Aspect ratio 4:5 or 9:16
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case296/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 2x2 Luxury 3D Sculptural Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case296/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 2x2 Luxury 3D Sculptural Poster"></a> |
 
 **Prompt:**
 
@@ -4110,7 +4089,7 @@ INPUT: [DOMAIN OR CATEGORY]  SYSTEM: Generate a 2×2 luxury poster series transl
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case297/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Physics Infographic Code Prompt"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case297/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Physics Infographic Code Prompt"></a> |
 
 **Prompt:**
 
@@ -4124,7 +4103,7 @@ INPUT: [DOMAIN OR CATEGORY]  SYSTEM: Generate a 2×2 luxury poster series transl
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case298/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Football Player Dynamic Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case298/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Football Player Dynamic Poster"></a> |
 
 **Prompt:**
 
@@ -4137,7 +4116,7 @@ A dynamic mixed-media football poster featuring James Rodríguez in Colombia’s
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case299/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Travel Food Advertisement Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case299/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Travel Food Advertisement Poster"></a> |
 
 **Prompt:**
 
@@ -4150,7 +4129,7 @@ Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vert
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case300/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Watercolor Travel Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case300/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Watercolor Travel Poster"></a> |
 
 **Prompt:**
 
@@ -4164,7 +4143,7 @@ Scene variations: • London  rainy streets, red double-decker bus, black taxi, 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case301/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Retro Cafe Scrapbook Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case301/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Retro Cafe Scrapbook Poster"></a> |
 
 **Prompt:**
 
@@ -4177,7 +4156,7 @@ Whimsical retro cafe scrapbook poster, dreamy pistachio rose latte aesthetic, la
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case302/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Blueberry Lavender Soda Scrapbook Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case302/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Blueberry Lavender Soda Scrapbook Poster"></a> |
 
 **Prompt:**
 
@@ -4190,7 +4169,7 @@ Vintage-inspired blueberry lavender soda scrapbook poster, dreamy artisanal cafe
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case303/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Scientific Concept Anchor Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case303/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Scientific Concept Anchor Poster"></a> |
 
 **Prompt:**
 
@@ -4203,7 +4182,7 @@ Anchor: The word "[SCIENTIFIC CONCEPT (e.g.,  CARBON / DNA / GRAVITY)]" :: where
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case304/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Editorial Fashion Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case304/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Editorial Fashion Poster"></a> |
 
 **Prompt:**
 
@@ -4216,7 +4195,7 @@ Editorial fashion poster featuring a full-body, stylish male model leaning casua
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case305/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - High Fashion Editorial Infographic Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case305/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - High Fashion Editorial Infographic Poster"></a> |
 
 **Prompt:**
 
@@ -4229,7 +4208,7 @@ A high-fashion editorial infographic poster featuring a stunning female fashion 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case306/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Basketball Poster Design"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case306/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Basketball Poster Design"></a> |
 
 **Prompt:**
 
@@ -4242,7 +4221,7 @@ Create a high-impact professional basketball poster design for a fictional live 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case307/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 角色卡三视图生成"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case307/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 角色卡三视图生成"></a> |
 
 **Prompt:**
 
@@ -4741,7 +4720,7 @@ The image should communicate human connection, cosmic wonder, the contrast betwe
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case335/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mixed-Media Editorial Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case335/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mixed-Media Editorial Portrait"></a> |
 
 **Prompt:**
 
@@ -4754,7 +4733,7 @@ A mixed-media portrait of [SUBJECT] showing [EXPRESSION], looking [GAZE DIRECTIO
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case336/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Landmark Miniature Diorama"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case336/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Landmark Miniature Diorama"></a> |
 
 **Prompt:**
 
@@ -4767,7 +4746,7 @@ Isometric miniature diorama of [LANDMARK NAME], capturing its real-world structu
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case337/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Glass Skeleton Study Desk"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case337/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Glass Skeleton Study Desk"></a> |
 
 **Prompt:**
 
@@ -4780,7 +4759,7 @@ Stylized 3D render of a clear glass skeleton with black-rimmed glasses, seated a
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case338/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pastel Paper-Collage Travel Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case338/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pastel Paper-Collage Travel Poster"></a> |
 
 **Prompt:**
 
@@ -4833,7 +4812,7 @@ Images
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case339/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sketch Portrait Breaking Paper"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case339/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sketch Portrait Breaking Paper"></a> |
 
 **Prompt:**
 
@@ -4856,7 +4835,7 @@ Images
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case340/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Passport Worlds Atlas Scene"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case340/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Passport Worlds Atlas Scene"></a> |
 
 **Prompt:**
 
@@ -7174,9 +7153,26 @@ Show large bold typography of "[CITY NAME]" printed directly on the map in the f
 Aspect ratio 1:1.
 ```
 
+<!-- Case 406: AI Music Bootcamp Event Poster (by @iamaiistudio) -->
+### Case 406: [AI Music Bootcamp Event Poster](https://x.com/iamaiistudio/status/2066538267835867647) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case406/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - AI Music Bootcamp Event Poster"></a> |
+
+**Prompt:**
+
+```
+Generate a dramatic Japanese anime-style event promotional poster in vertical 4:5 format, ultra-detailed, cinematic, neon-lit, high contrast, styled like a polished social media announcement. Center-right subject: a beautiful anime girl from the waist up, long flowing deep blue hair blowing in the wind with small star hairpins, wearing a dark hoodie with large studio headphones around her neck. Her face is softly obscured by a rectangular blur. Background: glowing sunset-to-night city skyline with sparkling lights, music-energy particles, lens flares, and glowing petals. Color palette: electric blue, violet, magenta, gold, and sunset orange.
+
+Layer crisp Japanese typography integrated like a professional event ad with exactly 8 text groups: (1) top-left heading 「始まるのは、キミと創る 音楽の物語。」 with subcopy 「AIを使って、みんなで音楽をつくる特別な3日間。」; (2) top-right glowing marquee 「GW連休!」 and neon box 「みんなで最高の音楽をつくろう!」; (3) center title with English 「AI MUSIC BOOTCAMP 2」 above large 「AI音楽 ブートキャンプ 2」; (4) massive gold metallic text across the middle 「開催決定!」; (5) date bar 「開催期間」 with 「5.2 SAT 土」 and 「5.4 MON 月」; (6) hashtag callout 「参加はカンタン!!  をつけて投稿するだけ!」; (7) encouragement line 「初心者も大歓迎! みんなで最高の音楽体験を!」; (8) three bottom feature captions with icons: 「一緒に学ぶ 仲間とつながる」, 「AIで創る 新しい音楽体験」, 「想いをカタチに 自分だけの1曲を」.
+
+Left edge: vertical filmstrip with 4 panels showing the girl (1) performing on stage before a crowd, (2) at a music production desk with screens, (3) singing into a mic, (4) playing acoustic guitar. Lower area: 2 neon music icons — tilted smartphone with music note (lower left), glowing microphone with musical notes (lower right). Text effects: glossy, luminous, gold and white emboss, energetic streaks and spark explosions around headline. Mood: inspiring, celebratory, futuristic, emotionally uplifting — like a high-impact Japanese Golden Week music event ad.
+```
+
 ## 🧍 Character Design Cases
 
-> **9 curated cases** — [Explore all Character Design Prompts →](cases/character.md)
+> **11 curated cases** — [Explore all Character Design Prompts →](cases/character.md)
 
 <!-- Case 2: Persona5 Character Reference Card (by @iamrednightS) -->
 ### Case 2: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
@@ -7567,9 +7563,65 @@ high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic l
 Vertical bizarre flat cartoon portrait of [SUBJECT from the attached photo] with a high geometric head shape, a long narrow neck, huge round eyes, a tiny mouth and an unflappable laugh, dressed in [CLOTHES from the photo], with a [OBJECT/CREATURE] sitting on their head like a living hat. Pure black outline, smooth color fills, simple face shapes, rare drawings on animal fur or skin, playful surreal character design, bold graphic palette [COLOR]. Background decorations: [ENVIRONMENT DECORATIONS from LOCATION/SCENE], made using simplified shapes, clear depth, a small amount of scenery from the environment and a clear cartoon perspective. Clear digital illustration, vertical framing in the form of a poster, no realism, no 3D rendering, no picturesque shading, aspect ratio 4:5.
 ```
 
+<!-- Case 24: Korean Dance Motion Sheet (by @iamaiistudio) -->
+### Case 24: [Korean Dance Motion Sheet](https://x.com/iamaiistudio/status/2066659127485718574) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case24/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Dance Motion Sheet"></a> |
+
+**Prompt:**
+
+```
+[STYLE]
+black and white grayscale illustration, 3D rendered character, clean instructional reference sheet,
+white background, comic panel grid layout, technical diagram aesthetic
+
+[LAYOUT]
+4x4 grid, 16 panels total, each panel divided by thin black borders,
+cells numbered 1 through 16, uniform panel dimensions
+
+[CHARACTER]
+young female dancer, athletic build, ponytail hairstyle, crop top and baggy pants, sneakers — same character across all panels
+
+[PANEL STRUCTURE - per cell]
+top-left: bold number badge + Korean title text
+center: full-body character pose illustration
+bottom-left: Korean description text (3-4 lines)
+overlay: motion arrows showing movement direction
+
+[ARROWS / MOTION INDICATORS]
+curved arrows, straight arrows, circular rotation markers,
+placed around the character to indicate movement flow and direction
+
+[RENDERING STYLE]
+high-detail 3D sculpt style, soft studio lighting, subtle shadows,
+no color, grayscale shading, clean linework, game concept art quality
+
+[NEGATIVE]
+no background scenery, no color tones, no extra characters,
+no cluttered backgrounds
+```
+
+<!-- Case 25: Luminant Archivist Character Poster (by @92digitalartArt) -->
+### Case 25: [Luminant Archivist Character Poster](https://x.com/92digitalartArt/status/2066558474650095890) (by [@92digitalartArt](https://x.com/92digitalartArt))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case25/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luminant Archivist Character Poster"></a> |
+
+**Prompt:**
+
+```
+Vertical 9:16 full-body cinematic portrait of a single alien character, the Luminant Archivist, standing on a rocky ridge on the twilight band of an alien planet; the creature has a tall elongated body with three root-like legs forming a stable tripod, lower torso textured like smooth bark and sinew fused together; two long arms with four segmented joints each end in multifingered, tendril-like manipulators gently holding a glowing hexagonal plate; instead of a human head, the upper torso flares into a tall crown of layered translucent plates arranged like a vertical fan, each plate lit from within by faint cyan neural patterns, no face, no eyes, no mouth; along its back and shoulders grow rigid bioluminescent data plates, flat hexagonal organisms clinging like barnacles, softly pulsing in cyan, teal and occasional warm amber; the body is draped in a partial organic mantle made of fibrous membrane and chitin filaments, not clothing but grown; background shows a perpetual dusk sky with a low orange band on one horizon and deep indigo on the opposite, distant silhouettes of hollow spires and tiny other Archivists crossing the landscape; ground covered in reflective glassy lichen and small crystals catching the character's glow; palette of deep indigo, dusty violet, cyan glows and subtle warm amber accents; strong horizon rim light outlining the Archivist's silhouette, subtle backlighting from the bioluminescent plates, gentle atmospheric haze; realistic but slightly painterly rendering, extremely detailed textures on skin, plates and lichen; composed like a high-end sci-fi character poster, vertical 9:16 aspect ratio, full body in frame, centered but with enough headroom and ground visible to feel part of a larger universe.
+
+Negative prompt:
+human-like alien, humanoid face, eyes, nose, mouth, jaw, blue-skinned human, elf, armor suit, guns, generic sci-fi soldier, anime style, cartoon, chibi, cyberpunk city, neon signs, medieval fantasy, wings, halos, angel, bad anatomy, random extra limbs, cluttered background, oversaturated colors, strong lens distortion, fisheye, low resolution, blurry details, noisy grain, HUD, UI, readable text, watermark, logo, modern Earth clothing, sneakers, jeans, T-shirt
+```
+
 ## 📱 UI & Social Media Mockup Cases
 
-> **36 curated cases** — [Explore all UI & Social Media Mockup Prompts →](cases/ui.md)
+> **38 curated cases** — [Explore all UI & Social Media Mockup Prompts →](cases/ui.md)
 
 <!-- Case 130: One-Prompt UI Design Generation (by @austinit) -->
 ### Case 130: [One-Prompt UI Design Generation](https://x.com/austinit/status/2044968740782272596) (by [@austinit](https://x.com/austinit))
@@ -7848,7 +7900,7 @@ Create a Tarot card based on what you know about me, in the classic style of Rid
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case161/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case161/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -8125,7 +8177,7 @@ Quality: hyper-detailed, ultra-realistic materials, photorealistic objects, cine
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case169/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Embossed Metal Logo Bas-Relief"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case169/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Embossed Metal Logo Bas-Relief"></a> |
 
 **Prompt:**
 
@@ -8150,7 +8202,7 @@ Render: Ray tracing enabled for self-shadowing. Full sharpness edge to edge. Uni
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case170/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sculptural Fruit Packaging Design"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case170/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sculptural Fruit Packaging Design"></a> |
 
 **Prompt:**
 
@@ -8169,7 +8221,7 @@ Soft diffused studio lighting, gentle drop shadows, set against a solid pastel [
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case171/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Perfume Infographic Ad"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case171/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Perfume Infographic Ad"></a> |
 
 **Prompt:**
 
@@ -8195,7 +8247,7 @@ Style references: Chanel, Dior, Tom Ford, Maison Francis Kurkdjian, luxury fashi
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case172/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - AAA Game Loading Screen Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case172/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - AAA Game Loading Screen Portrait"></a> |
 
 **Prompt:**
 
@@ -8678,6 +8730,127 @@ In the bottom-right corner, include a rounded-rectangle inset containing the ori
 Highly detailed, colored pencil illustration, crayon art style, hand-sketched textures, vibrant yet soft pastel palette, Instagram-style layout, whimsical doodles, premium artwork, realistic reference inset, masterpiece, ultra-detailed, 4K.
 ```
 
+<!-- Case 185: Mascot Brand Identity Sheet (by @iamaiistudio) -->
+### Case 185: [Mascot Brand Identity Sheet](https://x.com/iamaiistudio/status/2066568983453880412) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case185/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mascot Brand Identity Sheet"></a> |
+
+**Prompt:**
+
+```json
+{
+  "type": "18-section complete brand identity and mascot design sheet",
+  "brand": {
+    "name": "{argument name=\"brand name\" default=\"MUYANG TEA\"}",
+    "industry": "{argument name=\"industry\" default=\"tea shop\"}",
+    "colors": ["{argument name=\"primary color\" default=\"yellow\"}", "{argument name=\"secondary color\" default=\"green\"}", "white", "brown", "dark green"]
+  },
+  "subject": "{argument name=\"character description\" default=\"3D rendered cute Shiba Inu mascot wearing a green apron\"}",
+  "layout": {
+    "grid": "3-column by 6-row grid layout",
+    "sections": [
+      {
+        "title": "01 BRAND DNA ANALYSIS",
+        "elements": ["brand logo", "5 color swatches", "6 brand icons", "target audience charts"]
+      },
+      {
+        "title": "02 CONCEPT MOODBOARD",
+        "elements": ["5 reference photos", "4 mood icons", "design concept equation"]
+      },
+      {
+        "title": "03 FORM STUDY",
+        "elements": ["4 logo anatomy icons", "4 design evolution steps", "4 character silhouettes"]
+      },
+      {
+        "title": "04 CONCEPT EXPLORATION",
+        "elements": ["12 line-art character concept sketches"]
+      },
+      {
+        "title": "05 REFINED LINE ART",
+        "elements": ["3 rows of front and side view line art with proportion guides"]
+      },
+      {
+        "title": "06 DETAIL REFINEMENT",
+        "elements": ["2 full-body renders with annotation labels", "4 circular close-up views"]
+      },
+      {
+        "title": "07 EXPRESSION SHEET",
+        "elements": ["11 3D rendered facial expressions"]
+      },
+      {
+        "title": "08 POSE LIBRARY",
+        "elements": ["9 full-body 3D rendered character poses"]
+      },
+      {
+        "title": "09 TURNAROUND VIEW",
+        "elements": ["5 full-body 3D renders from multiple angles", "5 matching line-art views"]
+      },
+      {
+        "title": "10 COLOR DEVELOPMENT",
+        "elements": ["5 rows of 5-color palette options", "color psychology explanations"]
+      },
+      {
+        "title": "11 MATERIAL SPECIFICATION",
+        "elements": ["5 surface texture swatches", "material property sliders", "4 manufacturing process icons"]
+      },
+      {
+        "title": "12 COLOR APPLICATION",
+        "elements": ["4 color scheme variant renders", "2 light and dark mode renders", "4 contrast rating indicators"]
+      },
+      {
+        "title": "13 CONSTRUCTION GUIDE",
+        "elements": ["2 line-art technical diagrams for geometry and grid system"]
+      },
+      {
+        "title": "14 DESIGN SYSTEM RULES",
+        "elements": ["minimum size icons", "clear space diagram", "4 correct and incorrect usage examples"]
+      },
+      {
+        "title": "15 ASSET VARIANTS",
+        "elements": ["3 scaled size variants", "3 line-art style variants", "3 simplified flat icon heads"]
+      },
+      {
+        "title": "16 DIGITAL APPLICATIONS",
+        "elements": ["1 app icon design", "2 social media avatar versions", "UI component elements", "3-frame animation cycle"]
+      },
+      {
+        "title": "17 PHYSICAL APPLICATIONS",
+        "elements": ["plush toy product mockup", "product packaging mockup", "branded merchandise mockup", "retail storefront mockup"]
+      },
+      {
+        "title": "18 FINAL RENDERING",
+        "elements": ["large high-resolution 3D mascot render holding tea cup", "finalized logo", "deliverable file format list"]
+      }
+    ]
+  }
+}
+```
+
+<!-- Case 186: Architectural Product Catalog Page (by @iamaiistudio) -->
+### Case 186: [Architectural Product Catalog Page](https://x.com/iamaiistudio/status/2066447564132745574) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case186/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Architectural Product Catalog Page"></a> |
+
+**Prompt:**
+
+```
+Create a vertical 3:4 product design catalog page with a warm neutral paper-like background.
+
+Top section — lifestyle hero shot: place the product (use the uploaded image as the exact reference, preserving its form, proportions, materials, and identity without redesign) center-dominant with generous whitespace. Setting is a minimal architectural interior with a textured plaster wall and subtle concrete/stone floor. Lighting is natural sunlight angled from the side, soft but casting high-contrast shadows. Render in editorial lifestyle photography style, high realism, warm and muted color grading.
+
+Bottom section — technical specification panel laid out in a clean modular grid:
+- Bottom left and center: orthographic architectural line drawings showing front view, side view, and three-quarter cutaway/profile view. Lines in muted red or sepia, fine technical weight, with minimal editorial measurement and construction callouts.
+- Bottom right: 3-4 material swatch samples derived from the product's actual materials (fabric, leather, metal, wood, or plastic as applicable), in square or rectangular format with small editorial captions.
+
+Typography: minimal editorial style, subtle captions only, no large headlines, soft black or dark brown.
+
+Overall mood: design catalog / product design journal — architectural, premium, calm. No clutter, no bold colors, no heavy branding, no decorative graphics, no perspective distortion in the technical drawings.
+```
+
 ## 🧪 Comparison & Community Examples
 
 > **21 curated cases** — [Explore all Comparison & Community Examples →](cases/comparison.md)
@@ -8892,7 +9065,7 @@ Footer:
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case89/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case89/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -8905,7 +9078,7 @@ Build a full visual worldbuilding kit for a futuristic solar-powered desert civi
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case90/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Racer Character Model Sheet"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case90/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Racer Character Model Sheet"></a> |
 
 **Prompt:**
 
@@ -8918,7 +9091,7 @@ Build a full visual worldbuilding kit for a futuristic solar-powered desert civi
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case91/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Era Cube Visualizer Grid"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case91/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Era Cube Visualizer Grid"></a> |
 
 **Prompt:**
 
@@ -8933,7 +9106,7 @@ I love these cube prompts for visualizing different eras. Pretty short but GPT I
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case92/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Chaotic Kitchen Freeze-Frame"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case92/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Chaotic Kitchen Freeze-Frame"></a> |
 
 **Prompt:**
 
@@ -8946,7 +9119,7 @@ Surreal comedic freeze-frame inside a modern kitchen: a young man arches backwar
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case93/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Innovation Reliquary Diagram"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case93/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Innovation Reliquary Diagram"></a> |
 
 **Prompt:**
 

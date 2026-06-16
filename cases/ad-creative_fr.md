@@ -1230,3 +1230,16 @@ Style: luxury fashion campaign aesthetic (Zara / H&M), polished clean environmen
 
 Shot with an 85mm lens, shallow depth of field, 8K resolution, ultra-detailed, photorealistic.
 ```
+
+<!-- Case 194: Campagne de marque café OBSIDIAN (by @iamaiistudio) -->
+### Case 194: [Campagne de marque café OBSIDIAN](https://x.com/iamaiistudio/status/2066523210808484228) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case194/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Campagne de marque café OBSIDIAN"></a> |
+
+**Prompt:**
+
+```
+Generate four cohesive high-end realistic editorial visuals for OBSIDIAN coffee brand. Cinematic, dark, mature aesthetic inspired by luxury sportswear and premium coffee advertising. Studio lighting that's dramatic yet controlled, photorealistic textures, clean compositional layout. Shot 1: Hero brand poster featuring 'OBSIDIAN' lettering with an artful coffee display — steam rising, beans scattered. Shot 2: Full product range — coffee bags, cans, and capsules arranged together. Shot 3: Tight packaging detail with tagline 'Coffee for grown-ups who chase flavor.' Shot 4: Lifestyle close-up of a steaming cup. Ultra-polished finish, crisp realistic materials, unified brand identity, no fantastical or surreal elements
+```

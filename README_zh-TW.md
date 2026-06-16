@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![871 Curated Prompts](https://img.shields.io/badge/Prompts-871_Curated_Cases-111111)](README.md)
+[![878 Curated Prompts](https://img.shields.io/badge/Prompts-878_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -27,7 +27,7 @@
 
 - [🍌 簡介](#-簡介)
 - [❓ 什麼是 GPT Image 2？](#-什麼是-gpt-image-2)
-- [📰 最新動態](#-最新動態)
+- [EvoLink 快速開始](#evolink-快速開始)
 - [🔌 使用 GPT Image 2 API](#-使用-gpt-image-2-api)
 - [🛒 E-commerce Cases](#-e-commerce-cases)
 - [📣 Ad Creative Cases](#-ad-creative-cases)
@@ -44,7 +44,7 @@
 
 歡迎來到 **Awesome GPT Image 2 API and Prompts** 倉庫！🤗
 
-精選收錄 **871+ 個高品質 GPT-Image-2 提示詞**、API 使用模式與可重用視覺工作流，面向 AI 圖像生成實作。
+精選收錄 **878+ 個高品質 GPT-Image-2 提示詞**、API 使用模式與可重用視覺工作流，面向 AI 圖像生成實作。
 
 無論你想找 GPT-Image-2 提示詞範例、文生圖最佳實作、圖像編輯技巧，還是可直接重用的 prompt 模板，這裡都可以作為你的參考入口。
 
@@ -59,6 +59,31 @@
 如果這個專案對你有幫助，歡迎點一個 Star。⭐
 
 <a href='https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-API-and-Prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
+
+## EvoLink 快速開始
+
+將此倉庫中的任一提示詞快速轉成 GPT Image 2 API 呼叫：
+
+<p align="center">
+  <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><strong>模型頁面</strong></a> &nbsp;·&nbsp;
+  <a href="https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><strong>文件</strong></a> &nbsp;·&nbsp;
+  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><strong>API Key</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/EvoLinkAI/gpt-image-2-gen-skill"><strong>Skill</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow"><strong>Workflow</strong></a>
+</p>
+
+```bash
+export EVOLINK_API_KEY="your_key_here"
+
+curl --request POST \
+  --url https://api.evolink.ai/v1/images/generations \
+  --header "Authorization: Bearer ${EVOLINK_API_KEY}" \
+  --header 'Content-Type: application/json' \
+  --data '{
+    "model": "gpt-image-2",
+    "prompt": "A premium ecommerce hero shot of a ceramic coffee dripper on a clean kitchen counter, soft morning light, realistic product photography"
+  }'
+```
 
 ## ❓ 什麼是 GPT Image 2？
 
@@ -79,54 +104,14 @@
 
 > 關於 API 的更多使用方式，請繼續閱讀下方「使用 GPT Image 2 API」部分。
 
-## 📰 最新動態
-
-**2026年6月15日：** 從圖片提示詞更新 loop 中新增 9 個 GPT-Image-2 提示詞案例（4 個廣告創意、3 個海報、1 個人像、1 個 UI），已完成語義審核與媒體校驗
-
-**2026年6月14日：** 從圖片提示詞更新 loop 中新增 14 個 GPT-Image-2 提示詞案例（9 個海報、2 個廣告創意、1 個角色、1 個 UI、1 個對比），已完成語義審核與媒體校驗
-
-**2026年6月12日：** 從每日策展批次中新增 42 個 GPT-Image-2 提示詞案例（19 個人像、12 個海報、4 個廣告創意、4 個角色、2 個對比、1 個電商），已完成批准與媒體校驗；另有 2 個已批准候選因推文查詢未返回可用媒體而跳過
-
-**2026年6月10日：** 從每日策展批次中新增 31 個 GPT-Image-2 提示詞案例（9 個人像、21 個海報、1 個對比），已完成審核與媒體校驗
-
-**2026年6月9日：** 從每日策展批次中新增 12 個 GPT-Image-2 提示詞案例（2 個人像、7 個海報、2 個對比、1 個電商），已完成審核與媒體校驗
-
-**2026年6月8日：** 從每日策展批次中新增 24 個 GPT-Image-2 提示詞案例（5 個人像、7 個海報、5 個 UI、3 個電商、4 個對比），已完成批准、串文補全與媒體校驗
-
-**2026年6月7日：** 從每日策展批次中新增 19 個 GPT-Image-2 提示詞案例（2 個人像、6 個海報、5 個 UI、4 個電商、2 個對比），已完成審核與媒體校驗
-
-**2026年5月27日：** 從每日策展批次新增 6 個 GPT-Image-2 提示詞案例（1 個人像、3 個海報、1 個 UI、1 個比較），已完成審核與媒體驗證
-
-**2026年5月19日：** 從每日精選批次中新增23個GPT-Image-2提示詞案例（13個人像，8個海報，2個UI）
-
-
-- **2026年5月12日：** 從每日策展批次中新增 12 個 GPT-Image-2 提示詞案例（2 個人像、9 個海報、1 個 UI）
-
-- **2026年5月11日：** 從每日策展批次中新增 16 個 GPT-Image-2 提示詞案例（5 個人像、8 個海報、3 個廣告創意）
-
-- **2026年5月10日：** 從每日策展批次中新增 19 個 GPT-Image-2 提示詞案例（4 個人像、11 個海報、3 個 UI、1 個對比）
-
-- **2026年5月9日：** 從每日策展批次中新增 19 個 GPT-Image-2 提示詞案例（6 個人像、12 個海報、1 個對比）
-
-- **2026年5月8日：** 從每日策展批次中新增 36 個 GPT-Image-2 提示詞案例（24 個人像、6 個海報、6 個 UI）
-- **2026年5月7日：** 從每日策展批次中新增 20 個 GPT-Image-2 提示詞案例（10 個人像、9 個海報、1 個 UI）
-
-- **2026 年 5 月 6 日：** 新增 7 個 GPT-Image-2 prompt 案例（人像 2、海報 5），來自每日精選批次，已完成審核與媒體校驗
-- **2026 年 5 月 5 日：** 新增 12 個 GPT-Image-2 prompt 案例（人像 4、海報 5、UI 3），來自每日精選批次
-- **2026 年 5 月 3 日：** 新增 10 個 GPT-Image-2 prompt 案例（電商 1、廣告 1、人像 3、海報 2、UI 3）
-
-<details>
-<summary>📜 更早的更新</summary>
-
-- **2026 年 5 月 2 日：** 新增 18 個 GPT-Image-2 prompt 案例（人像 3、海報 7、UI 4、對比 4）
-- **2026 年 4 月 30 日：** 新增 9 個已批准且已完成媒體校驗的 GPT-Image-2 prompt 案例（人像 3、海報 1、UI 3、對比 2）
-- **2026 年 4 月 18 日：** 倉庫首次發布，收錄精選 GPT-Image-2 案例集
-
-</details>
-
 ## 🔌 使用 GPT Image 2 API
 
 想從 prompt 靈感快速進入真實圖像生成？可以將 GPT Image 2 API 文件與可呼叫 skill 配合使用。
+
+- [在 EvoLink 開啟 GPT Image 2](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
+- [閱讀 GPT Image 2 API 文件](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
+- [取得你的 EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
+- [前往 GPT Image 2 × Seedance 2.0 工作流倉庫](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 
 ### 1. 快速安裝 Skill
 
@@ -139,21 +124,20 @@ npx evolink-gpt-image -y
 
 ### 2. 快速連接 API
 
-- 連接命令：
+先設定一次 API key，接著就能把此倉庫中的任一提示詞直接貼進 request body：
 
 ```bash
+export EVOLINK_API_KEY="your_key_here"
+
 curl --request POST \
   --url https://api.evolink.ai/v1/images/generations \
-  --header 'Authorization: Bearer YOUR_API_KEY' \
+  --header "Authorization: Bearer ${EVOLINK_API_KEY}" \
   --header 'Content-Type: application/json' \
   --data '{
   "model": "gpt-image-2",
   "prompt": "A beautiful colorful sunset over the ocean"
 }'
 ```
-
-- [取得你的 API key](https://evolink.ai/dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
-- 閱讀 GPT Image 2 API 文件
 
 ## 🛒 E-commerce Cases
 
@@ -397,7 +381,7 @@ Distorted hands, extra fingers, broken anatomy, duplicated limbs, unrealistic re
 
 ## 📣 Ad Creative Cases
 
-> **21 個精選案例** — [瀏覽全部廣告創意提示詞 →](cases/ad-creative.md)
+> **22 個精選案例** — [瀏覽全部廣告創意提示詞 →](cases/ad-creative.md)
 
 <!-- Case 176: Luxury Chronograph Watch Ad (by @AlwaveNazca) -->
 ### Case 176: [Luxury Chronograph Watch Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
@@ -906,9 +890,22 @@ Style: luxury fashion campaign aesthetic (Zara / H&M), polished clean environmen
 Shot with an 85mm lens, shallow depth of field, 8K resolution, ultra-detailed, photorealistic.
 ```
 
+<!-- Case 194: OBSIDIAN 咖啡品牌企劃 (by @iamaiistudio) -->
+### Case 194: [OBSIDIAN 咖啡品牌企劃](https://x.com/iamaiistudio/status/2066523210808484228) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| 輸出效果 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case194/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - OBSIDIAN 咖啡品牌企劃"></a> |
+
+**提示詞:**
+
+```
+Generate four cohesive high-end realistic editorial visuals for OBSIDIAN coffee brand. Cinematic, dark, mature aesthetic inspired by luxury sportswear and premium coffee advertising. Studio lighting that's dramatic yet controlled, photorealistic textures, clean compositional layout. Shot 1: Hero brand poster featuring 'OBSIDIAN' lettering with an artful coffee display — steam rising, beans scattered. Shot 2: Full product range — coffee bags, cans, and capsules arranged together. Shot 3: Tight packaging detail with tagline 'Coffee for grown-ups who chase flavor.' Shot 4: Lifestyle close-up of a steaming cup. Ultra-polished finish, crisp realistic materials, unified brand identity, no fantastical or surreal elements
+```
+
 ## 🍌 Portrait & Photography Cases
 
-> **123 curated cases** — [Explore all Portrait Prompts →](cases/portrait.md)
+> **124 個精選案例** — [瀏覽全部人像與攝影提示詞 →](cases/portrait.md)
 
 <!-- Case 124: Convenience Store Neon Portrait (by @BubbleBrain) -->
 ### Case 124: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
@@ -3142,9 +3139,22 @@ Style rules: slightly oversized head with simplified limbs and a cute, charming 
 Camera: macro photography, close-up shot. Soft studio lighting with warm highlights and gentle shadows. Clean, out-of-focus bokeh background in a neutral craft studio setting. Shallow depth of field (f/2.8). High fidelity, 8k resolution, photorealistic wool texture, Pixar-like character charm.
 ```
 
+<!-- Case 305: 通透日系窗邊人像 (by @iamaiistudio) -->
+### Case 305: [通透日系窗邊人像](https://x.com/iamaiistudio/status/2066643592366727581) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| 輸出效果 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case305/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 通透日系窗邊人像"></a> |
+
+**提示詞:**
+
+```
+35mm film photo, airy Japanese aesthetic, soft natural window light from the side, slightly overexposed, muted pastel colors, low contrast, bright gentle highlights, quiet indoor room beside sheer white curtains, pale wall, natural eye-level frame from mid-thigh upward, young East Asian woman, barely-there makeup, smooth natural skin, long loose dark hair, oversized white button-down shirt, casual shorts, bare feet, effortless everyday style, relaxed stance with arms lightly at sides or gently back, looking softly at the camera, calm quiet smile, stillness and lightness, fine film grain, gentle dreamy mood --ar 9:16
+```
+
 ## 🎨 Poster & Illustration Cases
 
-> **142 個精選案例** — [瀏覽全部海報提示詞 →](cases/poster.md)
+> **143 個精選案例** — [瀏覽全部海報提示詞 →](cases/poster.md)
 
 <!-- Case 214: Peacock Botanical Vintage Symmetrical Art Print (by @dotey) -->
 ### Case 214: [Peacock Botanical Vintage Symmetrical Art Print](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
@@ -7144,9 +7154,26 @@ Show large bold typography of "[CITY NAME]" printed directly on the map in the f
 Aspect ratio 1:1.
 ```
 
+<!-- Case 406: AI 音樂訓練營活動海報 (by @iamaiistudio) -->
+### Case 406: [AI 音樂訓練營活動海報](https://x.com/iamaiistudio/status/2066538267835867647) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| 輸出效果 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case406/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - AI 音樂訓練營活動海報"></a> |
+
+**提示詞:**
+
+```
+Generate a dramatic Japanese anime-style event promotional poster in vertical 4:5 format, ultra-detailed, cinematic, neon-lit, high contrast, styled like a polished social media announcement. Center-right subject: a beautiful anime girl from the waist up, long flowing deep blue hair blowing in the wind with small star hairpins, wearing a dark hoodie with large studio headphones around her neck. Her face is softly obscured by a rectangular blur. Background: glowing sunset-to-night city skyline with sparkling lights, music-energy particles, lens flares, and glowing petals. Color palette: electric blue, violet, magenta, gold, and sunset orange.
+
+Layer crisp Japanese typography integrated like a professional event ad with exactly 8 text groups: (1) top-left heading 「始まるのは、キミと創る 音楽の物語。」 with subcopy 「AIを使って、みんなで音楽をつくる特別な3日間。」; (2) top-right glowing marquee 「GW連休!」 and neon box 「みんなで最高の音楽をつくろう!」; (3) center title with English 「AI MUSIC BOOTCAMP 2」 above large 「AI音楽 ブートキャンプ 2」; (4) massive gold metallic text across the middle 「開催決定!」; (5) date bar 「開催期間」 with 「5.2 SAT 土」 and 「5.4 MON 月」; (6) hashtag callout 「参加はカンタン!!  をつけて投稿するだけ!」; (7) encouragement line 「初心者も大歓迎! みんなで最高の音楽体験を!」; (8) three bottom feature captions with icons: 「一緒に学ぶ 仲間とつながる」, 「AIで創る 新しい音楽体験」, 「想いをカタチに 自分だけの1曲を」.
+
+Left edge: vertical filmstrip with 4 panels showing the girl (1) performing on stage before a crowd, (2) at a music production desk with screens, (3) singing into a mic, (4) playing acoustic guitar. Lower area: 2 neon music icons — tilted smartphone with music note (lower left), glowing microphone with musical notes (lower right). Text effects: glossy, luminous, gold and white emboss, energetic streaks and spark explosions around headline. Mood: inspiring, celebratory, futuristic, emotionally uplifting — like a high-impact Japanese Golden Week music event ad.
+```
+
 ## 🧍 Character Design Cases
 
-> **9 個精選案例** — [瀏覽全部角色設計提示詞 →](cases/character.md)
+> **11 個精選案例** — [瀏覽全部角色設計提示詞 →](cases/character.md)
 
 <!-- Case 2: Persona5 Character Reference Card (by @iamrednightS) -->
 ### Case 2: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
@@ -7537,9 +7564,73 @@ high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic l
 Vertical bizarre flat cartoon portrait of [SUBJECT from the attached photo] with a high geometric head shape, a long narrow neck, huge round eyes, a tiny mouth and an unflappable laugh, dressed in [CLOTHES from the photo], with a [OBJECT/CREATURE] sitting on their head like a living hat. Pure black outline, smooth color fills, simple face shapes, rare drawings on animal fur or skin, playful surreal character design, bold graphic palette [COLOR]. Background decorations: [ENVIRONMENT DECORATIONS from LOCATION/SCENE], made using simplified shapes, clear depth, a small amount of scenery from the environment and a clear cartoon perspective. Clear digital illustration, vertical framing in the form of a poster, no realism, no 3D rendering, no picturesque shading, aspect ratio 4:5.
 ```
 
+<!-- Case 24: 韓式舞蹈動作分解表 -->
+### Case 24: 韓式舞蹈動作分解表
+
+**來源**: [@iamaiistudio](https://x.com/iamaiistudio/status/2066659127485718574)
+
+**輸出效果:**
+
+| 輸出效果 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case24/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 韓式舞蹈動作分解表"></a> |
+
+**提示詞:**
+
+```
+[STYLE]
+black and white grayscale illustration, 3D rendered character, clean instructional reference sheet,
+white background, comic panel grid layout, technical diagram aesthetic
+
+[LAYOUT]
+4x4 grid, 16 panels total, each panel divided by thin black borders,
+cells numbered 1 through 16, uniform panel dimensions
+
+[CHARACTER]
+young female dancer, athletic build, ponytail hairstyle, crop top and baggy pants, sneakers — same character across all panels
+
+[PANEL STRUCTURE - per cell]
+top-left: bold number badge + Korean title text
+center: full-body character pose illustration
+bottom-left: Korean description text (3-4 lines)
+overlay: motion arrows showing movement direction
+
+[ARROWS / MOTION INDICATORS]
+curved arrows, straight arrows, circular rotation markers,
+placed around the character to indicate movement flow and direction
+
+[RENDERING STYLE]
+high-detail 3D sculpt style, soft studio lighting, subtle shadows,
+no color, grayscale shading, clean linework, game concept art quality
+
+[NEGATIVE]
+no background scenery, no color tones, no extra characters,
+no cluttered backgrounds
+```
+
+<!-- Case 25: 輝光檔案守護者角色海報 -->
+### Case 25: 輝光檔案守護者角色海報
+
+**來源**: [@92digitalartArt](https://x.com/92digitalartArt/status/2066558474650095890)
+
+**輸出效果:**
+
+| 輸出效果 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case25/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 輝光檔案守護者角色海報"></a> |
+
+**提示詞:**
+
+```
+Vertical 9:16 full-body cinematic portrait of a single alien character, the Luminant Archivist, standing on a rocky ridge on the twilight band of an alien planet; the creature has a tall elongated body with three root-like legs forming a stable tripod, lower torso textured like smooth bark and sinew fused together; two long arms with four segmented joints each end in multifingered, tendril-like manipulators gently holding a glowing hexagonal plate; instead of a human head, the upper torso flares into a tall crown of layered translucent plates arranged like a vertical fan, each plate lit from within by faint cyan neural patterns, no face, no eyes, no mouth; along its back and shoulders grow rigid bioluminescent data plates, flat hexagonal organisms clinging like barnacles, softly pulsing in cyan, teal and occasional warm amber; the body is draped in a partial organic mantle made of fibrous membrane and chitin filaments, not clothing but grown; background shows a perpetual dusk sky with a low orange band on one horizon and deep indigo on the opposite, distant silhouettes of hollow spires and tiny other Archivists crossing the landscape; ground covered in reflective glassy lichen and small crystals catching the character's glow; palette of deep indigo, dusty violet, cyan glows and subtle warm amber accents; strong horizon rim light outlining the Archivist's silhouette, subtle backlighting from the bioluminescent plates, gentle atmospheric haze; realistic but slightly painterly rendering, extremely detailed textures on skin, plates and lichen; composed like a high-end sci-fi character poster, vertical 9:16 aspect ratio, full body in frame, centered but with enough headroom and ground visible to feel part of a larger universe.
+
+Negative prompt:
+human-like alien, humanoid face, eyes, nose, mouth, jaw, blue-skinned human, elf, armor suit, guns, generic sci-fi soldier, anime style, cartoon, chibi, cyberpunk city, neon signs, medieval fantasy, wings, halos, angel, bad anatomy, random extra limbs, cluttered background, oversaturated colors, strong lens distortion, fisheye, low resolution, blurry details, noisy grain, HUD, UI, readable text, watermark, logo, modern Earth clothing, sneakers, jeans, T-shirt
+```
+
 ## 📱 UI & Social Media Mockup Cases
 
-> **36 個精選案例** — [瀏覽全部 UI 與 Mockup 提示詞 →](cases/ui.md)
+> **38 個精選案例** — [瀏覽全部 UI 與社群媒體 Mockup 提示詞 →](cases/ui.md)
 
 <!-- Case 130: One-Prompt UI Design Generation (by @austinit) -->
 ### Case 130: [One-Prompt UI Design Generation](https://x.com/austinit/status/2044968740782272596) (by [@austinit](https://x.com/austinit))
@@ -8646,6 +8737,127 @@ Place the illustrated version as the main full-frame artwork. Add playful doodle
 In the bottom-right corner, include a rounded-rectangle inset containing the original unedited photo as a realistic reference image. The inset should resemble a social media post preview with subtle UI elements like a heart icon and engagement count. Ensure the illustrated version perfectly matches the original photo in composition, creating a striking before-and-after transformation effect.
 
 Highly detailed, colored pencil illustration, crayon art style, hand-sketched textures, vibrant yet soft pastel palette, Instagram-style layout, whimsical doodles, premium artwork, realistic reference inset, masterpiece, ultra-detailed, 4K.
+```
+
+<!-- Case 185: 吉祥物品牌識別設計表 (by @iamaiistudio) -->
+### Case 185: [吉祥物品牌識別設計表](https://x.com/iamaiistudio/status/2066568983453880412) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| 輸出效果 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case185/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 吉祥物品牌識別設計表"></a> |
+
+**提示詞:**
+
+```json
+{
+  "type": "18-section complete brand identity and mascot design sheet",
+  "brand": {
+    "name": "{argument name=\"brand name\" default=\"MUYANG TEA\"}",
+    "industry": "{argument name=\"industry\" default=\"tea shop\"}",
+    "colors": ["{argument name=\"primary color\" default=\"yellow\"}", "{argument name=\"secondary color\" default=\"green\"}", "white", "brown", "dark green"]
+  },
+  "subject": "{argument name=\"character description\" default=\"3D rendered cute Shiba Inu mascot wearing a green apron\"}",
+  "layout": {
+    "grid": "3-column by 6-row grid layout",
+    "sections": [
+      {
+        "title": "01 BRAND DNA ANALYSIS",
+        "elements": ["brand logo", "5 color swatches", "6 brand icons", "target audience charts"]
+      },
+      {
+        "title": "02 CONCEPT MOODBOARD",
+        "elements": ["5 reference photos", "4 mood icons", "design concept equation"]
+      },
+      {
+        "title": "03 FORM STUDY",
+        "elements": ["4 logo anatomy icons", "4 design evolution steps", "4 character silhouettes"]
+      },
+      {
+        "title": "04 CONCEPT EXPLORATION",
+        "elements": ["12 line-art character concept sketches"]
+      },
+      {
+        "title": "05 REFINED LINE ART",
+        "elements": ["3 rows of front and side view line art with proportion guides"]
+      },
+      {
+        "title": "06 DETAIL REFINEMENT",
+        "elements": ["2 full-body renders with annotation labels", "4 circular close-up views"]
+      },
+      {
+        "title": "07 EXPRESSION SHEET",
+        "elements": ["11 3D rendered facial expressions"]
+      },
+      {
+        "title": "08 POSE LIBRARY",
+        "elements": ["9 full-body 3D rendered character poses"]
+      },
+      {
+        "title": "09 TURNAROUND VIEW",
+        "elements": ["5 full-body 3D renders from multiple angles", "5 matching line-art views"]
+      },
+      {
+        "title": "10 COLOR DEVELOPMENT",
+        "elements": ["5 rows of 5-color palette options", "color psychology explanations"]
+      },
+      {
+        "title": "11 MATERIAL SPECIFICATION",
+        "elements": ["5 surface texture swatches", "material property sliders", "4 manufacturing process icons"]
+      },
+      {
+        "title": "12 COLOR APPLICATION",
+        "elements": ["4 color scheme variant renders", "2 light and dark mode renders", "4 contrast rating indicators"]
+      },
+      {
+        "title": "13 CONSTRUCTION GUIDE",
+        "elements": ["2 line-art technical diagrams for geometry and grid system"]
+      },
+      {
+        "title": "14 DESIGN SYSTEM RULES",
+        "elements": ["minimum size icons", "clear space diagram", "4 correct and incorrect usage examples"]
+      },
+      {
+        "title": "15 ASSET VARIANTS",
+        "elements": ["3 scaled size variants", "3 line-art style variants", "3 simplified flat icon heads"]
+      },
+      {
+        "title": "16 DIGITAL APPLICATIONS",
+        "elements": ["1 app icon design", "2 social media avatar versions", "UI component elements", "3-frame animation cycle"]
+      },
+      {
+        "title": "17 PHYSICAL APPLICATIONS",
+        "elements": ["plush toy product mockup", "product packaging mockup", "branded merchandise mockup", "retail storefront mockup"]
+      },
+      {
+        "title": "18 FINAL RENDERING",
+        "elements": ["large high-resolution 3D mascot render holding tea cup", "finalized logo", "deliverable file format list"]
+      }
+    ]
+  }
+}
+```
+
+<!-- Case 186: 建築風產品型錄頁 (by @iamaiistudio) -->
+### Case 186: [建築風產品型錄頁](https://x.com/iamaiistudio/status/2066447564132745574) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| 輸出效果 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case186/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 建築風產品型錄頁"></a> |
+
+**提示詞:**
+
+```
+Create a vertical 3:4 product design catalog page with a warm neutral paper-like background.
+
+Top section — lifestyle hero shot: place the product (use the uploaded image as the exact reference, preserving its form, proportions, materials, and identity without redesign) center-dominant with generous whitespace. Setting is a minimal architectural interior with a textured plaster wall and subtle concrete/stone floor. Lighting is natural sunlight angled from the side, soft but casting high-contrast shadows. Render in editorial lifestyle photography style, high realism, warm and muted color grading.
+
+Bottom section — technical specification panel laid out in a clean modular grid:
+- Bottom left and center: orthographic architectural line drawings showing front view, side view, and three-quarter cutaway/profile view. Lines in muted red or sepia, fine technical weight, with minimal editorial measurement and construction callouts.
+- Bottom right: 3-4 material swatch samples derived from the product's actual materials (fabric, leather, metal, wood, or plastic as applicable), in square or rectangular format with small editorial captions.
+
+Typography: minimal editorial style, subtle captions only, no large headlines, soft black or dark brown.
+
+Overall mood: design catalog / product design journal — architectural, premium, calm. No clutter, no bold colors, no heavy branding, no decorative graphics, no perspective distortion in the technical drawings.
 ```
 
 ## 🧪 Comparison & Community Examples

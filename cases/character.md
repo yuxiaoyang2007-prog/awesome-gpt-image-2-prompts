@@ -607,3 +607,67 @@ high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic l
 ```
 Vertical bizarre flat cartoon portrait of [SUBJECT from the attached photo] with a high geometric head shape, a long narrow neck, huge round eyes, a tiny mouth and an unflappable laugh, dressed in [CLOTHES from the photo], with a [OBJECT/CREATURE] sitting on their head like a living hat. Pure black outline, smooth color fills, simple face shapes, rare drawings on animal fur or skin, playful surreal character design, bold graphic palette [COLOR]. Background decorations: [ENVIRONMENT DECORATIONS from LOCATION/SCENE], made using simplified shapes, clear depth, a small amount of scenery from the environment and a clear cartoon perspective. Clear digital illustration, vertical framing in the form of a poster, no realism, no 3D rendering, no picturesque shading, aspect ratio 4:5.
 ```
+
+---
+### Case 24: Korean Dance Motion Sheet
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2066659127485718574)
+
+**Output:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case24/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Dance Motion Sheet"></a> |
+
+**Prompt:**
+
+```
+[STYLE]
+black and white grayscale illustration, 3D rendered character, clean instructional reference sheet,
+white background, comic panel grid layout, technical diagram aesthetic
+
+[LAYOUT]
+4x4 grid, 16 panels total, each panel divided by thin black borders,
+cells numbered 1 through 16, uniform panel dimensions
+
+[CHARACTER]
+young female dancer, athletic build, ponytail hairstyle, crop top and baggy pants, sneakers — same character across all panels
+
+[PANEL STRUCTURE - per cell]
+top-left: bold number badge + Korean title text
+center: full-body character pose illustration
+bottom-left: Korean description text (3-4 lines)
+overlay: motion arrows showing movement direction
+
+[ARROWS / MOTION INDICATORS]
+curved arrows, straight arrows, circular rotation markers,
+placed around the character to indicate movement flow and direction
+
+[RENDERING STYLE]
+high-detail 3D sculpt style, soft studio lighting, subtle shadows,
+no color, grayscale shading, clean linework, game concept art quality
+
+[NEGATIVE]
+no background scenery, no color tones, no extra characters,
+no cluttered backgrounds
+```
+
+---
+### Case 25: Luminant Archivist Character Poster
+
+**Source**: [@92digitalartArt](https://x.com/92digitalartArt/status/2066558474650095890)
+
+**Output:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case25/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luminant Archivist Character Poster"></a> |
+
+**Prompt:**
+
+```
+Vertical 9:16 full-body cinematic portrait of a single alien character, the Luminant Archivist, standing on a rocky ridge on the twilight band of an alien planet; the creature has a tall elongated body with three root-like legs forming a stable tripod, lower torso textured like smooth bark and sinew fused together; two long arms with four segmented joints each end in multifingered, tendril-like manipulators gently holding a glowing hexagonal plate; instead of a human head, the upper torso flares into a tall crown of layered translucent plates arranged like a vertical fan, each plate lit from within by faint cyan neural patterns, no face, no eyes, no mouth; along its back and shoulders grow rigid bioluminescent data plates, flat hexagonal organisms clinging like barnacles, softly pulsing in cyan, teal and occasional warm amber; the body is draped in a partial organic mantle made of fibrous membrane and chitin filaments, not clothing but grown; background shows a perpetual dusk sky with a low orange band on one horizon and deep indigo on the opposite, distant silhouettes of hollow spires and tiny other Archivists crossing the landscape; ground covered in reflective glassy lichen and small crystals catching the character's glow; palette of deep indigo, dusty violet, cyan glows and subtle warm amber accents; strong horizon rim light outlining the Archivist's silhouette, subtle backlighting from the bioluminescent plates, gentle atmospheric haze; realistic but slightly painterly rendering, extremely detailed textures on skin, plates and lichen; composed like a high-end sci-fi character poster, vertical 9:16 aspect ratio, full body in frame, centered but with enough headroom and ground visible to feel part of a larger universe.
+
+Negative prompt:
+human-like alien, humanoid face, eyes, nose, mouth, jaw, blue-skinned human, elf, armor suit, guns, generic sci-fi soldier, anime style, cartoon, chibi, cyberpunk city, neon signs, medieval fantasy, wings, halos, angel, bad anatomy, random extra limbs, cluttered background, oversaturated colors, strong lens distortion, fisheye, low resolution, blurry details, noisy grain, HUD, UI, readable text, watermark, logo, modern Earth clothing, sneakers, jeans, T-shirt
+```

@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![871 Curated Prompts](https://img.shields.io/badge/Prompts-871_Curated_Cases-111111)](README.md)
+[![878 Curated Prompts](https://img.shields.io/badge/Prompts-878_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -44,7 +44,7 @@
 
 **Awesome GPT Image 2 API and Prompts** deposuna hoş geldiniz! 🤗
 
-AI görsel üretimi için **871+ yüksek kaliteli GPT-Image-2 promptu**, API kullanım kalıbı ve yeniden kullanılabilir görsel workflow içeren özenle seçilmiş bir koleksiyon.
+AI görsel üretimi için **878+ yüksek kaliteli GPT-Image-2 promptu**, API kullanım kalıbı ve yeniden kullanılabilir görsel workflow içeren özenle seçilmiş bir koleksiyon.
 
 GPT-Image-2 prompt örnekleri, text-to-image en iyi pratikleri, görsel düzenleme teknikleri veya kullanıma hazır prompt şablonları arıyorsanız burası tek durak referansınız olabilir.
 
@@ -167,7 +167,7 @@ curl --request POST \
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case151/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - E-commerce Main Image - Miniature Diorama Skincare Advertisement"></a> |
 
-**Prompt:**
+**Gönderim kuralları:**
 
 ```
 A hyper-realistic miniature diorama product advertisement featuring an oversized luxury skincare pump bottle labeled "LUXEVEIL Skin Science - Radiance Nourishing Body Lotion" in cream/beige with a polished gold pump top, placed on a circular platform. Tiny figurine construction workers dressed in yellow coveralls and white hard hats swarm around the bottle climbing scaffolding, painting the bottle with rollers, operating a tower crane, working near industrial tanks and pipework, and unloading a miniature flatbed truck. The scene includes metal scaffolding structures, industrial silos, orange traffic cones, wooden barricades, and storage barrels. The overall color palette is warm beige, cream, gold, and mustard yellow. Studio photography style with soft diffused lighting, no shadows, clean beige background. The concept metaphorically shows workers "crafting" or "building" the perfect lotion. Tilt-shift miniature aesthetic, ultra-detailed, commercial product photography, 8K resolution, photorealistic CGI render.
@@ -180,7 +180,7 @@ A hyper-realistic miniature diorama product advertisement featuring an oversized
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case160/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - E-commerce Main Image - 9-Panel Product TVC Storyboard"></a> |
 
-**Prompt:**
+**Gönderim kuralları:**
 
 ```
 Using the provided reference image, transform the single casual product photo into a polished e-commerce TVC storyboard board for a {argument name="video duration" default="15-second"} ad in a {argument name="aspect ratio" default="9:16"} vertical format, presented as a 9-panel grid. Keep the same blue-and-white ceramic ashtray as the product base, but restage it across cinematic advertising shots with warm premium lighting, shallow depth of field, and a refined lifestyle desktop environment. Add a dark storyboard layout with Chinese titles and timing for each panel. Include exactly 9 scenes: 1) environment-establishing wide shot with desk, books, window, and the product placed in context; 2) hero product medium shot on the table; 3) extreme close-up of the blue floral craftsmanship pattern; 4) use case showing a hand placing a cigarette into the ashtray with visible smoke; 5) top-down capacity display showing multiple cigarette butts inside; 6) cleaning scene under running water in a sink with a hand holding the product; 7) bottom-detail close-up showing the underside and anti-slip pads; 8) mood/lifestyle scene at night with the product on a desk, smoke rising, and ambient lamp light; 9) brand closing frame with the product as the hero plus Chinese marketing text. Add the overall header text "产品TVC分镜脚本(15秒 / 9:16竖屏 / 9宫格)" and a product subtitle naming it {argument name="product name" default="青花瓷烟灰缸"}. Give each of the 9 panels a Chinese scene title and timestamp, plus small descriptive Chinese copy beneath each image in the style of a professional commercial shot list. Use premium, realistic commercial photography throughout, consistent product identity, elegant Chinese aesthetic, and a clean high-end storyboard presentation.
@@ -193,7 +193,7 @@ Using the provided reference image, transform the single casual product photo in
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ecommerce_case163/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Burger hero image plus 9-cell ad storyboard"></a> |
 
-**Prompt:**
+**Gönderim kuralları:**
 
 ```
 Prompt 1: Create a cinematic hero image of a gourmet cheeseburger on a dark stone surface with glossy brioche bun, melted cheese, crisp lettuce, tomato, grilled patty, sauce, realistic texture, appetizing steam, warm side light, shallow depth of field, premium food commercial style, no text/logos/watermark.
@@ -210,7 +210,7 @@ Prompt 2: Create a 9-cell hybrid keyframe-to-transition storyboard sheet for a 1
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ecommerce_case164/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**Gönderim kuralları:**
 
 ```
 prompt:
@@ -239,7 +239,7 @@ Global: controlled studio lighting emphasizing meat texture and char marks, shal
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ecommerce_case165/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**Gönderim kuralları:**
 
 ```
 A minimalist food photograph featuring a single [FOOD] on a clean matte white surface, caught mid-transformation into a 3D pixel art style. The left half is perfectly photorealistic while the right half dissolves into large floating geometric cubes, each cube exposing the food's vibrant colors, textures, and inner details. Soft studio lighting, gentle shadows, shallow depth of field, hyperrealistic meets geometric abstraction, subtle motion blur on the cubes. High resolution cinematic close-up composition.
@@ -255,7 +255,7 @@ Full prompt:
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ecommerce_case166/output3.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
-**Prompt:**
+**Gönderim kuralları:**
 
 ```
 Full prompt:
@@ -271,7 +271,7 @@ Ancient Chinese palace perfume advertisement inspired by the legendary dancer Zh
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ecommerce_case167/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ecommerce_case167/output4.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
-**Prompt:**
+**Gönderim kuralları:**
 
 ```
 prompt:
@@ -398,7 +398,7 @@ Distorted hands, extra fingers, broken anatomy, duplicated limbs, unrealistic re
 
 ## 📣 Reklam Kreatifi Vakaları
 
-> **21 özenle seçilmiş vaka** — [Tüm Reklam Kreatifi Promptlarını Keşfet →](cases/ad-creative.md)
+> **22 özenle seçilmiş vaka** — [Tüm Reklam Kreatifi Promptlarını Keşfet →](cases/ad-creative.md)
 
 <!-- Case 176: Luxury Chronograph Watch Ad (by @AlwaveNazca) -->
 ### Case 176: [Luxury Chronograph Watch Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
@@ -907,9 +907,22 @@ Style: luxury fashion campaign aesthetic (Zara / H&M), polished clean environmen
 Shot with an 85mm lens, shallow depth of field, 8K resolution, ultra-detailed, photorealistic.
 ```
 
+<!-- Case 194: OBSIDIAN Kahve Marka Kampanyası (by @iamaiistudio) -->
+### Case 194: [OBSIDIAN Kahve Marka Kampanyası](https://x.com/iamaiistudio/status/2066523210808484228) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case194/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - OBSIDIAN Coffee Brand Campaign"></a> |
+
+**Prompt:**
+
+```
+Generate four cohesive high-end realistic editorial visuals for OBSIDIAN coffee brand. Cinematic, dark, mature aesthetic inspired by luxury sportswear and premium coffee advertising. Studio lighting that's dramatic yet controlled, photorealistic textures, clean compositional layout. Shot 1: Hero brand poster featuring 'OBSIDIAN' lettering with an artful coffee display — steam rising, beans scattered. Shot 2: Full product range — coffee bags, cans, and capsules arranged together. Shot 3: Tight packaging detail with tagline 'Coffee for grown-ups who chase flavor.' Shot 4: Lifestyle close-up of a steaming cup. Ultra-polished finish, crisp realistic materials, unified brand identity, no fantastical or surreal elements
+```
+
 ## 🍌 Portre ve Fotoğraf Vakaları
 
-> **123 özenle seçilmiş vaka** — [Tüm Portre Promptlarını Keşfet →](cases/portrait.md)
+> **124 özenle seçilmiş vaka** — [Tüm Portre Promptlarını Keşfet →](cases/portrait.md)
 
 <!-- Case 124: Convenience Store Neon Portrait (by @BubbleBrain) -->
 ### Case 124: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
@@ -3143,9 +3156,22 @@ Style rules: slightly oversized head with simplified limbs and a cute, charming 
 Camera: macro photography, close-up shot. Soft studio lighting with warm highlights and gentle shadows. Clean, out-of-focus bokeh background in a neutral craft studio setting. Shallow depth of field (f/2.8). High fidelity, 8k resolution, photorealistic wool texture, Pixar-like character charm.
 ```
 
+<!-- Case 305: Havadar Japon Pencere Portresi (by @iamaiistudio) -->
+### Case 305: [Havadar Japon Pencere Portresi](https://x.com/iamaiistudio/status/2066643592366727581) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case305/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Airy Japanese Window Portrait"></a> |
+
+**Prompt:**
+
+```
+35mm film photo, airy Japanese aesthetic, soft natural window light from the side, slightly overexposed, muted pastel colors, low contrast, bright gentle highlights, quiet indoor room beside sheer white curtains, pale wall, natural eye-level frame from mid-thigh upward, young East Asian woman, barely-there makeup, smooth natural skin, long loose dark hair, oversized white button-down shirt, casual shorts, bare feet, effortless everyday style, relaxed stance with arms lightly at sides or gently back, looking softly at the camera, calm quiet smile, stillness and lightness, fine film grain, gentle dreamy mood --ar 9:16
+```
+
 ## 🎨 Poster ve İllüstrasyon Vakaları
 
-> **142 özenle seçilmiş vaka** — [Tüm Poster Promptlarını Keşfet →](cases/poster.md)
+> **143 özenle seçilmiş vaka** — [Tüm Poster Promptlarını Keşfet →](cases/poster.md)
 
 <!-- Case 214: Peacock Botanical Vintage Symmetrical Art Print (by @dotey) -->
 ### Case 214: [Peacock Botanical Vintage Symmetrical Art Print](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
@@ -7134,7 +7160,7 @@ human-like alien, blue-skinned humanoid, generic sci-fi city, skyscrapers, cyber
 ```
 Render a photorealistic tilt-shift miniature scene of [CITY NAME] with a [VEHICLE NAME] winding along an elevated road that rises organically from a vintage illustrated city map. The road sweeps toward the city's iconic skyline in the background, with the vehicle as the main subject up front. Seamlessly merge the real cityscape with the hand-drawn map so the road feels naturally embedded. Feature the city name in large bold lettering on the map foreground. Apply warm golden-hour light, shallow depth of field, cinematic shadows, aerial perspective, and hyper-realistic detail. Final look: a luxury travel poster crossed with a miniature diorama. Aspect ratio 1:1.
 
-Full prompt: 
+Full prompt:
 
 Create a highly detailed cinematic miniature tilt-shift travel scene of [CITY NAME] featuring a realistic [VEHICLE NAME] driving along a winding elevated road that emerges naturally from a printed vintage-style city map. The road should curve dramatically toward the background skyline and landmarks of [CITY NAME], while the vehicle remains the clear focal point in the foreground.
 
@@ -7145,9 +7171,26 @@ Show large bold typography of "[CITY NAME]" printed directly on the map in the f
 Aspect ratio 1:1.
 ```
 
+<!-- Case 406: AI Müzik Bootcamp Etkinlik Posteri (by @iamaiistudio) -->
+### Case 406: [AI Müzik Bootcamp Etkinlik Posteri](https://x.com/iamaiistudio/status/2066538267835867647) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case406/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - AI Music Bootcamp Event Poster"></a> |
+
+**Prompt:**
+
+```
+Generate a dramatic Japanese anime-style event promotional poster in vertical 4:5 format, ultra-detailed, cinematic, neon-lit, high contrast, styled like a polished social media announcement. Center-right subject: a beautiful anime girl from the waist up, long flowing deep blue hair blowing in the wind with small star hairpins, wearing a dark hoodie with large studio headphones around her neck. Her face is softly obscured by a rectangular blur. Background: glowing sunset-to-night city skyline with sparkling lights, music-energy particles, lens flares, and glowing petals. Color palette: electric blue, violet, magenta, gold, and sunset orange.
+
+Layer crisp Japanese typography integrated like a professional event ad with exactly 8 text groups: (1) top-left heading 「始まるのは、キミと創る 音楽の物語。」 with subcopy 「AIを使って、みんなで音楽をつくる特別な3日間。」; (2) top-right glowing marquee 「GW連休!」 and neon box 「みんなで最高の音楽をつくろう!」; (3) center title with English 「AI MUSIC BOOTCAMP 2」 above large 「AI音楽 ブートキャンプ 2」; (4) massive gold metallic text across the middle 「開催決定!」; (5) date bar 「開催期間」 with 「5.2 SAT 土」 and 「5.4 MON 月」; (6) hashtag callout 「参加はカンタン!!  をつけて投稿するだけ!」; (7) encouragement line 「初心者も大歓迎! みんなで最高の音楽体験を!」; (8) three bottom feature captions with icons: 「一緒に学ぶ 仲間とつながる」, 「AIで創る 新しい音楽体験」, 「想いをカタチに 自分だけの1曲を」.
+
+Left edge: vertical filmstrip with 4 panels showing the girl (1) performing on stage before a crowd, (2) at a music production desk with screens, (3) singing into a mic, (4) playing acoustic guitar. Lower area: 2 neon music icons — tilted smartphone with music note (lower left), glowing microphone with musical notes (lower right). Text effects: glossy, luminous, gold and white emboss, energetic streaks and spark explosions around headline. Mood: inspiring, celebratory, futuristic, emotionally uplifting — like a high-impact Japanese Golden Week music event ad.
+```
+
 ## 🧍 Karakter Tasarımı Vakaları
 
-> **9 özenle seçilmiş vaka** — [Tüm Karakter Tasarımı Promptlarını Keşfet →](cases/character.md)
+> **11 özenle seçilmiş vaka** — [Tüm Karakter Tasarımı Promptlarını Keşfet →](cases/character.md)
 
 <!-- Case 2: Persona5 Character Reference Card (by @iamrednightS) -->
 ### Case 2: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
@@ -7538,9 +7581,67 @@ high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic l
 Vertical bizarre flat cartoon portrait of [SUBJECT from the attached photo] with a high geometric head shape, a long narrow neck, huge round eyes, a tiny mouth and an unflappable laugh, dressed in [CLOTHES from the photo], with a [OBJECT/CREATURE] sitting on their head like a living hat. Pure black outline, smooth color fills, simple face shapes, rare drawings on animal fur or skin, playful surreal character design, bold graphic palette [COLOR]. Background decorations: [ENVIRONMENT DECORATIONS from LOCATION/SCENE], made using simplified shapes, clear depth, a small amount of scenery from the environment and a clear cartoon perspective. Clear digital illustration, vertical framing in the form of a poster, no realism, no 3D rendering, no picturesque shading, aspect ratio 4:5.
 ```
 
+---
+<!-- Case 24: Koreografi Hareket Paftası (by @iamaiistudio) -->
+### Case 24: [Koreografi Hareket Paftası](https://x.com/iamaiistudio/status/2066659127485718574) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case24/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Dance Motion Sheet"></a> |
+
+**Prompt:**
+
+```
+[STYLE]
+black and white grayscale illustration, 3D rendered character, clean instructional reference sheet,
+white background, comic panel grid layout, technical diagram aesthetic
+
+[LAYOUT]
+4x4 grid, 16 panels total, each panel divided by thin black borders,
+cells numbered 1 through 16, uniform panel dimensions
+
+[CHARACTER]
+young female dancer, athletic build, ponytail hairstyle, crop top and baggy pants, sneakers — same character across all panels
+
+[PANEL STRUCTURE - per cell]
+top-left: bold number badge + Korean title text
+center: full-body character pose illustration
+bottom-left: Korean description text (3-4 lines)
+overlay: motion arrows showing movement direction
+
+[ARROWS / MOTION INDICATORS]
+curved arrows, straight arrows, circular rotation markers,
+placed around the character to indicate movement flow and direction
+
+[RENDERING STYLE]
+high-detail 3D sculpt style, soft studio lighting, subtle shadows,
+no color, grayscale shading, clean linework, game concept art quality
+
+[NEGATIVE]
+no background scenery, no color tones, no extra characters,
+no cluttered backgrounds
+```
+
+---
+<!-- Case 25: Işıltılı Arşivci Karakter Posteri (by @92digitalartArt) -->
+### Case 25: [Işıltılı Arşivci Karakter Posteri](https://x.com/92digitalartArt/status/2066558474650095890) (by [@92digitalartArt](https://x.com/92digitalartArt))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case25/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luminant Archivist Character Poster"></a> |
+
+**Gönderim kuralları:**
+
+```
+Vertical 9:16 full-body cinematic portrait of a single alien character, the Luminant Archivist, standing on a rocky ridge on the twilight band of an alien planet; the creature has a tall elongated body with three root-like legs forming a stable tripod, lower torso textured like smooth bark and sinew fused together; two long arms with four segmented joints each end in multifingered, tendril-like manipulators gently holding a glowing hexagonal plate; instead of a human head, the upper torso flares into a tall crown of layered translucent plates arranged like a vertical fan, each plate lit from within by faint cyan neural patterns, no face, no eyes, no mouth; along its back and shoulders grow rigid bioluminescent data plates, flat hexagonal organisms clinging like barnacles, softly pulsing in cyan, teal and occasional warm amber; the body is draped in a partial organic mantle made of fibrous membrane and chitin filaments, not clothing but grown; background shows a perpetual dusk sky with a low orange band on one horizon and deep indigo on the opposite, distant silhouettes of hollow spires and tiny other Archivists crossing the landscape; ground covered in reflective glassy lichen and small crystals catching the character's glow; palette of deep indigo, dusty violet, cyan glows and subtle warm amber accents; strong horizon rim light outlining the Archivist's silhouette, subtle backlighting from the bioluminescent plates, gentle atmospheric haze; realistic but slightly painterly rendering, extremely detailed textures on skin, plates and lichen; composed like a high-end sci-fi character poster, vertical 9:16 aspect ratio, full body in frame, centered but with enough headroom and ground visible to feel part of a larger universe.
+
+Negative prompt:
+human-like alien, humanoid face, eyes, nose, mouth, jaw, blue-skinned human, elf, armor suit, guns, generic sci-fi soldier, anime style, cartoon, chibi, cyberpunk city, neon signs, medieval fantasy, wings, halos, angel, bad anatomy, random extra limbs, cluttered background, oversaturated colors, strong lens distortion, fisheye, low resolution, blurry details, noisy grain, HUD, UI, readable text, watermark, logo, modern Earth clothing, sneakers, jeans, T-shirt
+```
+
 ## 📱 UI ve Sosyal Medya Mockup Vakaları
 
-> **36 özenle seçilmiş vaka** — [Tüm UI ve Mockup Promptlarını Keşfet →](cases/ui.md)
+> **38 özenle seçilmiş vaka** — [Tüm UI ve Mockup Promptlarını Keşfet →](cases/ui.md)
 
 <!-- Case 130: One-Prompt UI Design Generation (by @austinit) -->
 ### Case 130: [One-Prompt UI Design Generation](https://x.com/austinit/status/2044968740782272596) (by [@austinit](https://x.com/austinit))
@@ -7549,7 +7650,7 @@ Vertical bizarre flat cartoon portrait of [SUBJECT from the attached photo] with
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case1/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - One-Prompt UI Design Generation"></a> |
 
-**Prompt:**
+**Gönderim kuralları:**
 
 ```
 用这种风格帮我生成一套UI设计系统,包含网页、移动端、卡片、控件、按钮 以及其它
@@ -8647,6 +8748,127 @@ Place the illustrated version as the main full-frame artwork. Add playful doodle
 In the bottom-right corner, include a rounded-rectangle inset containing the original unedited photo as a realistic reference image. The inset should resemble a social media post preview with subtle UI elements like a heart icon and engagement count. Ensure the illustrated version perfectly matches the original photo in composition, creating a striking before-and-after transformation effect.
 
 Highly detailed, colored pencil illustration, crayon art style, hand-sketched textures, vibrant yet soft pastel palette, Instagram-style layout, whimsical doodles, premium artwork, realistic reference inset, masterpiece, ultra-detailed, 4K.
+```
+
+<!-- Case 185: Maskot Marka Kimliği Paftası (by @iamaiistudio) -->
+### Case 185: [Maskot Marka Kimliği Paftası](https://x.com/iamaiistudio/status/2066568983453880412) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case185/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mascot Brand Identity Sheet"></a> |
+
+**Prompt:**
+
+```json
+{
+  "type": "18-section complete brand identity and mascot design sheet",
+  "brand": {
+    "name": "{argument name=\"brand name\" default=\"MUYANG TEA\"}",
+    "industry": "{argument name=\"industry\" default=\"tea shop\"}",
+    "colors": ["{argument name=\"primary color\" default=\"yellow\"}", "{argument name=\"secondary color\" default=\"green\"}", "white", "brown", "dark green"]
+  },
+  "subject": "{argument name=\"character description\" default=\"3D rendered cute Shiba Inu mascot wearing a green apron\"}",
+  "layout": {
+    "grid": "3-column by 6-row grid layout",
+    "sections": [
+      {
+        "title": "01 BRAND DNA ANALYSIS",
+        "elements": ["brand logo", "5 color swatches", "6 brand icons", "target audience charts"]
+      },
+      {
+        "title": "02 CONCEPT MOODBOARD",
+        "elements": ["5 reference photos", "4 mood icons", "design concept equation"]
+      },
+      {
+        "title": "03 FORM STUDY",
+        "elements": ["4 logo anatomy icons", "4 design evolution steps", "4 character silhouettes"]
+      },
+      {
+        "title": "04 CONCEPT EXPLORATION",
+        "elements": ["12 line-art character concept sketches"]
+      },
+      {
+        "title": "05 REFINED LINE ART",
+        "elements": ["3 rows of front and side view line art with proportion guides"]
+      },
+      {
+        "title": "06 DETAIL REFINEMENT",
+        "elements": ["2 full-body renders with annotation labels", "4 circular close-up views"]
+      },
+      {
+        "title": "07 EXPRESSION SHEET",
+        "elements": ["11 3D rendered facial expressions"]
+      },
+      {
+        "title": "08 POSE LIBRARY",
+        "elements": ["9 full-body 3D rendered character poses"]
+      },
+      {
+        "title": "09 TURNAROUND VIEW",
+        "elements": ["5 full-body 3D renders from multiple angles", "5 matching line-art views"]
+      },
+      {
+        "title": "10 COLOR DEVELOPMENT",
+        "elements": ["5 rows of 5-color palette options", "color psychology explanations"]
+      },
+      {
+        "title": "11 MATERIAL SPECIFICATION",
+        "elements": ["5 surface texture swatches", "material property sliders", "4 manufacturing process icons"]
+      },
+      {
+        "title": "12 COLOR APPLICATION",
+        "elements": ["4 color scheme variant renders", "2 light and dark mode renders", "4 contrast rating indicators"]
+      },
+      {
+        "title": "13 CONSTRUCTION GUIDE",
+        "elements": ["2 line-art technical diagrams for geometry and grid system"]
+      },
+      {
+        "title": "14 DESIGN SYSTEM RULES",
+        "elements": ["minimum size icons", "clear space diagram", "4 correct and incorrect usage examples"]
+      },
+      {
+        "title": "15 ASSET VARIANTS",
+        "elements": ["3 scaled size variants", "3 line-art style variants", "3 simplified flat icon heads"]
+      },
+      {
+        "title": "16 DIGITAL APPLICATIONS",
+        "elements": ["1 app icon design", "2 social media avatar versions", "UI component elements", "3-frame animation cycle"]
+      },
+      {
+        "title": "17 PHYSICAL APPLICATIONS",
+        "elements": ["plush toy product mockup", "product packaging mockup", "branded merchandise mockup", "retail storefront mockup"]
+      },
+      {
+        "title": "18 FINAL RENDERING",
+        "elements": ["large high-resolution 3D mascot render holding tea cup", "finalized logo", "deliverable file format list"]
+      }
+    ]
+  }
+}
+```
+
+<!-- Case 186: Mimari Ürün Katalog Sayfası (by @iamaiistudio) -->
+### Case 186: [Mimari Ürün Katalog Sayfası](https://x.com/iamaiistudio/status/2066447564132745574) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case186/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Architectural Product Catalog Page"></a> |
+
+**Prompt:**
+
+```
+Create a vertical 3:4 product design catalog page with a warm neutral paper-like background.
+
+Top section — lifestyle hero shot: place the product (use the uploaded image as the exact reference, preserving its form, proportions, materials, and identity without redesign) center-dominant with generous whitespace. Setting is a minimal architectural interior with a textured plaster wall and subtle concrete/stone floor. Lighting is natural sunlight angled from the side, soft but casting high-contrast shadows. Render in editorial lifestyle photography style, high realism, warm and muted color grading.
+
+Bottom section — technical specification panel laid out in a clean modular grid:
+- Bottom left and center: orthographic architectural line drawings showing front view, side view, and three-quarter cutaway/profile view. Lines in muted red or sepia, fine technical weight, with minimal editorial measurement and construction callouts.
+- Bottom right: 3-4 material swatch samples derived from the product's actual materials (fabric, leather, metal, wood, or plastic as applicable), in square or rectangular format with small editorial captions.
+
+Typography: minimal editorial style, subtle captions only, no large headlines, soft black or dark brown.
+
+Overall mood: design catalog / product design journal — architectural, premium, calm. No clutter, no bold colors, no heavy branding, no decorative graphics, no perspective distortion in the technical drawings.
 ```
 
 ## 🧪 Karşılaştırma ve Topluluk Örnekleri

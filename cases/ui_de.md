@@ -2767,3 +2767,18 @@ Typography: minimal editorial style, subtle captions only, no large headlines, s
 
 Overall mood: design catalog / product design journal — architectural, premium, calm. No clutter, no bold colors, no heavy branding, no decorative graphics, no perspective distortion in the technical drawings.
 ```
+
+---
+### Case 187: Titelkopf "The King Still Breathes"
+
+**Source**: [@NeuralAIInsight](https://x.com/NeuralAIInsight/status/2067291988953567706)
+
+**Output**:
+
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case187/output.jpg" width="500" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a 16:9 image.
+```

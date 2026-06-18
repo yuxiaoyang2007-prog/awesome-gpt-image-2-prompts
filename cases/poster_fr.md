@@ -8006,3 +8006,57 @@ Layer crisp Japanese typography integrated like a professional event ad with exa
 
 Left edge: vertical filmstrip with 4 panels showing the girl (1) performing on stage before a crowd, (2) at a music production desk with screens, (3) singing into a mic, (4) playing acoustic guitar. Lower area: 2 neon music icons — tilted smartphone with music note (lower left), glowing microphone with musical notes (lower right). Text effects: glossy, luminous, gold and white emboss, energetic streaks and spark explosions around headline. Mood: inspiring, celebratory, futuristic, emotionally uplifting — like a high-impact Japanese Golden Week music event ad.
 ```
+
+---
+### Case 407: Affiche editoriale "Stay Focused"
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2067444516605620410)
+
+**Résultat**:
+
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case407/output.jpg" width="500" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Award-worthy graphic design poster in neo-editorial / contemporary editorial style, D&AD / Awwwards / Behance quality.
+
+Theme: Stay Focused.
+
+Create a powerful central visual metaphor for this theme — transform the concept into a sculptural, iconic, installation-like object that is cut, layered, stretched, stacked, reconstructed, wrapped, or deconstructed, with clear conceptual weight rather than decoration.
+
+Clean, minimal light-gray background with generous whitespace.
+
+High-contrast modern editorial typography: oversized bold black English headline at top, secondary subtitle, annotation text, exhibition-style hierarchy.
+
+Swiss editorial grid system with intentional breaks, asymmetric balance, precise alignment, strong rhythm, refined spacing.
+
+Centered or near-centered composition with strong vertical tension.
+
+Materials and rendering: premium product-quality render, matte surfaces, subtle reflections, hard-edge cuts, slight inter-layer translucency, suspended sliced structures, refined details, crisp silhouettes.
+
+Color: black, white, and gray dominant with a single striking accent color and minimal secondary accents — restrained, high-end, contemporary.
+
+Lighting: soft studio lighting, subtle shadows, ultra-clean render, highly polished but non-glossy, razor-sharp details.
+
+Mood: conceptual, intellectual, exhibition-grade, contemporary, premium, restrained, iconic.
+
+Aspect ratio 9:16, 4K, ultra sharp, ultra detailed, ultra clean, high resolution.
+```
+
+---
+### Case 408: Infographie recette de chowmein
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2067429181726904350)
+
+**Résultat**:
+
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case408/output.jpg" width="500" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Typography: minimal editorial style, subtle captions only, no large headlines, soft black or dark brown.
+
+Overall mood: design catalog / product design journal — architectural, premium, calm. No clutter, no bold colors, no heavy branding, no decorative graphics, no perspective distortion in the technical drawings.
+```

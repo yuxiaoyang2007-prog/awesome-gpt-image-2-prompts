@@ -3731,3 +3731,39 @@ Camera: macro photography, close-up shot. Soft studio lighting with warm highlig
 ```
 35mm film photo, airy Japanese aesthetic, soft natural window light from the side, slightly overexposed, muted pastel colors, low contrast, bright gentle highlights, quiet indoor room beside sheer white curtains, pale wall, natural eye-level frame from mid-thigh upward, young East Asian woman, barely-there makeup, smooth natural skin, long loose dark hair, oversized white button-down shirt, casual shorts, bare feet, effortless everyday style, relaxed stance with arms lightly at sides or gently back, looking softly at the camera, calm quiet smile, stillness and lightness, fine film grain, gentle dreamy mood --ar 9:16
 ```
+
+---
+### Case 306: Portraet mit Eiskaffee auf der Parkbank
+
+**Source**: [@saniaspeaks_](https://x.com/saniaspeaks_/status/2067451160991084677)
+
+**Output**:
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case306/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case306/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Beautiful young Japanese girl with long straight dark brown hair and soft full bangs, fair skin, bright natural smile, sitting casually on a wooden park bench while holding an iced coffee cup. Wearing a light beige windbreaker jacket and a white pleated mini skirt, relaxed posture, one hand resting on the bench. Surrounded by a lush green park with tall trees, fresh grass, and a bright blue sky with soft clouds. Captured with a smartphone camera in portrait mode, casual everyday snapshot, natural daylight, handheld iPhone photo, slightly imperfect framing, realistic skin texture, natural colors, soft HDR phone processing, candid social-media aesthetic, no professional modeling, no studio lighting, no cinematic color grading, authentic mobile photography, ordinary park outing vibe, spontaneous moment, realistic shadows, subtle lens softness, photorealistic, high-quality phone camera image.
+```
+
+---
+### Case 307: Nahportraet mit Curtain Bangs
+
+**Source**: [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2067450336378544407)
+
+**Output**:
+
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case307/output.jpg" width="500" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A photorealistic close-up portrait of a young girl filling almost the entire frame. Her head is slightly tilted to the side, with her cheek resting against her shoulder and partially hidden inside the long cream-colored sleeve of a hoodie. Long, straight hair with curtain bangs falls freely along the left side of her face, covering one eye.￼ On the visible side of her face, she wears soft makeup: laminated brows, a sharp elongated black winged eyeliner that extends the shape of the eye, matte dusty-pink lips, and a calm, slightly pouting expression. She looks directly into the camera, with visible eyelashes.
+
+Layer crisp Japanese typography integrated like a professional event ad with exactly 8 text groups: (1) top-left heading 「始まるのは、キミと創る 音楽の物語。」 with subcopy 「AIを使って、みんなで音楽をつくる特別な3日間。」; (2) top-right glowing marquee 「GW連休!」 and neon box 「みんなで最高の音楽をつくろう!」; (3) center title with English 「AI MUSIC BOOTCAMP 2」 above large 「AI音楽 ブートキャンプ 2」; (4) massive gold metallic text across the middle 「開催決定!」; (5) date bar 「開催期間」 with 「5.2 SAT 土」 and 「5.4 MON 月」; (6) hashtag callout 「参加はカンタン!!  をつけて投稿するだけ!」; (7) encouragement line 「初心者も大歓迎! みんなで最高の音楽体験を!」; (8) three bottom feature captions with icons: 「一緒に学ぶ 仲間とつながる」, 「AIで創る 新しい音楽体験」, 「想いをカタチに 自分だけの1曲を」.
+
+Left edge: vertical filmstrip with 4 panels showing the girl (1) performing on stage before a crowd, (2) at a music production desk with screens, (3) singing into a mic, (4) playing acoustic guitar. Lower area: 2 neon music icons — tilted smartphone with music note (lower left), glowing microphone with musical notes (lower right). Text effects: glossy, luminous, gold and white emboss, energetic streaks and spark explosions around headline. Mood: inspiring, celebratory, futuristic, emotionally uplifting — like a high-impact Japanese Golden Week music event ad.
+```

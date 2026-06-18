@@ -1243,3 +1243,30 @@ Shot with an 85mm lens, shallow depth of field, 8K resolution, ultra-detailed, p
 ```
 Generate four cohesive high-end realistic editorial visuals for OBSIDIAN coffee brand. Cinematic, dark, mature aesthetic inspired by luxury sportswear and premium coffee advertising. Studio lighting that's dramatic yet controlled, photorealistic textures, clean compositional layout. Shot 1: Hero brand poster featuring 'OBSIDIAN' lettering with an artful coffee display — steam rising, beans scattered. Shot 2: Full product range — coffee bags, cans, and capsules arranged together. Shot 3: Tight packaging detail with tagline 'Coffee for grown-ups who chase flavor.' Shot 4: Lifestyle close-up of a steaming cup. Ultra-polished finish, crisp realistic materials, unified brand identity, no fantastical or surreal elements
 ```
+
+<!-- Case 195: Реклама ухода Coconut Paradise (by @Strength04_X) -->
+### Case 195: [Реклама ухода Coconut Paradise](https://x.com/Strength04_X/status/2067445760325734734) (by [@Strength04_X](https://x.com/Strength04_X))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case195/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Реклама ухода Coconut Paradise"></a> |
+
+**Промпт:**
+
+```
+Minimal white bottle with golden pump surrounded by cracked coconuts, coconut milk splash and foam clouds, tropical luxury spa atmosphere, creamy textures, realistic bubbles floating in background, premium skincare commercial, soft warm lighting, ultra detailed 8K.
+```
+
+<!-- Case 196: VFX продукта с обратной сборкой (by @iamaiistudio) -->
+### Case 196: [VFX продукта с обратной сборкой](https://x.com/iamaiistudio/status/2067399156596175345) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX продукта с обратной сборкой"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX продукта с обратной сборкой"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX продукта с обратной сборкой"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX продукта с обратной сборкой"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+[PRODUCT] reassembling in midair from scattered pieces, reverse-disintegration effect, mechanical precision, each component suspended at a different depth, dark void background, high-concept product advertising, cinematic VFX.
+```

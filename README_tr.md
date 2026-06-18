@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![878 Curated Prompts](https://img.shields.io/badge/Prompts-878_Curated_Cases-111111)](README.md)
+[![889 Curated Prompts](https://img.shields.io/badge/Prompts-889_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -44,7 +44,7 @@
 
 **Awesome GPT Image 2 API and Prompts** deposuna hoş geldiniz! 🤗
 
-AI görsel üretimi için **878+ yüksek kaliteli GPT-Image-2 promptu**, API kullanım kalıbı ve yeniden kullanılabilir görsel workflow içeren özenle seçilmiş bir koleksiyon.
+AI görsel üretimi için **889+ yüksek kaliteli GPT-Image-2 promptu**, API kullanım kalıbı ve yeniden kullanılabilir görsel workflow içeren özenle seçilmiş bir koleksiyon.
 
 GPT-Image-2 prompt örnekleri, text-to-image en iyi pratikleri, görsel düzenleme teknikleri veya kullanıma hazır prompt şablonları arıyorsanız burası tek durak referansınız olabilir.
 
@@ -80,6 +80,8 @@ OpenAI'ın standart API formatıyla çalışır (`/v1/images/generations`)
 > API kullanımı hakkında daha fazlası için aşağıdaki «GPT Image 2 API Kullanımı» bölümüne bakın.
 
 ## 📰 Haberler
+
+**18 Haziran 2026:** günlük image-prompt döngüsünden 8 GPT-Image-2 prompt vakası eklendi (2 portre, 2 poster, 2 reklam kreatifi, 1 e-commerce, 1 UI); semantik inceleme ve medya doğrulaması tamamlandı
 
 **15 Haziran 2026:** Semantik inceleme ve medya doğrulamasının ardından image prompt güncelleme loop'undan 9 yeni GPT-Image-2 prompt case eklendi (4 reklam kreatifi, 3 poster, 1 portre, 1 UI)
 
@@ -158,7 +160,7 @@ curl --request POST \
 
 ## 🛒 E-ticaret Vakaları
 
-> **12 özenle seçilmiş vaka**
+> **13 özenle seçilmiş vaka**
 
 <!-- Case 151: E-commerce Main Image - Miniature Diorama Skincare Advertisement (by @Strength04_X) -->
 ### Case 151: [E-commerce Main Image - Miniature Diorama Skincare Advertisement](https://x.com/Strength04_X/status/2048074514278563949) (by [@Strength04_X](https://x.com/Strength04_X))
@@ -395,10 +397,25 @@ Negative prompt:
 Distorted hands, extra fingers, broken anatomy, duplicated limbs, unrealistic reflections, blurry faces, messy composition, unreadable UI, fake lighting, harsh shadows, low resolution, overexposed highlights, warped phones, text errors, AI artifacts, plastic skin, unnatural facial expressions.
 ```
 
+<!-- Case 173: Çiçekli serum ürün çekimi (by @iamaiistudio) -->
+### Case 173: [Çiçekli serum ürün çekimi](https://x.com/iamaiistudio/status/2067413876564795743) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case173/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Çiçekli serum ürün çekimi"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case173/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Çiçekli serum ürün çekimi"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case173/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Çiçekli serum ürün çekimi"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case173/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Çiçekli serum ürün çekimi"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Minimalist studio product photography, a small transparent glass facial oil dropper bottle with a black rubber pipette cap, containing pale pink serum with suspended dried pink floral elements, centered on a natural raw wooden block with visible grain and split texture. Tall matte white skincare box on the left labeled "HUILE ÉCLAT VISAGE" with clean black typography and subtle logo near the bottom. Clear cylindrical glass vase on the right filled with water and thin stems of dried pink gypsophila extending upward. Composition rests on a smooth matte pastel pink surface against a matching seamless pink studio background. Strong directional soft light from the left casts long natural-style shadows of the flowers onto the background, with gentle highlights on the glass, subtle reflections on the serum bottle, and soft texture on the wooden block. Straight-on tabletop camera angle, all objects in sharp focus. Color palette: blush pink, soft rose, warm light wood, clean white, transparent glass. Premium Scandinavian minimalist skincare aesthetic, ultra-realistic, studio-grade.
+
+full prompt:
+```
 
 ## 📣 Reklam Kreatifi Vakaları
 
-> **22 özenle seçilmiş vaka** — [Tüm Reklam Kreatifi Promptlarını Keşfet →](cases/ad-creative.md)
+> **24 özenle seçilmiş vaka** — [Tüm Reklam Kreatifi Promptlarını Keşfet →](cases/ad-creative.md)
 
 <!-- Case 176: Luxury Chronograph Watch Ad (by @AlwaveNazca) -->
 ### Case 176: [Luxury Chronograph Watch Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
@@ -920,9 +937,36 @@ Shot with an 85mm lens, shallow depth of field, 8K resolution, ultra-detailed, p
 Generate four cohesive high-end realistic editorial visuals for OBSIDIAN coffee brand. Cinematic, dark, mature aesthetic inspired by luxury sportswear and premium coffee advertising. Studio lighting that's dramatic yet controlled, photorealistic textures, clean compositional layout. Shot 1: Hero brand poster featuring 'OBSIDIAN' lettering with an artful coffee display — steam rising, beans scattered. Shot 2: Full product range — coffee bags, cans, and capsules arranged together. Shot 3: Tight packaging detail with tagline 'Coffee for grown-ups who chase flavor.' Shot 4: Lifestyle close-up of a steaming cup. Ultra-polished finish, crisp realistic materials, unified brand identity, no fantastical or surreal elements
 ```
 
+<!-- Case 195: Coconut Paradise cilt bakımı reklamı (by @Strength04_X) -->
+### Case 195: [Coconut Paradise cilt bakımı reklamı](https://x.com/Strength04_X/status/2067445760325734734) (by [@Strength04_X](https://x.com/Strength04_X))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case195/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Coconut Paradise cilt bakımı reklamı"></a> |
+
+**Prompt:**
+
+```
+Minimal white bottle with golden pump surrounded by cracked coconuts, coconut milk splash and foam clouds, tropical luxury spa atmosphere, creamy textures, realistic bubbles floating in background, premium skincare commercial, soft warm lighting, ultra detailed 8K.
+```
+
+<!-- Case 196: Ters montaj ürün VFX'i (by @iamaiistudio) -->
+### Case 196: [Ters montaj ürün VFX'i](https://x.com/iamaiistudio/status/2067399156596175345) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case196/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ters montaj ürün VFX'i"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case196/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ters montaj ürün VFX'i"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case196/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ters montaj ürün VFX'i"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case196/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ters montaj ürün VFX'i"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+[PRODUCT] reassembling in midair from scattered pieces, reverse-disintegration effect, mechanical precision, each component suspended at a different depth, dark void background, high-concept product advertising, cinematic VFX.
+```
+
 ## 🍌 Portre ve Fotoğraf Vakaları
 
-> **124 özenle seçilmiş vaka** — [Tüm Portre Promptlarını Keşfet →](cases/portrait.md)
+> **126 özenle seçilmiş vaka** — [Tüm Portre Promptlarını Keşfet →](cases/portrait.md)
 
 <!-- Case 124: Convenience Store Neon Portrait (by @BubbleBrain) -->
 ### Case 124: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
@@ -3169,9 +3213,37 @@ Camera: macro photography, close-up shot. Soft studio lighting with warm highlig
 35mm film photo, airy Japanese aesthetic, soft natural window light from the side, slightly overexposed, muted pastel colors, low contrast, bright gentle highlights, quiet indoor room beside sheer white curtains, pale wall, natural eye-level frame from mid-thigh upward, young East Asian woman, barely-there makeup, smooth natural skin, long loose dark hair, oversized white button-down shirt, casual shorts, bare feet, effortless everyday style, relaxed stance with arms lightly at sides or gently back, looking softly at the camera, calm quiet smile, stillness and lightness, fine film grain, gentle dreamy mood --ar 9:16
 ```
 
+<!-- Case 306: Bankta buzlu kahve portresi (by @saniaspeaks_) -->
+### Case 306: [Bankta buzlu kahve portresi](https://x.com/saniaspeaks_/status/2067451160991084677) (by [@saniaspeaks_](https://x.com/saniaspeaks_))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case306/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Bankta buzlu kahve portresi"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case306/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Bankta buzlu kahve portresi"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Beautiful young Japanese girl with long straight dark brown hair and soft full bangs, fair skin, bright natural smile, sitting casually on a wooden park bench while holding an iced coffee cup. Wearing a light beige windbreaker jacket and a white pleated mini skirt, relaxed posture, one hand resting on the bench. Surrounded by a lush green park with tall trees, fresh grass, and a bright blue sky with soft clouds. Captured with a smartphone camera in portrait mode, casual everyday snapshot, natural daylight, handheld iPhone photo, slightly imperfect framing, realistic skin texture, natural colors, soft HDR phone processing, candid social-media aesthetic, no professional modeling, no studio lighting, no cinematic color grading, authentic mobile photography, ordinary park outing vibe, spontaneous moment, realistic shadows, subtle lens softness, photorealistic, high-quality phone camera image.
+```
+
+<!-- Case 307: Perde kaküllü yakın plan portre (by @iamsofiaijaz) -->
+### Case 307: [Perde kaküllü yakın plan portre](https://x.com/iamsofiaijaz/status/2067450336378544407) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case307/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Perde kaküllü yakın plan portre"></a> |
+
+**Prompt:**
+
+```
+A photorealistic close-up portrait of a young girl filling almost the entire frame. Her head is slightly tilted to the side, with her cheek resting against her shoulder and partially hidden inside the long cream-colored sleeve of a hoodie. Long, straight hair with curtain bangs falls freely along the left side of her face, covering one eye.￼ On the visible side of her face, she wears soft makeup: laminated brows, a sharp elongated black winged eyeliner that extends the shape of the eye, matte dusty-pink lips, and a calm, slightly pouting expression. She looks directly into the camera, with visible eyelashes.
+
+A long zip-up hoodie over the one shoulder The composition is intimate and casual, resembling a webcam selfie. The frame has a slight tilt, and the face is positioned very close to the lens. Focus is sharp on the visible eye, lips, hair texture, and the thick cream-colored fabric of the sleeve, while the background fades into a soft blur. Behind her is a simple warm gray-beige wall with no visible details. Warm indoor and screen lighting from the front-left creates soft highlights on the skin and hair. The contrast is moderate, and the color palette is muted, featuring black, beige-gray, and dusty pink tones. The overall image should preserve the authentic feeling of a selfie photograph.
+```
+
 ## 🎨 Poster ve İllüstrasyon Vakaları
 
-> **143 özenle seçilmiş vaka** — [Tüm Poster Promptlarını Keşfet →](cases/poster.md)
+> **145 özenle seçilmiş vaka** — [Tüm Poster Promptlarını Keşfet →](cases/poster.md)
 
 <!-- Case 214: Peacock Botanical Vintage Symmetrical Art Print (by @dotey) -->
 ### Case 214: [Peacock Botanical Vintage Symmetrical Art Print](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
@@ -7188,9 +7260,57 @@ Layer crisp Japanese typography integrated like a professional event ad with exa
 Left edge: vertical filmstrip with 4 panels showing the girl (1) performing on stage before a crowd, (2) at a music production desk with screens, (3) singing into a mic, (4) playing acoustic guitar. Lower area: 2 neon music icons — tilted smartphone with music note (lower left), glowing microphone with musical notes (lower right). Text effects: glossy, luminous, gold and white emboss, energetic streaks and spark explosions around headline. Mood: inspiring, celebratory, futuristic, emotionally uplifting — like a high-impact Japanese Golden Week music event ad.
 ```
 
+<!-- Case 407: Stay Focused editoryal posteri (by @iamaiistudio) -->
+### Case 407: [Stay Focused editoryal posteri](https://x.com/iamaiistudio/status/2067444516605620410) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case407/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Stay Focused editoryal posteri"></a> |
+
+**Prompt:**
+
+```
+Award-worthy graphic design poster in neo-editorial / contemporary editorial style, D&AD / Awwwards / Behance quality.
+
+Theme: Stay Focused.
+
+Create a powerful central visual metaphor for this theme — transform the concept into a sculptural, iconic, installation-like object that is cut, layered, stretched, stacked, reconstructed, wrapped, or deconstructed, with clear conceptual weight rather than decoration.
+
+Clean, minimal light-gray background with generous whitespace.
+
+High-contrast modern editorial typography: oversized bold black English headline at top, secondary subtitle, annotation text, exhibition-style hierarchy.
+
+Swiss editorial grid system with intentional breaks, asymmetric balance, precise alignment, strong rhythm, refined spacing.
+
+Centered or near-centered composition with strong vertical tension.
+
+Materials and rendering: premium product-quality render, matte surfaces, subtle reflections, hard-edge cuts, slight inter-layer translucency, suspended sliced structures, refined details, crisp silhouettes.
+
+Color: black, white, and gray dominant with a single striking accent color and minimal secondary accents — restrained, high-end, contemporary.
+
+Lighting: soft studio lighting, subtle shadows, ultra-clean render, highly polished but non-glossy, razor-sharp details.
+
+Mood: conceptual, intellectual, exhibition-grade, contemporary, premium, restrained, iconic.
+
+Aspect ratio 9:16, 4K, ultra sharp, ultra detailed, ultra clean, high resolution.
+```
+
+<!-- Case 408: Chowmein tarif infografiği (by @iamaiistudio) -->
+### Case 408: [Chowmein tarif infografiği](https://x.com/iamaiistudio/status/2067429181726904350) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case408/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Chowmein tarif infografiği"></a> |
+
+**Prompt:**
+
+```
+Ultra-clean modern recipe infographic for chowmin. Feature the finished dish as hero visual, plated and slightly elevated in a perspective or angled view. Arrange ingredients, preparation steps, and tips dynamically around the dish in an editorial layout. Ingredients: icons or mini illustrations with quantities, arranged in clusters or circular flows connected visually to the dish. Steps: numbered panels with arrows or connecting lines forming a logical flow, including small cooking icons (knife, pan, oven, timer). Optional info: calories, prep/cook time, servings, spice level displayed as clean bubbles or badges. Visual style: editorial infographic meets lifestyle food photography. Vibrant natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels, accent colors on key stats. Composition: finished meal as hero, ingredients and steps flowing dynamically around it, clear visual hierarchy with ample negative space. Lighting: soft natural studio light on a minimal textured or gradient background. Output: 1080x1080, ultra-crisp, social-feed optimized, no watermark.
+```
+
 ## 🧍 Karakter Tasarımı Vakaları
 
-> **11 özenle seçilmiş vaka** — [Tüm Karakter Tasarımı Promptlarını Keşfet →](cases/character.md)
+> **12 özenle seçilmiş vaka** — [Tüm Karakter Tasarımı Promptlarını Keşfet →](cases/character.md)
 
 <!-- Case 2: Persona5 Character Reference Card (by @iamrednightS) -->
 ### Case 2: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
@@ -7235,7 +7355,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 {argument name="game" default="gta 6"} in {argument name="location" default="Bangalore's market flower"} in India
 ```
 
-👉 **13 Karakter Tasarımı prompt case'in tamamını gör →**
+👉 **14 Karakter Tasarımı prompt case'in tamamını gör →**
 
 <!-- Case 18: Stylized 3D Skater Character (by @iamaiistudio) -->
 ### Case 18: [Stylized 3D Skater Character](https://x.com/iamaiistudio/status/2062038112398954712) (by [@iamaiistudio](https://x.com/iamaiistudio))
@@ -7639,9 +7759,32 @@ Negative prompt:
 human-like alien, humanoid face, eyes, nose, mouth, jaw, blue-skinned human, elf, armor suit, guns, generic sci-fi soldier, anime style, cartoon, chibi, cyberpunk city, neon signs, medieval fantasy, wings, halos, angel, bad anatomy, random extra limbs, cluttered background, oversaturated colors, strong lens distortion, fisheye, low resolution, blurry details, noisy grain, HUD, UI, readable text, watermark, logo, modern Earth clothing, sneakers, jeans, T-shirt
 ```
 
+<!-- Case 26: Visual Novel Character Profile (by @iamaiistudio) -->
+### Case 26: [Visual Novel Karakter Profili](https://x.com/iamaiistudio/status/2067308176715001944) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+**Çıktı:**
+
+| Çıktı |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case26/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Visual Novel Karakter Profili"></a> |
+
+**Prompt:**
+
+```
+Create a high-quality character introduction page using a chibi illustration and a full standing character artwork, styled like an official visual novel (gal-game) character profile page. It should look realistic enough to use on an actual game website. Include CG-style illustrations, facial expression variants, and a chibi version of the character.
+
+"Self-introduction here"
+
+Name: (name here)
+Theme color: (color here)
+Height: (height here) cm
+Weight: (weight here) kg
+Catchphrase: "(line here)"
+```
+
 ## 📱 UI ve Sosyal Medya Mockup Vakaları
 
-> **38 özenle seçilmiş vaka** — [Tüm UI ve Mockup Promptlarını Keşfet →](cases/ui.md)
+> **39 özenle seçilmiş vaka** — [Tüm UI ve Mockup Promptlarını Keşfet →](cases/ui.md)
 
 <!-- Case 130: One-Prompt UI Design Generation (by @austinit) -->
 ### Case 130: [One-Prompt UI Design Generation](https://x.com/austinit/status/2044968740782272596) (by [@austinit](https://x.com/austinit))
@@ -8871,9 +9014,201 @@ Typography: minimal editorial style, subtle captions only, no large headlines, s
 Overall mood: design catalog / product design journal — architectural, premium, calm. No clutter, no bold colors, no heavy branding, no decorative graphics, no perspective distortion in the technical drawings.
 ```
 
+<!-- Case 187: The King Still Breathes masthead'i (by @NeuralAIInsight) -->
+### Case 187: [The King Still Breathes masthead'i](https://x.com/NeuralAIInsight/status/2067291988953567706) (by [@NeuralAIInsight](https://x.com/NeuralAIInsight))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case187/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - The King Still Breathes masthead'i"></a> |
+
+**Prompt:**
+
+```
+Create a 16:9 image.
+
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: THE KING STILL BREATHES
+META LINE: empty night stadium / a buried crown remembers / three triumphs and one hope
+PRIORITY: the four-jewel crown — three jewels lit certain and complete (blue, white, blue) and a fourth softly awakening with hope; crown stays buried until it rises; pitch resolves into a giant number 10; one realistic field, restraint throughout
+MICRO BRIEF: After a legendary hat-trick, a buried crown awakens beneath an empty Argentina-blue stadium — three jewels light for three World Cups, a fourth begins to glow with hope, and the pitch briefly forms a giant number 10.[CONTINUITY HEADER]
+SEQUENCE ID: king_still_breathes_4jewel_12p
+REFERENCE PRIORITY: No image references provided (Brief-Only). No character — environment-led and symbolic. This storyboard controls stadium geography, the waking pitch lines, the buried crown, the four-jewel sequence, the crown rise, the number-10 reveal, and panel order.
+BEAT NAME LOCK (generate once, use identically in panel headers, action path, state track, and the director-strip beat labels): P01 Empty Stadium / P02 Lines Wake / P03 Crown Stirs / P04 First Jewel (blue) / P05 Second Jewel (white) / P06 Third Jewel (blue) / P07 Crown Rises / P08 Three Jewels Lit / P09 Fourth Jewel Awakens / P10 Lines Connect / P11 Number 10 / P12 Hopeful Stillness. Do not relabel or reorder these anywhere on the board
+[SCENE PACKET]
+PREMISE: An empty but still-charged football stadium at night remembers a legendary hat-trick; the pitch wakes, a buried crown stirs and lights three historic jewels one by one, rises in ceremony, and a fourth jewel softly begins to glow with hope as the field geometry briefly forms a giant number 10.
+LOCATION: A single realistic modern football stadium at night after a major match, empty stands, floodlights over an Argentina sky-blue atmosphere, dark emerald grass, white pitch markings, silver floodlight haze, one goal net. Normal football geography only. The pitch surface and the crown buried beneath it are the active stage.
+START -> END: empty charged stadium, one net swaying, lines beginning to wake -> a quiet hold on the still field, the crown settled, three jewels fading but the fourth jewel remaining faintly alive — the future has begun to breathe.
+ACTION CHAIN: empty stadium, one net sways -> the white pitch lines begin glowing softly, the field waking -> beneath the grass the crown stirs, sensed through buried light and pressure (no visible crown) -> the first jewel lights blue (first World Cup) -> the second jewel lights white (second World Cup) -> the third jewel lights blue (third World Cup) -> the crown rises with ceremonial weight from beneath the pitch -> we see the crown clearly, three jewels glowing blue-white-blue -> a fourth dark jewel stirs, flickers, breathes, and softly begins to glow (hope, not yet a triumph) -> the white lines connect and spread with living light -> from an elevated view the field geometry resolves into a giant number 10 -> the glow fades toward stillness, the crown settles, the fourth jewel remaining faintly alive.
+PROP / EFFECT STATE: a buried crown made by the pitch — gold edges partly formed from the white pitch lines, soil and grass clinging, elegant and football-mythic, never medieval-prop or fantasy-clean. It has four jewel settings. The first three jewels ignite one by one, certain and complete, in Albiceleste rhythm: blue, white, blue. The crown is NOT clearly visible before P07. The fourth jewel is visually distinct: dormant, then flickering and breathing, a soft fragile glow that never fully ignites like the others. The number 10 forms organically and half-found from real field geometry (penalty box, center circle, touchlines, glowing trails), never a graphic overlay. The fourth jewel remains faintly lit at the end. Subtle gold and jewel light only; otherwise blues, whites, silver.
+MUST READ: the hat-trick lights history (three certain jewels) and awakens belief in what comes next (the fragile fourth). Reverent, epic, restrained; pride turning to hope.
+[CHARACTER SANITIZATION]
+No characters. No player, face, body, silhouette, portrait, or likeness of any real person. No Messi depiction of any kind. The subject is the stadium, the pitch, and the crown. The crown is a symbol, not worn; no king, throne, or robes.
+[IDENTITY CONSISTENCY]
+Keep stadium geometry, floodlight positions, the single net position, and pitch-line layout consistent across all panels. Keep the crown design consistent once revealed, and keep the four jewel positions consistent (three that light historic, one that awakens). Argentina connection through color and atmosphere only — sky blue, white, deep night blue — never text, crests, or a depicted person.
+[STORYBOARD PURITY]
+Full-color panel artwork (polished pitch board). Panel numbers, beat names, and lens tags in the header strip outside each panel. The beat names in the headers must match the BEAT NAME LOCK and the director-strip beat labels exactly. No captions, subtitles, signage, logos, crests, brand marks, trophy replicas, readable text, arrows, or overlays inside the artwork. The number 10 appears ONLY as illuminated field geometry within the image, never a graphic label. One clear visual idea per panel.
+[MASTER SHOT RULE]
+P01 establishes the geography: the empty night stadium, floodlights over Argentina-blue haze, dark emerald pitch with white markings, one goal net, empty stands. One realistic field, normal geography. The sacred charged emptiness is set here.
+[EMOTIONAL ARC]
+post-match silence -> recognition -> awakening -> pride (three historic jewels and the coronation) -> hope (the fragile fourth jewel and the lingering glow); carried by the environment — the swaying net, waking lines, buried stir, the one-by-one jewels, the ceremonial rise, the breathing fourth jewel, the connecting geometry, the number 10, and a quiet hopeful hold.
+[STYLE LOCKS]
+STYLE LOCK: mythic cinematic football short, premium symbolic sports poetry, elegant and emotionally charged; full-color; deep stadium night blues, sky-blue and white Argentina light, dark emerald grass, silver floodlight haze, selective gold only on the crown and jewel moments. Reverent, epic, restrained, poetic rather than literal. Not a match recap, not a fan edit, not abstract art-film.
+EFFECT LOCK: the white pitch lines wake with a soft living glow like a nervous system; the crown stirs as buried light and pressure under the turf before any reveal; the first three jewels ignite one by one with clear punctuation, certain and complete, blue then white then blue; the crown, once revealed, rises slow and ceremonial and heavy, pitch-made with soil and grass clinging, never a clean prop; the fourth jewel is softer, fragile, flickering and breathing into a gentle glow, never a full bright ignition; the lines connect and spread with living light; the number 10 resolves organically and half-found from real field geometry, discovered by the camera; the fourth jewel remains faintly alive at the end.
+ENVIRONMENT LOCK: one realistic night stadium throughout — floodlights, blue atmosphere, emerald pitch, white lines, a single net, empty stands; normal football geography only; no three-net or impossible layouts; no crowd, no players, no symbolic clutter.
+CROWN REVEAL LOCK: the crown is NOT clearly visible in P01-P06. In P03-P06 show only buried glow, pressure under the turf, and the jewels lighting beneath/through the grass — never a readable crown. The first clear crown reveal is P07 when it rises. The crown is pitch-made: gold edges partly formed from white pitch lines, soil and grass clinging, elegant and football-mythic, not medieval-prop, not fantasy-clean.
+JEWEL LOCK: four jewel settings, consistent positions. Three light one-by-one as historic and complete in Albiceleste rhythm — P04 blue, P05 white, P06 blue. The fourth (P09) is visually distinct: dormant then awakening, a soft fragile breathing glow that never matches the full certainty of the first three. It must read as hope, not a won trophy.
+[SPATIAL CONTINUITY LOCK]
+All panels share one stadium geography: pitch, white-line layout, floodlight positions, the single net, the crown's central buried location and its four jewel positions. The jewels light in fixed positions; the crown rises from one fixed central point (only from P07); the number 10 forms from the established white-line geometry seen from a widening elevated angle (not a new location or overlay). The camera starts close and textural and gradually widens and elevates toward the reveal. Allowed changes: camera height/angle/distance, which jewel is lit, buried-glow state, crown emergence state (none before P07), the fourth jewel's awakening state, glow spread, line illumination, net sway.
+[DIRECTOR STRIP]
+Animatic track board aligned to panel columns. Shot chips, rhythm blocks, intensity bars, short labels. No seconds or timestamps. BEAT LABEL row must read exactly: P01 Empty Stadium / P02 Lines Wake / P03 Crown Stirs / P04 First Jewel / P05 Second Jewel / P06 Third Jewel / P07 Crown Rises / P08 Three Jewels Lit / P09 Fourth Jewel / P10 Lines Connect / P11 Number 10 / P12 Hopeful Stillness. These must match the panel header beat names.
+PANEL HEADERS:
+P01 / 24mm wide / Empty stadium
+P02 / macro low / Lines wake
+P03 / macro low / Crown stirs (buried)
+P04 / 50mm low / First jewel: blue
+P05 / 50mm low / Second jewel: white
+P06 / 50mm low / Third jewel: blue
+P07 / 35mm low / Crown rises
+P08 / 50mm / Three jewels lit
+P09 / macro / Fourth jewel awakens
+P10 / 35mm rising / Lines connect
+P11 / 24mm crane high / Number 10
+P12 / 24mm wide / Hopeful stillness
+CAMERA + LENS PLAN:
+P01: high wide establishing hold on the empty stadium and single net, patient
+P02: macro low as the white pitch lines begin to glow softly, the field waking
+P03: macro low on the turf as the buried crown stirs — light and pressure under the grass, no visible crown
+P04: low push as the first jewel lights blue beneath the surface, certain and clear
+P05: low push as the second jewel lights white, matching punctuation
+P06: low push as the third jewel lights blue, the historic three now complete
+P07: low angle as the pitch-made crown rises with ceremonial weight from beneath the pitch, soil and grass clinging — first clear reveal
+P08: held medium on the risen crown, three jewels glowing blue-white-blue in Albiceleste rhythm
+P09: macro on the fourth, previously dark jewel as it stirs, flickers, breathes, and softly begins to glow — fragile, hopeful, distinct from the other three
+P10: rising angle as the white lines connect and spread with living light across the field
+P11: high crane / elevated wide as the field geometry resolves half-found into a giant number 10
+P12: wide hold as the glow fades toward stillness and the crown settles, the fourth jewel remaining faintly alive
+ACTION PATH:
+P01: the empty stadium sits charged under floodlights, one net swaying slightly
+P02: the white pitch lines begin glowing softly, the field waking and remembering
+P03: beneath the grass the crown stirs, sensed only through buried light and pressure; no crown visible
+P04: the first jewel lights blue — Argentina's first World Cup
+P05: the second jewel lights white — the second World Cup
+P06: the third jewel lights blue — the third World Cup, the historic three complete
+P07: the crown rises with ceremonial weight from beneath the pitch, soil and grass clinging
+P08: the crown is seen clearly, three jewels glowing blue-white-blue
+P09: a fourth dark jewel stirs, flickers, breathes, and softly begins to glow — hope for a fourth, not yet a triumph
+P10: the white lines connect and spread with living light through the pitch geometry
+P11: from the elevated view, the field geometry resolves into a giant number 10
+P12: the glow fades toward stillness, the crown settles, the fourth jewel remains faintly alive
+RHYTHM TRACK:
+RHY P01: hold / long block / held beat
+RHY P02: slow reveal / medium block / clean beat
+RHY P03: slow reveal / medium block / held beat
+RHY P04: build / short block / clean beat
+RHY P05: build / short block / match beat
+RHY P06: impact / short block / smash beat
+RHY P07: build / long block / held beat
+RHY P08: pause / medium block / held beat
+RHY P09: slow reveal / long block / held beat
+RHY P10: build / medium block / match beat
+RHY P11: final hit / long block / smash beat
+RHY P12: pause / long block / held beat
+ESCALATION MAP:
+ESC P01: L1 calm / flat
+ESC P02: L2 tension / rise
+ESC P03: L2 tension / rise
+ESC P04: L3 rise / rise
+ESC P05: L3 rise / rise
+ESC P06: L4 surge / spike
+ESC P07: L5 peak / surge
+ESC P08: L4 surge / held
+ESC P09: L3 rise / rise
+ESC P10: L4 surge / rise
+ESC P11: L5 peak / spike
+ESC P12: L2 tension / release
+STATE TRACK:
+P01: empty stadium, one net sways, no glow
+P02: white lines waking, soft glow
+P03: buried crown stirs, pressure under turf, no crown
+P04: first jewel blue, beneath surface
+P05: second jewel white
+P06: third jewel blue, historic three complete
+P07: crown rises, soil clinging (first reveal)
+P08: crown clear, three jewels blue-white-blue
+P09: fourth jewel flickering, breathing, soft glow
+P10: lines connected, living light spreading
+P11: geometry resolves into number 10
+P12: glow fades, crown settled, fourth jewel faintly alive STYLE TRACK:
+P01: blue floodlit haze
+P02: waking line glow
+P03: buried stir, turf pressure
+P04: blue jewel light
+P05: white jewel light
+P06: blue jewel light
+P07: rising pitch-made gold
+P08: Albiceleste three-jewel glow
+P09: fragile fourth-jewel breath
+P10: connecting line veins
+P11: half-found number 10
+P12: fading glow, one jewel alive [NEGATIVE / AVOID]
+Panel header beat names must match the
+
+Seedance 2.0 Prompt:
+
+Based on the storyboard , create this short film — do not include any movement arrows, camera notes, panel numbers, captions, labels, borders, or storyboard markings.
+
+THE KING STILL BREATHES — beneath an empty Argentina-blue stadium, a buried crown lights three jewels for three triumphs and a fourth begins to glow with hope.
+
+IMAGE REFERENCE INSTRUCTION
+= the locked 12-panel storyboard, the authoritative director-approved blueprint for composition, staging, motion, timing, and pacing across the full 15 seconds. Follow the panel order exactly. Do not render the storyboard sheet itself. Do not invent alternative coverage. This is an environment-led symbolic piece with no character — no player, face, body, or likeness anywhere.
+Color bible (definitive): deep stadium night blues, sky-blue and white Argentina light, dark emerald grass, silver floodlight haze; selective gold only on the crown and jewel moments. The crown is pitch-made — gold edges partly formed from the white pitch lines, soil and grass clinging to it, elegant and football-mythic, never a clean prop or medieval cosplay. The number 10 forms only from real field geometry, half-found, never a graphic overlay. One realistic football field, one net, normal geography only.
+
+TASK
+Create a 15-second mythic cinematic football short built from deliberate, elegant cuts. An empty night stadium, still charged after a legendary hat-trick, slowly awakens: the white pitch lines begin to glow, a buried crown stirs beneath the turf, and three jewels light one by one — blue, white, blue — for Argentina's three World Cup triumphs. The crown rises in ceremony, revealing those three certain jewels, and then a fourth dark jewel softly stirs, flickers, and begins to glow with fragile hope for what comes next. The field lines connect and spread with living light until the pitch geometry resolves, for one brief unforgettable moment, into a giant number 10 — then the glow fades toward stillness, the crown settles, and the fourth jewel remains faintly alive. Football history turning to myth, and pride turning to hope.
+
+STYLE
+Mythic cinematic football short, premium symbolic sports poetry, elegant and emotionally charged — not a match recap, not a fan edit, not abstract art-film. Reverent, epic, restrained, poetic rather than literal, as if the stadium itself remembers. Deep night blues with sky-blue and white Argentina light, dark emerald grass, silver floodlight haze, selective gold only on the crown and jewels. Everything moves with weight and intention; restraint over spectacle.
+
+SHOT STRUCTURE: 12 shots / 15s / 16:9 — deliberate cinematic cuts (not one continuous take)
+
+SEQUENCE
+Shot 01 — EMPTY STADIUM [0–1.5s] WIDE / STATIC / PATIENT HOLD: the empty night stadium under floodlights, Argentina-blue haze, dark emerald pitch, a single goal net swaying faintly. Still, but charged with the memory of what just happened. Post-match silence.
+Shot 02 — LINES WAKE [1.5–3s] MACRO / LOW / SLOW TRACK ALONG A LINE: the white pitch lines begin to glow softly, light running along the painted markings like the field's nervous system waking and remembering. Recognition.
+Shot 03 — CROWN STIRS [3–4s] MACRO / LOW / SLOW PUSH: in the turf, a buried glow and faint pressure stir beneath the grass — something royal sensed but not yet seen. No visible crown.
+Shot 04 — FIRST JEWEL [4–5s] CLOSE / LOW / CUT IN: beneath the surface the first jewel lights a deep blue — Argentina's first World Cup. Certain, clear, historic.
+Shot 05 — SECOND JEWEL [5–6s] CLOSE / LOW / MATCHING CUT: the second jewel lights white — the second triumph. The same confident punctuation.
+Shot 06 — THIRD JEWEL [6–7.5s] CLOSE / LOW / MATCHING CUT: the third jewel lights blue — the third triumph. The historic three now complete, glowing in Albiceleste rhythm.
+Shot 07 — CROWN RISES [7.5–9.5s] MEDIUM / LOW / SLOW CEREMONIAL RISE: the pitch-made crown rises with heavy ceremonial weight from beneath the turf, soil and grass clinging to its gold edges. Earned, mythic, powerful. The first clear reveal.
+Shot 08 — THREE JEWELS LIT [9.5–11s] MEDIUM / SLOW PUSH: the crown seen clearly, its three jewels glowing blue-white-blue. A held moment of pride. The king's history made visible.
+Shot 09 — FOURTH JEWEL AWAKENS [11–12.5s] MACRO / SLOW PUSH: a fourth, previously dark jewel stirs — it flickers, breathes, and softly begins to glow. It does not blaze like the other three; it is fragile, tentative, hopeful. Belief in a fourth triumph, not yet won.
+Shot 10 — LINES CONNECT [12.5–13.5s] HIGH / RISING: the white pitch lines connect and spread with living light across the field, the geometry beginning to mean something.
+Shot 11 — NUMBER 10 [13.5–14.5s] CRANE HIGH / ELEVATED WIDE: from above, the glowing field geometry resolves, half-found and broken-edged, into a giant number 10 — discovered by the camera, pitch memory rather than a drawn symbol. The unforgettable image.
+Shot 12 — HOPEFUL STILLNESS [14.5–15s] WIDE / STATIC / HOLD: the glow fades toward stillness, the crown settles back into the grass, the stadium quiets — but the fourth jewel remains faintly alive, breathing. The future has begun to breathe. Hold.
+
+CAMERA RULES
+Deliberate, elegant cinematic cuts between shots — not one continuous take. The camera is patient and confident, uncovering something sacred: it begins close and textural (macro grass, low jewel angles) and gradually widens and elevates toward the reveal, ending on a held wide. One primary move per shot; no shaky handheld, no snap zooms, no hyper-editing. The number 10 is discovered by the elevated camera, never presented as a flat graphic. Let the piece breathe.
+
+HARD RULES
+- No character of any kind: no player, face, body, silhouette, or Messi likeness. The subject is the stadium, the pitch, and the crown.
+- The crown is NOT visible before Shot 07; Shots 03–06 show only buried glow, turf pressure, and the jewels lighting beneath the grass.
+- The crown is pitch-made, soil and grass clinging, elegant and football-mythic — never a clean prop, medieval cosplay, or ornate fantasy.
+- The first three jewels light one by one, certain and complete, in Albiceleste rhythm: blue, white, blue.
+- The fourth jewel must look different from the first three — dormant then awakening, fragile, flickering, a soft glow that never fully blazes. It reads as hope, not a won trophy.
+- One realistic football field, one net, normal geography only — never three nets or impossible layouts.
+- The number 10 appears only as illuminated field geometry, half-found with broken edges, never a graphic overlay or label.
+- No readable logos, crests, sponsor marks, brand marks, or trophy replicas. Argentina connection through color and atmosphere only.
+- Not a match-highlight recap. Reverent aftermath, memory, myth, and hope. Power through restraint — no symbolic clutter.
+
+AUDIO
+No dialogue, no commentary. Reverent, charged, slightly supernatural sound design. Begin with the deep ambience of an empty stadium — distant floodlight hum, a faint wind, the soft creak of the swaying net. The lines waking add a delicate glassy shimmer running across the field. The crown stirring is a low buried throb under the turf. Each of the three jewels lights with a clear, resonant chime — three certain, complete tones, the same confident punctuation each time. The crown rising lands with a heavy, sacred low impact and a slow rising shimmer of gold. The three-jewel moment holds on a proud sustained chord. The fourth jewel is different — a soft, fragile, flickering tone that breathes rather than rings, tentative and tender. The lines connecting add a spreading living hum; the number 10 resolves on a held, awe-struck swell. Then it falls back toward near-silence — the empty stadium hum, and one last faint breathing shimmer from the fourth jewel. Music: sparse, mythic, restrained — deep cinematic drones, a slow sacred build through the coronation, a single restrained peak at the number-10 reveal, then a quiet hopeful fade that does not fully resolve, leaving the fourth jewel's note hanging. Never bombastic, never a sports anthem; aura and hope, not hype.
+
+Negatives: no player, face, likeness, body, or silhouette; no Messi depiction; no crown before Shot 07; no clean-prop or medieval crown; the fourth jewel must not blaze like the first three; one field and one net only, never three nets; the number 10 only as organic half-found field geometry, never an overlay; no logos, crests, brand marks, trophy replicas, or readable text; no match-recap energy; no identity drift, no jitter or temporal flicker, no warped geometry, no floating objects, no watermarks; no movement arrows, camera notes, panel numbers, captions, labels, borders, or storyboard markings in the video.
+```
+
 ## 🧪 Karşılaştırma ve Topluluk Örnekleri
 
-> **24 özenle seçilmiş vaka** — [Tüm Karşılaştırma Örneklerini Keşfet →](cases/comparison.md)
+> **26 özenle seçilmiş vaka** — [Tüm Karşılaştırma Örneklerini Keşfet →](cases/comparison.md)
 
 <!-- Case 80: Sam Altman Bear Selfie (by @JustinGorya) -->
 ### Case 80: [Sam Altman Bear Selfie](https://x.com/JustinGorya/status/2046510831832006970) (by [@JustinGorya](https://x.com/JustinGorya))
@@ -9010,7 +9345,7 @@ Right side: character sheet + palette: sunny park, green grass, raccoon grey-bro
 “Create a crisp, clean infographic storyboard poster for THE SOURDOUGH BAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright warm colors — creamy dough whites, golden crust browns, warm flour dust, rich amber kitchen light, pops of green from herbs on the windowsill. Top header: THE SOURDOUGH BAKER TOTAL VIDEO TIME: 12 SECONDS 8 SHOTS · WARM · SLOW · BAKED WITH LOVE Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT Same Pixar-style young male baker throughout — flour-dusted white apron, warm rustic kitchen, wooden counter, morning light streaming through the window. And one recurring character — a fluffy orange cat who takes the craft extremely seriously and is present in every single panel. 8 panels: Panel 1 — THE OPENER: Wide shot. Baker walks into his kitchen at dawn carrying a large flour bag under one arm. He drops it onto the wooden counter sending a dramatic puff of white flour into the warm morning light — flour cloud catching the golden sunlight beautifully. The orange cat is already sitting on the counter waiting, completely unbothered by the flour cloud, staring directly at the baker. They look at each other. The day begins. You know exactly what's about to happen. Panel 2 — THE MIX: Overhead locked shot. Baker's hands mixing flour, water and sourdough starter together in a large ceramic bowl — shaggy dough forming, the transformation beginning. The orange cat sits at the edge of the counter, head tilted, watching the bowl with complete concentration. Panel 3 — THE KNEAD: The hero comedy panel. Baker steps aside. The orange cat is on the counter, both front paws pressing and kneading the dough exactly like cats do in real life — slow rhythmic biscuit-making motion, eyes half closed in pure contentment. Baker watches from the side with a resigned smile. The cat is completely unbothered and deeply committed to the process. Panel 4 — THE FOLD: Side angle. Baker performs the stretch and fold — pulling the dough up and folding it over itself, the dough becoming smooth and elastic. Close-up on hands and dough. The orange cat watches from beside the bowl, one paw resting on the counter edge, supervising every movement. Panel 5 — THE SCORE: Close-up dramatic shot. Baker holds a razor lame above the risen dough, scoring a deep curved line across the surface — the blade catching the light. The orange cat sits in the background perfectly framed, watching with complete intensity as if this is the most important moment of the day. It is. Panel 6 — THE OVEN: Wide shot. Baker slides the dough inside the cast iron dutch oven, closes the heavy lid, slides it into the glowing oven. The orange cat sits directly in front of the oven door, staring at it, waiting. Will not move. Will never move. Panel 7 — THE REVEAL: The hero frame. Baker lifts the dutch oven lid — an enormous cloud of steam erupts upward, and beneath it the most perfect golden sourdough loaf, deeply scored crust cracked open, caramelized and blistered. The orange cat stands up on its hind legs trying to see over the counter edge, eyes wide, completely losing its composure for the first time. Panel 8 — THE SLICE: Wide warm shot. Baker slices through the loaf — perfect open crumb revealed inside, steam still rising, golden crust crackling. Butter placed on the warm slice, melting instantly. The orange cat sits beside the cutting board, one paw raised toward the bread. Baker looks at the cat. Cat looks at the bread. Baker smiles. Perfect ending. Footer: VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. Flour drop to first slice. CAMERA TIPS: wide on opener with flour cloud, overhead on the mix, wide medium on the knead with cat in full view, side angle on the fold, close-up on the score, wide on the oven with cat guarding, hero wide shot on the steam reveal, warm wide on the final slice LIGHT & STYLE: warm golden morning light, creamy dough whites, deep golden crust.”
 ```
 
-👉 **53 Karşılaştırma ve Topluluk prompt case'in tamamını gör →**
+👉 **55 Karşılaştırma ve Topluluk prompt case'in tamamını gör →**
 
 <!-- Case 80: Storyboard Grid Template (by @EricoolWong) -->
 ### Case 80: [Storyboard Grid Template](https://x.com/EricoolWong/status/2055788309511917880) (by [@EricoolWong](https://x.com/EricoolWong))
@@ -9944,6 +10279,43 @@ Once GPT-Image 2 gives you the first ultra high quality image, upload the rest o
 
 ```
 Modify this photo so the total adds up to 244.5 baht. Adjust the number of coins in each stack until the combined value hits the target.
+```
+
+<!-- Case 106: Blueprint vs Render Split Object (by @iamaiistudio) -->
+### Case 106: [Blueprint ve Render Arasında Bölünmüş Nesne](https://x.com/iamaiistudio/status/2067202108303311255) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+**Çıktı:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case106/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint ve Render Arasında Bölünmüş Nesne"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case106/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint ve Render Arasında Bölünmüş Nesne"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case106/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint ve Render Arasında Bölünmüş Nesne"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case106/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint ve Render Arasında Bölünmüş Nesne"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Pick any object and slice it in half vertically, the left side rendered as a detailed technical schematic blueprint with grid lines and annotations, the right side as a polished 3D model render, the center seam flickering and glitching where the two visual realities collide.
+```
+
+<!-- Case 107: Pergola Blueprint Build Split (by @iamaiistudio) -->
+### Case 107: [Pergola Blueprint ve İnşa Ayrımı](https://x.com/iamaiistudio/status/2067142493389603170) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+**Çıktı:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case107/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Pergola Blueprint ve İnşa Ayrımı"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case107/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Pergola Blueprint ve İnşa Ayrımı"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Architectural split-scene: left side shows a hand-sketched pencil blueprint of a wooden garden pergola on white paper, front and slight side elevation with construction lines, dimension labels, and handwritten notes, posts and crossbeams precisely drafted in a professional hand-sketched technical style. Right side shows the finished pergola fully built in a real garden, photographed from a low front-corner angle at eye level showing the full timber beam depth. Natural wood texture with realistic joints, installed on grass with surrounding plants, soft daylight and grounded shadows. Photorealistic architectural visualization.
+
+Pergola Blueprint Prompt: Hand-drawn architectural pencil sketch of a wooden garden pergola on white paper. Front and slight side elevation view with clear proportions.
+
+Construction lines, dimensions and handwritten notes visible. Wooden posts and cross beams precisely drafted. Professional but hand-sketched technical style. Clean white background.
+
+Finished Pergola: Fully built wooden pergola in a real garden, matching the exact structure and proportions from the sketch. Viewed from a low front corner perspective at eye level, showing depth and the full beam structure instead of a flat elevation. Natural wood texture with realistic joints and connections. Installed on grass with surrounding plants. Soft daylight with grounded shadows. Photorealistic architectural visualization.
 ```
 
 ## 🤝 Katkıda Bulunma

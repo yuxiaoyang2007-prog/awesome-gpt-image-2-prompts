@@ -645,3 +645,28 @@ Vertical 9:16 full-body cinematic portrait of a single alien character, the Lumi
 Negative prompt:
 human-like alien, humanoid face, eyes, nose, mouth, jaw, blue-skinned human, elf, armor suit, guns, generic sci-fi soldier, anime style, cartoon, chibi, cyberpunk city, neon signs, medieval fantasy, wings, halos, angel, bad anatomy, random extra limbs, cluttered background, oversaturated colors, strong lens distortion, fisheye, low resolution, blurry details, noisy grain, HUD, UI, readable text, watermark, logo, modern Earth clothing, sneakers, jeans, T-shirt
 ```
+
+---
+### Case 26: ビジュアルノベル キャラクタープロフィール
+
+**出典:** [@iamaiistudio](https://x.com/iamaiistudio/status/2067308176715001944)
+
+**出力:**
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case26/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Visual Novel Character Profile"></a> |
+
+**プロンプト:**
+
+```
+Create a high-quality character introduction page using a chibi illustration and a full standing character artwork, styled like an official visual novel (gal-game) character profile page. It should look realistic enough to use on an actual game website. Include CG-style illustrations, facial expression variants, and a chibi version of the character.
+
+"Self-introduction here"
+
+Name: (name here)
+Theme color: (color here)
+Height: (height here) cm
+Weight: (weight here) kg
+Catchphrase: "(line here)"
+```

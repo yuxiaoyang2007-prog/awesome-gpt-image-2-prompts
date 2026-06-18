@@ -1863,3 +1863,44 @@ Once GPT-Image 2 gives you the first ultra high quality image, upload the rest o
 ```
 Modify this photo so the total adds up to 244.5 baht. Adjust the number of coins in each stack until the combined value hits the target.
 ```
+
+---
+### Case 106: Blueprint vs Render Split Object
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2067202108303311255)
+
+**Output:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case106/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint vs Render Split Object"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case106/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint vs Render Split Object"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case106/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint vs Render Split Object"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case106/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint vs Render Split Object"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Pick any object and slice it in half vertically, the left side rendered as a detailed technical schematic blueprint with grid lines and annotations, the right side as a polished 3D model render, the center seam flickering and glitching where the two visual realities collide.
+```
+
+---
+### Case 107: Pergola Blueprint Build Split
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2067142493389603170)
+
+**Output:**
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case107/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Pergola Blueprint Build Split"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case107/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Pergola Blueprint Build Split"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Architectural split-scene: left side shows a hand-sketched pencil blueprint of a wooden garden pergola on white paper, front and slight side elevation with construction lines, dimension labels, and handwritten notes, posts and crossbeams precisely drafted in a professional hand-sketched technical style. Right side shows the finished pergola fully built in a real garden, photographed from a low front-corner angle at eye level showing the full timber beam depth. Natural wood texture with realistic joints, installed on grass with surrounding plants, soft daylight and grounded shadows. Photorealistic architectural visualization.
+
+Pergola Blueprint Prompt: Hand-drawn architectural pencil sketch of a wooden garden pergola on white paper. Front and slight side elevation view with clear proportions.
+
+Construction lines, dimensions and handwritten notes visible. Wooden posts and cross beams precisely drafted. Professional but hand-sketched technical style. Clean white background.
+
+Finished Pergola: Fully built wooden pergola in a real garden, matching the exact structure and proportions from the sketch. Viewed from a low front corner perspective at eye level, showing depth and the full beam structure instead of a flat elevation. Natural wood texture with realistic joints and connections. Installed on grass with surrounding plants. Soft daylight with grounded shadows. Photorealistic architectural visualization.
+```

@@ -8933,3 +8933,29 @@ Negative prompt: photorealistic, 3D render, glossy, maximalist, overcrowded city
 ```
 A sorrowful Korean psychological drama movie poster depicting a beautiful young woman photographed from a dramatic overhead angle, camera pointing straight down at her face as she gazes upward. Her long dark hair is loosely gathered in an undone bun with loose strands framing her face. Pale complexion, an expression of quiet emotional exhaustion. She is dressed in an oversized burgundy wool sweater, dark grey leggings, and scuffed white sneakers, holding a worn paperback book tightly against her chest. Surrounding her, a busy subway station where commuters stream past in long-exposure motion blur, their figures becoming ghostly streaks of movement against cold grey platform tiles. The contrast between her stillness and their motion creates a powerful sense of solitude. Korean title text at the top reads: "군중 속의 속삭임 (Gunjung Sogui Soksagim - Whispers in the Crowd)". Bold white serif typography fills the center of the composition. Visual style: warm-beige film grade, fine analog grain, shallow depth of field, soft tungsten underground lighting, subtle atmospheric haze, cinematic K-drama mood. Shot on Sony A7R IV, 50mm, slow shutter speed.
 ```
+
+<!-- Case 413: Red Dress Editorial Portrait (by @meng_dagg695) -->
+### Case 413: [Red Dress Editorial Portrait](https://x.com/meng_dagg695/status/2068369080504222141) (by [@meng_dagg695](https://x.com/meng_dagg695))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case413/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Red Dress Editorial Portrait"></a> |
+
+**Prompt:**
+
+```
+Editorial fashion portrait, woman wearing flowing red bell-sleeve wrap dress, dramatic hard rim lighting from camera-left casting golden edge glow on fabric, direct intense eye contact with camera, parted lips, confident expression, wind-blown sleeve fabric captured mid-motion with natural fabric ripple, hair strands lifted by wind, deep saturated red shadows contrasted against warm blown-out gold highlights, asymmetric tight crop with one sleeve extending off-frame, cinematic color grading, high dynamic range, shot on Hasselblad medium format, 85mm lens, f/1.8 shallow depth of field, warm amber gradient backdrop with subtle atmospheric haze and soft lens flare bottom-left corner, skin texture realistic with subtle highlight sheen, professional studio fashion photography, ultra detailed
+```
+
+<!-- Case 414: Golden Halo Fashion Poster (by @Xaroon_x) -->
+### Case 414: [Golden Halo Fashion Poster](https://x.com/Xaroon_x/status/2068359539691532543) (by [@Xaroon_x](https://x.com/Xaroon_x))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case414/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Golden Halo Fashion Poster"></a> |
+
+**Prompt:**
+
+```
+Create a luxury cinematic fashion poster featuring a stylish young male standing in a powerful confident pose, captured from a low-angle perspective. The subject wears a high-end black designer outfit with sharp tailoring, subtle metallic accents, and clean modern silhouette. His expression is calm, confident, and slightly intimidating, with direct eye contact. Hair is perfectly styled with soft volume and natural shine. Behind him is a large glowing circular spotlight in deep gold, creating a halo effect that enhances dominance and focus. The background is minimalist matte black with subtle texture, dust particles, and faint vignette edges to enhance depth. Lighting is dramatic studio-style with strong contrast, highlighting facial structure and clothing details. The composition is symmetrical and centered like a luxury brand advertisement or album cover. Ultra-realistic, 8K detail, 4:5 vertical ratio, high-end editorial aesthetic designed for viral engagement. --ar 4:5 ratio
+```

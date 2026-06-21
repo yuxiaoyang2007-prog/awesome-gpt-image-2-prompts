@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![904 Curated Prompts](https://img.shields.io/badge/Prompts-904_Curated_Cases-111111)](README.md)
+[![911 Curated Prompts](https://img.shields.io/badge/Prompts-911_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -44,7 +44,7 @@
 
 Добро пожаловать в репозиторий **Awesome GPT Image 2 API and Prompts**! 🤗
 
-Это тщательно отобранная коллекция из **904+ качественных промптов GPT-Image-2**, паттернов работы с API и переиспользуемых визуальных workflow для генерации изображений с AI.
+Это тщательно отобранная коллекция из **911+ качественных промптов GPT-Image-2**, паттернов работы с API и переиспользуемых визуальных workflow для генерации изображений с AI.
 
 Если вам нужны примеры промптов GPT-Image-2, лучшие практики text-to-image, техники редактирования изображений или готовые шаблоны промптов, этот репозиторий можно использовать как единый справочник.
 
@@ -1141,7 +1141,7 @@ Minimalist commercial ad featuring oversized Ray-Ban Aviator sunglasses, ultra-c
 
 ## 🍌 Кейсы портретов и фотографии
 
-> **126 отобранных кейсов** — [Все промпты для портретов →](cases/portrait.md)
+> **129 отобранных кейсов** — [Все промпты для портретов →](cases/portrait.md)
 
 <!-- Case 124: Convenience Store Neon Portrait (by @BubbleBrain) -->
 ### Case 124: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
@@ -3455,9 +3455,68 @@ Color grade: Muted cool palette, high contrast. Photorealistic digital art style
 Ultra-realistic photo of a woman seated on stone steps in a vibrant Mediterranean alley with vivid blue-painted walls, stairs, and buildings with white accents. She wears a blue fitted sleeveless top and a long flowing white skirt, barefoot, with a calm relaxed expression and eyes slightly downward. Long wavy hair falls naturally over her shoulders. Strong natural sunlight creates high contrast shadows and saturated colors. Shot from a slightly low front-facing angle with full body framing, sharp focus on subject against a detailed background of blue walls, hanging patterned fabric, small windows, and plants above. Highly saturated blues contrasted with natural white and skin tones, ultra-realistic textures, crisp shadows, realistic depth.
 ```
 
+<!-- Case 310: Toy Camera Balcony Candid (by @iamaiistudio) -->
+### Case 310: [Спонтанный балконный кадр на игрушечную камеру](https://x.com/iamaiistudio/status/2068501129059783072) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case310/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Спонтанный балконный кадр на игрушечную камеру"></a> |
+
+**Промпт:**
+
+```
+A quiet summer morning in a European apartment. A woman sits on the floor next to open balcony doors, absorbed in a book, one leg stretched toward the railing, a cream knitted blanket draped loosely over her lap. She wears a simple orange bralette and delicate jewelry, completely unaware of the camera. A cup of tea and an open book rest on the wooden floor beside her. The balcony overlooks classic European architecture: cream stone facades, wrought-iron railings, flowering balconies, leafy trees.
+
+Photographed from an awkward handheld angle, as if someone walked past the room and snapped a photo without slowing down. The framing is tilted and accidental. The subject is not centered. Parts of the balcony doors, blanket, floor, and foreground objects are cut off by the frame edges.
+
+Captured on a cheap 2000s low-resolution toy digital camera. 0.3-megapixel quality. Heavy motion blur. Intentionally crooked and tilted framing. Harsh pop-up flash despite bright daylight. Overexposed white highlights. Intense digital noise and heavy sensor grain. Low-fidelity faded colors. Chromatic aberration at the edges. Lens flare. Looks like an extremely blurry candid photo uploaded from an old toy camera. Raw and amateurish. Authentic nostalgic texture.
+
+Slight focus miss, motion smear, low-resolution facial details, sensor noise, JPEG artifacts, and compression damage visible across the face — exactly as a cheap toy camera would produce.
+
+Do not preserve modern clarity. Do not protect facial sharpness. The subject remains recognizable despite image degradation. Subject occupies 65% of the frame.
+
+Large foreground obstructions from a partially clipped teacup, book, blanket folds, and balcony door frame. Extreme off-balance composition. Camera not leveled. Subject positioned awkwardly near one edge. Parts of the room, railing, and foreground elements are clipped.
+
+The image should feel like a forgotten candid uploaded to an old social media site in the mid-2000s. Raw, amateurish, imperfect, accidental, nostalgic, unpolished. Captured-memory realism, not aesthetic photography.
+
+Super thick plastic toy-lens softness, motion smear, focus miss, smeared highlights, low-resolution detail loss, heavy JPEG compression, sensor noise, and degraded detail across the face, hair, hands, blanket, books, teacup, balcony, buildings, and sky.
+
+--ar 4:5
+
+Negative prompt: beauty filter, modern smartphone quality, DSLR quality, cinematic grading, HDR photography, professional composition, studio lighting, ultra sharp face, perfect skin, flawless focus, fashion editorial, influencer photo, polished digital rendering, AI perfection, hyper-detailed eyes, premium camera quality, luxury portrait photography
+```
+
+<!-- Case 311: Emerald Headwrap Editorial Portrait (by @bmx_ai13) -->
+### Case 311: [Редакционный портрет в изумрудном тюрбане](https://x.com/bmx_ai13/status/2068462145319444778) (by [@bmx_ai13](https://x.com/bmx_ai13))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case311/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Редакционный портрет в изумрудном тюрбане"></a> |
+
+**Промпт:**
+
+```
+A cinematic close up side profile portrait of a beautiful Black woman with deep glowing skin, eyes closed peacefully, wearing a bold emerald green and black patterned headwrap and matching scarf. Minimal elegant white face paint strokes above the eyebrow and across the cheek, glossy natural lips, small silver earring. Dark muted green studio background with soft atmospheric bokeh, premium fashion editorial lighting, smooth skin texture, dramatic yet calm mood, African inspired beauty portrait, high end magazine cover aesthetic, ultra-realistic photography, shallow depth of field, soft rim light, rich contrast, 85mm lens, f/1.8, 8k detail.
+
+Negative Prompt: text, logo, watermark, extra face paint, messy fabric, distorted face, bad anatomy, harsh shadows, overexposed skin, blurry eyes, plastic skin, low resolution, cartoon, CGI, unrealistic jewelry, extra earrings, deformed nose, asymmetrical lips.
+```
+
+<!-- Case 312: Late-Night Office Flash Portrait (by @iamaiistudio) -->
+### Case 312: [Ночной офисный портрет со вспышкой](https://x.com/iamaiistudio/status/2068395305624871253) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case312/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ночной офисный портрет со вспышкой"></a> |
+
+**Промпт:**
+
+```
+CCD flash photography style, late-night office setting, whiteboard covered in mathematical formulas in the background, black-rimmed glasses, white high-neck top, black high-waisted mini skirt, semi-matte cool-white porcelain skin with realistic skin texture, subject seated at desk, whiteboard marker held close to the lips, slight dutch angle composition, nuyoah aesthetic
+```
+
 ## 🎨 Кейсы постеров и иллюстраций
 
-> **148 отобранных кейсов** — [Все промпты для постеров →](cases/poster.md)
+> **150 отобранных кейсов** — [Все промпты для постеров →](cases/poster.md)
 
 <!-- Case 214: Peacock Botanical Vintage Symmetrical Art Print (by @dotey) -->
 ### Case 214: [Peacock Botanical Vintage Symmetrical Art Print](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
@@ -7616,9 +7675,35 @@ Negative prompt: photorealistic, 3D render, glossy, maximalist, overcrowded city
 A sorrowful Korean psychological drama movie poster depicting a beautiful young woman photographed from a dramatic overhead angle, camera pointing straight down at her face as she gazes upward. Her long dark hair is loosely gathered in an undone bun with loose strands framing her face. Pale complexion, an expression of quiet emotional exhaustion. She is dressed in an oversized burgundy wool sweater, dark grey leggings, and scuffed white sneakers, holding a worn paperback book tightly against her chest. Surrounding her, a busy subway station where commuters stream past in long-exposure motion blur, their figures becoming ghostly streaks of movement against cold grey platform tiles. The contrast between her stillness and their motion creates a powerful sense of solitude. Korean title text at the top reads: "군중 속의 속삭임 (Gunjung Sogui Soksagim - Whispers in the Crowd)". Bold white serif typography fills the center of the composition. Visual style: warm-beige film grade, fine analog grain, shallow depth of field, soft tungsten underground lighting, subtle atmospheric haze, cinematic K-drama mood. Shot on Sony A7R IV, 50mm, slow shutter speed.
 ```
 
+<!-- Case 413: Red Dress Editorial Portrait (by @meng_dagg695) -->
+### Case 413: [Редакционный портрет в красном платье](https://x.com/meng_dagg695/status/2068369080504222141) (by [@meng_dagg695](https://x.com/meng_dagg695))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case413/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Редакционный портрет в красном платье"></a> |
+
+**Промпт:**
+
+```
+Editorial fashion portrait, woman wearing flowing red bell-sleeve wrap dress, dramatic hard rim lighting from camera-left casting golden edge glow on fabric, direct intense eye contact with camera, parted lips, confident expression, wind-blown sleeve fabric captured mid-motion with natural fabric ripple, hair strands lifted by wind, deep saturated red shadows contrasted against warm blown-out gold highlights, asymmetric tight crop with one sleeve extending off-frame, cinematic color grading, high dynamic range, shot on Hasselblad medium format, 85mm lens, f/1.8 shallow depth of field, warm amber gradient backdrop with subtle atmospheric haze and soft lens flare bottom-left corner, skin texture realistic with subtle highlight sheen, professional studio fashion photography, ultra detailed
+```
+
+<!-- Case 414: Golden Halo Fashion Poster (by @Xaroon_x) -->
+### Case 414: [Модный постер с золотым ореолом](https://x.com/Xaroon_x/status/2068359539691532543) (by [@Xaroon_x](https://x.com/Xaroon_x))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case414/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Модный постер с золотым ореолом"></a> |
+
+**Промпт:**
+
+```
+Create a luxury cinematic fashion poster featuring a stylish young male standing in a powerful confident pose, captured from a low-angle perspective. The subject wears a high-end black designer outfit with sharp tailoring, subtle metallic accents, and clean modern silhouette. His expression is calm, confident, and slightly intimidating, with direct eye contact. Hair is perfectly styled with soft volume and natural shine. Behind him is a large glowing circular spotlight in deep gold, creating a halo effect that enhances dominance and focus. The background is minimalist matte black with subtle texture, dust particles, and faint vignette edges to enhance depth. Lighting is dramatic studio-style with strong contrast, highlighting facial structure and clothing details. The composition is symmetrical and centered like a luxury brand advertisement or album cover. Ultra-realistic, 8K detail, 4:5 vertical ratio, high-end editorial aesthetic designed for viral engagement. --ar 4:5 ratio
+```
+
 ## 🧍 Кейсы дизайна персонажей
 
-> **13 отобранных кейсов** — [Все промпты для дизайна персонажей →](cases/character.md)
+> **14 отобранных кейсов** — [Все промпты для дизайна персонажей →](cases/character.md)
 
 <!-- Case 2: Persona5 Character Reference Card (by @iamrednightS) -->
 ### Case 2: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
@@ -8150,6 +8235,19 @@ Ensure complete character and costume consistency across all sections. The Hero 
 
 ```
 Pixar-style 3D animated banana character, single fruit brought to life. A charismatic male figure with bold confident eyes, thick expressive brows, and a wide grin full of gleaming white teeth with sparkle accents. Smooth, slightly glossy yellow peel with soft highlights. Stubby cartoon arms and legs, posed upright with arms crossed in a heroic stance. Background features a blurred bunch of bananas. Standing on a wooden dining table beside a sun-filled window in a cozy modern home interior. Rich vibrant colors, cinematic lighting, soft natural shadows, ultra-detailed high-fidelity textures.
+```
+
+<!-- Case 29: Pastel Kawaii Animal Companions (by @Taaruk_) -->
+### Case 29: [Пастельные кавайные зверята-компаньоны](https://x.com/Taaruk_/status/2068351521016955098) (by [@Taaruk_](https://x.com/Taaruk_))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/character_case29/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Пастельные кавайные зверята-компаньоны"></a> |
+
+**Промпт:**
+
+```
+Cute minimalist pastel doodle illustration, kawaii character standing side-by-side with their adorable animal companion, inspired by modern Japanese stationery art and children's picture books, clean vector linework, soft cream background, muted pastel color palette (pink, blue, mint, lavender, yellow), simple geometric shapes, tiny confetti dots and floating decorative elements, rounded character design with oversized sweater, wide pants, sneakers, glasses, calm expression, animal companion variations including llama, bear, axolotl, rabbit, cat, fox, turtle or fantasy creature, cozy scenic background with seaside boardwalk, lakeside village, mountain town or whimsical nature landscape, flat design, thick outlines, charming and playful aesthetic, symmetrical composition, full body pose, cute friendship theme, highly detailed vector illustration, sticker-like appearance, children's book art style, soft shadows, clean negative space, vibrant yet gentle colors, trending on Pinterest, adorable wholesome atmosphere, 4k, masterpiece.
 ```
 
 ## 📱 Кейсы UI и мокапов для соцсетей
@@ -9617,7 +9715,7 @@ A first-person point-of-view (POV) shot inside a modern supermarket aisle. The v
 
 ## 🧪 Сравнения и примеры сообщества
 
-> **26 отобранных кейсов** — [Все примеры сравнений →](cases/comparison.md)
+> **27 отобранных кейсов** — [Все примеры сравнений →](cases/comparison.md)
 
 <!-- Case 80: Sam Altman Bear Selfie (by @JustinGorya) -->
 ### Case 80: [Sam Altman Bear Selfie](https://x.com/JustinGorya/status/2046510831832006970) (by [@JustinGorya](https://x.com/JustinGorya))
@@ -10725,6 +10823,19 @@ Pergola Blueprint Prompt: Hand-drawn architectural pencil sketch of a wooden gar
 Construction lines, dimensions and handwritten notes visible. Wooden posts and cross beams precisely drafted. Professional but hand-sketched technical style. Clean white background.
 
 Finished Pergola: Fully built wooden pergola in a real garden, matching the exact structure and proportions from the sketch. Viewed from a low front corner perspective at eye level, showing depth and the full beam structure instead of a flat elevation. Natural wood texture with realistic joints and connections. Installed on grass with surrounding plants. Soft daylight with grounded shadows. Photorealistic architectural visualization.
+```
+
+<!-- Case 108: Weightless Morning Storyboard (by @DrSadek_) -->
+### Case 108: [Раскадровка невесомого утра](https://x.com/DrSadek_/status/2068438789236699582) (by [@DrSadek_](https://x.com/DrSadek_))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case108/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Раскадровка невесомого утра"></a> |
+
+**Промпт:**
+
+```
+A cinematic 6-panel storyboard sheet on a clean dark charcoal background, arranged in a 3-column by 2-row grid of widescreen 16:9 panels with thin neutral gray borders and a small white number label in the top-left corner of each panel. Photorealistic film stills, naturalistic dawn lighting, shallow depth of field, natural skin texture with subtle imperfections, candid composition, muted naturalistic color grade. Unifying concept: an ordinary morning where gravity has quietly stopped working — everyday objects and people drifting weightlessly. Panel 1: a bedroom at dawn, soft blue light, a sleeping person and their duvet drifting an inch above the mattress, dust motes hanging perfectly still in the air. Panel 2: a kitchen close-up, dark coffee pouring upward out of a white mug in a slow liquid ribbon, steam curling downward toward the counter. Panel 3: a bathroom, a toothbrush hovering mid-air with a pearl-like blob of toothpaste suspended beside it, scattered water droplets frozen around a reaching hand. Panel 4: a breakfast table, cereal pieces and milk orbiting a bowl in a lazy floating halo, a single spoon chasing one drifting cereal O. Panel 5: an entryway, keys, coins and a wallet frozen in a constellation above a doormat, a hand sweeping slowly through them. Panel 6: a front door swinging open onto an ordinary busy street below, a person floating out unbothered while sipping from an upside-down coffee cup. Each panel a distinct camera framing, photoreal textures. Small white label text — EXACT TEXT: '1','2','3','4','5','6' — one number per panel, no extra text, no duplicate text.
 ```
 
 ## 🤝 Как внести вклад

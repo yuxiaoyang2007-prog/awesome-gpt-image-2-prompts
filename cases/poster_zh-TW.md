@@ -1805,7 +1805,7 @@ infográfico ASCII DENGUE
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case184/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 GPT Image 2 + Kling = 🔥 This was done for Tokyo.
@@ -1820,7 +1820,7 @@ GPT Image 2 + Kling = 🔥 This was done for Tokyo.
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case185/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 A cozy restaurant table filled with a vibrant Taiwanese meal, shot in warm natural lighting. A large bowl of braised beef noodle soup with wide noodles, tender beef chunks, bok choy, and green onions sits in the foreground. Surrounding dishes include a bowl of rice topped with raw egg yolk, seaweed, kimchi, and chopped vegetables; a plate of Taiwanese fried chicken and tofu with greens; stir-fried water spinach with garlic; and a small dish of marinated vegetables. A tall elegant glass dessert with shrimp salad layered inside stands in the center. Wooden table surface, ceramic bowls, and a teapot in the background create a homely aesthetic. Handwritten-style Chinese text annotations and doodles are scattered around the dishes, adding a playful, lifestyle-blog feel. Soft depth of field, warm tones, high detail, food photography style.
@@ -1833,7 +1833,7 @@ A cozy restaurant table filled with a vibrant Taiwanese meal, shot in warm natur
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case186/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 I asked GPT Image 2 to spill the beans on alien life.
@@ -1884,7 +1884,7 @@ Output: One high-detail declassified dossier poster as a single finished image.
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case187/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 A premium fast food advertisement poster with a cinematic composition and a clean white textured background with soft grey shading for depth.
@@ -1934,7 +1934,7 @@ Ultra-realistic, 8K food photography, commercial advertising, sharp focus, drama
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case188/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Created by using GPT Image 2.
@@ -1973,7 +1973,7 @@ elegant serif + modern script combination
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case189/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Create a high-end fitness boxing poster in a 3-panel collage layout.
@@ -3411,7 +3411,7 @@ repetitive placements
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case250/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Hand-Torn Editorial Collage"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Transform the attached image into a collage artwork. Make it appear as if hand-torn from newspapers, magazines, and flyers and pasted. Every single expression should be completed using large, torn pieces of paper. Represent in detail the torn edges, wrinkles, overlaps, and glue marks on the paper. Use relatively large pieces of paper, not too small, and place them randomly at different angles and directions, with the paper orientation rotated haphazardly. Create it to look like an actual collage roughly hand-pasted by a person.
@@ -3425,7 +3425,7 @@ Transform the attached image into a collage artwork. Make it appear as if hand-t
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case251/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Glowing Sailboat Night Illustration"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 A luminous sailboat, outlined in glowing golden light, floats serenely on dark, rippling water under a starry night sky. The sails, translucent and faintly blue, catch the ethereal light, while the hull is a solid, dark silhouette. Numerous tiny, twinkling golden stars are scattered across the black expanse above, and a crescent moon hangs softly to the right. Lush, vibrant green reeds and grasses sprout from smooth, grey stones in the foreground, their tips adorned with delicate, glowing golden florets. The water reflects the golden outline of the sailboat, creating a shimmering, warm glow that contrasts with the cool, deep darkness of the night. The scene is composed with a slightly low angle, emphasizing the majestic presence of the sailboat against the vastness of the night. The overall atmosphere is magical, tranquil, and dreamlike, evoking a sense of peaceful adventure and celestial wonder. The style is reminiscent of digital fantasy art with glowing neon accents.
@@ -3439,7 +3439,7 @@ A luminous sailboat, outlined in glowing golden light, floats serenely on dark, 
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case252/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Istanbul Line-Art Travel Poster"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Create a minimalist ultra-high-resolution travel poster in line-art style for ISTANBUL, portraying the city as a stylish everyday urban scene rather than a tourist postcard.
@@ -3543,7 +3543,7 @@ Museum-quality graphic design composition
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case253/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dark Western Outlaw Poster"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 高级电影感西部亡命徒海报，竖版 2:3 构图，暗黑西部游戏角色设定海报风格。
@@ -3565,7 +3565,7 @@ Museum-quality graphic design composition
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case254/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anime Streetwear Mascot Poster"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Stylized anime streetwear brand poster of a fast-food mascot character, full-body dynamic pose, highly detailed manga/anime illustration, modern urban fashion outfit inspired by the restaurant brand colors and identity, oversized hoodie, tactical straps, sneakers, chains, branded accessories, holding signature food item, bold graphic typography, editorial magazine layout, Japanese text elements, logos, promotional stickers, menu-style side panels, grunge textures, paint splashes, distressed paper background, collectible poster aesthetic, cyber street fashion meets commercial advertising, vibrant red/orange/black/white color palette, dramatic lighting, ultra detailed line art, cel-shaded anime rendering, energetic composition, high contrast, trendy hypebeast vibe, futuristic fast-food campaign art, iconic mascot redesign, layered collage graphics, branding everywhere on clothing and background, premium anime poster quality, vertical composition, sharp shadows, dynamic perspective, stylish and playful attitude.
@@ -3579,7 +3579,7 @@ Stylized anime streetwear brand poster of a fast-food mascot character, full-bod
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case255/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Wildlife Infographic Reference Poster"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 .
@@ -3622,7 +3622,7 @@ Ultra-realistic, 8K, cinematic infographic masterpiece, insanely detailed, premi
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case256/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ancient Civilization Miniature Diorama"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 A highly detailed miniature diorama of an ancient civilization under construction, displayed directly on top of large rolled-out architectural blueprints spread across a realistic wooden drafting table. The scene features iconic historical architecture from [CIVILIZATION OR LOCATION], including partially completed monuments, temples, towers, walls, palaces, streets, or ceremonial structures at different stages of construction. Tiny craftsmen, builders, engineers, and workers interact naturally throughout the scene using historically accurate tools, scaffolding, ramps, cranes, carts, stone blocks, timber frameworks, and construction platforms.
@@ -3638,7 +3638,7 @@ Soft cinematic lighting with warm natural sunlight from a nearby window, shallow
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case257/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Fashion Collage Poster"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Cinematic vertical collage featuring a Japanese woman in elegant fashion captured during golden sunset. Background composed of warm-toned rounded storyboard frames arranged diagonally, each showing soft monochrome motion scenes—running fingers through hair, walking on bridge, looking at skyline, soft smile in wind. The main subject is in rich color with glowing sunset highlights, wearing flowing rust-orange designer dress with natural fabric movement. Emotional storytelling mood, romantic cinematic tone, high-end fashion editorial poster style.
@@ -3652,7 +3652,7 @@ Cinematic vertical collage featuring a Japanese woman in elegant fashion capture
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case258/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bangkok Swiss Typography Poster"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Create an ultra-high-resolution Swiss modernist typography travel poster for BANGKOK THAILAND in a premium 16:9 layout.
@@ -3778,7 +3778,7 @@ Ultra-detailed 8K vector-style rendering, ultra sharp print-ready quality, high-
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case259/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Miniature Travel World Poster"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 A cinematic hyper-detailed miniature travel diorama resting inside an open human palm, themed around [CITY/COUNTRY NAME] tourism and travel. A realistic passport and official travel visa card stand upright in the center of a tiny landscape inspired by the destination, surrounded by miniature travelers with luggage, scattered suitcases, local vegetation, iconic cultural elements, and detailed environmental textures matching the location. In the background, the famous skyline and landmark architecture of [CITY/COUNTRY NAME] rise softly with atmospheric depth, while the national flag waves beside the documents. A commercial airplane flies overhead in a bright blue sky with soft clouds. Ultra-realistic textures, shallow depth of field, warm sunlight, soft cinematic shadows, macro photography style, tilt-shift miniature effect, vibrant tourism atmosphere, highly detailed handcrafted diorama aesthetic, realistic skin texture on the hand, premium travel advertisement look --ar 1:1
@@ -3792,7 +3792,7 @@ A cinematic hyper-detailed miniature travel diorama resting inside an open human
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case260/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Graffiti Portrait"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Design a high-detail portrait poster in a bold Japanese graffiti-inspired art style that fuses modern urban street aesthetics with expressive Japanese visual culture. Pack the poster with dynamic graffiti typography, layered spray-paint textures, hand-drawn motifs, abstract paint splashes, neon brush strokes, urban sticker elements, Japanese calligraphy accents, and decorative ornaments that amplify the energetic mood. Keep the overall composition artistic, rebellious, fashionable, and visually striking, yet still polished to premium editorial poster quality, never messy or overdone. The subject should NOT copy the exact pose or expression from any reference image. Instead, invent an entirely new pose that feels natural, confident, and alive. The expression should read as emotionally expressive, charismatic, and engaging, never stiff, awkward, flat, or blank. The pose should carry the elegance and sophistication of an international fashion model, with stylish posture, natural movement, and a subtle attitude that elevates the cinematic fashion vibe. The outfit must be contemporary, stylish, casual fashion with strong visual appeal. Skip plain or repetitive clothing. Lean into fashionable layering, modern streetwear inspiration, premium casual styling, and a balanced mix of colors, patterns, textures, and fabrics for a rich, non-monotonous look. The clothing should feel trendy, fashionable, youthful, and visually premium, while still belonging inside the Japanese graffiti poster concept. Fill the background and poster decorations with thematic urban Japanese-inspired elements: graffiti walls, spray textures, painted symbols, urban signage, layered stickers, modern Japanese graphic motifs, abstract shapes, paint drips, street fashion aesthetics, and stylish decorative compositions that deepen the artistic intensity without distracting from the subject. Lighting should feel cinematic and fashionable, with strong contrast, clean highlights, realistic skin texture, and high-end editorial poster quality. The final result must look like a premium modern street-fashion campaign poster, with highly detailed textures, balanced composition, vibrant color harmony, realistic proportions, ultra-sharp focus, and immersive visual storytelling. Ultra-detailed, highly aesthetic, premium composition, realistic texture rendering, fashionable urban atmosphere, cinematic quality, poster-ready design, 8K ultra high resolution. #AIart #GPTImage2
@@ -3806,7 +3806,7 @@ Design a high-detail portrait poster in a bold Japanese graffiti-inspired art st
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case261/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Playlist Mood Album Cover"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Create an album cover inspired by this playlist: [playlist], translating its mood into colors, textures, objects, and cinematic composition, with no artist names. https://t.co/t1efbQ9sgP
@@ -3820,7 +3820,7 @@ Create an album cover inspired by this playlist: [playlist], translating its moo
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case262/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Play-Doh City Editorial"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Create an ultra-charming 3:4 editorial illustration of a five-year-old child sitting at a cozy craft table, happily building a handmade Play-Doh miniature [City Name]. The entire world must clearly look sculpted by a real child using colorful Play-Doh clay - soft rounded shapes, uneven geometry, tiny fingerprints, squished textures, slightly crooked buildings, playful proportions, imperfect symmetry, and adorable handcrafted charm. The miniature city should include recognizable landmarks, bridges, rivers, cafés, food stalls, apartment buildings, parks, trains, buses, tiny clay people, trees, clouds, and playful neighborhood scenes. Dense with delightful micro-details while remaining organized and cozy. The child should feel authentic and natural, wearing casual everyday clothing with a curious, proud expression. Avoid stereotypes or costume-like styling. Visual style: premium children’s editorial illustration, soft claymation-inspired rendering, miniature diorama photography mood, whimsical storytelling, high-end family travel magazine aesthetic, ultra detailed, handcrafted warmth. Lighting & color: bright neutral daylight, soft diffused natural indoor lighting, airy Scandinavian editorial mood, crisp whites, fresh pastel Play-Doh palette, slightly cool-neutral white balance, clean highlights, luminous soft shadows. Avoid yellow tint, orange cast, sepia tone, moody cinematic lighting, neon oversaturation, or dark shadows. The city must feel genuinely handmade by a talented five-year-old - playful, imperfect, emotional, and imaginative, never like professional miniature modeling or hyperreal sculpture. No fake text, logos, watermarks, AI artifacts, hyperreal architecture, or over-polished miniature aesthetics. Bottom-right corner: small handwritten white crayon sentence: Let’s play in [City Name] The handwriting should feel naturally childlike, cute, uneven, and readable.
@@ -3834,7 +3834,7 @@ Create an ultra-charming 3:4 editorial illustration of a five-year-old child sit
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case263/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Liquid Art Poster"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 A mesmerizing and explosively colorful vertical poster featuring giant 3D liquid fluid sculpture forms, enormous glossy morphing blob shapes in vivid electric colors — a massive melting form in hot magenta pink flowing and dripping downward, intersecting with a giant swirling wave of electric cobalt blue, a third liquid mass in neon lime green curling upward like a breaking ocean wave, all three liquid forms colliding at the center in a spectacular splash explosion with hundreds of flying colorful droplets frozen mid-air, each liquid surface rendered with a perfect mirror-glossy finish reflecting the surrounding colors in dazzling distorted highlights, the background a clean bright white making the vivid color explosions pop with maximum visual impact, smaller floating 3D geometric shapes — spheres cubes and diamonds — in candy yellow coral orange and violet orbiting the main liquid forms, bold heavy rounded white typography outlined in black at the top reading "LET IT FLOW" in massive bouncy letters, smaller subtitle below "Create without limits", tiny spark and splash symbols scattered as accents, ultra-saturated maximum color impact, premium 3D render quality, 9:16 vertical ratio
@@ -3848,7 +3848,7 @@ A mesmerizing and explosively colorful vertical poster featuring giant 3D liquid
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case264/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Isometric Travel Poster"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Design a vertical retro mid-century travel poster of [CITY NAME] showcasing [LANDMARK]. Stick to a tight 3-color scheme: cream-toned paper background, black technical line drawing, plus one [COLOR] accent. Aesthetic: minimalist isometric top-down aerial perspective with very fine cross-hatching and silkscreen print grain. Color rules: fill the entire sky in flat solid [COLOR], add small [COLOR] touches on rooftops or street details. Zero gradients allowed. Typography: large bold sans-serif "[CITY NAME]" at the top in cream, with the city's name in its native language set smaller in cream beneath it. #AIart #GPTImage2
@@ -3862,7 +3862,7 @@ Design a vertical retro mid-century travel poster of [CITY NAME] showcasing [LAN
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case265/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Travel Postage Stamp"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Vintage travel postage stamp design featuring [CITY / COUNTRY], ultra-detailed illustrated souvenir stamp, elegant art deco typography spelling “[NAME]” across the center in large ornate serif letters, iconic landmarks and skyline of [PLACE], traditional cultural architecture, scenic local elements, palm trees / boats / streets / mountains depending on location, warm cinematic lighting, soft pastel sky, retro airmail aesthetics, aged paper texture, engraved print style, luxurious vintage tourism poster feel, intricate ornamental borders, postal cancellation mark with local language and English text, “3.50 AED” denomination, symmetrical composition, highly detailed linework, muted [COLOR PALETTE] color scheme, nostalgic philatelic artwork, premium collectible stamp aesthetic, realistic shading, textured ink print, retro travel poster style, 4k illustration, highly detailed vintage engraving.
@@ -3876,7 +3876,7 @@ Vintage travel postage stamp design featuring [CITY / COUNTRY], ultra-detailed i
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case266/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Paper Collage Set"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Aesthetic vintage paper collage portrait of a stylish woman taking a mirror selfie, made entirely from torn magazine and newspaper pieces, layered mixed-media artwork, neutral beige and brown tones, Vogue-inspired fashion editorial style, black sunglasses, sleek ponytail hairstyle, white corset top, silver jewelry, purple smartphone, textured ripped paper edges, handcrafted mosaic effect, realistic shadows and depth, chic typography cutouts, inspirational quotes scattered around, cozy luxury aesthetic, highly detailed analog collage art, soft warm lighting, Instagram moodboard vibe, premium editorial composition, ultra detailed, 4k Prompt : Vintage breakfast aesthetic collage made from torn magazine and newspaper clippings, artistic mixed-media paper mosaic style, croissants on a plate with jam, black coffee in a dark cup, fresh fruits and berries, butter dish with knife, café table atmosphere, dark green textured background, ripped paper layers with visible cracks and folds, lifestyle editorial typography, cozy European café vibe, warm earthy tones, handcrafted scrapbook look, realistic paper texture, aesthetic Pinterest moodboard composition, soft cinematic lighting, luxury brunch aesthetic, ultra detailed, high realism, 4k collage art style
@@ -3890,7 +3890,7 @@ Aesthetic vintage paper collage portrait of a stylish woman taking a mirror self
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case267/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cubist Kawaii Vector Portrait"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Create a cute neo-expressionist cubist minimal vector portrait illustration, Picasso meets kawaii minimalism, inspired by stylized fashion editorials and playful modern art. Ultra-simplified exaggerated facial features with oversized abstract eyes, flat cartoon eye shapes, minimal black dots or single curved strokes, no realistic iris details, no eyelashes, extremely reduced facial detail. Tiny abstract nose drawn with one short angular line.￼ Small single-stroke lips, tiny soft geometric mouth shape, minimal expression marks, no realistic mouth anatomy. Rounded cheeks, dreamy innocent expression, playful asymmetrical proportions, elongated elegant neck, simplified geometric facial planes, stylized angular hair shapes, subtle caricature aesthetics, childlike artistic distortion.￼ Use clean scalable vector shapes, flat color blocking, bold primitive contour lines, sharp Bézier curves, abstract polygon composition, minimal linework, naive handmade drawing quality, expressive empty space, icon-like facial abstraction, no realistic rendering, 2D primitive facial symbols. Add subtle oil pastel grain overlays, rough handmade brush accents, raw scribbled handwritten marks, visible pigment texture, silkscreen poster feeling.￼ Vibrant limited color palette against deep matte black background. Luxury editorial gallery poster composition, contemporary fashion illustration, artsy modern cubist poster, stylish and adorable, premium print-ready vector artwork.￼
@@ -3904,7 +3904,7 @@ Create a cute neo-expressionist cubist minimal vector portrait illustration, Pic
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case268/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Trash Polka Headphones Portrait"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 ​A high-detail digital painting of a young woman wearing large, vibrant red over-ear headphones, looking directly at the viewer with a piercing gaze. The art style is a fusion of stylized realism and urban abstract expressionism. Her hair is messy, light brown/blonde with loose strands and sharp, geometric shards integrated into the locks. The composition features heavy ink splatters, paint drips, and chaotic red and black brushstrokes reminiscent of 'trash polka' art.￼ The background is a clean, minimalist off-white, making the bold red accents and fine linework pop. High contrast, sharp focus on the eyes, cinematic lighting, 8k resolution, trendy street art aesthetic. ​Key Technical Elements to Capture ​Color Palette: Dominated by Red, Black, and White. This high-contrast triad is essential for that aggressive, modern look. ​Artistic Influence: Mentioning "Trash Polka" or "Ink Drip Art" helps the AI understand the messy, splatter-heavy background and the "shattered" look of the hair. ​Character Features: Use terms like "piercing gaze" and "stylized realism" to ensure the face isn't too cartoonish or too photographic, hitting that perfect "concept art" middle ground. ​Graphic Elements: The image uses geometric shards and abstract textures overlapping the subject, which creates a sense of depth and digital glitchiness. Aspect ratio is 9:16
@@ -3918,7 +3918,7 @@ Create a cute neo-expressionist cubist minimal vector portrait illustration, Pic
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case269/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Typography Travel Poster"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury editorial destination advertising fused with realistic sculptural letterform architecture. The city name “[CITY]” must be the dominant subject, occupying most of the canvas. Build the letters as large, realistic, three-dimensional sculptural forms made from glossy painted material, polished ceramic, soft plaster, carved stone, sunlit architectural surfaces, or city-adaptive materials. Each letter should physically transform into the city’s identity: landmarks, skyline silhouettes, arches, towers, domes, bridges, windows, balconies, cultural patterns, coastal forms, or street details must grow directly out of the letterforms. Landmarks should feel architecturally integrated, not pasted behind or around the word. A tower may rise from a vertical stem, a bridge may connect two letters, a dome may form the curve of a rounded letter, rooftops may shape the top edges, and windows or ornamental details may be embedded into the letter faces. Use a low-angle three-quarter camera view so the typography feels monumental, cinematic, premium, and friendly. Place the 3D city-name sculpture slightly low in the frame, filling the central and lower portions of the poster, with generous negative space above. At the top header, add a refined horizontal row of faded landmark symbols related to the city: tiny vector icons, or translucent architectural glyphs. Keep them very soft, elegant, and secondary, like premium magazine header details. Add each landmark name below its icon. Keep all faded and premium. Remove any visible sun from the top-left corner. Use bright natural daylight with a soft key light from the upper-left, gentle fill light, clean highlights, subtle ambient occlusion, and soft contact shadows beneath the letters. The lighting should feel cheerful, fresh, and editorial, not dark or overly cinematic. Use a bright city-adaptive palette based on [CITY]: coastal cities use aqua, coral, cream, and sunny yellow; historic cities use warm stone, terracotta, olive, and soft sky blue; tropical cities use turquoise, mango, palm green, and white; mountain cities use alpine blue, meadow green, snow white, and golden warmth; nightlife cities use violet, cyan, peach, and amber. Keep colors clean, optimistic, premium, and controlled. Add subtle editorial text elements to improve the poster: small uppercase header text such as “DESTINATION SERIES”, a tiny location code like “CITY / 01”, delicate vertical divider lines, a minimal footer line such as “VISIT [CITY]”, and small microtype coordinates or issue number near the bottom edge. These text elements must remain quiet and secondary so the large 3D city name stays the hero. Background should be clean and spacious with a soft sky gradient, delicate clouds, or abstract color field only. Do not place extra landmarks in the background; all major city identity must come from the typography itself, except the faded symbolic header row. Style: premium editorial travel advertising, luxury magazine cover, realistic 3D typographic sculpture, bright modern optimism, cheerful wanderlust, cultural identity, clean art direction. Negative prompt: avoid generic travel posters, separate landmark collages, landmarks pasted behind text, flat typography, cluttered backgrounds, visible sun in the top-left corner, excessive icons, dark cinematic lighting, muddy colors, cheap souvenir aesthetics, unreadable city name, distorted letters, random gradients, noisy textures, stock-template layouts, and overdecorated tourist graphics.
@@ -3931,7 +3931,7 @@ Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury 
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case270/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 泳装时尚杂志广告页面，4:3 ，日本模特， S型曲线，【颜色】色系。（变换姿势和风格，四宫格展示）
@@ -3944,7 +3944,7 @@ Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury 
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case271/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 A stylized black-and-white pencil ink caricature portrait sheet featuring two distinct charismatic characters with contrasting face shapes and expressions. Drawn in a loose sketchbook style with visible construction lines, rough pencil strokes, expressive exaggerated facial proportions, modern caricature illustration aesthetic.
@@ -3963,7 +3963,7 @@ Minimal shading, thin crosshatching, clean line art, monochrome aesthetic, white
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case272/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 一位成年东方幻想系女性角色，梦幻星河仙女风，3D CG 高精度插画质感，9:16 竖版构图，画面充满全息星河、流光粒子、银河丝带与柔雾光晕。
@@ -3998,7 +3998,7 @@ dreamy fantasy girl, celestial goddess, galaxy dress, holographic starlight, sof
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case273/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 A stylish illustrated character profile sheet of a handsome young man sketchbook aesthetic, mixed media ink and watercolor style, highly detailed fashion portrait, messy dark curly hair, sharp blue eyes, short beard, confident expression, wearing a long black trench coat, dark casual clothes, brown leather backpack, rugged boots.
@@ -4015,7 +4015,7 @@ Modern concept art meets fashion illustration, dynamic ink strokes, expressive l
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case274/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Create an ultra-realistic luxury fashion moodboard poster in a premium Korean editorial magazine style. A beautiful young woman stands elegantly in the center wearing a flowing ivory floral chiffon maxi dress with layered translucent fabric, tiny embroidered flowers, delicate lace trims, and soft movement in the fabric. Over it she wears a textured handmade mustard crochet cardigan with oversized sleeves and cozy vintage stitching details. She has long voluminous dark wavy hair with soft curtain bangs, glowing radiant skin, glossy peach makeup, subtle freckles, soft shimmer eyelids, glossy nude lips, and delicate gold jewelry including layered necklaces, pearl rings, and slim bracelets. She wears elegant cream lace-up heels and carries a handcrafted crochet tote bag decorated with sunflower charms, daisy patches, mini ribbons, tiny plush keychains, and aesthetic beads.
@@ -4067,7 +4067,7 @@ Overall aesthetic: warm, feminine, luxurious, ultra detailed, realistic photogra
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case275/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Create a dreamy handcrafted ( CITY)travel journal illustration, as if painted in an artist’s personal sketchbook while traveling through (COUNTRY )
@@ -4090,7 +4090,7 @@ COLOR PALETTE: soft ocean blue dusty aqua muted sand beige faded coral warm crea
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case276/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Photorealistic interior render, ultra-luxury industrial football war room and man cave, wide vertical 9:16. Borussia Dortmund signal yellow and black palette throughout.
@@ -4129,7 +4129,7 @@ Atmosphere: raw industrial power, signal yellow burning against matte black, ste
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case277/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Cute kawaii-style lifestyle photography, adorable chibi-inspired Muslim characters with soft rounded faces and blush cheeks, pastel aesthetic cafe environment, cozy playful atmosphere, ultra soft lighting, handmade paper-cutout illustration effect mixed with realistic photography, pastel blue, cream, pink, and beige color palette, whimsical interior design, toy-store aesthetic, cozy Korean cafe vibes, oversized cute props like giant ice cream decorations and pastel foam blocks, soft textured surfaces, minimal shadows, dreamy mood, wholesome friendship energy, aesthetic Instagram composition, highly detailed clothing fabrics, modest fashion with hijab styling, cute cartoon proportions, cozy storytelling scene, soft matte textures, handcrafted diorama look, warm emotional atmosphere, clean composition, adorable character expressions, Japanese kawaii aesthetic mixed with modern lifestyle photography, ultra detailed, playful and comforting vibe, Pinterest trending style, soft focus depth of field, pastel cinematic color grading, 8k.
@@ -4143,7 +4143,7 @@ Scene Variations:
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case278/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Vintage watercolor travel poster of Marrakech, Morocco with a warm beige textured background. Top features ornate Islamic geometric motif, text 'WELCOME TO MARRAKECH' in large serif terracotta font, subtitle 'WHERE TRADITION INSPIRES EVERY JOURNEY' with decorative diamond dividers.
@@ -4161,7 +4161,7 @@ Bottom center has a palm tree icon with text 'MOROCCO' and small decorative moti
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case279/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Generate a retro travel poster collage style main visual for "[Country Name] TRAVEL POSTERS".
@@ -4268,7 +4268,7 @@ museum poster quality.
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case280/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 [CITY] = Seoul
@@ -4365,7 +4365,7 @@ Creator: @hermes_agent_kr on Threads
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case281/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 使用上传的第一张图作为【整体风格与版式参考】，使用上传的第二张图作为【人物身份参考】。
@@ -4435,7 +4435,7 @@ S M T W T F S
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case282/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 让GPT根据历史聊天记录
@@ -4492,7 +4492,7 @@ GPT Image 2提示词分享👇
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case283/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 一位成年东方幻想系女性角色，梦幻唯美 3D CG 高精度渲染风格，9:16 竖版构图，坐在一架黑色三角钢琴前安静弹奏钢琴。画面氛围像高级幻想电影海报，柔和、浪漫、空灵、精致。
@@ -4514,7 +4514,7 @@ GPT Image 2提示词分享👇
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case284/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 尝试一个固定模式的 gpt image 2  提示词结构,一个近景，一个中景
@@ -4540,7 +4540,7 @@ GPT Image 2提示词分享👇
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case285/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Create a premium 9:16 hyper-realistic travel-poster of [COUNTRY NAME] in the same style as a luxury editorial miniature-map diorama: show the country as a recognizable floating island map with dramatic cliff edges, crystal-clear water, soft clouds, and a pure white  background. Use a clean, elegant poster layout with large culturally appropriate typography for “[COUNTRY NAME]” at the top, using a font style inspired by the country’s identity, history, script, or visual culture, plus a short refi
@@ -4552,7 +4552,7 @@ Create a premium 9:16 hyper-realistic travel-poster of [COUNTRY NAME] in the sam
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case286/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Vintage monochrome city travel poster illustration, detailed urban sketch aesthetic, clean architectural line art mixed with soft watercolor shading, modern Southeast Asian city atmosphere, minimalist green-and-cream color palette, elegant travel poster typography, large bold city name at the top, bilingual typography with Asian characters, highly detailed street life scene, busy urban crossroads, flyovers, buses, motorcycles, cafes, local restaurants, pedestrians crossing streets, shopping mall
@@ -4564,7 +4564,7 @@ Vintage monochrome city travel poster illustration, detailed urban sketch aesthe
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case287/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Create a sophisticated flat-vector editorial pattern illustration of [Melbourne], composed as a seamless lifestyle-art collage combining iconic landmarks, local culture, vacation scenes, and symbolic city objects.
@@ -4576,7 +4576,7 @@ Create a sophisticated flat-vector editorial pattern illustration of [Melbourne]
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case288/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Create a 16:9 character concept sheet for a celestial voyager in an epic cinematic sci-fi fantasy aesthetic.
@@ -4588,7 +4588,7 @@ Create a 16:9 character concept sheet for a celestial voyager in an epic cinemat
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case289/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 “Create a Pixar 3D style character design sheet. Clean white background. Two characters side by side with a clean dividing line. Bold brushstroke-style title at the top: CHAD VS THE GYM MIRROR. Subtitle beneath: One way mirror. One audience. Zero awareness.
@@ -4603,7 +4603,7 @@ Hero portrait — Chad isolated on clean white. No background. Pixar 3D man, lat
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case290/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Vintage mixed-media travel collage poster, portrait orientation, themed around [COUNTRY].
@@ -4615,7 +4615,7 @@ Vintage mixed-media travel collage poster, portrait orientation, themed around [
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case291/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Create an ultra-premium editorial travel infographic poster about FRANCE in a clean vertical 3:4 ratio.
@@ -4627,7 +4627,7 @@ Create an ultra-premium editorial travel infographic poster about FRANCE in a cl
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case292/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 for GPT-2:
@@ -4764,7 +4764,7 @@ INPUT: [DOMAIN OR CATEGORY]  SYSTEM: Generate a 2×2 luxury poster series transl
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case298/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Football Player Dynamic Poster"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 A dynamic mixed-media football poster featuring James Rodríguez in Colombia’s national team colors, designed with a bold street-art editorial aesthetic. The composition blends realistic sports photography with layered urban graphic design elements. Background features a gritty city basketball-court wall covered in oversized graffiti murals, torn posters, paint drips, neon spray textures, stickers, marker tags, and distressed concrete textures in yellow, blue, and red tones. James stands in an explosive action pose controlling the ball mid-motion, illuminated by dramatic cinematic lighting and colorful urban reflections. Typography: massive hand-painted graffiti lettering reading “JAMES RODRÍGUEZ” integrated diagonally across the composition with rough brush textures and paint splatter overlap. Add layered halftone dots, motion streaks, comic-book speed effects, urban doodles, ripped-paper collage textures, and bold geometric accents. Style feels like a fusion of Nike World Cup campaign visuals, Hypebeast editorial design, Latin American street culture, and modern football social-media posters. High contrast, energetic, rebellious, chaotic but premium composition. Ultra-detailed 4K digital artwork, trendy sports poster aesthetic, vibrant urban color grading.
@@ -4777,7 +4777,7 @@ A dynamic mixed-media football poster featuring James Rodríguez in Colombia’s
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case299/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Travel Food Advertisement Poster"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vertical composition, inspired by luxury Lay’s-style chips advertising. A realistic chips packet placed at the bottom center as the main hero object, matching the exact premium commercial layout of a floating chips campaign.
@@ -4790,7 +4790,7 @@ Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vert
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case300/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Watercolor Travel Poster"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Minimalist vintage travel poster in delicate watercolor and ink sketch style, elegant European travel illustration, soft neutral tones on textured ivory paper background, hand-painted cityscape with loose watercolor washes, fine architectural pen linework, cozy café storefronts, bicycles, cobblestone streets, flower-filled balconies, classic street lamps, soft atmospheric perspective, cinematic morning light, dreamy travel journal aesthetic, sophisticated typography layout with large serif country/city title at the top, handwritten subtitle and poetic tagline, small passport-style stamps, elegant editorial composition, airy negative space, timeless travel magazine design.
@@ -4804,7 +4804,7 @@ Scene variations: • London  rainy streets, red double-decker bus, black taxi, 
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case301/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Retro Cafe Scrapbook Poster"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Whimsical retro cafe scrapbook poster, dreamy pistachio rose latte aesthetic, layered iced pistachio drink with rose cream foam and milk gradients, ultra-realistic beverage photography blended with hand-drawn journal doodles, soft watercolor marker sketches, playful handwritten cafe notes, tiny arrows and ingredient callouts, sticker-book collage composition, pastel stationery aesthetic, cozy Korean cafe moodboard style, textured paper scraps and washi tape layers, sparkles, bows, cherries, and tiny floral doodles surrounding the drink, trendy Pinterest-inspired cafe branding, warm natural window lighting, creamy foam textures with realistic condensation droplets, rich pistachio green paired with blush pink and cream tones, detailed ice cubes and glass reflections, modern Gen Z dessert-shop aesthetic, artistic flatlay composition with cute props like mini spoons, cookies, flowers, and polaroid snapshots, editorial social-media-ready food poster vibe, ultra detailed, soft dreamy color palette, stylish lifestyle cafe photography.
@@ -4817,7 +4817,7 @@ Whimsical retro cafe scrapbook poster, dreamy pistachio rose latte aesthetic, la
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case302/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Blueberry Lavender Soda Scrapbook Poster"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Vintage-inspired blueberry lavender soda scrapbook poster, dreamy artisanal cafe advertisement aesthetic, sparkling layered blueberry soda with lavender cream foam and translucent ice cubes, ultra-realistic beverage photography blended with playful hand-drawn doodles and pastel marker sketches, fizzy carbonation bubbles visible through the glass, soft purple-to-blue gradient drink tones with creamy white foam top, whimsical handwritten cafe notes and tiny ingredient arrows, sticker-book collage layout with torn paper textures and washi tape accents, cozy Korean dessert cafe moodboard style, delicate lavender flower doodles, bows, stars, tiny moons, blueberries, and sparkles surrounding the drink, textured notebook paper scraps layered organically across the composition, trendy Pinterest-inspired beverage branding, warm cinematic natural window lighting, glossy condensation droplets and realistic glass reflections, editorial flatlay cafe photography mixed with journal-style illustrations, cute props like vintage spoons, blueberry pastries, mini flowers, recipe cards, cassette tapes, and polaroid snapshots, nostalgic Gen Z cafe aesthetic with Y2K undertones, dreamy soft-focus atmosphere, highly detailed scrapbook composition, artistic social-media-ready dessert shop poster vibe, soft pastel lavender, dusty blue, cream, and silver color palette, stylish lifestyle cafe photography, premium editorial food advertisement aesthetic.
@@ -4830,7 +4830,7 @@ Vintage-inspired blueberry lavender soda scrapbook poster, dreamy artisanal cafe
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case303/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Scientific Concept Anchor Poster"></a> |
 
-**Prompt:**
+**提示詞:**
 
 ```
 Anchor: The word "[SCIENTIFIC CONCEPT (e.g.,  CARBON / DNA / GRAVITY)]" :: where each  letter is constructed from the molecular  structure, atomic bonds, or physical  diagrams associated with that concept ::4  Morphology: DNA — letters formed from  double helix ladder rungs and backbone  curves. CARBON — letters built from  benzene ring hexagons and bond lines.  GRAVITY — letters curve and stretch  as if pulled toward a point mass,  lower strokes elongated by gravitational  lensing. All fully readable ::3  Material Physics: Scientific whiteboard  aesthetic — white chalk or marker on  dark ground. Or blueprint blue with  white diagrammatic linework ::3  Illumination: Flat, even, academic —  as if projected on a lecture screen ::2  Render Stack: Science magazine cover,  university poster, Ted Talk title card ::1  Negative: [photorealistic molecular  renders, 3D shading, color-coded  atoms in standard CPK colors,  realistic laboratory imagery] :: -1
@@ -6387,7 +6387,7 @@ A minimalist modern editorial illustration. Style: Nordic lifestyle magazine mee
 
 ![World Cup Match Poster](../../images/poster_case354/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 Photorealistic movie poster designed by a professional graphic designer with this concept:
 - The background is the venue, [Name of The Stadium, Location]
@@ -6403,7 +6403,7 @@ Photorealistic movie poster designed by a professional graphic designer with thi
 
 ![Cinematography Analysis Frame](../../images/poster_case355/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 Create a cinematic fashion editorial photograph in a bright minimal bedroom, presented as a cinematography composition analysis frame.
 
@@ -6443,7 +6443,7 @@ Camera: 35mm lens, medium wide framing, eye level camera angle, 16:9 widescreen.
 
 ![Vintage Anatomic Book Plate](../../images/poster_case356/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 Edit the provided image into an antique anatomical book plate. Preserve the original character's pose, camera angle, body proportions, silhouette, gesture, and overall composition as closely as possible, but transform the subject into a refined anatomical study illustration. The final image should look like a vintage medical anatomy textbook page printed on aged ivory paper, with sepia stains, subtle paper fibers, worn edges, faint foxing marks, and archival ink texture.
 
@@ -6463,7 +6463,7 @@ Lighting should be soft and flat like a scanned antique page. The final result m
 
 ![Crowd Mosaic Football Portrait](../../images/poster_case357/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 Ultra-detailed crowd mosaic portrait of a legendary football player, created entirely from thousands of tiny people standing and walking on a vast white surface. From a distance, the crowd forms a hyper-realistic giant face and upper body portrait; up close, every individual person is clearly visible. Long cinematic shadows, aerial top-down perspective, massive scale, intricate human arrangement, photorealistic details, high contrast lighting, clean minimalist background, depth and dimension, masterpiece composition, ultra-sharp focus, 8K resolution, social art installation, human mosaic effect, volumetric lighting, realistic skin tones formed by crowd density, award-winning conceptual photography, breathtaking visual illusion, drone photography, highly detailed faces, premium quality, modern generative art.
 ```
@@ -6473,7 +6473,7 @@ Ultra-detailed crowd mosaic portrait of a legendary football player, created ent
 
 ![Origami Food Poster](../../images/poster_case358/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 INPUT: [layered dish]
 
@@ -6500,7 +6500,7 @@ NEGATIVE: no holograms, no bioluminescent glows, no VR/AR elements, no realistic
 
 ![Surrealism History Timeline](../../images/poster_case359/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 A surrealist historical timeline infographic poster in 16:9 horizontal format inspired by Salvador Dalí, featuring a dreamlike desert landscape where a long melting clock transforms into a winding historical timeline path across the composition, with floating doors, stretched shadows, levitating drawers, cracked stone statues, and impossible reflections merging into one symbolic world; the timeline should run diagonally from left to right like a dream corridor, with key surrealism dates placed inside small elegant labels, including 1917, 1924, 1929, 1936, 1940s and 1960s, each date connected to a strange symbolic object such as an eye, an egg, a telephone, a bird cage, a face, or a candle, all drawn with refined illusionistic detail; the background should be a warm twilight gradient blending sand beige, pale gold, faded blue and shadowy violet, with clouds that look like painted smoke and a horizon that bends unnaturally; the title should be placed at the top center in large dramatic serif typography reading SURREALISM, with the subtitle TIMELINE OF THE SUBCONSCIOUS beneath it in smaller elegant text; fact panels should be placed asymmetrically around the dreamscape, each one framed like a museum label but slightly distorted, with short sections labeled ORIGINS, MANIFESTO, KEY ARTISTS, DREAM LOGIC, FAMOUS WORKS, and LEGACY, plus a small DID YOU KNOW? box near the lower right with five original facts; the entire image should feel uncanny, poetic, intellectually rich, visually luxurious, and unmistakably surrealist, with no copied artwork, no logos, no modern UI, 16:9 horizontal ratio
 ```
@@ -6510,7 +6510,7 @@ A surrealist historical timeline infographic poster in 16:9 horizontal format in
 
 ![3D Travel Ticket](../../images/poster_case360/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 Photorealistic 3D travel ticket concept, a close-up human hand holding a large vintage “NYC All Access Pass” ticket in front of a clean cream-colored background. The ticket acts as a portal window into New York City, revealing a detailed miniature Manhattan street scene inside the cutout frame. A realistic yellow NYC taxi emerges out of the ticket in 3D onto a floating road platform, creating a pop-out effect. The Empire State Building rises dramatically behind the ticket, with hand-drawn sketch illustrations of the Statue of Liberty, Brooklyn Bridge, Broadway sign, and coffee cup surrounding the composition. Premium paper texture, cinematic lighting, warm golden-hour tones, ultra-detailed miniature city diorama, depth of field, travel advertisement aesthetic, creative paper-craft design, hyperrealistic, clean studio background, professional product photography, sharp focus, 8K, vertical composition.
 ```
@@ -6519,7 +6519,7 @@ Photorealistic 3D travel ticket concept, a close-up human hand holding a large v
 
 ![Luxury Birthday Poster 3:4](../../images/poster_case361/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 Professional luxury birthday poster, 3:4 ratio. Entire frame filled with a premium off white luxury paper textured wall. Large number “2” precisely carved in the wall with visible depth and realistic inner shadows. Inside the number: soft pink and pink balloons, subtle white flowers, elegant bouquet arrangement, premium celebration styling. A happy 2 year old child with preserved reference facial features, wearing a milky white T shirt and pink denim overalls, laughing naturally. Face, shoulder, one hand and one foot extend outside the number creating a realistic 3D effect. Warm cinematic sunlight from one side, soft rim light, photorealistic skin, premium studio photography, ultra realistic, sharp focus. Typography on wall: MUNONYE, CHAPTER 2, 365 MORE DAYS OF WONDER. Clean minimalist layout, luxury magazine cover aesthetic, high end art direction, realistic shadows, natural colors, no tree shadows, no fake lighting, no AI artifacts.
 ```
@@ -6528,7 +6528,7 @@ Professional luxury birthday poster, 3:4 ratio. Entire frame filled with a premi
 
 ![Window Girl Fashion Editorial](../../images/poster_case362/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 ://t.co/yMuwrbQO3u
 
@@ -6545,7 +6545,7 @@ Camera: 35mm lens, centered full-body framing within the window frame, moderate 
 
 ![Premium Streetwear Graphic Tee](../../images/poster_case363/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 Create a high-end fashion product photo of a modern oversized streetwear T-shirt. The shirt features a large, professionally designed graphic print on the front. Design style: contemporary urban streetwear, bold typography mixed with futuristic geometric elements, clean vector artwork, subtle distressed textures, premium screen-print aesthetic, balanced composition, visually striking but wearable. Color palette: black, white, silver, and electric blue accents. The design should look like it belongs in a luxury streetwear collection. Photorealistic fabric texture, realistic folds, premium cotton material, studio lighting, fashion campaign quality, ultra-detailed, sharp focus, e-commerce ready, trend-forward apparel design.
 ```
@@ -6554,7 +6554,7 @@ Create a high-end fashion product photo of a modern oversized streetwear T-shirt
 
 ![Three-Frame Nightlife Collage](../../images/poster_case364/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 Create image Create a photorealistic three-frame vertical nightlife collage inspired by the supplied reference image. Preserve the subject's facial identity, facial structure, skin tone, hairstyle, and overall appearance while placing her in a fashionable late-evening social setting.
 
@@ -6587,7 +6587,7 @@ Candid nightlife photograph
 
 ![Travel Planning Tabletop Scene](../../images/poster_case365/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 A premium travel-planning tabletop scene for [LOCATION], photographed from a slightly elevated angle. A detailed map of [LOCATION] lies on a warm wooden desk under a cozy black desk lamp. Emerging from the map are handcrafted papercraft landmarks, iconic attractions, landscapes, and cultural highlights from [LOCATION], positioned in their approximate geographic locations.
 A tiny traveler character with a backpack and rolling suitcase follows a dotted red journey route across the map, creating a visual story of exploration. The traveler is mid-journey between destinations.
@@ -6601,7 +6601,7 @@ Color palette inspired by [LOCATION'S NATURAL/CULTURAL COLORS].
 
 ![iPhone Candid Notebook Photo](../../images/poster_case366/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 ://t.co/4zY2WLrQci
 
@@ -6614,7 +6614,7 @@ Candid photo of a flat open notebook covered in black ballpoint pen handwriting.
 
 ![French New Wave Film Still](../../images/poster_case367/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 Black and white cinematic image in 1950s-60s French New Wave style. Two people standing close on a narrow Parisian street at dawn, not quite touching, intimacy expressed through proximity alone. She tilts slightly toward him; he gazes past her, deep in thought. Simple clothing: trench coats, knit sweaters, no excess. Natural faces, honest expressions, no glamour. Stone walls, shuttered windows, stacked cafe chairs, a bicycle leaning against the wall. Eye-level static camera, wide negative space, slightly imperfect composition. Soft diffused daylight, subtle 35mm film grain, gentle shadows. Emotion through stillness and silence, love present but unspoken. Godard and Truffaut aesthetic: restrained, observational, melancholic art-house romance.
 ```
@@ -6623,7 +6623,7 @@ Black and white cinematic image in 1950s-60s French New Wave style. Two people s
 
 ![Nighttime Japanese Theater Cinematic](../../images/poster_case368/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 Create a cinematic 16:9 wide image from the audience POV at a nighttime outdoor Japanese theater performance. The camera feels like a handheld smartphone recording from the crowd, with silhouetted audience heads and raised phones in the foreground. On stage, a cute plush capybara mascot girl named Capychan stands small but heroic, with a round chubby body, huge capybara hood, pineapple crown, yellow number 10 jersey, blonde-and-green hair, heterochromia eyes, and two glowing energy swords, one green and one gold. She faces a colossal original samurai robot with black, red and gold armor, glowing red eyes, and a massive mechanical katana. The stage has a traditional Japanese village gate, bamboo forest, lanterns, taiko drums, smoke, sparks, explosions, dramatic spotlights, and a realistic live performance atmosphere. Make the image dynamic, as if captured during a fast battle scene, with motion energy, smoke trails, impact sparks, and epic scale contrast. No copyrighted characters, no logos, no subtitles. Cinematic, high detail, realistic audience-recorded viral video frame.
 ```
@@ -6632,7 +6632,7 @@ Create a cinematic 16:9 wide image from the audience POV at a nighttime outdoor 
 
 ![Furniture Product Sheet Layout](../../images/poster_case369/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 ://t.co/UuHTKEB9Ff
 
@@ -6658,7 +6658,7 @@ Separate the two sections with a vertical dividing line or subtle split backgrou
 
 ![Anime Character Concept Showcase](../../images/poster_case370/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 Create a high-end, asymmetric editorial CHARACTER CONCEPT SHOWCASE from these inputs:
 
@@ -6691,7 +6691,7 @@ Use this tri-fold layout:
 
 ![Dopamine Burst 3D Poster](../../images/poster_case371/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 ://t.co/iW2ocxdKQR
 
@@ -6706,7 +6706,7 @@ Modern internet visual design excellence, Behance / Dribbble 3D illustration pos
 
 ![Scandinavian Branding Mockup](../../images/poster_case372/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 ://t.co/keLYasNByE
 
@@ -6721,7 +6721,7 @@ Minimal personal branding identity mockup for a female entrepreneur or creator, 
 
 ![Hand-drawn Doodle Art Overlay](../../images/poster_case373/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 ://t.co/jBGrThiRdq
 
@@ -6742,7 +6742,7 @@ Keep the illustrated additions from overwhelming the original photo. Aim for a b
 
 ![Japanese Ad Banner 2x2 Grid](../../images/poster_case374/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 ://t.co/9AyRJEG6VB
 
@@ -6804,7 +6804,7 @@ Keep the illustrated additions from overwhelming the original photo. Aim for a b
 
 ![Argentina Football Uniform Promo](../../images/poster_case375/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 ARGENTINA NATIONAL TEAM
 
@@ -6937,7 +6937,7 @@ She carries the weight of champio
 
 ![Food Ad Layered Dessert](../../images/poster_case376/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 ://t.co/C2JI1bwCCZ
 
@@ -6952,7 +6952,7 @@ A partially bitten realistic classic [brand] product resting on a plate, exposin
 
 ![Claymation Teen Girl with Headphones](../../images/poster_case377/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 [SUBJECT]: A bold claymation teenage girl with clay space buns and a vinyl clay jacket, wearing oversized Sony WH-1000XM5 headphones in clay form, a tiny baby wolf pup made of grey clay howling beside her clay record player
 
@@ -6979,7 +6979,7 @@ A partially bitten realistic classic [brand] product resting on a plate, exposin
 
 ![Greek Mythology Olympian Family Tree](../../images/poster_case378/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 An Art Nouveau style historical infographic poster in 16:9 horizontal format about Greek mythology, featuring an elegant flowing composition inspired by classical decorative poster design, with ornate floral borders, curling vines, golden laurel motifs, and graceful asymmetrical linework; the central artwork should depict the Olympian family tree as a beautiful mythic tableau with Zeus, Hera, Athena, Apollo, Artemis, Poseidon, and Aphrodite arranged in a ceremonial vertical hierarchy around Mount Olympus, each god or goddess framed by stylized Art Nouveau halos, flowing hair, marble columns, peacocks, olive branches, stars, waves, and moon crescents, all drawn with elongated elegant contours and rich decorative detail; use a palette of deep teal, antique gold, cream, and muted rose, with subtle gradients only in the illustrated figures and background sky; place the title at the top in large ornamental serif lettering reading GREEK MYTHOLOGY, with the subtitle THE OLYMPIAN FAMILY TREE beneath it in smaller elegant text; organize the facts into decorative side panels with graceful curved frames and thin gold rules, including sections labeled ORIGINS, GODS OF OLYMPUS, SYMBOLS, POWERS, HEROES, and LEGACY, plus a small DID YOU KNOW? box near the lower corner with five original myth facts; the entire poster should feel luxurious, classical, poetic, and richly decorative, with no modern UI, no copyrighted artwork, and a true Art Nouveau atmosphere, 16:9 horizontal ratio
 ```
@@ -6988,7 +6988,7 @@ An Art Nouveau style historical infographic poster in 16:9 horizontal format abo
 
 ![Ultra-realistic Trophy Sports Photography](../../images/poster_case379/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 Ultra-realistic sports photography, documentary realism, premium commercial campaign style, immersive 9:16 vertical composition.
 
@@ -7015,7 +7015,7 @@ Luxury black gift box
 
 ![Celestial Fantasy Oracle Storyboard](../../images/poster_case380/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 Create a premium cinematic 12-panel storyboard sheet for a celestial fantasy oracle reveal sequence featuring Astrielle, an ethereal cosmic sorceress who manipulates stars, destiny, and astral energy.
 
@@ -7072,7 +7072,7 @@ Epic frontal cinematic shot of massive
 
 ![3D Product Mockup Smartphone](../../images/poster_case381/output.jpg)
 
-**Prompt:**
+**提示詞:**
 ```
 A highly realistic, premium 3D product mockup for a [INSERT BUSINESS TYPE HERE, e.g., modern clothing brand]. A sleek, modern smartphone is elegantly levitating at a dynamic angle in mid-air. Emerging seamlessly from the phone's screen is a continuous, wavy, physical ribbon of printed photos that elegantly flows and wraps around the device in a surreal, gravity-defying way. The photos on the flowing ribbon display stunning, high-quality images of [INSERT PRODUCT/SERVICE IMAGES HERE]. The background is a minimalist, warm beige and soft cream environment with a subtle, textured stone floor. The lighting consists of soft, diffused natural sunlight casting an elegant, diagonal window shadow on the back wall, adding depth. Cinematic lighting, shallow depth of field, ultra-photorealistic, 8k resolution, highly detailed, trendy minimal aesthetic, perfect for an engaging and viral social media post, featuring clean negative space at the top for typography.
 ```
@@ -8175,3 +8175,168 @@ Editorial fashion portrait, woman wearing flowing red bell-sleeve wrap dress, dr
 ```
 Create a luxury cinematic fashion poster featuring a stylish young male standing in a powerful confident pose, captured from a low-angle perspective. The subject wears a high-end black designer outfit with sharp tailoring, subtle metallic accents, and clean modern silhouette. His expression is calm, confident, and slightly intimidating, with direct eye contact. Hair is perfectly styled with soft volume and natural shine. Behind him is a large glowing circular spotlight in deep gold, creating a halo effect that enhances dominance and focus. The background is minimalist matte black with subtle texture, dust particles, and faint vignette edges to enhance depth. Lighting is dramatic studio-style with strong contrast, highlighting facial structure and clothing details. The composition is symmetrical and centered like a luxury brand advertisement or album cover. Ultra-realistic, 8K detail, 4:5 vertical ratio, high-end editorial aesthetic designed for viral engagement. --ar 4:5 ratio
 ```
+
+<!-- Case 415: Ronaldo Tri-Zone Sports Poster (by @vireonixx) -->
+### Case 415: [羅納度三區運動海報](https://x.com/vireonixx/status/2068870555349246242) (by [@vireonixx](https://x.com/vireonixx))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case415/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 羅納度三區運動海報"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case415/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 羅納度三區運動海報"></a></td></tr>
+</table>
+
+**提示詞:**
+
+```
+Cristiano Ronaldo sports poster. Background divided intothree horizontal zones. Top zone warm cream Pantone 9183Coccupying top 40% of poster. Middle zone signal redPantone 485C as a pure flat color band occupying exactly
+8% of poster height at golden ratio point. Bottom zone
+deep charcoal Pantone 432C occupying remaining 52%.
+Three zones. Two colors and one neutral. The geometry
+of the Portuguese flag deconstructed and reconstructedas graphic architecture.
+
+His figure spans all three zones. Shot full body from
+slight low angle. Al Nassr gold kit. Mid stride. Leftleg forward. Right arm back. The specific body positionof someone at absolute peak running velocity. Not a posedaction. A captured action. The body in the cream zonerendered in full color warm skin tones and gold kit. The
+body in the red zone bleached to near white silhouette
+where it intersects the red band. The body in the charcoal
+zone rendered in black and white high contrast. Three color treatments on one continuous figure. The zones are notbackgrounds they are filters. Each one revealing a
+different version of the same man.
+
+Motion blur. His figure in slight motion blur at 1/250second shutter. The sharp elements his face his number 7his boot touching ground. The blurred elements his armsin motion his hair his loose kit fabric. The blurcommunicates what no still image can. The speed. The
+relentlessness. The fact that he is never fully stopped.
+
+Layered over the three zones across the full poster width.
+A system of fine parallel horizontal lines. 0.3pt. Warm
+white. At 25% opacity. Running edge to edge. Spaced 4mm
+apart. The texture of a television scan line. Or a
+printing registration grid. Or the lines on a ruledpage waiting to be written on. The lines are the sameacross all three zones changing color against each
+background. White on cream barely visible. White on red
+glowing. White on charcoal clear and strong. The same
+line behaving differently in different worlds.
+
+Paint intervention. In the cream zone only. Upper left
+quadrant. Raw gestural brushstroke in cobalt blue
+Pantone 2728C. A single mark. Applied with a wide brush
+at 45 degrees. The blue unexpected against the cream.
+Not part of the flag system. A disruption. An intervention
+from outside the established color logic. The color of
+a sky he is always looking toward.
+
+Japanese typography. Large scale. Behind photograph layer.
+In cream zone behind his upper body. 挑戦 pronounced
+chōsen meaning challenge. Rendered at 200pt Noto Serif
+CJK deep charcoal at 15% opacity. The kanji visible
+through the photographic layer like a thought behind
+a face. In charcoal zone behind his lower body.
+勝利 pronounced shōri meaning victory. Same scale
+same treatment. Beginning and end. Challenge and victory.
+Above and below.
+
+Information system. Right side of poster. Thin vertical
+rule signal red 1px running full height. To its right
+a column of data in Helvetica Neue Light 6pt tracking
+200 bone white on charcoal and cream on red adjusting
+for legibility. Club career timeline. Years at each
+club. Goals per season. The data as a river running
+parallel to the figure. The career in numbers beside
+the career in motion.
+
+Typography primary. Across the red zone. Full poster
+width. The red band is a stage for one typographic event.
+Futura PT Heavy. All caps. White. 36pt. Tracking 300.
+Perfectly centered vertically in the red band. THE
+STANDARD HAS ALWAYS BEEN HIM. The red band exists to
+hold this sentence. Everything else in the poster exists
+to justify it.
+
+Below the red band entering the charcoal zone. Full width.
+Helvetica Neue Black Extended. White. 96pt. Tracking minus
+10. RONALDO. The letters occupying the full width exactly
+tracked to fit. The name as the foundation of the
+charcoal zone. Below the name in same charcoal zone.
+Helvetica Neue Light. 8pt. Tracking 600. Bone white.
+CR7 PORTUGAL 900 GOALS FORWARD LEGEND. One line. All
+the context needed. None of the decoration.
+
+Art direction M/M Paris conceptual intelligence. Bureau
+Borsche typographic sophistication. Wieden Kennedy
+Amsterdam emotional directness. Nike Brand Design
+production quality. All four present simultaneously
+at their absolute peak.
+
+Shot aesthetic Misan Harriman color and dignity. Ernst
+Haas motion blur mastery. Gregory Heisler technical
+perfection. Three photographers whose combined vision
+makes something none of them would make alone.
+
+Print format 70x100cm. 10K resolution. HDR. The three
+zones printed in three separate ink passes on a
+Heidelberg offset press. The red band overprinted twice
+for maximum saturation. The charcoal zone with 7 color
+process for maximum depth. The cream zone with minimum
+ink for maximum paper feel.
+```
+
+<!-- Case 416: Dreamcore Brand Kit Illustration (by @92digitalartArt) -->
+### Case 416: [夢核品牌視覺套件插畫](https://x.com/92digitalartArt/status/2068766168979063085) (by [@92digitalartArt](https://x.com/92digitalartArt))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case416/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 夢核品牌視覺套件插畫"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case416/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 夢核品牌視覺套件插畫"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case416/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 夢核品牌視覺套件插畫"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case416/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 夢核品牌視覺套件插畫"></a></td></tr>
+</table>
+
+**提示詞:**
+
+```
+surreal dreamcore architectural illustration, bright Memphis design influence, pastel pop color palette, crisp black ink outlines, isometric fantasy garden space, tiled geometric walls, floating spheres, checkerboard floor, stylized clouds, ornamental plants and topiary, clean comic-book linework, playful postmodern shapes, flat colors with subtle grain texture, whimsical liminal atmosphere, decorative botanical details, airy blue sky, high-detail editorial illustration, vibrant retro-futuristic mood.
+
+Created entirely with ChatGPT Image 2 🚀
+```
+
+<!-- Case 417: Whimsical Mirror Travel Journal (by @Taaruk_) -->
+### Case 417: [奇趣凸面鏡旅行手帳](https://x.com/Taaruk_/status/2068716967968788743) (by [@Taaruk_](https://x.com/Taaruk_))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case417/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 奇趣凸面鏡旅行手帳"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case417/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 奇趣凸面鏡旅行手帳"></a></td></tr>
+</table>
+
+**提示詞:**
+
+```
+Transform the uploaded photo into a whimsical hand-painted storybook illustration. Keep the exact pose, perspective, convex traffic mirror reflection, road, utility pole, and surrounding tropical greenery. Reimagine the mirror reflection as a vibrant illustrated world with lush jungle plants, palm trees, flowers, butterflies, doodle hearts, stars, swirls, smiling sun, fluffy clouds, and colorful hand-drawn decorations. The person is transformed into a cute cartoon character wearing a white t-shirt, navy shorts, white socks, and a blue cap, posing playfully with one leg raised and a peace sign. Integrate fitness-tracker statistics inside the mirror in a charming infographic style: “Day 53”, “4.06 km”, “88 m”, “24 min 9 sec”. Bright pastel colors, textured gouache paint, children's book aesthetic, whimsical doodles, clean outlines, cozy and cheerful mood, highly detailed foliage, playful travel journal style, Strava-inspired adventure artwork, vibrant greens, oranges, blues, and pinks, ultra-detailed illustration, masterpiece, kawaii aesthetic, editorial quality, vertical composition, 4k.
+```
+
+<!-- Case 418: Folk Papercraft Scene Remix (by @Ciri_ai) -->
+### Case 418: [民俗紙藝場景重構](https://x.com/Ciri_ai/status/2068716810346860804) (by [@Ciri_ai](https://x.com/Ciri_ai))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case418/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 民俗紙藝場景重構"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case418/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 民俗紙藝場景重構"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case418/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 民俗紙藝場景重構"></a></td></tr>
+</table>
+
+**提示詞:**
+
+```
+Reimagine the entire image as one cohesive Decorative Folk Flat Illustration blended with a soft handcrafted paper-cut layered style, inspired by charming papercraft diorama aesthetics. Preserve the original subject, composition, and overall mood, but simplify every element into clean flat forms, bold rounded shapes, and cute childlike proportions. Add playful doodle accents, decorative folk patterns, slightly uneven handmade outlines, and minimal facial details such as dot eyes and soft blush cheeks.
+
+Use a vivid, cheerful color palette that feels fresh and different from the original image, while keeping the final artwork warm, sweet, innocent, whimsical, and storybook-like. Create the feeling of layered cardstock with stacked paper depth, clean cut edges, subtle shadows between layers, and gentle paper-crafted imperfections, as if the scene were carefully cut, colored, and assembled on clean white paper. The result should look cute, handcrafted, playful, and visually unified, with a polished yet charming handmade folk-art papercraft finish.
+```
+
+<!-- Case 419: Argentina Number 10 Sports Poster (by @iamaiistudio) -->
+### Case 419: [阿根廷10號運動海報](https://x.com/iamaiistudio/status/2068534010574459131) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case419/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 阿根廷10號運動海報"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case419/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 阿根廷10號運動海報"></a></td></tr>
+</table>
+
+**提示詞:**
+
+```
+prompt:
+
+A mixed-media sports poster with a realistic chest-up portrait of a young Argentine soccer player, confident pose with a subtle smile, dark brown slightly messy hair. Wearing the Argentina national team jersey with iconic sky-blue and white stripes, Adidas logo on right chest, Argentina Football Association crest on left.
+
+Soft studio lighting from upper left with gentle shadows and highlights on the hair. A bold white number "10" fills the background, partially overlapped by the player.
+
+Background features vertical smoke bands in Argentine flag colors: sky blue, white, and sky blue.
+
+Modern, clean, and dynamic style combining sharp portrait details with soft smoky effects for a powerful professional sports-poster aesthetic.
+```
+

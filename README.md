@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![911 Curated Prompts](https://img.shields.io/badge/Prompts-911_Curated_Cases-111111)](README.md)
+[![919 Curated Prompts](https://img.shields.io/badge/Prompts-919_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -52,6 +52,7 @@ curl --request POST \
 
 - [🍌 Introduction](#-introduction)
 - [❓ What is GPT Image 2](#-what-is-gpt-image-2)
+- [📰 News](#-news)
 - [🔌 Use GPT Image 2 API](#-use-gpt-image-2-api)
 - [🛒 E-commerce Cases](#-e-commerce-cases)
 - [📣 Ad Creative Cases](#-ad-creative-cases)
@@ -68,7 +69,7 @@ curl --request POST \
 
 Welcome to the **Awesome GPT Image 2 API and Prompts** repository! 🤗
 
-A curated collection of **911+ high-quality GPT-Image-2 prompts**, API usage patterns, and reusable visual workflows for AI image generation.
+A curated collection of **919+ high-quality GPT-Image-2 prompts**, API usage patterns, and reusable visual workflows for AI image generation.
 
 Whether you're looking for GPT-Image-2 prompt examples, text-to-image best practices, image editing techniques, or ready-to-use prompt templates — this is your one-stop reference.
 
@@ -102,6 +103,18 @@ Native support for aspect ratios, transparency, and batch generation
 Works with OpenAI's standard API format (`/v1/images/generations`)
 
 > Learn more about using the API in the Use GPT Image 2 API section below.
+
+## 📰 News
+
+**June 22, 2026:** Added 8 new GPT-Image-2 prompt cases from the daily image-prompt update loop (5 poster, 1 portrait, 1 character, 1 UI) after semantic review and media validation
+
+**June 20, 2026:** Added 9 new GPT-Image-2 prompt cases (2 e-commerce, 1 ad creative, 3 poster, 1 character, 2 UI) from the daily image-prompt update loop after semantic review and media validation
+
+**June 18, 2026:** Added 8 new GPT-Image-2 prompt cases (2 portrait, 2 poster, 2 ad creative, 1 e-commerce, 1 UI) from the daily image-prompt update loop after semantic review and media validation
+
+**June 15, 2026:** Added 9 new GPT-Image-2 prompt cases (4 ad creative, 3 poster, 1 portrait, 1 UI) from the image-prompt update loop after semantic review and media validation
+
+**June 14, 2026:** Added 14 new GPT-Image-2 prompt cases (9 poster, 2 ad creative, 1 character, 1 UI, 1 comparison) from the image-prompt update loop after semantic review and media validation
 
 ## 🔌 Use GPT Image 2 API
 
@@ -1121,7 +1134,7 @@ Minimalist commercial ad featuring oversized Ray-Ban Aviator sunglasses, ultra-c
 
 ## 🍌 Portrait & Photography Cases
 
-> **129 curated cases** — [Explore all Portrait & Photography Prompts →](cases/portrait.md)
+> **130 curated cases** — [Explore all Portrait & Photography Prompts →](cases/portrait.md)
 
 <!-- Case 124: Convenience Store Neon Portrait (by @BubbleBrain) -->
 ### Case 124: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
@@ -3492,9 +3505,30 @@ Negative Prompt: text, logo, watermark, extra face paint, messy fabric, distorte
 CCD flash photography style, late-night office setting, whiteboard covered in mathematical formulas in the background, black-rimmed glasses, white high-neck top, black high-waisted mini skirt, semi-matte cool-white porcelain skin with realistic skin texture, subject seated at desk, whiteboard marker held close to the lips, slight dutch angle composition, nuyoah aesthetic
 ```
 
+<!-- Case 313: Late-Night Subway CCD Portrait (by @iamaiistudio) -->
+### Case 313: [Late-Night Subway CCD Portrait](https://x.com/iamaiistudio/status/2068516066679283984) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case313/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Late-Night Subway CCD Portrait"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case313/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Late-Night Subway CCD Portrait"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+CCD flash photo with low-saturation black-pearl dark-gold tones, deep charcoal shadows, subtle dark-gold light reflections, soft frontal flash illuminating the subject, slight overexposure, fine grain, cool and moody late-night city atmosphere.
+
+Subject: young East Asian woman, elegant small oval face, narrow almond-shaped eyes, aloof expression, black low ponytail.
+Outfit: black turtleneck bodycon dress + dark gray thin jacket + sheer stockings + pointed stilettos.
+Setting: deserted midnight subway platform, metal benches, blurred backlit ad panels, reflective floor.
+Pose: sitting on platform bench, legs crossed naturally, one hand on her bag.
+Expression: pensive, glancing up at camera after looking down.
+Highlight: long legs, slim waist, cold elegant vibe.
+Aspect ratio: 9:16
+```
+
 ## 🎨 Poster & Illustration Cases
 
-> **150 curated cases** — [Explore all Poster & Illustration Prompts →](cases/poster.md)
+> **155 curated cases** — [Explore all Poster & Illustration Prompts →](cases/poster.md)
 
 <!-- Case 214: Peacock Botanical Vintage Symmetrical Art Print (by @dotey) -->
 ### Case 214: [Peacock Botanical Vintage Symmetrical Art Print](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
@@ -7676,9 +7710,169 @@ Editorial fashion portrait, woman wearing flowing red bell-sleeve wrap dress, dr
 Create a luxury cinematic fashion poster featuring a stylish young male standing in a powerful confident pose, captured from a low-angle perspective. The subject wears a high-end black designer outfit with sharp tailoring, subtle metallic accents, and clean modern silhouette. His expression is calm, confident, and slightly intimidating, with direct eye contact. Hair is perfectly styled with soft volume and natural shine. Behind him is a large glowing circular spotlight in deep gold, creating a halo effect that enhances dominance and focus. The background is minimalist matte black with subtle texture, dust particles, and faint vignette edges to enhance depth. Lighting is dramatic studio-style with strong contrast, highlighting facial structure and clothing details. The composition is symmetrical and centered like a luxury brand advertisement or album cover. Ultra-realistic, 8K detail, 4:5 vertical ratio, high-end editorial aesthetic designed for viral engagement. --ar 4:5 ratio
 ```
 
+<!-- Case 415: Ronaldo Tri-Zone Sports Poster (by @vireonixx) -->
+### Case 415: [Ronaldo Tri-Zone Sports Poster](https://x.com/vireonixx/status/2068870555349246242) (by [@vireonixx](https://x.com/vireonixx))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case415/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ronaldo Tri-Zone Sports Poster"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case415/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ronaldo Tri-Zone Sports Poster"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Cristiano Ronaldo sports poster. Background divided intothree horizontal zones. Top zone warm cream Pantone 9183Coccupying top 40% of poster. Middle zone signal redPantone 485C as a pure flat color band occupying exactly
+8% of poster height at golden ratio point. Bottom zone
+deep charcoal Pantone 432C occupying remaining 52%.
+Three zones. Two colors and one neutral. The geometry
+of the Portuguese flag deconstructed and reconstructedas graphic architecture.
+
+His figure spans all three zones. Shot full body from
+slight low angle. Al Nassr gold kit. Mid stride. Leftleg forward. Right arm back. The specific body positionof someone at absolute peak running velocity. Not a posedaction. A captured action. The body in the cream zonerendered in full color warm skin tones and gold kit. The
+body in the red zone bleached to near white silhouette
+where it intersects the red band. The body in the charcoal
+zone rendered in black and white high contrast. Three color treatments on one continuous figure. The zones are notbackgrounds they are filters. Each one revealing a
+different version of the same man.
+
+Motion blur. His figure in slight motion blur at 1/250second shutter. The sharp elements his face his number 7his boot touching ground. The blurred elements his armsin motion his hair his loose kit fabric. The blurcommunicates what no still image can. The speed. The
+relentlessness. The fact that he is never fully stopped.
+
+Layered over the three zones across the full poster width.
+A system of fine parallel horizontal lines. 0.3pt. Warm
+white. At 25% opacity. Running edge to edge. Spaced 4mm
+apart. The texture of a television scan line. Or a
+printing registration grid. Or the lines on a ruledpage waiting to be written on. The lines are the sameacross all three zones changing color against each
+background. White on cream barely visible. White on red
+glowing. White on charcoal clear and strong. The same
+line behaving differently in different worlds.
+
+Paint intervention. In the cream zone only. Upper left
+quadrant. Raw gestural brushstroke in cobalt blue
+Pantone 2728C. A single mark. Applied with a wide brush
+at 45 degrees. The blue unexpected against the cream.
+Not part of the flag system. A disruption. An intervention
+from outside the established color logic. The color of
+a sky he is always looking toward.
+
+Japanese typography. Large scale. Behind photograph layer.
+In cream zone behind his upper body. 挑戦 pronounced
+chōsen meaning challenge. Rendered at 200pt Noto Serif
+CJK deep charcoal at 15% opacity. The kanji visible
+through the photographic layer like a thought behind
+a face. In charcoal zone behind his lower body.
+勝利 pronounced shōri meaning victory. Same scale
+same treatment. Beginning and end. Challenge and victory.
+Above and below.
+
+Information system. Right side of poster. Thin vertical
+rule signal red 1px running full height. To its right
+a column of data in Helvetica Neue Light 6pt tracking
+200 bone white on charcoal and cream on red adjusting
+for legibility. Club career timeline. Years at each
+club. Goals per season. The data as a river running
+parallel to the figure. The career in numbers beside
+the career in motion.
+
+Typography primary. Across the red zone. Full poster
+width. The red band is a stage for one typographic event.
+Futura PT Heavy. All caps. White. 36pt. Tracking 300.
+Perfectly centered vertically in the red band. THE
+STANDARD HAS ALWAYS BEEN HIM. The red band exists to
+hold this sentence. Everything else in the poster exists
+to justify it.
+
+Below the red band entering the charcoal zone. Full width.
+Helvetica Neue Black Extended. White. 96pt. Tracking minus
+10. RONALDO. The letters occupying the full width exactly
+tracked to fit. The name as the foundation of the
+charcoal zone. Below the name in same charcoal zone.
+Helvetica Neue Light. 8pt. Tracking 600. Bone white.
+CR7 PORTUGAL 900 GOALS FORWARD LEGEND. One line. All
+the context needed. None of the decoration.
+
+Art direction M/M Paris conceptual intelligence. Bureau
+Borsche typographic sophistication. Wieden Kennedy
+Amsterdam emotional directness. Nike Brand Design
+production quality. All four present simultaneously
+at their absolute peak.
+
+Shot aesthetic Misan Harriman color and dignity. Ernst
+Haas motion blur mastery. Gregory Heisler technical
+perfection. Three photographers whose combined vision
+makes something none of them would make alone.
+
+Print format 70x100cm. 10K resolution. HDR. The three
+zones printed in three separate ink passes on a
+Heidelberg offset press. The red band overprinted twice
+for maximum saturation. The charcoal zone with 7 color
+process for maximum depth. The cream zone with minimum
+ink for maximum paper feel.
+```
+
+<!-- Case 416: Dreamcore Brand Kit Illustration (by @92digitalartArt) -->
+### Case 416: [Dreamcore Brand Kit Illustration](https://x.com/92digitalartArt/status/2068766168979063085) (by [@92digitalartArt](https://x.com/92digitalartArt))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case416/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Dreamcore Brand Kit Illustration"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case416/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Dreamcore Brand Kit Illustration"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case416/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Dreamcore Brand Kit Illustration"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case416/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Dreamcore Brand Kit Illustration"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+surreal dreamcore architectural illustration, bright Memphis design influence, pastel pop color palette, crisp black ink outlines, isometric fantasy garden space, tiled geometric walls, floating spheres, checkerboard floor, stylized clouds, ornamental plants and topiary, clean comic-book linework, playful postmodern shapes, flat colors with subtle grain texture, whimsical liminal atmosphere, decorative botanical details, airy blue sky, high-detail editorial illustration, vibrant retro-futuristic mood.
+```
+
+<!-- Case 417: Whimsical Mirror Travel Journal (by @Taaruk_) -->
+### Case 417: [Whimsical Mirror Travel Journal](https://x.com/Taaruk_/status/2068716967968788743) (by [@Taaruk_](https://x.com/Taaruk_))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case417/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Whimsical Mirror Travel Journal"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case417/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Whimsical Mirror Travel Journal"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Transform the uploaded photo into a whimsical hand-painted storybook illustration. Keep the exact pose, perspective, convex traffic mirror reflection, road, utility pole, and surrounding tropical greenery. Reimagine the mirror reflection as a vibrant illustrated world with lush jungle plants, palm trees, flowers, butterflies, doodle hearts, stars, swirls, smiling sun, fluffy clouds, and colorful hand-drawn decorations. The person is transformed into a cute cartoon character wearing a white t-shirt, navy shorts, white socks, and a blue cap, posing playfully with one leg raised and a peace sign. Integrate fitness-tracker statistics inside the mirror in a charming infographic style: “Day 53”, “4.06 km”, “88 m”, “24 min 9 sec”. Bright pastel colors, textured gouache paint, children's book aesthetic, whimsical doodles, clean outlines, cozy and cheerful mood, highly detailed foliage, playful travel journal style, Strava-inspired adventure artwork, vibrant greens, oranges, blues, and pinks, ultra-detailed illustration, masterpiece, kawaii aesthetic, editorial quality, vertical composition, 4k.
+```
+
+<!-- Case 418: Folk Papercraft Scene Remix (by @Ciri_ai) -->
+### Case 418: [Folk Papercraft Scene Remix](https://x.com/Ciri_ai/status/2068716810346860804) (by [@Ciri_ai](https://x.com/Ciri_ai))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case418/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Folk Papercraft Scene Remix"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case418/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Folk Papercraft Scene Remix"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case418/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Folk Papercraft Scene Remix"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Reimagine the entire image as one cohesive Decorative Folk Flat Illustration blended with a soft handcrafted paper-cut layered style, inspired by charming papercraft diorama aesthetics. Preserve the original subject, composition, and overall mood, but simplify every element into clean flat forms, bold rounded shapes, and cute childlike proportions. Add playful doodle accents, decorative folk patterns, slightly uneven handmade outlines, and minimal facial details such as dot eyes and soft blush cheeks.
+
+Use a vivid, cheerful color palette that feels fresh and different from the original image, while keeping the final artwork warm, sweet, innocent, whimsical, and storybook-like. Create the feeling of layered cardstock with stacked paper depth, clean cut edges, subtle shadows between layers, and gentle paper-crafted imperfections, as if the scene were carefully cut, colored, and assembled on clean white paper. The result should look cute, handcrafted, playful, and visually unified, with a polished yet charming handmade folk-art papercraft finish.
+```
+
+<!-- Case 419: Argentina Number 10 Sports Poster (by @iamaiistudio) -->
+### Case 419: [Argentina Number 10 Sports Poster](https://x.com/iamaiistudio/status/2068534010574459131) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case419/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Argentina Number 10 Sports Poster"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case419/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Argentina Number 10 Sports Poster"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+A mixed-media sports poster with a realistic chest-up portrait of a young Argentine soccer player, confident pose with a subtle smile, dark brown slightly messy hair. Wearing the Argentina national team jersey with iconic sky-blue and white stripes, Adidas logo on right chest, Argentina Football Association crest on left.
+
+Soft studio lighting from upper left with gentle shadows and highlights on the hair. A bold white number "10" fills the background, partially overlapped by the player.
+
+Background features vertical smoke bands in Argentine flag colors: sky blue, white, and sky blue.
+
+Modern, clean, and dynamic style combining sharp portrait details with soft smoky effects for a powerful professional sports-poster aesthetic.
+```
+
 ## 🧍 Character Design Cases
 
-> **14 curated cases** — [Explore all Character Design Prompts →](cases/character.md)
+> **15 curated cases** — [Explore all Character Design Prompts →](cases/character.md)
 
 <!-- Case 2: Persona5 Character Reference Card (by @iamrednightS) -->
 ### Case 2: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
@@ -8213,9 +8407,23 @@ Pixar-style 3D animated banana character, single fruit brought to life. A charis
 Cute minimalist pastel doodle illustration, kawaii character standing side-by-side with their adorable animal companion, inspired by modern Japanese stationery art and children's picture books, clean vector linework, soft cream background, muted pastel color palette (pink, blue, mint, lavender, yellow), simple geometric shapes, tiny confetti dots and floating decorative elements, rounded character design with oversized sweater, wide pants, sneakers, glasses, calm expression, animal companion variations including llama, bear, axolotl, rabbit, cat, fox, turtle or fantasy creature, cozy scenic background with seaside boardwalk, lakeside village, mountain town or whimsical nature landscape, flat design, thick outlines, charming and playful aesthetic, symmetrical composition, full body pose, cute friendship theme, highly detailed vector illustration, sticker-like appearance, children's book art style, soft shadows, clean negative space, vibrant yet gentle colors, trending on Pinterest, adorable wholesome atmosphere, 4k, masterpiece.
 ```
 
+<!-- Case 30: LEGO Football Collectible Figure (by @ChillaiKalan__) -->
+### Case 30: [LEGO Football Collectible Figure](https://x.com/ChillaiKalan__/status/2068717001145778630) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/character_case30/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGO Football Collectible Figure"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/character_case30/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGO Football Collectible Figure"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/character_case30/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGO Football Collectible Figure"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/character_case30/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGO Football Collectible Figure"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+A highly detailed collectible toy figure inspired by a LEGO-style minifigure, standing in a professional studio. The figure has a realistic young woman’s face with porcelain skin, straight jet-black hair, blunt bangs, and a single striking white streak running through the hair. She wears small silver earrings and maintains a calm, confident expression. The body is a glossy plastic brick-toy minifigure wearing a soccer jersey with the number 10, matching shorts, and national-team-inspired colors. Full-body composition, centered framing, shallow depth of field, premium product photography, ultra-clean lighting, reflective plastic surfaces, realistic shadows, sharp focus, luxury collectible aesthetic, high-end commercial advertising style, photorealistic face blended seamlessly with toy body, 8K resolution, vibrant color grading, studio backdrop matching the jersey color theme.
+```
+
 ## 📱 UI & Social Media Mockup Cases
 
-> **41 curated cases** — [Explore all UI & Social Media Mockup Prompts →](cases/ui.md)
+> **42 curated cases** — [Explore all UI & Social Media Mockup Prompts →](cases/ui.md)
 
 <!-- Case 130: One-Prompt UI Design Generation (by @austinit) -->
 ### Case 130: [One-Prompt UI Design Generation](https://x.com/austinit/status/2044968740782272596) (by [@austinit](https://x.com/austinit))
@@ -9664,6 +9872,19 @@ POV shot from inside a grocery store aisle, your hands holding a vibrant mixed-f
 
 Full prompt: 
 A first-person point-of-view (POV) shot inside a modern supermarket aisle. The viewer's hands are holding a mixed fruit jam jar with colorful branding, showing a blend of strawberry, blueberry, and orange flavors. Floating around the jar are sleek, semi-transparent Augmented Reality (AR) digital interfaces and holographic HUDs. The overlays display "Flavor Mix" with fruit icons, "Nutrition Info," and a glowing "Freshness Meter" reading 9/10. A digital shopping list with checkmarks for bread and butter appears beside the jar, along with small recipe suggestions like breakfast toast, pancakes, and desserts. The background shelves are slightly blurred with other products and shoppers, creating realistic depth of field. Bright, clean lighting with a futuristic retail atmosphere, ultra-realistic, cinematic look, high-tech AR glasses perspective, vertical composition.
+```
+
+<!-- Case 190: Chinese Wildlife Infographic (by @iamaiistudio) -->
+### Case 190: [Chinese Wildlife Infographic](https://x.com/iamaiistudio/status/2068852226844664044) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case190/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Chinese Wildlife Infographic"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case190/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Chinese Wildlife Infographic"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Design a visually rich infographic about an endangered animal using Chinese text. Feature a photorealistic animal as the main focal point, surrounded by annotated diagrams, structured callouts, and concise labels covering its habitat, diet, and distinctive traits. Blend photorealism with bold graphic design elements including color blocking, icons, and layered shapes on a clean background. Make it dense with information, tactile in feel, and professionally crafted.
 ```
 
 ## 🧪 Comparison & Community Examples

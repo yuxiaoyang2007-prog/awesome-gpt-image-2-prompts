@@ -269,7 +269,7 @@ Aspect ratio: 4:5 vertical.
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case19/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 40K Power Armour Squad Portrait"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Prompt of the Day: 40K POWER ARMOUR SQUAD ⚔️🛡️💜💚
@@ -448,7 +448,7 @@ Do not use photorealism unless specifically requested.
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case20/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vertical Character Concept Sheet"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 prompt:
@@ -505,7 +505,7 @@ Ultra-detailed, 4K quality, glossy magazine finish, cinematic lighting, sharp fo
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case21/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Acrobat Jumping Editorial Cartoon"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 prompt:
@@ -544,7 +544,7 @@ Rendered in C4D or Blender: stylized soft-sculpture aesthetic, matte clay finish
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case22/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 雨中灵姬东方幻想 3D CG 角色"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 9:16 竖版，高精度 3D CG 东方幻想女性角色写真，3D CG oriental fantasy beauty portrait，anime-style 3D CG character art，semi-realistic 3D character render，镜头为大腿及上半身构图，画面主体是一位明确成年的年轻东方幻想系女性，视觉年龄约 20–26 岁，整体气质清冷、空灵、精致、安静，带有雨中水系精灵般的神秘感与高级感。整体不是平面插画，而是高完成度 3D CG 角色渲染，具有精致角色建模、真实材质表现、电影级冷调柔光与高级虚拟角色海报质感。
@@ -576,7 +576,7 @@ high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic l
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case23/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case23/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
 </table>
 
-**Prompt:**
+**İstem:**
 
 ```
 Vertical bizarre flat cartoon portrait of [SUBJECT from the attached photo] with a high geometric head shape, a long narrow neck, huge round eyes, a tiny mouth and an unflappable laugh, dressed in [CLOTHES from the photo], with a [OBJECT/CREATURE] sitting on their head like a living hat. Pure black outline, smooth color fills, simple face shapes, rare drawings on animal fur or skin, playful surreal character design, bold graphic palette [COLOR]. Background decorations: [ENVIRONMENT DECORATIONS from LOCATION/SCENE], made using simplified shapes, clear depth, a small amount of scenery from the environment and a clear cartoon perspective. Clear digital illustration, vertical framing in the form of a poster, no realism, no 3D rendering, no picturesque shading, aspect ratio 4:5.
@@ -593,7 +593,7 @@ Vertical bizarre flat cartoon portrait of [SUBJECT from the attached photo] with
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case24/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Dance Motion Sheet"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 [STYLE]
@@ -637,7 +637,7 @@ no cluttered backgrounds
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case25/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luminant Archivist Character Poster"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Vertical 9:16 full-body cinematic portrait of a single alien character, the Luminant Archivist, standing on a rocky ridge on the twilight band of an alien planet; the creature has a tall elongated body with three root-like legs forming a stable tripod, lower torso textured like smooth bark and sinew fused together; two long arms with four segmented joints each end in multifingered, tendril-like manipulators gently holding a glowing hexagonal plate; instead of a human head, the upper torso flares into a tall crown of layered translucent plates arranged like a vertical fan, each plate lit from within by faint cyan neural patterns, no face, no eyes, no mouth; along its back and shoulders grow rigid bioluminescent data plates, flat hexagonal organisms clinging like barnacles, softly pulsing in cyan, teal and occasional warm amber; the body is draped in a partial organic mantle made of fibrous membrane and chitin filaments, not clothing but grown; background shows a perpetual dusk sky with a low orange band on one horizon and deep indigo on the opposite, distant silhouettes of hollow spires and tiny other Archivists crossing the landscape; ground covered in reflective glassy lichen and small crystals catching the character's glow; palette of deep indigo, dusty violet, cyan glows and subtle warm amber accents; strong horizon rim light outlining the Archivist's silhouette, subtle backlighting from the bioluminescent plates, gentle atmospheric haze; realistic but slightly painterly rendering, extremely detailed textures on skin, plates and lichen; composed like a high-end sci-fi character poster, vertical 9:16 aspect ratio, full body in frame, centered but with enough headroom and ground visible to feel part of a larger universe.
@@ -657,7 +657,7 @@ human-like alien, humanoid face, eyes, nose, mouth, jaw, blue-skinned human, elf
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case26/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Visual Novel Karakter Profili"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Create a high-quality character introduction page using a chibi illustration and a full standing character artwork, styled like an official visual novel (gal-game) character profile page. It should look realistic enough to use on an actual game website. Include CG-style illustrations, facial expression variants, and a chibi version of the character.
@@ -678,7 +678,7 @@ Catchphrase: "(line here)"
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case27/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Medieval Alchemist Character Sheet"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Create a high-end, asymmetric editorial CHARACTER CONCEPT SHOWCASE from these inputs:
@@ -719,7 +719,7 @@ Ensure complete character and costume consistency across all sections. The Hero 
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case28/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar muz kahraman karakteri"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Pixar-style 3D animated banana character, single fruit brought to life. A charismatic male figure with bold confident eyes, thick expressive brows, and a wide grin full of gleaming white teeth with sparkle accents. Smooth, slightly glossy yellow peel with soft highlights. Stubby cartoon arms and legs, posed upright with arms crossed in a heroic stance. Background features a blurred bunch of bananas. Standing on a wooden dining table beside a sun-filled window in a cozy modern home interior. Rich vibrant colors, cinematic lighting, soft natural shadows, ultra-detailed high-fidelity textures.
@@ -732,8 +732,23 @@ Pixar-style 3D animated banana character, single fruit brought to life. A charis
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case29/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pastel kawaii hayvan dostları"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Cute minimalist pastel doodle illustration, kawaii character standing side-by-side with their adorable animal companion, inspired by modern Japanese stationery art and children's picture books, clean vector linework, soft cream background, muted pastel color palette (pink, blue, mint, lavender, yellow), simple geometric shapes, tiny confetti dots and floating decorative elements, rounded character design with oversized sweater, wide pants, sneakers, glasses, calm expression, animal companion variations including llama, bear, axolotl, rabbit, cat, fox, turtle or fantasy creature, cozy scenic background with seaside boardwalk, lakeside village, mountain town or whimsical nature landscape, flat design, thick outlines, charming and playful aesthetic, symmetrical composition, full body pose, cute friendship theme, highly detailed vector illustration, sticker-like appearance, children's book art style, soft shadows, clean negative space, vibrant yet gentle colors, trending on Pinterest, adorable wholesome atmosphere, 4k, masterpiece.
 ```
+
+<!-- Case 30: LEGO Football Collectible Figure (by @ChillaiKalan__) -->
+### Case 30: [LEGO futbol koleksiyon figürü](https://x.com/ChillaiKalan__/status/2068717001145778630) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGO futbol koleksiyon figürü"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGO futbol koleksiyon figürü"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGO futbol koleksiyon figürü"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGO futbol koleksiyon figürü"></a></td></tr>
+</table>
+
+**İstem:**
+
+```
+A highly detailed collectible toy figure inspired by a LEGO-style minifigure, standing in a professional studio. The figure has a realistic young woman’s face with porcelain skin, straight jet-black hair, blunt bangs, and a single striking white streak running through the hair. She wears small silver earrings and maintains a calm, confident expression. The body is a glossy plastic brick-toy minifigure wearing a soccer jersey with the number 10, matching shorts, and national-team-inspired colors. Full-body composition, centered framing, shallow depth of field, premium product photography, ultra-clean lighting, reflective plastic surfaces, realistic shadows, sharp focus, luxury collectible aesthetic, high-end commercial advertising style, photorealistic face blended seamlessly with toy body, 8K resolution, vibrant color grading, studio backdrop matching the jersey color theme.
+```
+

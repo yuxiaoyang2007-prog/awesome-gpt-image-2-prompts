@@ -345,7 +345,7 @@ Prompt 2: Create a 9-cell hybrid keyframe-to-transition storyboard sheet for a 1
 
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case164/output.jpg" width="500" alt="Output image"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 prompt:
@@ -376,7 +376,7 @@ Global: controlled studio lighting emphasizing meat texture and char marks, shal
 
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case165/output.jpg" width="500" alt="Output image"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 A minimalist food photograph featuring a single [FOOD] on a clean matte white surface, caught mid-transformation into a 3D pixel art style. The left half is perfectly photorealistic while the right half dissolves into large floating geometric cubes, each cube exposing the food's vibrant colors, textures, and inner details. Soft studio lighting, gentle shadows, shallow depth of field, hyperrealistic meets geometric abstraction, subtle motion blur on the cubes. High resolution cinematic close-up composition.
@@ -396,7 +396,7 @@ Full prompt:
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case166/output3.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
-**Prompt:**
+**İstem:**
 
 ```
 Full prompt:
@@ -416,7 +416,7 @@ Ancient Chinese palace perfume advertisement inspired by the legendary dancer Zh
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case167/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case167/output4.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
-**Prompt:**
+**İstem:**
 
 ```
 prompt:
@@ -441,7 +441,7 @@ Razor-sharp focus, vivid color saturation, clean shadows, sleek commercial produ
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case168/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case168/output2.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
-**Prompt:**
+**İstem:**
 
 ```
 Prompt 1:
@@ -462,7 +462,7 @@ A beautiful young woman in a green and white football jersey is sitting in a pac
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case169/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case169/output2.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
-**Prompt:**
+**İstem:**
 
 ```
 Sports Car Made of Lightning
@@ -478,7 +478,7 @@ Prompt: Supercar emerging from a storm cloud, body formed entirely from blue lig
 
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case170/output.jpg" width="500" alt="Output image"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Use the uploaded image as the one and only product reference. Preserve the jewelry exactly as it is, with high fidelity to its original design, shape, proportions, gemstone arrangement, metal tone, craftsmanship, setting, texture, and identity. Do not redesign, simplify, or alter the jewelry itself in any way. Keep the product accurate, luxurious, and instantly recognizable.
@@ -504,7 +504,7 @@ Avoid repeated concepts, repeated props, repeated backgrounds, flat lighting, we
 
 ![Miniature Brand Universe Shoe](../../images/ecommerce_case171/output.jpg)
 
-**Prompt:**
+**İstem:**
 ```
 A high-performance running shoe transformed into a miniature brand universe. The shoe is the hero character, surrounded by floating speed trails, miniature running tracks, energetic mascot companions, stopwatch icons, clouds, and dynamic sports-inspired elements. Oversized bold typography integrated into the scene. Clean commercial 3D rendering, pastel orange, white, and gray color palette derived from the product, premium packaging aesthetics, soft gloss, graphic backgrounds, floating platforms, collectible toy-like charm. Modern consumer branding, cute yet premium, highly shareable social-media campaign visual, rich detail, centered composition, studio quality.
 ```
@@ -521,7 +521,7 @@ A high-performance running shoe transformed into a miniature brand universe. The
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case172/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Romantic Smartphone Couple Scene Product Shot"></a></td></tr>
 </table>
 
-**Prompt:**
+**İstem:**
 
 ```
 Create a cozy cinematic romantic scene featuring two black smartphones standing vertically on a rustic wooden table, positioned side by side and slightly angled inward. Each phone displays a video call.
@@ -555,7 +555,7 @@ Distorted hands, extra fingers, broken anatomy, duplicated limbs, unrealistic re
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Çiçekli serum ürün çekimi"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Çiçekli serum ürün çekimi"></a></td></tr>
 </table>
 
-**Prompt:**
+**İstem:**
 
 ```
 Minimalist studio product photography, a small transparent glass facial oil dropper bottle with a black rubber pipette cap, containing pale pink serum with suspended dried pink floral elements, centered on a natural raw wooden block with visible grain and split texture. Tall matte white skincare box on the left labeled "HUILE ÉCLAT VISAGE" with clean black typography and subtle logo near the bottom. Clear cylindrical glass vase on the right filled with water and thin stems of dried pink gypsophila extending upward. Composition rests on a smooth matte pastel pink surface against a matching seamless pink studio background. Strong directional soft light from the left casts long natural-style shadows of the flowers onto the background, with gentle highlights on the glass, subtle reflections on the serum bottle, and soft texture on the wooden block. Straight-on tabletop camera angle, all objects in sharp focus. Color palette: blush pink, soft rose, warm light wood, clean white, transparent glass. Premium Scandinavian minimalist skincare aesthetic, ultra-realistic, studio-grade.
@@ -570,7 +570,7 @@ full prompt:
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case174/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ingredient Callout Ice Cream Ad"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 {
@@ -692,7 +692,7 @@ full prompt:
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case175/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Acılı chili chutney ürün çekimi"></a></td></tr>
 </table>
 
-**Prompt:**
+**İstem:**
 
 ```
 Overhead shot of a glass jar of spicy tomato chili chutney on a dark stone surface, surrounded by whole red tomatoes, tomato halves, fresh red chili peppers, black peppercorns, and a small wooden bowl with chutney and a spoon. Warm earthy backdrop, soft directional light, deep rich shadows, high contrast, clean minimal styling, commercial product photography, ultra-detailed, 4K.
@@ -706,7 +706,7 @@ Overhead shot of a glass jar of spicy tomato chili chutney on a dark stone surfa
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case176/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Havada süzülen yemek fotoğrafçılığı seti"></a></td></tr>
 </table>
 
-**Prompt:**
+**İstem:**
 
 ```
 A professional studio food photography series showcasing deconstructed dishes captured mid-air in dramatic high-speed levitation. Set against a seamless dusty pink backdrop with soft, even studio lighting, the ingredients burst and float in dynamic formations. Featured dishes include a suspended tiramisu with its components (scoops of gelato, ladyfingers, mascarpone cream, and coffee beans) hovering in the air, borscht elements (beets, rye bread slices, fresh herbs) floating above a ceramic bowl of soup resting on a wooden board, and a sourdough toast topped with mashed avocado and a runny poached egg caught mid-split. Fine details like flying crumbs, spice particles, scattered herbs, and liquid droplets should be razor-sharp with a shallow depth of field. Soft shadows fall beneath the main suspended elements.

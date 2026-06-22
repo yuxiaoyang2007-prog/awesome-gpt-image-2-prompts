@@ -602,7 +602,7 @@ Create a premium modern beverage advertisement poster in a vertical 3:4 format f
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad_case171/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Create a hyper-detailed luxury advertising poster in a cinematic miniature-world style. A gigantic royal diamond necklace with intricate gold filigree and massive ruby gemstones stands in the center like an architectural monument. Surround the necklace with a futuristic miniature city built around and inside the jewelry piece, including skyscrapers, elevated highways, bridges, spiral staircases, tiny human figures, luxury billboards, drones, helicopters, and cinematic urban activity. Use a deep crimson red monochrome background with gold and ruby accents. Add premium fashion-ad aesthetics, ultra-realistic textures, glossy reflections, dramatic studio lighting, depth of field, tilt-shift miniature effect, and high-end commercial composition. Include bold elegant typography at the top saying: "EMBRACE THE EXTRAORDINARY". Style inspired by luxury jewelry campaigns, surreal city-building concepts, and premium 3D advertising renders. Ultra realistic, 8K, octane render, sharp focus, highly detailed, cinematic shadows, symmetrical composition.
@@ -614,7 +614,7 @@ Create a hyper-detailed luxury advertising poster in a cinematic miniature-world
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad_case172/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Create a premium modern beverage promotional poster for We Drink.
@@ -706,7 +706,7 @@ Ultra-realistic beverage photography, premium advertising composition, Behance-q
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad_case173/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Prompt 1: Vibrant lifestyle food advertisement, smiling woman in a bright hot pink blazer sitting inside a colorful trendy café, holding a spoon and eating an acai berry bowl topped with strawberries, blueberries, banana slices, and granola, branded "Berry Loud" jar on wooden table, playful retro typography reading "BERRY LOUD" in large cream bubble letters, tropical café interior with hanging plants, warm natural sunlight, cheerful atmosphere, bold pink and teal color palette, shallow depth of field, cinematic food photography, ultra realistic, high detail, commercial ad campaign style, 4k
@@ -722,7 +722,7 @@ Prompt 2: Dynamic food product advertisement for "Berry Loud" mixed berry blend,
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case174/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Fragrance Campaign Portrait"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Transform the uploaded portrait into a luxurious cinematic fragrance poster inspired by the dark seductive elegance of a high-fashion perfume campaign. Preserve her exact facial features, warm skin tone, confident expression, wavy brunette hair, and recognizable identity. Style her as a mysterious femme fatale with soft glossy lips, luminous skin, subtle smoky eyes, and an intense captivating gaze.
@@ -742,7 +742,7 @@ The overall mood should feel seductive, mysterious, powerful, feminine, cinemati
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case175/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Berry Splash Cafe Campaign"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Prompt 1:
@@ -760,7 +760,7 @@ Create a dynamic food product advertisement for "Berry Loud" mixed berry blend. 
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case176/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fast Food Hero Poster"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 A cinematic 9:16 vertical composition featuring a gourmet "Smokey Obsidian" burger.
@@ -779,7 +779,7 @@ TECHNICAL: 4k resolution, macro photography style, shallow depth of field, neon-
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case177/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Matcha Granola Ad Poster"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 (Matcha Granola Ad)
@@ -803,7 +803,7 @@ Premium protein breakfast food advertisement poster featuring centered pouch pac
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case178/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Tropical Product Ad Poster"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 GPT Image 2 Prompt Create a creative commercial advertising poster for [PRODUCT NAME], a [PRODUCT TYPE], inspired by vibrant tropical product campaigns. Place the product as a large hero object on the center-right with realistic glossy reflections, sharp label details, and premium lighting. Add a stylish model sitting beside or slightly in front of the product, naturally interacting with it by [MODEL ACTION]. The model should look [MOOD], wearing [OUTFIT STYLE], and should not cover the product label.
@@ -816,7 +816,7 @@ GPT Image 2 Prompt Create a creative commercial advertising poster for [PRODUCT 
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case179/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Create a premium vertical 4:5 commercial advertising poster for perforated foam clogs, making the shoes visually central, clean, and instantly legible. Use the uploaded portrait photo only for the woman’s appearance and hairstyle so the final result keeps a similar identity. Preserve face shape, facial features, hairstyle, skin tone, body proportion, and overall temperament only; do not copy the original expression, clothing, background, lighting, or pose. Style her in refined modern summer campaign wardrobe with effortless premium casual energy. Composition: a confident lifestyle fashion portrait with the woman seated or stepping forward in an airy sunlit architectural setting, the clogs clearly visible in the foreground and on-foot, showing their rounded shape, ventilation holes, heel strap, soft matte foam texture, and lightweight comfort. Atmosphere: elevated urban resort, fresh air, clean shadows, soft natural daylight, polished commercial photography, subtle water or glass reflections, crisp product detail, realistic skin texture, premium but approachable. Poster headline: “STEP INTO AIR”. Subtitle: “Lightweight comfort for every city moment.” Use clean modern typography with generous spacing, placed in reserved negative space without covering the face or shoes. No watermark.
@@ -832,7 +832,7 @@ watermark, random text, misspelled headline, garbled letters, logo distortion, l
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case180/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Ultra realistic premium product advertising shot of a sleek aluminum energy drink can standing upright on a wet reflective surface inside a futuristic football stadium at night. The can design features vivid swirling rainbow brushstroke patterns in red, orange, yellow, green, and blue wrapping around the entire can, with a large glossy black and white soccer ball graphic in the center. Bold white distressed typography on the front reads “GOAL” with smaller clean modern text below saying “ENERGY DRINK”. Tiny premium icon details for energy, focus, and endurance near the bottom, along with “250 ml”.
@@ -850,7 +850,7 @@ Composition centered and symmetrical, low angle hero shot, shallow depth of fiel
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case181/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Edit this image while preserving the original subject, composition, and background.
@@ -877,7 +877,7 @@ The final result should feel like a real photo transformed into a creative scrap
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case182/output.jpg" width="300" alt="Output image"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 GPT Image 2 On ChatGPT
@@ -947,7 +947,7 @@ Left-aligned composition:
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case184/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Adidas Futuristic Drop Ad Poster 9:16"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Full prompt:
@@ -993,7 +993,7 @@ Style: Ultra-detailed hyper-realistic product photography, cinematic studio ligh
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case185/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Luxury Linen Texture Editorial Poster"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case185/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Luxury Linen Texture Editorial Poster"></a></td></tr>
 </table>
 
-**Prompt:**
+**İstem:**
 
 ```
 GPT Image 2 on ChatGPT 🪄
@@ -1031,7 +1031,7 @@ Technical: Ultra-photorealistic rendering, 8K detail sharpness, professional com
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case186/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Watch Dramatic Beam Product Shot"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 A luxury watch emerges from darkness. Extreme macro shot of ticking gears and moving hands. Golden sparks and floating particles surround the watch. The camera circles the timepiece while dramatic light streaks reflect across the sapphire crystal. Slow-motion water splash freezes in midair around the watch. Mechanical components assemble themselves automatically. Cinematic black-and-gold environment, premium commercial lighting, ultra-realistic reflections, luxury lifestyle advertisement, powerful orchestral atmosphere, smooth camera motion, product hero shot, brand reveal, Hollywood-level commercial, 8K photorealism.
@@ -1049,7 +1049,7 @@ A luxury watch emerges from darkness. Extreme macro shot of ticking gears and mo
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case187/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 可口可乐百事雪碧品牌 KV 对比"></a></td></tr>
 </table>
 
-**Prompt:**
+**İstem:**
 
 ```
 品牌 KV 海报系列。使用统一提示词框架，针对不同饮料品牌调整视觉情绪色彩：可口可乐 → 热烈红色聚会感；百事可乐 → 年轻蓝色潮流感；雪碧 → 清爽绿色柠檬感。同一结构展现不同品牌 DNA。3 张对比输出。
@@ -1066,7 +1066,7 @@ A luxury watch emerges from darkness. Extreme macro shot of ticking gears and mo
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case188/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Louis Vuitton luxury leather sneaker campaign. High-fashion editorial, avant-garde aesthetic. Aspect ratio 3:4.
@@ -1104,7 +1104,7 @@ Row 3, Surrealism:
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case189/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Design a 9:16 vertical product infographic for Bolt True Wireless Earbuds with a high-end lifestyle ad feel.
@@ -1148,7 +1148,7 @@ Clean Apple/Nike premium ad aesthetic, strong negative space
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case190/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Kinder Joy Salıncak Koltuğu Sahnesi"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Hyper-realistic 8k medium shot photograph with shallow depth of field, surreal indoor scene with cinematic lighting. A normal-sized woman sits cross-legged inside a massive, highly detailed Kinder Joy egg that's been converted into a swing chair. The egg is split open, its white interior forming the seat and orange textured exterior visible, suspended by dark metal chains from a curved metal stand.
@@ -1167,7 +1167,7 @@ Soft warm directional lighting from the left casts subtle shadows, highlighting 
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case191/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Görünmez Kalkan Güneş Kremi Reklamı"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case191/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Görünmez Kalkan Güneş Kremi Reklamı"></a></td></tr>
 </table>
 
-**Prompt:**
+**İstem:**
 
 ```
 SUNSCREEN AD, “THE INVISIBLE SHIELD”
@@ -1188,7 +1188,7 @@ Tagline:
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case192/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Gizli Logolu Manzara İllüzyonu"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case192/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Gizli Logolu Manzara İllüzyonu"></a></td></tr>
 </table>
 
-**Prompt:**
+**İstem:**
 
 ```
 Create a subliminal advertising landscape photograph where a recognizable brand logo (like the Apple logo, Nike swoosh, or Batman symbol) is secretly embedded into a breathtaking natural environment (like snowy mountains, dense jungle, sand dunes, or ocean coastline).
@@ -1215,7 +1215,7 @@ Output: 1:1 square, photorealistic, National Geographic aerial photography aesth
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case193/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - SPLASH Sıvı Logo Moda Posteri"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Hyper-realistic fashion campaign poster for brand "SPLASH". A girl (matching the reference photo exactly, same face) seated confidently atop a gleaming, water-like 3D SPLASH logo surrounded by dynamic water splash effects. Editorial pose: one leg loose, one bent.
@@ -1238,7 +1238,7 @@ Shot with an 85mm lens, shallow depth of field, 8K resolution, ultra-detailed, p
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case194/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - OBSIDIAN Coffee Brand Campaign"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Generate four cohesive high-end realistic editorial visuals for OBSIDIAN coffee brand. Cinematic, dark, mature aesthetic inspired by luxury sportswear and premium coffee advertising. Studio lighting that's dramatic yet controlled, photorealistic textures, clean compositional layout. Shot 1: Hero brand poster featuring 'OBSIDIAN' lettering with an artful coffee display — steam rising, beans scattered. Shot 2: Full product range — coffee bags, cans, and capsules arranged together. Shot 3: Tight packaging detail with tagline 'Coffee for grown-ups who chase flavor.' Shot 4: Lifestyle close-up of a steaming cup. Ultra-polished finish, crisp realistic materials, unified brand identity, no fantastical or surreal elements
@@ -1251,7 +1251,7 @@ Generate four cohesive high-end realistic editorial visuals for OBSIDIAN coffee 
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case195/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Coconut Paradise cilt bakımı reklamı"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Minimal white bottle with golden pump surrounded by cracked coconuts, coconut milk splash and foam clouds, tropical luxury spa atmosphere, creamy textures, realistic bubbles floating in background, premium skincare commercial, soft warm lighting, ultra detailed 8K.
@@ -1265,7 +1265,7 @@ Minimal white bottle with golden pump surrounded by cracked coconuts, coconut mi
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ters montaj ürün VFX'i"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ters montaj ürün VFX'i"></a></td></tr>
 </table>
 
-**Prompt:**
+**İstem:**
 
 ```
 [PRODUCT] reassembling in midair from scattered pieces, reverse-disintegration effect, mechanical precision, each component suspended at a different depth, dark void background, high-concept product advertising, cinematic VFX.
@@ -1278,7 +1278,7 @@ Minimal white bottle with golden pump surrounded by cracked coconuts, coconut mi
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case197/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Grape Reveal Can Product Shot"></a> |
 
-**Prompt:**
+**İstem:**
 
 ```
 Product shot of a 330ml aluminum can called "VINE GLOW – Natural Extract" placed center-frame against a clean light grey studio background. The can is adorned with refined purple vine line illustrations. A dramatic horizontal torn paper reveal slices across the can and background, exposing glistening red and purple grapes inside, covered in water droplets with a glossy wet texture. Soft studio lighting, ultra-sharp focus, photorealistic commercial packaging photography, symmetrical layout, 8K resolution.
@@ -1291,7 +1291,7 @@ Product shot of a 330ml aluminum can called "VINE GLOW – Natural Extract" plac
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case198/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Dev Ray-Ban Aviator reklamı"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case198/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Dev Ray-Ban Aviator reklamı"></a></td></tr>
 </table>
 
-**Prompt:**
+**İstem:**
 
 ```
 Minimalist commercial ad featuring oversized Ray-Ban Aviator sunglasses, ultra-clean design. A young woman in all-white outfit leans casually against the giant sunglasses, relaxed confident pose, eyes closed, also holding a regular-sized pair in her hand. Soft gradient golden background with large bold white “RAY-BAN” text behind. Glossy reflective floor, soft studio lighting, modern high-end product photography. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Iconic vision, every look.”

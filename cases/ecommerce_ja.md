@@ -504,7 +504,7 @@ Avoid repeated concepts, repeated props, repeated backgrounds, flat lighting, we
 
 ![Miniature Brand Universe Shoe](../../images/ecommerce_case171/output.jpg)
 
-**Prompt:**
+**プロンプト:**
 ```
 A high-performance running shoe transformed into a miniature brand universe. The shoe is the hero character, surrounded by floating speed trails, miniature running tracks, energetic mascot companions, stopwatch icons, clouds, and dynamic sports-inspired elements. Oversized bold typography integrated into the scene. Clean commercial 3D rendering, pastel orange, white, and gray color palette derived from the product, premium packaging aesthetics, soft gloss, graphic backgrounds, floating platforms, collectible toy-like charm. Modern consumer branding, cute yet premium, highly shareable social-media campaign visual, rich detail, centered composition, studio quality.
 ```

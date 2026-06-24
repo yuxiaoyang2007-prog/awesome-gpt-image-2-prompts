@@ -3185,3 +3185,198 @@ A first-person point-of-view (POV) shot inside a modern supermarket aisle. The v
 Design a visually rich infographic about an endangered animal using Chinese text. Feature a photorealistic animal as the main focal point, surrounded by annotated diagrams, structured callouts, and concise labels covering its habitat, diet, and distinctive traits. Blend photorealism with bold graphic design elements including color blocking, icons, and layered shapes on a clean background. Make it dense with information, tactile in feel, and professionally crafted.
 ```
 
+<!-- Case 191: Layout de receita de livro de culinária escandinavo (by @iamaiistudio) -->
+### Case 191: [Layout de receita de livro de culinária escandinavo](https://x.com/iamaiistudio/status/2069197657147638241) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case191/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Layout de receita de livro de culinária escandinavo"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case191/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Layout de receita de livro de culinária escandinavo"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case191/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Layout de receita de livro de culinária escandinavo"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case191/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Layout de receita de livro de culinária escandinavo"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+{
+  "style": "Clean minimalist recipe infographic",
+  "visual_aesthetic": {
+    "photography_style": "Top-down and 3-quarter angle food photography",
+    "design_language": "Nordic editorial cookbook aesthetic",
+    "background": "Warm beige / cream neutral",
+    "lighting": "Soft diffused light with gentle shadows",
+    "detail_level": "Photorealistic, ultra-sharp, 8K quality"
+  },
+  "layout": {
+    "composition": "Hero dish centered on a white ceramic plate or bowl",
+    "elements": [
+      "Ingredient icons in soft rounded frames",
+      "Minimal vector-style ingredient illustrations",
+      "Ingredient labels with quantities",
+      "Numbered step-by-step cooking flow with icons"
+    ],
+    "typography": "Modern sans-serif, high readability",
+    "spacing": "Airy, balanced, uncluttered"
+  },
+  "recipes": [
+    {
+      "dish_name": "Traditional Polish Pierogi",
+      "dish_presentation": "Golden boiled dumplings stuffed with potato and farmer cheese, finished with butter and fresh chives",
+      "ingredients": [
+        { "name": "All-purpose flour", "quantity": "2.5 cups" },
+        { "name": "Potatoes", "quantity": "3 medium" },
+        { "name": "Farmer cheese", "quantity": "200g" },
+        { "name": "Onion", "quantity": "1 medium" },
+        { "name": "Butter", "quantity": "40g" },
+        { "name": "Salt", "quantity": "1 tsp" },
+        { "name": "Water", "quantity": "0.75 cups" }
+      ],
+      "steps": [
+        "Make the dough",
+        "Cook and mash the filling",
+        "Fill and fold pierogi",
+        "Boil until tender",
+        "Finish with butter"
+      ],
+      "meta": {
+        "calories": "270 kcal / serving",
+        "time": "70 min",
+        "servings": 4
+      }
+    },
+    {
+      "dish_name": "Vinaigrette Salad",
+      "dish_presentation": "Vibrant diced root vegetables tossed in a light dressing, shaped and garnished with fresh herbs",
+      "ingredients": [
+        { "name": "Beetroot", "quantity": "2 medium" },
+        { "name": "Potatoes", "quantity": "2 medium" },
+        { "name": "Carrots", "quantity": "1 medium" },
+        { "name": "Pickled cucumbers", "quantity": "2 pcs" },
+        { "name": "Green peas", "quantity": "1 cup" },
+        { "name": "Sunflower oil", "quantity": "2 tbsp" },
+        { "name": "Fresh dill", "quantity": "1 bunch" }
+      ],
+      "steps": [
+        "Boil the vegetables",
+        "Cool and dice",
+        "Combine all ingredients",
+        "Dress the salad",
+        "Refrigerate and serve"
+      ],
+      "meta": {
+        "calories": "180 kcal / serving",
+        "time": "30 min + chill",
+        "servings": 4
+      }
+    },
+    {
+      "dish_name": "Solyanka Soup",
+      "dish_presentation": "Hearty soup loaded with sliced mixed meats, briny olives, lemon, and fresh herbs, served in a ceramic bowl",
+      "ingredients": [
+        { "name": "Mixed meats", "quantity": "400g" },
+        { "name": "Onion", "quantity": "1 large" },
+        { "name": "Pickles", "quantity": "3 pcs" },
+        { "name": "Tomato paste", "quantity": "2 tbsp" },
+        { "name": "Olives", "quantity": "0.5 cup" },
+        { "name": "Garlic", "quantity": "2 cloves" },
+        { "name": "Bay leaf", "quantity": "1 pc" },
+        { "name": "Lemon", "quantity": "for serving" }
+      ],
+      "steps": [
+        "Prepare the broth",
+        "Saute aromatics",
+        "Add meats and pickles",
+        "Season and simmer",
+        "Serve with lemon"
+      ],
+      "meta": {
+        "calories": "320 kcal / serving",
+        "time": "90 min",
+        "servings": 5
+      }
+    }
+  ]
+}
+```
+<!-- Case 192: Sistema modular de ícones de marca (by @iamaiistudio) -->
+### Case 192: [Sistema modular de ícones de marca](https://x.com/iamaiistudio/status/2069150843430215859) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case192/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Sistema modular de ícones de marca"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case192/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Sistema modular de ícones de marca"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case192/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Sistema modular de ícones de marca"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case192/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Sistema modular de ícones de marca"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Design a unified set of charming, expressive icons for [BRAND NAME], a [BRAND TYPE/INDUSTRY] company. The visual style should be [STYLE KEYWORDS: e.g., rounded, 3D, flat, hand-drawn, minimal] paired with a [COLOR STYLE: vibrant, pastel, gradient, monochrome] color scheme. Apply [DESIGN TRAITS: soft shadows, bold outlines, subtle textures, glow, etc.] to achieve a warm and contemporary look. Keep a consistent visual system across all icons using shared grids, proportions, and design language. The icon set should cover [LIST OF FEATURES/FUNCTIONS]. Prioritize sharp legibility, well-balanced spacing, and scalability across UI, apps, and branding contexts.
+```
+<!-- Case 193: Painel de planejamento de expedição (by @iamaiistudio) -->
+### Case 193: [Painel de planejamento de expedição](https://x.com/iamaiistudio/status/2069104692098130014) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case193/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Painel de planejamento de expedição"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case193/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Painel de planejamento de expedição"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case193/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Painel de planejamento de expedição"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case193/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Painel de planejamento de expedição"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+A strategic command board for an expedition leader planning [JOURNEY / MISSION] to [DESTINATION / ERA]. Left panel: detailed topographic route map with labeled waypoints, annotated danger zones, and a timeline running along the edge. Center panel: overhead flat lay of every piece of kit in neat organized rows, each item tagged by weight and function, redundancies flagged, nothing unnecessary included. Right panel: the expedition in motion or the destination reached, small human figures against a vast landscape, scale unmistakable. Visual language shifts from cartographic precision through functional inventory documentation to sweeping epic environmental photography. Title block reads: "[EXPEDITION NAME] — [ROUTE], [DATE], [OBJECTIVE]".
+```
+<!-- Case 194: Mockup de UI para live commerce (by @iamaiistudio) -->
+### Case 194: [Mockup de UI para live commerce](https://x.com/iamaiistudio/status/2069090579355668501) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case194/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mockup de UI para live commerce"></a> |
+
+**Prompt:**
+
+```
+{
+  "type": "live stream UI mockup",
+  "subject": {
+    "description": "portrait of {argument name=\"host name\" default=\"Elon Musk\"}, smiling, dressed in a black t-shirt featuring a white technical schematic print",
+    "background": "left side displays a screen showing '{argument name=\"left background logo\" default=\"SPACEX\"}' text, right side shows a red '{argument name=\"right background logo\" default=\"Tesla T logo\"}' and a dark-colored car"
+  },
+  "ui_overlay": {
+    "top_header": {
+      "host_info": "avatar, host name '{argument name=\"host name\" default=\"Elon Musk\"}', subtext '556k likes this stream', red 'Follow' button",
+      "rank_badge": "gold coin icon labeled 'No.1 Site-wide'",
+      "viewer_stats": "3 top viewer avatars with counts '123k', '86k', '57k', total viewers '687k', 'X' close button",
+      "right_links": "'More streams >', 'Gift Hall 0/24' with blue 'Classic' tag"
+    },
+    "mid_left_gifts": {
+      "count": 2,
+      "items": [
+        "avatar 'TechFan', 'sent a Little Heart', heart icon x 1314",
+        "avatar 'SeaOfStars', 'sent a Rocket', rocket icon x 666"
+      ]
+    },
+    "bottom_left_chat": {
+      "system_message": "level 37 badge 'CosmicWanderer joined the stream'",
+      "message_count": 7,
+      "messages": [
+        "LittleRocket: Musk! The future is bright! 🚀",
+        "future: When is Tesla Model 2 coming out?",
+        "StarryDreamer: Will SpaceX reach Mars this year?",
+        "AIExplorer: What's the latest on Neuralink?",
+        "HandsomeNetizen: Hello Boss Ma!",
+        "Mars: First time watching your stream, super excited!",
+        "User123: Talk about AI — will it replace humans?"
+      ]
+    },
+    "bottom_right_product_card": {
+      "hot_tag": "orange 'Hot Sale x 1888'",
+      "image": "Tesla Cybertruck",
+      "title": "{argument name=\"product name\" default=\"Tesla Cybertruck Electric Pickup\"}",
+      "price": "{argument name=\"product price\" default=\"¥1,618,000\"}",
+      "button": "red 'Buy' button",
+      "floating_animation": "translucent hearts drifting up along the right edge"
+    },
+    "bottom_bar": {
+      "input_field": "'Say something...'",
+      "icons": ["smiley face", "three dots", "shopping cart", "gift box", "share"]
+    }
+  }
+}
+```

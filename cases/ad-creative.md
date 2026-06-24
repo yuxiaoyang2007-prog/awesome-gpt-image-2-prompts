@@ -1297,3 +1297,136 @@ Product shot of a 330ml aluminum can called "VINE GLOW – Natural Extract" plac
 ```
 Minimalist commercial ad featuring oversized Ray-Ban Aviator sunglasses, ultra-clean design. A young woman in all-white outfit leans casually against the giant sunglasses, relaxed confident pose, eyes closed, also holding a regular-sized pair in her hand. Soft gradient golden background with large bold white “RAY-BAN” text behind. Glossy reflective floor, soft studio lighting, modern high-end product photography. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Iconic vision, every look.”
 ```
+
+<!-- Case 199: Noir Elixir Perfume Ad (by @iamaiistudio) -->
+### Case 199: [Noir Elixir Perfume Ad](https://x.com/iamaiistudio/status/2069238367792112016) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case199/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Noir Elixir Perfume Ad"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case199/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Noir Elixir Perfume Ad"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Ultra-cinematic luxury fragrance advertising photography of "NOIR ÉLIXIR – Midnight Reserve" perfume bottle. Faceted geometric crystal bottle with sharp elegant edges, deep smoked black gradient glass, polished reflective surfaces with subtle matte facets. Magnetic brushed gold metal cap with engraved emblem. Minimal serif typography etched directly into glass with gold inlay. Dark amber liquid with golden undertones.
+
+Bottle floats mid-air at a dramatic diagonal hero angle with slight forward tilt. Atomized perfume mist trails and fluid fragrance ribbons suspended in motion. Background: deep black velvet gradient fading into shadow. Surrounding elements: atomized perfume droplets suspended mid-air, shattered crystal glass fragments catching highlights, dark orchid petals drifting slowly, glossy black citrus peel curls, fine gold dust particles sparkling in light. Micro condensation beads and polished reflections enhancing realism.
+
+Lighting: dramatic low-key studio with soft directional key light sculpting glass facets, strong rim lights outlining silhouette and edges, gold-toned specular highlights on cap and engraved details, deep cinematic shadows, high contrast with controlled reflections and luminous highlights.
+
+Color palette: obsidian black, smoked charcoal, deep amber with metallic gold and warm champagne glow accents.
+
+Macro cinema prime lens, shallow depth of field isolating product from background, smooth cinematic bokeh from reflective particles, extreme micro-detail clarity. 8K ultra high definition, hyper-realistic luxury commercial render, accurate glass refraction and internal reflections, physically accurate fluid dynamics, ultra-detailed crystal, metal, mist, and micro-droplet textures. Vertical 4:5 aspect ratio.
+```
+<!-- Case 200: Fluorescent Foam Logo Hero (by @iamaiistudio) -->
+### Case 200: [Fluorescent Foam Logo Hero](https://x.com/iamaiistudio/status/2069135898265125326) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case200/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fluorescent Foam Logo Hero"></a> |
+
+**Prompt:**
+
+```
+[BRAND NAME] | [COLOR]
+
+CORE RULE: The fluid mass must take the exact shape of the [BRAND NAME] logo — not a circle, not a blob, not an oval. The outer silhouette of the fluid IS the logo outline, identical to the canonical trademark. If you cover the bubble texture and look only at the silhouette, you must immediately recognize [BRAND NAME]. This is the single most important rule and overrides everything else.
+
+Create a hero image as a Macro Fluid Photographer and CGI Art Director: the brand logo formed entirely from living fluorescent foam and bubble liquid — as if poured into a logo-shaped mold on a black surface, captured at peak bubble activity. References: macro fluid photography, fluorescent paint foam art, soap bubble macro photography.
+
+PHASE 0: LOGO GEOMETRY IS LAW
+Use the 100% canonical [BRAND NAME] trademark silhouette — every curve, angle, and proportion exactly as trademarked. This silhouette is the rigid mold. The fluid fills its interior. The outer boundary of the fluid mass IS the logo outline — precise and hard. Gaps in the logo design show pure black background. No container (no circle, oval, badge, or frame). Correct canonical upright orientation — not rotated, flipped, or tilted. Zero fluid, bubbles, or droplets outside the logo boundary. When fluid physics conflict with logo geometry — geometry wins always. Apply [COLOR] as the fluid foam color throughout in maximum fluorescent saturation.
+
+PHASE 1: FLUID MATERIAL
+The logo is filled with a single viscous fluid in two physical states simultaneously. NOT water — thick, surface-tension-dominant, like fluorescent soap foam or colored slime. Base: [COLOR] at maximum fluorescent saturation, self-luminous, UV-reactive quality. Tonal variation within [COLOR] only: bubble membrane walls 35-45% lighter (near-transparent); mid-thickness zones pure saturated [COLOR]; deep liquid pools 25-35% darker. Liquid surface: high gloss, wet, shiny, broad specular reflection. Foam membranes: lower gloss, subtle soap film iridescence.
+
+PHASE 2: BUBBLE ARCHITECTURE
+Full size hierarchy across foam zone only. Large anchor bubbles 10-18mm, 4-8 count. Medium 4-9mm, 15-25 count. Small 1.5-3mm, 30-50 count. Micro 0.5-1mm, 50-100+ count. Each bubble: physically accurate air sphere in thin colored membrane 0.1-0.3mm thick, semi-transparent. Dome highlight: bright white crescent arc in upper-left, 15-20% of dome surface, soft-edged, white. Burst holes: 3-8 irregular dark voids in foam zone only, never at logo boundary edges.
+
+PHASE 3: DUAL-STATE CONTRAST
+Left zone — foam state: dense chaotic foam with full bubble hierarchy, strictly within logo silhouette, no bubbles at or beyond the edge. Right zone — liquid state: smooth continuous mass, bubbles absent (max 2-3 micro at transition edge), high gloss with broad soft specular highlight toward upper-left. Transition zone: 8-15mm wide gradual transition at vertical center. Both foam and liquid sides terminate exactly at the canonical logo outline — clean edge, no ragged silhouette. NO splatter, droplets, spray, or tendrils beyond the boundary.
+
+PHASE 4: LIGHTING
+Primary: large softbox upper-LEFT at 20-30 degrees from vertical, 5500K neutral white. Left and upper-left surfaces brighter, right relatively darker. All bubble dome highlights in upper-left. Liquid zone specular toward upper-left. Micro-shadows from bubbles fall lower-right, 0.5-1mm. Secondary: 8-10% cool ambient from above. No fill from right, no rim light, no colored light.
+
+PHASE 5: COMPOSITION
+Background: absolute black  zero texture, zero noise. Aspect ratio 1:1. Logo occupies 60-70% of frame, centered. Camera: directly overhead, perfectly perpendicular, zero perspective distortion, zero rotation. Pure top-down macro. Sharp depth of field across entire surface.
+
+PHASE 6: TECH SPECS
+Houdini FLIP fluid simulation + Redshift/Octane or equivalent photorealistic CGI. Fluid simulation domain bounded by logo silhouette — cannot escape boundary. Real FLIP geometry per bubble, not texture map. Bubble membranes: thin-shell geometry, IOR 1.33, transmission 0.7-0.85, thin-film iridescence. Liquid zone: smooth FLIP mesh, roughness 0.02-0.05. Foam: fluorescent shader, emissive 0.05-0.1, SSS 2-4mm. Area light 80x80cm upper-left 20-30 degrees, 5500K. HDRI ambient 8-10% neutral gray. Ray tracing 12+ bounces, caustics on, sampling 2048+, max anti-aliasing. No film grain, no post-process.
+
+FINAL CHECK: (1) Does the fluid silhouette exactly match the [BRAND NAME] logo? (2) Is it inside a container? If yes, regenerate. (3) Any fluid outside the boundary? If yes, regenerate. (4) Both foam and liquid states visible? If no, regenerate.
+```
+<!-- Case 201: Glossier Brand World Collage (by @iamaiistudio) -->
+### Case 201: [Glossier Brand World Collage](https://x.com/iamaiistudio/status/2069120574287392978) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case201/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Glossier Brand World Collage"></a> |
+
+**Prompt:**
+
+```
+Act as a world-class creative director, brand strategist, and editorial art director with deep expertise in high-impact campaign systems for global brands.
+
+Create a bold, visually explosive, densely layered editorial moodboard collage that captures an entire brand identity system in a single frame. The result should feel raw, expressive, and intentionally chaotic, like a brand world exploding on the canvas.
+
+BRAND INPUTS:
+
+BRAND NAME: GLOSSIER
+PRODUCT TYPE: beauty / skincare
+PRIMARY COLOR: soft pink
+SECONDARY COLOR: white
+ACCENT: translucent gloss
+PERSONALITY: fresh, minimal, youthful, clean
+SLOGAN: SKIN FIRST
+
+COMPOSITION:
+
+Build a dense, overlapping collage that mixes:
+
+• real product photography and lifestyle imagery
+• packaging elements: bags, boxes, labels, stickers
+• typography snippets and brand phrases
+• hand-drawn doodles and illustrated graphics
+• icons, symbols, and badge / stamp elements
+• abstract blobs, squiggles, and starbursts
+• UI-style cards, menus, and label panels
+• editorial cutouts layered with depth
+
+The layout should feel:
+
+• asymmetrical, not grid-based
+• intentionally messy but visually balanced
+• like a Pinterest board crossed with a high-end campaign shoot
+• expressive, youthful, and saturated with brand identity
+
+VISUAL EXECUTION:
+
+Include elements such as:
+
+• product packaging mockups (bags, boxes, tags)
+• a lifestyle shot of someone interacting with the brand
+• bold headline typography blocks
+• illustrated objects interacting with real photography
+• merch items: t-shirt, tote bag, cap
+• playful graphic overlays and brand-consistent texture
+
+COLOR RULES:
+
+• strictly adhere to the brand palette
+• dominant use of soft pink throughout
+• white for contrast and layering
+• avoid introducing off-brand colors
+• high contrast and visually commanding
+
+TYPOGRAPHY:
+
+• mix of editorial serif and clean sans-serif
+• bold headlines paired with small UI-style text
+• brand name and slogan integrated naturally into the layout
+
+FINAL FEEL:
+
+This must look like a creative direction board for a global campaign. Not a clean layout, not a grid, not minimal. It must feel alive, layered, and brand-heavy, a visual identity snapshot that is highly shareable and scroll-stopping.
+```

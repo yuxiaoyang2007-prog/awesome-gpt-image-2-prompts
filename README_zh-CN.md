@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![919 Curated Prompts](https://img.shields.io/badge/Prompts-919_Curated_Cases-111111)](README.md)
+[![929 Curated Prompts](https://img.shields.io/badge/Prompts-929_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -44,7 +44,7 @@
 
 欢迎来到 **Awesome GPT Image 2 API and Prompts** 仓库！🤗
 
-精选收录 **919+ 个高质量 GPT-Image-2 提示词**、API 使用模式与可复用视觉工作流，面向 AI 图像生成实践。
+精选收录 **929+ 个高质量 GPT-Image-2 提示词**、API 使用模式与可复用视觉工作流，面向 AI 图像生成实践。
 
 无论你想找 GPT-Image-2 提示词示例、文生图最佳实践、图像编辑技巧，还是可直接复用的 prompt 模板，这里都可以作为你的参考入口。
 
@@ -80,6 +80,8 @@
 > 关于 API 的更多使用方式，请继续阅读下方“使用 GPT Image 2 API”部分。
 
 ## 📰 最新动态
+
+**2026年6月23日：** 从每日 image-prompt 更新循环中新增 10 个 GPT-Image-2 提示词案例（3 个广告创意、4 个 UI、1 个海报、1 个对比、1 个人像），并完成语义审核与媒体校验
 
 **2026年6月22日：** 从每日图片提示词更新流程中新增 8 个 GPT-Image-2 提示词案例（5 个海报、1 个人像、1 个角色、1 个 UI），已完成语义审核与媒体校验
 
@@ -544,7 +546,7 @@ A professional studio food photography series showcasing deconstructed dishes ca
 
 ## 📣 Ad Creative Cases
 
-> **25 个精选案例** — [浏览全部广告创意提示词 →](cases/ad-creative.md)
+> **28 个精选案例** — [浏览全部广告创意提示词 →](cases/ad-creative.md)
 
 <!-- Case 176: Luxury Chronograph Watch Ad (by @AlwaveNazca) -->
 ### Case 176: [Luxury Chronograph Watch Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
@@ -1119,9 +1121,141 @@ Product shot of a 330ml aluminum can called "VINE GLOW – Natural Extract" plac
 Minimalist commercial ad featuring oversized Ray-Ban Aviator sunglasses, ultra-clean design. A young woman in all-white outfit leans casually against the giant sunglasses, relaxed confident pose, eyes closed, also holding a regular-sized pair in her hand. Soft gradient golden background with large bold white “RAY-BAN” text behind. Glossy reflective floor, soft studio lighting, modern high-end product photography. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Iconic vision, every look.”
 ```
 
+<!-- Case 199: Noir Elixir 香水广告 (by @iamaiistudio) -->
+### Case 199: [Noir Elixir 香水广告](https://x.com/iamaiistudio/status/2069238367792112016) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case199/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Noir Elixir 香水广告"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case199/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Noir Elixir 香水广告"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Ultra-cinematic luxury fragrance advertising photography of "NOIR ÉLIXIR – Midnight Reserve" perfume bottle. Faceted geometric crystal bottle with sharp elegant edges, deep smoked black gradient glass, polished reflective surfaces with subtle matte facets. Magnetic brushed gold metal cap with engraved emblem. Minimal serif typography etched directly into glass with gold inlay. Dark amber liquid with golden undertones.
+
+Bottle floats mid-air at a dramatic diagonal hero angle with slight forward tilt. Atomized perfume mist trails and fluid fragrance ribbons suspended in motion. Background: deep black velvet gradient fading into shadow. Surrounding elements: atomized perfume droplets suspended mid-air, shattered crystal glass fragments catching highlights, dark orchid petals drifting slowly, glossy black citrus peel curls, fine gold dust particles sparkling in light. Micro condensation beads and polished reflections enhancing realism.
+
+Lighting: dramatic low-key studio with soft directional key light sculpting glass facets, strong rim lights outlining silhouette and edges, gold-toned specular highlights on cap and engraved details, deep cinematic shadows, high contrast with controlled reflections and luminous highlights.
+
+Color palette: obsidian black, smoked charcoal, deep amber with metallic gold and warm champagne glow accents.
+
+Macro cinema prime lens, shallow depth of field isolating product from background, smooth cinematic bokeh from reflective particles, extreme micro-detail clarity. 8K ultra high definition, hyper-realistic luxury commercial render, accurate glass refraction and internal reflections, physically accurate fluid dynamics, ultra-detailed crystal, metal, mist, and micro-droplet textures. Vertical 4:5 aspect ratio.
+```
+<!-- Case 200: 荧光泡沫 Logo 主视觉 (by @iamaiistudio) -->
+### Case 200: [荧光泡沫 Logo 主视觉](https://x.com/iamaiistudio/status/2069135898265125326) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case200/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 荧光泡沫 Logo 主视觉"></a> |
+
+**Prompt:**
+
+```
+[BRAND NAME] | [COLOR]
+
+CORE RULE: The fluid mass must take the exact shape of the [BRAND NAME] logo — not a circle, not a blob, not an oval. The outer silhouette of the fluid IS the logo outline, identical to the canonical trademark. If you cover the bubble texture and look only at the silhouette, you must immediately recognize [BRAND NAME]. This is the single most important rule and overrides everything else.
+
+Create a hero image as a Macro Fluid Photographer and CGI Art Director: the brand logo formed entirely from living fluorescent foam and bubble liquid — as if poured into a logo-shaped mold on a black surface, captured at peak bubble activity. References: macro fluid photography, fluorescent paint foam art, soap bubble macro photography.
+
+PHASE 0: LOGO GEOMETRY IS LAW
+Use the 100% canonical [BRAND NAME] trademark silhouette — every curve, angle, and proportion exactly as trademarked. This silhouette is the rigid mold. The fluid fills its interior. The outer boundary of the fluid mass IS the logo outline — precise and hard. Gaps in the logo design show pure black background. No container (no circle, oval, badge, or frame). Correct canonical upright orientation — not rotated, flipped, or tilted. Zero fluid, bubbles, or droplets outside the logo boundary. When fluid physics conflict with logo geometry — geometry wins always. Apply [COLOR] as the fluid foam color throughout in maximum fluorescent saturation.
+
+PHASE 1: FLUID MATERIAL
+The logo is filled with a single viscous fluid in two physical states simultaneously. NOT water — thick, surface-tension-dominant, like fluorescent soap foam or colored slime. Base: [COLOR] at maximum fluorescent saturation, self-luminous, UV-reactive quality. Tonal variation within [COLOR] only: bubble membrane walls 35-45% lighter (near-transparent); mid-thickness zones pure saturated [COLOR]; deep liquid pools 25-35% darker. Liquid surface: high gloss, wet, shiny, broad specular reflection. Foam membranes: lower gloss, subtle soap film iridescence.
+
+PHASE 2: BUBBLE ARCHITECTURE
+Full size hierarchy across foam zone only. Large anchor bubbles 10-18mm, 4-8 count. Medium 4-9mm, 15-25 count. Small 1.5-3mm, 30-50 count. Micro 0.5-1mm, 50-100+ count. Each bubble: physically accurate air sphere in thin colored membrane 0.1-0.3mm thick, semi-transparent. Dome highlight: bright white crescent arc in upper-left, 15-20% of dome surface, soft-edged, white. Burst holes: 3-8 irregular dark voids in foam zone only, never at logo boundary edges.
+
+PHASE 3: DUAL-STATE CONTRAST
+Left zone — foam state: dense chaotic foam with full bubble hierarchy, strictly within logo silhouette, no bubbles at or beyond the edge. Right zone — liquid state: smooth continuous mass, bubbles absent (max 2-3 micro at transition edge), high gloss with broad soft specular highlight toward upper-left. Transition zone: 8-15mm wide gradual transition at vertical center. Both foam and liquid sides terminate exactly at the canonical logo outline — clean edge, no ragged silhouette. NO splatter, droplets, spray, or tendrils beyond the boundary.
+
+PHASE 4: LIGHTING
+Primary: large softbox upper-LEFT at 20-30 degrees from vertical, 5500K neutral white. Left and upper-left surfaces brighter, right relatively darker. All bubble dome highlights in upper-left. Liquid zone specular toward upper-left. Micro-shadows from bubbles fall lower-right, 0.5-1mm. Secondary: 8-10% cool ambient from above. No fill from right, no rim light, no colored light.
+
+PHASE 5: COMPOSITION
+Background: absolute black  zero texture, zero noise. Aspect ratio 1:1. Logo occupies 60-70% of frame, centered. Camera: directly overhead, perfectly perpendicular, zero perspective distortion, zero rotation. Pure top-down macro. Sharp depth of field across entire surface.
+
+PHASE 6: TECH SPECS
+Houdini FLIP fluid simulation + Redshift/Octane or equivalent photorealistic CGI. Fluid simulation domain bounded by logo silhouette — cannot escape boundary. Real FLIP geometry per bubble, not texture map. Bubble membranes: thin-shell geometry, IOR 1.33, transmission 0.7-0.85, thin-film iridescence. Liquid zone: smooth FLIP mesh, roughness 0.02-0.05. Foam: fluorescent shader, emissive 0.05-0.1, SSS 2-4mm. Area light 80x80cm upper-left 20-30 degrees, 5500K. HDRI ambient 8-10% neutral gray. Ray tracing 12+ bounces, caustics on, sampling 2048+, max anti-aliasing. No film grain, no post-process.
+
+FINAL CHECK: (1) Does the fluid silhouette exactly match the [BRAND NAME] logo? (2) Is it inside a container? If yes, regenerate. (3) Any fluid outside the boundary? If yes, regenerate. (4) Both foam and liquid states visible? If no, regenerate.
+```
+<!-- Case 201: Glossier 品牌世界拼贴 (by @iamaiistudio) -->
+### Case 201: [Glossier 品牌世界拼贴](https://x.com/iamaiistudio/status/2069120574287392978) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case201/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Glossier 品牌世界拼贴"></a> |
+
+**Prompt:**
+
+```
+Act as a world-class creative director, brand strategist, and editorial art director with deep expertise in high-impact campaign systems for global brands.
+
+Create a bold, visually explosive, densely layered editorial moodboard collage that captures an entire brand identity system in a single frame. The result should feel raw, expressive, and intentionally chaotic, like a brand world exploding on the canvas.
+
+BRAND INPUTS:
+
+BRAND NAME: GLOSSIER
+PRODUCT TYPE: beauty / skincare
+PRIMARY COLOR: soft pink
+SECONDARY COLOR: white
+ACCENT: translucent gloss
+PERSONALITY: fresh, minimal, youthful, clean
+SLOGAN: SKIN FIRST
+
+COMPOSITION:
+
+Build a dense, overlapping collage that mixes:
+
+• real product photography and lifestyle imagery
+• packaging elements: bags, boxes, labels, stickers
+• typography snippets and brand phrases
+• hand-drawn doodles and illustrated graphics
+• icons, symbols, and badge / stamp elements
+• abstract blobs, squiggles, and starbursts
+• UI-style cards, menus, and label panels
+• editorial cutouts layered with depth
+
+The layout should feel:
+
+• asymmetrical, not grid-based
+• intentionally messy but visually balanced
+• like a Pinterest board crossed with a high-end campaign shoot
+• expressive, youthful, and saturated with brand identity
+
+VISUAL EXECUTION:
+
+Include elements such as:
+
+• product packaging mockups (bags, boxes, tags)
+• a lifestyle shot of someone interacting with the brand
+• bold headline typography blocks
+• illustrated objects interacting with real photography
+• merch items: t-shirt, tote bag, cap
+• playful graphic overlays and brand-consistent texture
+
+COLOR RULES:
+
+• strictly adhere to the brand palette
+• dominant use of soft pink throughout
+• white for contrast and layering
+• avoid introducing off-brand colors
+• high contrast and visually commanding
+
+TYPOGRAPHY:
+
+• mix of editorial serif and clean sans-serif
+• bold headlines paired with small UI-style text
+• brand name and slogan integrated naturally into the layout
+
+FINAL FEEL:
+
+This must look like a creative direction board for a global campaign. Not a clean layout, not a grid, not minimal. It must feel alive, layered, and brand-heavy, a visual identity snapshot that is highly shareable and scroll-stopping.
+```
 ## 🍌 Portrait & Photography Cases
 
-> **130 个精选案例** — [浏览全部人像与摄影提示词 →](cases/portrait.md)
+> **131 个精选案例** — [浏览全部人像与摄影提示词 →](cases/portrait.md)
 
 <!-- Case 124: Convenience Store Neon Portrait (by @BubbleBrain) -->
 ### Case 124: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
@@ -3516,9 +3650,21 @@ Aspect ratio: 9:16
 ```
 
 
+<!-- Case 314: 复古动态模糊街头人像 (by @iamaiistudio) -->
+### Case 314: [复古动态模糊街头人像](https://x.com/iamaiistudio/status/2068887185269616803) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case314/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 复古动态模糊街头人像"></a> |
+
+**Prompt:**
+
+```
+A stylish woman standing still with hands in pockets, wearing a loose sage-green button-up shirt tucked into high-waisted dark trousers. Calm, confident expression. Vintage cars rushing past at high speed behind her, creating dramatic motion blur trails with a long-exposure photography effect. Street portrait setting, warm golden-hour lighting, muted retro color palette with reds, teals, and yellows streaking across the frame. Sharp focus on the woman with shallow depth of field, strong subject isolation. Cinematic realism, editorial fashion mood, nostalgic 1970s film look, soft grain, ultra-detailed, high resolution.
+```
 ## 🎨 Poster & Illustration Cases
 
-> **155 个精选案例** — [浏览全部海报与插画提示词 →](cases/poster.md)
+> **156 个精选案例** — [浏览全部海报与插画提示词 →](cases/poster.md)
 
 <!-- Case 214: Peacock Botanical Vintage Symmetrical Art Print (by @dotey) -->
 ### Case 214: [Peacock Botanical Vintage Symmetrical Art Print](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
@@ -7865,6 +8011,30 @@ Modern, clean, and dynamic style combining sharp portrait details with soft smok
 ```
 
 
+<!-- Case 420: 等轴测机器剖面微缩场景 (by @iamaiistudio) -->
+### Case 420: [等轴测机器剖面微缩场景](https://x.com/iamaiistudio/status/2069014486707798113) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case420/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 等轴测机器剖面微缩场景"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case420/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 等轴测机器剖面微缩场景"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case420/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 等轴测机器剖面微缩场景"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case420/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 等轴测机器剖面微缩场景"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Generate a crisp isometric 3D diorama at a 45° top-down angle revealing the interior of [MACHINE / DEVICE] as a miniature cutaway model.
+
+Apply smooth refined surface textures, physically-based (PBR) materials, and sharp clean technical lighting.
+
+Build a raised platform exposing internal parts, circuitry, mechanical gears, or energy pathways.
+Add tiny stylized worker figures interacting with the equipment (omit facial details).
+
+Set against a flat solid [BACKGROUND COLOR] background.
+
+Position [MACHINE NAME] in large bold typography at the top-center, followed by a concise technical tagline, with a minimalist engineering icon placed just below.
+
+All text color must automatically adapt for maximum contrast against the background (white or black as needed).
+```
 ## 🧍 Character Design Cases
 
 > **15 个精选案例** — [浏览全部角色设计提示词 →](cases/character.md)
@@ -8419,7 +8589,7 @@ A highly detailed collectible toy figure inspired by a LEGO-style minifigure, st
 
 ## 📱 UI & Social Media Mockup Cases
 
-> **42 个精选案例** — [浏览全部 UI 与社交媒体截图提示词 →](cases/ui.md)
+> **46 个精选案例** — [浏览全部 UI 与社交媒体截图提示词 →](cases/ui.md)
 
 <!-- Case 130: One-Prompt UI Design Generation (by @austinit) -->
 ### Case 130: [One-Prompt UI Design Generation](https://x.com/austinit/status/2044968740782272596) (by [@austinit](https://x.com/austinit))
@@ -9884,9 +10054,204 @@ Design a visually rich infographic about an endangered animal using Chinese text
 ```
 
 
+<!-- Case 191: 北欧食谱书配方版式 (by @iamaiistudio) -->
+### Case 191: [北欧食谱书配方版式](https://x.com/iamaiistudio/status/2069197657147638241) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case191/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 北欧食谱书配方版式"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case191/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 北欧食谱书配方版式"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case191/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 北欧食谱书配方版式"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case191/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 北欧食谱书配方版式"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+{
+  "style": "Clean minimalist recipe infographic",
+  "visual_aesthetic": {
+    "photography_style": "Top-down and 3-quarter angle food photography",
+    "design_language": "Nordic editorial cookbook aesthetic",
+    "background": "Warm beige / cream neutral",
+    "lighting": "Soft diffused light with gentle shadows",
+    "detail_level": "Photorealistic, ultra-sharp, 8K quality"
+  },
+  "layout": {
+    "composition": "Hero dish centered on a white ceramic plate or bowl",
+    "elements": [
+      "Ingredient icons in soft rounded frames",
+      "Minimal vector-style ingredient illustrations",
+      "Ingredient labels with quantities",
+      "Numbered step-by-step cooking flow with icons"
+    ],
+    "typography": "Modern sans-serif, high readability",
+    "spacing": "Airy, balanced, uncluttered"
+  },
+  "recipes": [
+    {
+      "dish_name": "Traditional Polish Pierogi",
+      "dish_presentation": "Golden boiled dumplings stuffed with potato and farmer cheese, finished with butter and fresh chives",
+      "ingredients": [
+        { "name": "All-purpose flour", "quantity": "2.5 cups" },
+        { "name": "Potatoes", "quantity": "3 medium" },
+        { "name": "Farmer cheese", "quantity": "200g" },
+        { "name": "Onion", "quantity": "1 medium" },
+        { "name": "Butter", "quantity": "40g" },
+        { "name": "Salt", "quantity": "1 tsp" },
+        { "name": "Water", "quantity": "0.75 cups" }
+      ],
+      "steps": [
+        "Make the dough",
+        "Cook and mash the filling",
+        "Fill and fold pierogi",
+        "Boil until tender",
+        "Finish with butter"
+      ],
+      "meta": {
+        "calories": "270 kcal / serving",
+        "time": "70 min",
+        "servings": 4
+      }
+    },
+    {
+      "dish_name": "Vinaigrette Salad",
+      "dish_presentation": "Vibrant diced root vegetables tossed in a light dressing, shaped and garnished with fresh herbs",
+      "ingredients": [
+        { "name": "Beetroot", "quantity": "2 medium" },
+        { "name": "Potatoes", "quantity": "2 medium" },
+        { "name": "Carrots", "quantity": "1 medium" },
+        { "name": "Pickled cucumbers", "quantity": "2 pcs" },
+        { "name": "Green peas", "quantity": "1 cup" },
+        { "name": "Sunflower oil", "quantity": "2 tbsp" },
+        { "name": "Fresh dill", "quantity": "1 bunch" }
+      ],
+      "steps": [
+        "Boil the vegetables",
+        "Cool and dice",
+        "Combine all ingredients",
+        "Dress the salad",
+        "Refrigerate and serve"
+      ],
+      "meta": {
+        "calories": "180 kcal / serving",
+        "time": "30 min + chill",
+        "servings": 4
+      }
+    },
+    {
+      "dish_name": "Solyanka Soup",
+      "dish_presentation": "Hearty soup loaded with sliced mixed meats, briny olives, lemon, and fresh herbs, served in a ceramic bowl",
+      "ingredients": [
+        { "name": "Mixed meats", "quantity": "400g" },
+        { "name": "Onion", "quantity": "1 large" },
+        { "name": "Pickles", "quantity": "3 pcs" },
+        { "name": "Tomato paste", "quantity": "2 tbsp" },
+        { "name": "Olives", "quantity": "0.5 cup" },
+        { "name": "Garlic", "quantity": "2 cloves" },
+        { "name": "Bay leaf", "quantity": "1 pc" },
+        { "name": "Lemon", "quantity": "for serving" }
+      ],
+      "steps": [
+        "Prepare the broth",
+        "Saute aromatics",
+        "Add meats and pickles",
+        "Season and simmer",
+        "Serve with lemon"
+      ],
+      "meta": {
+        "calories": "320 kcal / serving",
+        "time": "90 min",
+        "servings": 5
+      }
+    }
+  ]
+}
+```
+<!-- Case 192: 模块化品牌图标系统 (by @iamaiistudio) -->
+### Case 192: [模块化品牌图标系统](https://x.com/iamaiistudio/status/2069150843430215859) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case192/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 模块化品牌图标系统"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case192/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 模块化品牌图标系统"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case192/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 模块化品牌图标系统"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case192/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 模块化品牌图标系统"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Design a unified set of charming, expressive icons for [BRAND NAME], a [BRAND TYPE/INDUSTRY] company. The visual style should be [STYLE KEYWORDS: e.g., rounded, 3D, flat, hand-drawn, minimal] paired with a [COLOR STYLE: vibrant, pastel, gradient, monochrome] color scheme. Apply [DESIGN TRAITS: soft shadows, bold outlines, subtle textures, glow, etc.] to achieve a warm and contemporary look. Keep a consistent visual system across all icons using shared grids, proportions, and design language. The icon set should cover [LIST OF FEATURES/FUNCTIONS]. Prioritize sharp legibility, well-balanced spacing, and scalability across UI, apps, and branding contexts.
+```
+<!-- Case 193: 远征规划指挥板 (by @iamaiistudio) -->
+### Case 193: [远征规划指挥板](https://x.com/iamaiistudio/status/2069104692098130014) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case193/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 远征规划指挥板"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case193/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 远征规划指挥板"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case193/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 远征规划指挥板"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case193/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 远征规划指挥板"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+A strategic command board for an expedition leader planning [JOURNEY / MISSION] to [DESTINATION / ERA]. Left panel: detailed topographic route map with labeled waypoints, annotated danger zones, and a timeline running along the edge. Center panel: overhead flat lay of every piece of kit in neat organized rows, each item tagged by weight and function, redundancies flagged, nothing unnecessary included. Right panel: the expedition in motion or the destination reached, small human figures against a vast landscape, scale unmistakable. Visual language shifts from cartographic precision through functional inventory documentation to sweeping epic environmental photography. Title block reads: "[EXPEDITION NAME] — [ROUTE], [DATE], [OBJECTIVE]".
+```
+<!-- Case 194: 直播电商 UI 模型图 (by @iamaiistudio) -->
+### Case 194: [直播电商 UI 模型图](https://x.com/iamaiistudio/status/2069090579355668501) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case194/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 直播电商 UI 模型图"></a> |
+
+**Prompt:**
+
+```
+{
+  "type": "live stream UI mockup",
+  "subject": {
+    "description": "portrait of {argument name=\"host name\" default=\"Elon Musk\"}, smiling, dressed in a black t-shirt featuring a white technical schematic print",
+    "background": "left side displays a screen showing '{argument name=\"left background logo\" default=\"SPACEX\"}' text, right side shows a red '{argument name=\"right background logo\" default=\"Tesla T logo\"}' and a dark-colored car"
+  },
+  "ui_overlay": {
+    "top_header": {
+      "host_info": "avatar, host name '{argument name=\"host name\" default=\"Elon Musk\"}', subtext '556k likes this stream', red 'Follow' button",
+      "rank_badge": "gold coin icon labeled 'No.1 Site-wide'",
+      "viewer_stats": "3 top viewer avatars with counts '123k', '86k', '57k', total viewers '687k', 'X' close button",
+      "right_links": "'More streams >', 'Gift Hall 0/24' with blue 'Classic' tag"
+    },
+    "mid_left_gifts": {
+      "count": 2,
+      "items": [
+        "avatar 'TechFan', 'sent a Little Heart', heart icon x 1314",
+        "avatar 'SeaOfStars', 'sent a Rocket', rocket icon x 666"
+      ]
+    },
+    "bottom_left_chat": {
+      "system_message": "level 37 badge 'CosmicWanderer joined the stream'",
+      "message_count": 7,
+      "messages": [
+        "LittleRocket: Musk! The future is bright! 🚀",
+        "future: When is Tesla Model 2 coming out?",
+        "StarryDreamer: Will SpaceX reach Mars this year?",
+        "AIExplorer: What's the latest on Neuralink?",
+        "HandsomeNetizen: Hello Boss Ma!",
+        "Mars: First time watching your stream, super excited!",
+        "User123: Talk about AI — will it replace humans?"
+      ]
+    },
+    "bottom_right_product_card": {
+      "hot_tag": "orange 'Hot Sale x 1888'",
+      "image": "Tesla Cybertruck",
+      "title": "{argument name=\"product name\" default=\"Tesla Cybertruck Electric Pickup\"}",
+      "price": "{argument name=\"product price\" default=\"¥1,618,000\"}",
+      "button": "red 'Buy' button",
+      "floating_animation": "translucent hearts drifting up along the right edge"
+    },
+    "bottom_bar": {
+      "input_field": "'Say something...'",
+      "icons": ["smiley face", "three dots", "shopping cart", "gift box", "share"]
+    }
+  }
+}
+```
 ## 🧪 Comparison & Community Examples
 
-> **27 个精选案例** — [浏览全部对比示例 →](cases/comparison.md)
+> **28 个精选案例** — [浏览全部对比示例 →](cases/comparison.md)
 
 <!-- Case 80: Sam Altman Bear Selfie (by @JustinGorya) -->
 ### Case 80: [Sam Altman Bear Selfie](https://x.com/JustinGorya/status/2046510831832006970) (by [@JustinGorya](https://x.com/JustinGorya))
@@ -10888,6 +11253,19 @@ Avoid all exaggerated or stylized effects.
 
 ---
 
+<!-- Case 109: 狗骨头变形宇宙飞船 (by @iamaiistudio) -->
+### Case 109: [狗骨头变形宇宙飞船](https://x.com/iamaiistudio/status/2068969150949843373) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case109/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 狗骨头变形宇宙飞船"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case109/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 狗骨头变形宇宙飞船"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case109/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 狗骨头变形宇宙飞船"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case109/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 狗骨头变形宇宙飞船"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+A photorealistic split-frame composition divided precisely down the center. Left half: a detailed dog bone resting against the dividing edge, set against a bright blue sky with soft clouds. Right half: the bone organically morphs into a breathtaking futuristic spacecraft, its silhouette and form continuing the exact contours of the bone into a deep starfield. The transition across the centerline is seamless, making the organic structure flow naturally into the mechanical, set against a clean neutral backdrop to draw full focus to both subjects.
+```
 ## Ingredient Preparation Rules
 
 * Maguro: clean block slicing into uniform nigiri portions

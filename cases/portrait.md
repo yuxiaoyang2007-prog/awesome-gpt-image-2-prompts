@@ -5640,3 +5640,16 @@ Negative Prompt: text, logo, watermark, extra face paint, messy fabric, distorte
 ```
 CCD flash photography style, late-night office setting, whiteboard covered in mathematical formulas in the background, black-rimmed glasses, white high-neck top, black high-waisted mini skirt, semi-matte cool-white porcelain skin with realistic skin texture, subject seated at desk, whiteboard marker held close to the lips, slight dutch angle composition, nuyoah aesthetic
 ```
+
+<!-- Case 314: Vintage Motion-Blur Street Portrait (by @iamaiistudio) -->
+### Case 314: [Vintage Motion-Blur Street Portrait](https://x.com/iamaiistudio/status/2068887185269616803) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case314/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Motion-Blur Street Portrait"></a> |
+
+**Prompt:**
+
+```
+A stylish woman standing still with hands in pockets, wearing a loose sage-green button-up shirt tucked into high-waisted dark trousers. Calm, confident expression. Vintage cars rushing past at high speed behind her, creating dramatic motion blur trails with a long-exposure photography effect. Street portrait setting, warm golden-hour lighting, muted retro color palette with reds, teals, and yellows streaking across the frame. Sharp focus on the woman with shallow depth of field, strong subject isolation. Cinematic realism, editorial fashion mood, nostalgic 1970s film look, soft grain, ultra-detailed, high resolution.
+```

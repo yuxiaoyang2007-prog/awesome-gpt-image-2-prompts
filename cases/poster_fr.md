@@ -8344,3 +8344,27 @@ Background features vertical smoke bands in Argentine flag colors: sky blue, whi
 Modern, clean, and dynamic style combining sharp portrait details with soft smoky effects for a powerful professional sports-poster aesthetic.
 ```
 
+<!-- Case 420: Diorama isométrique de machine en coupe (by @iamaiistudio) -->
+### Case 420: [Diorama isométrique de machine en coupe](https://x.com/iamaiistudio/status/2069014486707798113) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case420/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Diorama isométrique de machine en coupe"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case420/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Diorama isométrique de machine en coupe"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case420/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Diorama isométrique de machine en coupe"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case420/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Diorama isométrique de machine en coupe"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Generate a crisp isometric 3D diorama at a 45° top-down angle revealing the interior of [MACHINE / DEVICE] as a miniature cutaway model.
+
+Apply smooth refined surface textures, physically-based (PBR) materials, and sharp clean technical lighting.
+
+Build a raised platform exposing internal parts, circuitry, mechanical gears, or energy pathways.
+Add tiny stylized worker figures interacting with the equipment (omit facial details).
+
+Set against a flat solid [BACKGROUND COLOR] background.
+
+Position [MACHINE NAME] in large bold typography at the top-center, followed by a concise technical tagline, with a minimalist engineering icon placed just below.
+
+All text color must automatically adapt for maximum contrast against the background (white or black as needed).
+```

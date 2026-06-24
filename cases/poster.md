@@ -9119,3 +9119,28 @@ Editorial fashion portrait, woman wearing flowing red bell-sleeve wrap dress, dr
 ```
 Create a luxury cinematic fashion poster featuring a stylish young male standing in a powerful confident pose, captured from a low-angle perspective. The subject wears a high-end black designer outfit with sharp tailoring, subtle metallic accents, and clean modern silhouette. His expression is calm, confident, and slightly intimidating, with direct eye contact. Hair is perfectly styled with soft volume and natural shine. Behind him is a large glowing circular spotlight in deep gold, creating a halo effect that enhances dominance and focus. The background is minimalist matte black with subtle texture, dust particles, and faint vignette edges to enhance depth. Lighting is dramatic studio-style with strong contrast, highlighting facial structure and clothing details. The composition is symmetrical and centered like a luxury brand advertisement or album cover. Ultra-realistic, 8K detail, 4:5 vertical ratio, high-end editorial aesthetic designed for viral engagement. --ar 4:5 ratio
 ```
+
+<!-- Case 420: Isometric Machine Cutaway Diorama (by @iamaiistudio) -->
+### Case 420: [Isometric Machine Cutaway Diorama](https://x.com/iamaiistudio/status/2069014486707798113) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case420/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Isometric Machine Cutaway Diorama"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case420/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Isometric Machine Cutaway Diorama"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case420/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Isometric Machine Cutaway Diorama"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case420/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Isometric Machine Cutaway Diorama"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Generate a crisp isometric 3D diorama at a 45° top-down angle revealing the interior of [MACHINE / DEVICE] as a miniature cutaway model.
+
+Apply smooth refined surface textures, physically-based (PBR) materials, and sharp clean technical lighting.
+
+Build a raised platform exposing internal parts, circuitry, mechanical gears, or energy pathways.
+Add tiny stylized worker figures interacting with the equipment (omit facial details).
+
+Set against a flat solid [BACKGROUND COLOR] background.
+
+Position [MACHINE NAME] in large bold typography at the top-center, followed by a concise technical tagline, with a minimalist engineering icon placed just below.
+
+All text color must automatically adapt for maximum contrast against the background (white or black as needed).
+```

@@ -3189,3 +3189,48 @@ A strategic command board for an expedition leader planning [JOURNEY / MISSION] 
   }
 }
 ```
+
+<!-- Case 195: Flash Chat 應用圖示 (by @iamaiistudio) -->
+### Case 195: [Flash Chat 應用圖示](https://x.com/iamaiistudio/status/2069900481770737707) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case195/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Flash Chat 應用圖示"></a> |
+
+**提示詞:**
+
+```
+Design a macOS App Store icon for an app called 'Flash Chat'. Single squircle icon with smooth, continuously rounded corners, centered on a white canvas with padding, filling roughly 80% of the canvas. Modern light skeuomorphic style, macOS App Store quality. One icon only.
+```
+
+<!-- Case 196: 九宮格產品企劃 (by @iamaiistudio) -->
+### Case 196: [九宮格產品企劃](https://x.com/iamaiistudio/status/2069628865044254934) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case196/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 九宮格產品企劃"></a> |
+
+**提示詞:**
+
+```
+Generate a 3×3 image grid (3:4 aspect ratio) for a luxury commercial campaign centered on the uploaded product.
+
+Each of the nine frames should deliver a unique visual concept while keeping the product visually identical throughout.
+
+The nine concepts:
+1. Hero still life with a bold, iconic arrangement
+2. Extreme macro revealing surface texture and material detail
+3. Liquid or particle dynamics wrapping around the product
+4. Minimalist sculptural staging with abstract geometry
+5. Floating elements that convey lightness and forward-thinking design
+6. Close-up sensory shot focused on tactile realism
+7. Color-concept scene drawn from the product's own palette
+8. Symbolic ingredient or component abstraction
+9. Surreal but refined blend of realism and imagination
+
+Product rules: maintain 100% fidelity to the product's shape, proportions, label, type, color, and branding. No distortion or redesign. Clean product-to-background separation.
+
+Lighting and finish: soft controlled studio lighting, subtle highlights, realistic shadows, ultra-sharp focus, high dynamic range, editorial luxury aesthetic.
+
+Mood: polished, modern, hyperreal, aspirational. Built for brand sites, social grids, and digital billboards.
+```

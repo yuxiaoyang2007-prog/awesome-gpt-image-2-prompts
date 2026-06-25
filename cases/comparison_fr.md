@@ -1895,3 +1895,64 @@ A cinematic 6-panel storyboard sheet on a clean dark charcoal background, arrang
 ```
 A photorealistic split-frame composition divided precisely down the center. Left half: a detailed dog bone resting against the dividing edge, set against a bright blue sky with soft clouds. Right half: the bone organically morphs into a breathtaking futuristic spacecraft, its silhouette and form continuing the exact contours of the bone into a deep starfield. The transition across the centerline is seamless, making the organic structure flow naturally into the mechanical, set against a clean neutral backdrop to draw full focus to both subjects.
 ```
+
+<!-- Case 110: Grille de diorama en copeaux de crayon (by @Gdgtify) -->
+### Case 110: [Grille de diorama en copeaux de crayon](https://x.com/Gdgtify/status/2069543521045143580) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case110/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Grille de diorama en copeaux de crayon"></a> |
+
+**Prompt:**
+
+```
+2x2 grid, do this for 4 days $ scenes that made humans proud: Input = Pencil Shaving Category. Identify 4 distinct shavings (e.g., Graphite Shavings, Red Pencil Shavings, Yellow Pencil Shavings, Green Pencil Shavings). > Function Draw($ Pencil_Shaving, $ scene) > Anchor: [scene]:: [Pencil_Shaving]::4 > Morphology: A stunning 3D [scene] composed of [Pencil_Shaving] — full detailed > Material Physics: The thin curled wood, painted color edge, and fine grain of [$Pencil_Shaving] under warm window light
+```
+
+<!-- Case 111: Storyboard du maître bretzel (by @TechieBySA) -->
+### Case 111: [Storyboard du maître bretzel](https://x.com/TechieBySA/status/2069811464324460679) (by [@TechieBySA](https://x.com/TechieBySA))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case111/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Storyboard du maître bretzel"></a> |
+
+**Prompt:**
+
+```
+“Create a crisp, clean infographic storyboard poster for THE PRETZEL MAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — deep golden brown pretzel crust, warm caramel tones, coarse white salt crystals, rich wood textures, warm Bavarian daylight.
+Top header:
+THE PRETZEL MAKER
+TOTAL VIDEO TIME: 12 SECONDS
+8 SHOTS · GOLDEN · TWISTED · STRAIGHT FROM BAVARIA
+Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT
+Same Pixar-style middle-aged Bavarian male baker throughout — warm round face, thick blonde mustache, traditional lederhosen with suspenders, white shirt, small charming wooden pretzel stand, string lights overhead, wooden beer barrels nearby, warm daylight, charming German town square or beer garden visible behind him.
+8 panels:
+Panel 1 — THE OPENER: Wide shot. Baker stands behind his wooden pretzel stand, warm daylight flooding the scene, string lights hanging above, traditional German buildings softly visible behind him. He spreads his arms wide and says "Fresh Pretzel!" with a massive proud smile. His world established. You know exactly what's coming.
+Panel 2 — THE ROPE: Close-up. Both hands rolling a length of soft pale dough into a long even rope on the wooden counter — rolling back and forth with practiced rhythm, the rope stretching longer and thinner with each pass.
+Panel 3 — THE TWIST: Hero craft frame. Close-up dramatic. Both hands lifting the dough rope and crossing it into the iconic pretzel shape — looping the ends, twisting them together, folding them down onto the body to form the classic pretzel knot. The most unique hand motion in the entire series. Nobody has shown this in Pixar style.
+Panel 4 — THE BATH: Close-up. The shaped pretzel dipped into a pot of bubbling baking soda water — briefly submerged, lifted back out glistening and slightly darkened, ready for the oven. The step that gives pretzels their signature deep color and chew.
+Panel 5 — THE SALT: Close-up dramatic. Coarse white salt crystals scattered generously over the wet pretzel surface — sticking instantly, catching the daylight, vivid white against the pale dough.
+Panel 6 — THE OVEN: Wide medium with him visible. Baker slides the tray of pretzels into the glowing oven, closes the door. Steps back with a satisfied nod. The wait begins.
+Panel 7 — THE REVEAL: The hero frame. Oven door opens — pretzels emerging deep golden brown, glossy, perfectly twisted, steam rising. He lifts the tray with both hands, eyes lighting up with pride. The most beautiful pretzels you have ever seen.
+Panel 8 — THE TEAR: Wide warm shot. Baker tears a warm pretzel apart with both hands — soft warm interior revealed, steam escaping, salt crystals visible on the golden crust. Eyes closing in pure satisfaction. String lights and the warm Bavarian square glowing behind him.
+Footer:
+VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. Dough rope to the tear.
+CAMERA TIPS: wide on the stand opener, close-up for the rope roll, close-up dramatic for the twist, close-up for the baking soda bath, close-up dramatic for the salt, wide medium for the oven, hero wide for the reveal, wide warm for the tear
+LIGHT & STYLE: warm Bavarian daylight throughout, deep golden pretzel crust, coarse white salt, rich wood textures, traditional lederhosen, string lights, Pixar vivid warm colors throughout
+BAKER NOTES: one baker, one stand, one perfect pretzel. Golden, twisted, and straight from Bavaria.”
+```
+
+<!-- Case 112: Planche conceptuelle de chaise nid d'oiseau (by @iamaiistudio) -->
+### Case 112: [Planche conceptuelle de chaise nid d'oiseau](https://x.com/iamaiistudio/status/2069779689074561192) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case112/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Planche conceptuelle de chaise nid d'oiseau"></a> |
+
+**Prompt:**
+
+```
+Design concept board: bird nest weaving methods as the inspiration for a sculptural lounge chair. Four-stage sequence from nest-building reference photos to construction diagrams, then organic form abstraction, then the finished product. Interlocking woven frame forms the seat and backrest. Natural fiber upholstery with soft cushioning. Earthy warm tones with a polished, refined surface. Sustainable luxury aesthetic. Presentation layout with process sketches in the top half, final rendered chair in the bottom half. Warm natural lighting.
+
+AR 4:3
+```

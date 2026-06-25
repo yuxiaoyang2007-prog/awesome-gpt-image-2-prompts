@@ -5653,3 +5653,108 @@ CCD flash photography style, late-night office setting, whiteboard covered in ma
 ```
 A stylish woman standing still with hands in pockets, wearing a loose sage-green button-up shirt tucked into high-waisted dark trousers. Calm, confident expression. Vintage cars rushing past at high speed behind her, creating dramatic motion blur trails with a long-exposure photography effect. Street portrait setting, warm golden-hour lighting, muted retro color palette with reds, teals, and yellows streaking across the frame. Sharp focus on the woman with shallow depth of field, strong subject isolation. Cinematic realism, editorial fashion mood, nostalgic 1970s film look, soft grain, ultra-detailed, high resolution.
 ```
+
+<!-- Case 315: Top-Down Aerial Studio Portrait (by @iamaiistudio) -->
+### Case 315: [Top-Down Aerial Studio Portrait](https://x.com/iamaiistudio/status/2069568331821318277) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case315/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Top-Down Aerial Studio Portrait"></a> |
+
+**Prompt:**
+
+```
+Full prompt: 
+
+Ultra-wide angle, 90-degree top-down aerial studio portrait of a woman looking straight up at the camera. Strict identity preservation from reference image, do not alter face, proportions, skin texture, or expression.
+
+Composition: full-body framing, large negative space surrounding the subject, dramatic isolation and graphic impact.
+
+Subject: woman with round thick-framed stylish glasses. Wearing a deep dark brown short-sleeve button-up shirt in corduroy or textured fabric, with a light beige off-white textured sweater underneath. Natural hairstyle with visible texture and volume, do not alter hair color or structure. Natural realistic skin tone, visible texture, not over-smoothed. Expression: engaging, slightly curious or inquisitive.
+
+Background: minimalist studio backdrop, soft gray gradient, darker at edges, lighter at center directly beneath the subject.
+
+Lighting: soft uniform overhead lighting from above, subtle shadows defining facial features and clothing folds, even illumination, no harsh contrast.
+
+Camera: ISO 150-200, aperture f/1.28, shutter speed 1/200s, high-resolution ultra-detailed.
+
+Color grading: neutral modern tones, soft balanced contrast, clean contemporary look.
+
+Mood: minimalist, modern, contemplative. Strong subject isolation and visual clarity.
+```
+
+
+<!-- Case 316: Forced-Perspective Sneaker Portrait (by @iamaiistudio) -->
+### Case 316: [Forced-Perspective Sneaker Portrait](https://x.com/iamaiistudio/status/2069538312357114324) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case316/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Forced-Perspective Sneaker Portrait"></a> |
+
+**Prompt:**
+
+```
+A cinematic forced-perspective street photography scene where a giant worn-out sneaker appears enormous in the foreground, towering over a casually dressed young man leaning against it. The man wears a brown leather jacket, loose blue jeans, sneakers, and a beige cap, standing confidently with hands in pockets. Autumn atmosphere with yellow and orange leaves scattered on the road, talltrees with fall foliage in the background, parked car slightly blurred. Ultra-realistic textures on the shoe sole, visible dirt and fabric wear. Shot from a very low angle to exaggerate scale, shallow depth of field, natural daylight, soft cinematic color grading, realistic shadows, high detail, 8K resolution, professional photography, surreal yet believable forced perspective illusion.
+```
+
+
+<!-- Case 317: Cloud-Bloom Editorial Portrait (by @ChillaiKalan__) -->
+### Case 317: [Cloud-Bloom Editorial Portrait](https://x.com/ChillaiKalan__/status/2069471846890959183) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case317/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cloud-Bloom Editorial Portrait"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case317/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cloud-Bloom Editorial Portrait"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Photorealistic high-fashion editorial image, vertical 4:5. A young adult fashion model sitting calmly on the center of one enormous pink flower growing above the clouds, the flower stem rising from below and disappearing into soft white clouds. Low-angle perspective from slightly below, the flower framing the image, making the flower feel monumental and surreal. The model wears a short sleeve crisp oversized white shirt, loose light trousers, silver jewelry, and black minimal sandals. Natural open brown hair moving softly in the wind, composed expression, slight soft smile. Clean vivid blue sky, a few soft white clouds, huge detailed flower petals, bright natural daylight, crisp vivid color, playful surreal fashion campaign mood, realistic anatomy, natural hands, sharp editorial photography, no text, no logos --ar 4:5 --raw --profile glu65pn --stylize 60 --weird 4 --hd
+```
+
+<!-- Case 318: Fujifilm Couple Portrait (by @iamaiistudio) -->
+### Case 318: [Fujifilm Couple Portrait](https://x.com/iamaiistudio/status/2069961089719353505) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case318/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fujifilm Couple Portrait"></a> |
+
+**Prompt:**
+
+```
+9:16 vertical portrait of a young Japanese couple captured in Fujifilm analog film style
+
+Film aesthetic: Fujifilm Pro 400H / Superia emulation, muted pastel palette, faint green-magenta color cast, low contrast, soft highlight falloff, fine film grain, gentle halation around light sources
+
+Lighting: natural window light, diffused and airy, soft shadow transitions, bright but gentle indoor daylight
+
+Subjects: two young Japanese people, minimal natural makeup, realistic skin with subtle texture and natural imperfections
+
+Female: oversized button-up shirt, loose shorts, casual relaxed styling
+Male: simple light t-shirt or shirt, clean understated look
+Both: natural, slightly tousled hair
+
+Pose: intimate closeness, sitting or standing side by side; she leans gently toward him, one hand on his shoulder or chest; he tilts in, faces nearly touching, the moment just before a kiss
+
+Expression: soft natural smiles or tender gaze toward each other, genuine emotional warmth
+
+Camera: waist-up close framing, eye-level angle, slight handheld quality, intimate feel
+
+Setting: minimal indoor space near a window, soft curtains, clean neutral background
+
+Mood: warm, romantic, quiet everyday intimacy
+
+Quality: ultra-realistic, analog film character, gentle grain, slight softness, natural imperfections
+```
+
+<!-- Case 319: Lantern Hiker Studio Portrait (by @iamaiistudio) -->
+### Case 319: [Lantern Hiker Studio Portrait](https://x.com/iamaiistudio/status/2069812774277087740) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case319/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Lantern Hiker Studio Portrait"></a> |
+
+**Prompt:**
+
+```
+3D render, stylized full-body side-view portrait of an elderly male hiker with a long white beard, walking right. Solid seamless deep-teal studio background with soft floor reflections. He wears a brown wide-brim felt hat, a gray-blue plaid shirt, cuffed brown corduroy trousers, and scuffed dark work boots. Large canvas-and-wicker backpack with leather straps on his back. Right hand holds a lit vintage hurricane lantern (brass frame, glass globe) casting a warm amber glow. Left hand grips a plain wooden walking stick. Textured matte finish, soft diffused studio lighting, vertical composition with generous negative space above.
+```

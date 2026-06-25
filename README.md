@@ -5,8 +5,8 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![929 Curated Prompts](https://img.shields.io/badge/Prompts-929_Curated_Cases-111111)](README.md)
-[![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
+[![936 Curated Prompts](https://img.shields.io/badge/Prompts-936_Curated_Cases-111111)](README.md)
+[![🎬 GPT-Image-2 × Seedance 2.5 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.5-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
@@ -32,7 +32,7 @@ Turn any prompt in this repository into a GPT Image 2 API call:
   <a href="https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><strong>View API Docs</strong></a> &nbsp;·&nbsp;
   <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><strong>Get API Key</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/EvoLinkAI/gpt-image-2-gen-skill"><strong>Install Agent Skill</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow"><strong>Image-to-Video Workflow</strong></a>
+  <a href="https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow"><strong>Image-to-Video Workflow</strong></a>
 </p>
 
 ```bash
@@ -69,7 +69,7 @@ curl --request POST \
 
 Welcome to the **Awesome GPT Image 2 API and Prompts** repository! 🤗
 
-A curated collection of **929+ high-quality GPT-Image-2 prompts**, API usage patterns, and reusable visual workflows for AI image generation.
+A curated collection of **936+ high-quality GPT-Image-2 prompts**, API usage patterns, and reusable visual workflows for AI image generation.
 
 Whether you're looking for GPT-Image-2 prompt examples, text-to-image best practices, image editing techniques, or ready-to-use prompt templates — this is your one-stop reference.
 
@@ -106,6 +106,11 @@ Works with OpenAI's standard API format (`/v1/images/generations`)
 
 ## 📰 News
 
+
+**June 25, 2026:** Added 10 new GPT-Image-2 prompt cases (4 poster, 2 portrait, 2 UI, 2 comparison) from the daily image-prompt update loop after semantic review and media validation
+
+**June 24, 2026:** Added 7 new GPT-Image-2 prompt cases (2 ad creative, 1 poster, 1 comparison, 3 portrait) from the daily image-prompt update loop after semantic review and media validation
+
 **June 23, 2026:** Added 10 new GPT-Image-2 prompt cases (3 ad creative, 4 UI, 1 poster, 1 comparison, 1 portrait) from the daily image-prompt update loop after semantic review and media validation
 
 **June 22, 2026:** Added 8 new GPT-Image-2 prompt cases from the daily image-prompt update loop (5 poster, 1 portrait, 1 character, 1 UI) after semantic review and media validation
@@ -125,7 +130,7 @@ Want to move from prompt inspiration to real image generation fast? Use the GPT 
 - [Run GPT Image 2 API on EvoLink](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 - [View GPT Image 2 API docs](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 - [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
-- [Go to the GPT Image 2 to Seedance 2.0 workflow repository](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
+- [Go to the GPT Image 2 to Seedance 2.5 workflow repository](https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow)
 
 ### 1. Install the Skill
 
@@ -559,7 +564,7 @@ A professional studio food photography series showcasing deconstructed dishes ca
 
 ## 📣 Ad Creative Cases
 
-> **28 curated cases** — [Explore all Ad Creative Prompts →](cases/ad-creative.md)
+> **30 curated cases** — [Explore all Ad Creative Prompts →](cases/ad-creative.md)
 
 <!-- Case 176: Luxury Chronograph Watch Ad (by @AlwaveNazca) -->
 ### Case 176: [Luxury Chronograph Watch Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
@@ -1267,6 +1272,33 @@ TYPOGRAPHY:
 FINAL FEEL:
 
 This must look like a creative direction board for a global campaign. Not a clean layout, not a grid, not minimal. It must feel alive, layered, and brand-heavy, a visual identity snapshot that is highly shareable and scroll-stopping.
+```
+
+<!-- Case 202: STARKIDZ Cosmic Telescope Ad (by @Strength04_X) -->
+### Case 202: [STARKIDZ Cosmic Telescope Ad](https://x.com/Strength04_X/status/2069448983651787177) (by [@Strength04_X](https://x.com/Strength04_X))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case202/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - STARKIDZ Cosmic Telescope Ad"></a> |
+
+**Prompt:**
+
+```
+A magical science advertisement poster. A curious young boy age 10 in a NASA tshirt gazes up in total wonder beside a giant shiny silver telescope 3x his height pointed toward a breathtaking galaxy view above, "STARKIDZ" written in glowing white font on the telescope body. Deep dark space background with milky way galaxy colorful nebula clouds and shooting stars. Glowing cosmic typography "STARKIDZ" in white and blue filling the background. Tagline bottom: "Explore the universe." Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, magical kids science product commercial, dramatic deep space galaxy lighting.
+```
+
+
+<!-- Case 203: Monumental Timepiece Fashion Ad (by @iamaiistudio) -->
+### Case 203: [Monumental Timepiece Fashion Ad](https://x.com/iamaiistudio/status/2069387162425205211) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case203/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Monumental Timepiece Fashion Ad"></a> |
+
+**Prompt:**
+
+```
+Oversized luxury wristwatch as a modern sculpture centerpiece, fashion model leaning against the dial face, monumental "TIME" typography looming in the background, deep emerald studio environment, reflective polished floor, Swiss high-end advertising aesthetic, cinematic editorial photography, ultra-clean minimalist composition, 1:1
 ```
 
 ## 🍌 Portrait & Photography Cases
@@ -3676,9 +3708,115 @@ Aspect ratio: 9:16
 A stylish woman standing still with hands in pockets, wearing a loose sage-green button-up shirt tucked into high-waisted dark trousers. Calm, confident expression. Vintage cars rushing past at high speed behind her, creating dramatic motion blur trails with a long-exposure photography effect. Street portrait setting, warm golden-hour lighting, muted retro color palette with reds, teals, and yellows streaking across the frame. Sharp focus on the woman with shallow depth of field, strong subject isolation. Cinematic realism, editorial fashion mood, nostalgic 1970s film look, soft grain, ultra-detailed, high resolution.
 ```
 
+<!-- Case 315: Top-Down Aerial Studio Portrait (by @iamaiistudio) -->
+### Case 315: [Top-Down Aerial Studio Portrait](https://x.com/iamaiistudio/status/2069568331821318277) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case315/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Top-Down Aerial Studio Portrait"></a> |
+
+**Prompt:**
+
+```
+Full prompt: 
+
+Ultra-wide angle, 90-degree top-down aerial studio portrait of a woman looking straight up at the camera. Strict identity preservation from reference image, do not alter face, proportions, skin texture, or expression.
+
+Composition: full-body framing, large negative space surrounding the subject, dramatic isolation and graphic impact.
+
+Subject: woman with round thick-framed stylish glasses. Wearing a deep dark brown short-sleeve button-up shirt in corduroy or textured fabric, with a light beige off-white textured sweater underneath. Natural hairstyle with visible texture and volume, do not alter hair color or structure. Natural realistic skin tone, visible texture, not over-smoothed. Expression: engaging, slightly curious or inquisitive.
+
+Background: minimalist studio backdrop, soft gray gradient, darker at edges, lighter at center directly beneath the subject.
+
+Lighting: soft uniform overhead lighting from above, subtle shadows defining facial features and clothing folds, even illumination, no harsh contrast.
+
+Camera: ISO 150-200, aperture f/1.28, shutter speed 1/200s, high-resolution ultra-detailed.
+
+Color grading: neutral modern tones, soft balanced contrast, clean contemporary look.
+
+Mood: minimalist, modern, contemplative. Strong subject isolation and visual clarity.
+```
+
+
+<!-- Case 316: Forced-Perspective Sneaker Portrait (by @iamaiistudio) -->
+### Case 316: [Forced-Perspective Sneaker Portrait](https://x.com/iamaiistudio/status/2069538312357114324) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case316/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Forced-Perspective Sneaker Portrait"></a> |
+
+**Prompt:**
+
+```
+A cinematic forced-perspective street photography scene where a giant worn-out sneaker appears enormous in the foreground, towering over a casually dressed young man leaning against it. The man wears a brown leather jacket, loose blue jeans, sneakers, and a beige cap, standing confidently with hands in pockets. Autumn atmosphere with yellow and orange leaves scattered on the road, talltrees with fall foliage in the background, parked car slightly blurred. Ultra-realistic textures on the shoe sole, visible dirt and fabric wear. Shot from a very low angle to exaggerate scale, shallow depth of field, natural daylight, soft cinematic color grading, realistic shadows, high detail, 8K resolution, professional photography, surreal yet believable forced perspective illusion.
+```
+
+
+<!-- Case 317: Cloud-Bloom Editorial Portrait (by @ChillaiKalan__) -->
+### Case 317: [Cloud-Bloom Editorial Portrait](https://x.com/ChillaiKalan__/status/2069471846890959183) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case317/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cloud-Bloom Editorial Portrait"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case317/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cloud-Bloom Editorial Portrait"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Photorealistic high-fashion editorial image, vertical 4:5. A young adult fashion model sitting calmly on the center of one enormous pink flower growing above the clouds, the flower stem rising from below and disappearing into soft white clouds. Low-angle perspective from slightly below, the flower framing the image, making the flower feel monumental and surreal. The model wears a short sleeve crisp oversized white shirt, loose light trousers, silver jewelry, and black minimal sandals. Natural open brown hair moving softly in the wind, composed expression, slight soft smile. Clean vivid blue sky, a few soft white clouds, huge detailed flower petals, bright natural daylight, crisp vivid color, playful surreal fashion campaign mood, realistic anatomy, natural hands, sharp editorial photography, no text, no logos --ar 4:5 --raw --profile glu65pn --stylize 60 --weird 4 --hd
+```
+
+
+<!-- Case 318: Fujifilm Couple Portrait (by @iamaiistudio) -->
+### Case 318: [Fujifilm Couple Portrait](https://x.com/iamaiistudio/status/2069961089719353505) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case318/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fujifilm Couple Portrait"></a> |
+
+**Prompt:**
+
+```
+9:16 vertical portrait of a young Japanese couple captured in Fujifilm analog film style
+
+Film aesthetic: Fujifilm Pro 400H / Superia emulation, muted pastel palette, faint green-magenta color cast, low contrast, soft highlight falloff, fine film grain, gentle halation around light sources
+
+Lighting: natural window light, diffused and airy, soft shadow transitions, bright but gentle indoor daylight
+
+Subjects: two young Japanese people, minimal natural makeup, realistic skin with subtle texture and natural imperfections
+
+Female: oversized button-up shirt, loose shorts, casual relaxed styling
+Male: simple light t-shirt or shirt, clean understated look
+Both: natural, slightly tousled hair
+
+Pose: intimate closeness, sitting or standing side by side; she leans gently toward him, one hand on his shoulder or chest; he tilts in, faces nearly touching, the moment just before a kiss
+
+Expression: soft natural smiles or tender gaze toward each other, genuine emotional warmth
+
+Camera: waist-up close framing, eye-level angle, slight handheld quality, intimate feel
+
+Setting: minimal indoor space near a window, soft curtains, clean neutral background
+
+Mood: warm, romantic, quiet everyday intimacy
+
+Quality: ultra-realistic, analog film character, gentle grain, slight softness, natural imperfections
+```
+
+<!-- Case 319: Lantern Hiker Studio Portrait (by @iamaiistudio) -->
+### Case 319: [Lantern Hiker Studio Portrait](https://x.com/iamaiistudio/status/2069812774277087740) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case319/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Lantern Hiker Studio Portrait"></a> |
+
+**Prompt:**
+
+```
+3D render, stylized full-body side-view portrait of an elderly male hiker with a long white beard, walking right. Solid seamless deep-teal studio background with soft floor reflections. He wears a brown wide-brim felt hat, a gray-blue plaid shirt, cuffed brown corduroy trousers, and scuffed dark work boots. Large canvas-and-wicker backpack with leather straps on his back. Right hand holds a lit vintage hurricane lantern (brass frame, glass globe) casting a warm amber glow. Left hand grips a plain wooden walking stick. Textured matte finish, soft diffused studio lighting, vertical composition with generous negative space above.
+```
+
 ## 🎨 Poster & Illustration Cases
 
-> **156 curated cases** — [Explore all Poster & Illustration Prompts →](cases/poster.md)
+> **157 curated cases** — [Explore all Poster & Illustration Prompts →](cases/poster.md)
 
 <!-- Case 214: Peacock Botanical Vintage Symmetrical Art Print (by @dotey) -->
 ### Case 214: [Peacock Botanical Vintage Symmetrical Art Print](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
@@ -7291,7 +7429,6 @@ Starting From $89
 Bottom Center
 
 
-
 Vertical Edge Text
 
 SOUTH AFRICA 2026
@@ -8043,6 +8180,118 @@ Set against a flat solid [BACKGROUND COLOR] background.
 Position [MACHINE NAME] in large bold typography at the top-center, followed by a concise technical tagline, with a minimalist engineering icon placed just below.
 
 All text color must automatically adapt for maximum contrast against the background (white or black as needed).
+```
+
+<!-- Case 421: Cozy Japanese Lifestyle Illustration (by @oggii_0) -->
+### Case 421: [Cozy Japanese Lifestyle Illustration](https://x.com/oggii_0/status/2069469184787198164) (by [@oggii_0](https://x.com/oggii_0))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case421/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Japanese Lifestyle Illustration"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case421/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Japanese Lifestyle Illustration"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Create a delicate contemporary Japanese lifestyle illustration with a cozy slice-of-life atmosphere.
+
+ART STYLE
+Hand-drawn pen-and-ink sketch illustration, thin expressive linework, loose imperfect contours, minimalist editorial artwork, soft watercolor washes, subtle paper texture, elegant negative space, sketchbook aesthetic, modern Japanese indie illustration, light and airy composition, contemporary café-art style, emotionally warm and intimate.
+
+CHARACTERS
+Two young adults with soft, simplified facial features and natural expressions. Casual oversized clothing, relaxed body language, authentic interaction, candid everyday moment. Faces are minimally rendered with delicate linework rather than detailed realism.
+
+ENVIRONMENT
+A cozy indoor setting such as a café, coffee shop, apartment, studio, bookstore, kitchen corner, or creative workspace. Include wooden furniture, coffee mugs, indoor plants, shelves, books, windows, soft decorative details, and small everyday objects. The environment should feel lived-in yet uncluttered.
+
+COMPOSITION
+Full-body or three-quarter-body view. Characters seated naturally and facing one another. Balanced asymmetrical layout. Large areas of clean negative space. Storytelling through posture and atmosphere rather than action. Editorial illustration framing. Eye-level perspective.
+
+COLOR PALETTE
+Muted and desaturated colors only:
+• Dusty blue
+• Warm cream
+• Soft beige
+• Light gray
+• Sage green
+• Warm brown
+• Off-white
+
+Add only one small accent color element such as red socks, red shoes, a red mug, or a small red object.
+
+LIGHTING
+Soft natural daylight entering through windows. Gentle ambient illumination. No dramatic shadows. Warm, peaceful, calming mood.
+
+RENDERING
+Minimal shading. Sparse details. Watercolor-style color fills inside delicate ink outlines. Slightly unfinished sketch quality. High-quality illustration with visible hand-drawn imperfections. Soft edges and subtle texture.
+
+MOOD
+Comfortable, quiet, nostalgic, peaceful, intimate, cozy, everyday happiness, slow living, café culture, thoughtful conversation, gentle human connection.
+
+AVOID
+Anime screenshots, manga panels, cel shading, digital painting, hyperrealism, photorealism, 3D rendering, glossy surfaces, vibrant saturated colors, cinematic effects, dramatic lighting, excessive details, sharp outlines, heavy shadows, complex backgrounds.
+
+SCENE:
+[INSERT YOUR SCENE DESCRIPTION HERE]
+
+The final image should feel like a premium Japanese lifestyle illustration found in an art book, café magazine, design journal, or independent sketchbook collection.
+```
+
+
+<!-- Case 422: Guangzhou Silk Ribbon Poster (by @iamaiistudio) -->
+### Case 422: [Guangzhou Silk Ribbon Poster](https://x.com/iamaiistudio/status/2069840084673945968) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case422/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Guangzhou Silk Ribbon Poster"></a> |
+
+**Prompt:**
+
+```
+Spring Festival 2026 Guangzhou city promo poster, vertical 9:16, festive yet elegant. Double exposure with S-curve flowing composition on a pure white textured background. Bottom-right corner: a miniature figure in traditional Chinese attire swings a long red silk ribbon that morphs into mountain ridges and river currents, revealing a layered Guangzhou panorama inside, including Canton Tower, Zhujiang New Town skyline, Pearl River with cruise ships, ancient architecture, and Baiyun Mountain. Bottom-left typography: "SPRING 2026" horizontal with a vertical line of Chinese characters reading "Millennial Trade City, Charming Guangzhou."
+```
+
+<!-- Case 423: Ronaldo Topographic Poster (by @vireonixx) -->
+### Case 423: [Ronaldo Topographic Poster](https://x.com/vireonixx/status/2069793294641778794) (by [@vireonixx](https://x.com/vireonixx))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case423/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ronaldo Topographic Poster"></a> |
+
+**Prompt:**
+
+```
+Create an extraordinary collector-edition Cristiano Ronaldo poster inspired by contemporary data visualization, cartographic design, and editorial publishing. The composition should capture Manchester United-era Ronaldo during a dynamic turning movement, as if caught between acceleration and decision. His expression should communicate youthful confidence and relentless ambition.
+
+The portrait should be integrated into a visual world constructed from flowing topographic contours, movement trajectories, directional systems, and abstract maps representing a lifetime of progress. The lines should feel elegant and intelligent rather than technical. Large-scale information structures should guide the viewer's eye through the composition while reinforcing the narrative of movement and evolution.
+
+The palette combines arctic blue, coral red, soft ivory, and charcoal accents. Sophisticated typography, layered publishing systems, and contemporary information design should create visual depth throughout the artwork. The final image should resemble an award-winning editorial feature documenting one of the most remarkable journeys in modern sport.
+```
+
+<!-- Case 424: Ufa Travel Sticker Poster (by @Sairah_0) -->
+### Case 424: [Ufa Travel Sticker Poster](https://x.com/Sairah_0/status/2069779118535930286) (by [@Sairah_0](https://x.com/Sairah_0))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case424/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ufa Travel Sticker Poster"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case424/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ufa Travel Sticker Poster"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case424/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ufa Travel Sticker Poster"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Create an airy city scene with large typography-safe negative space in the upper-left. Add [УФА] and one short elegant English caption matching the city mood. Automatically adapt the background to the city: one iconic primary landmark, local architecture, café culture, transport sign, street lamp, flowers, trees, small decorative details, and calm daily-life moments. Use 3–6 people only, naturally interacting with the city: talking at a café, walking, jogging, sketching, or taking photos. Avoid crowds and avoid a single hero character. Style: Japanese stationery aesthetic, luxury sticker illustration, premium commercial flat-vector poster, clean thin outlines, consistent line weight, flat colors only, no shading, no gradients, no texture. Palette: blush pink, dusty rose, sage green, warm cream, soft beige, muted gray-green. Mood: minimal, elegant, calm, refined, high-end travel postcard and lifestyle branding. No realism, no watercolor, no painterly effects, no photorealism, no dense background. Установить соотношение сторон 3:4
+```
+
+<!-- Case 425: Infinite Love Concert Poster (by @iamaiistudio) -->
+### Case 425: [Infinite Love Concert Poster](https://x.com/iamaiistudio/status/2069749509392052645) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case425/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Infinite Love Concert Poster"></a> |
+
+**Prompt:**
+
+```
+Swiss International design style, minimalist flat vector poster, vertical 9:16 format, diagonal-split layout. Top-left: Traditional Chinese headline in a serif typeface paired with flowing connected-script serif English. Bottom-right: key symbolic illustration — flat vector artwork with vivid fluorescent gradients, subtle grain texture, scattered pixel-art icons, cultural festival poster aesthetic, museum-quality graphic design. Theme: Infinite Love Marathon Concerts (floral motif). 4K.
 ```
 
 ## 🧍 Character Design Cases
@@ -10261,9 +10510,55 @@ A strategic command board for an expedition leader planning [JOURNEY / MISSION] 
 }
 ```
 
+
+<!-- Case 195: Flash Chat App Icon (by @iamaiistudio) -->
+### Case 195: [Flash Chat App Icon](https://x.com/iamaiistudio/status/2069900481770737707) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case195/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Flash Chat App Icon"></a> |
+
+**Prompt:**
+
+```
+Design a macOS App Store icon for an app called 'Flash Chat'. Single squircle icon with smooth, continuously rounded corners, centered on a white canvas with padding, filling roughly 80% of the canvas. Modern light skeuomorphic style, macOS App Store quality. One icon only.
+```
+
+<!-- Case 196: Nine-Frame Product Campaign (by @iamaiistudio) -->
+### Case 196: [Nine-Frame Product Campaign](https://x.com/iamaiistudio/status/2069628865044254934) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case196/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Nine-Frame Product Campaign"></a> |
+
+**Prompt:**
+
+```
+Generate a 3×3 image grid (3:4 aspect ratio) for a luxury commercial campaign centered on the uploaded product.
+
+Each of the nine frames should deliver a unique visual concept while keeping the product visually identical throughout.
+
+The nine concepts:
+1. Hero still life with a bold, iconic arrangement
+2. Extreme macro revealing surface texture and material detail
+3. Liquid or particle dynamics wrapping around the product
+4. Minimalist sculptural staging with abstract geometry
+5. Floating elements that convey lightness and forward-thinking design
+6. Close-up sensory shot focused on tactile realism
+7. Color-concept scene drawn from the product's own palette
+8. Symbolic ingredient or component abstraction
+9. Surreal but refined blend of realism and imagination
+
+Product rules: maintain 100% fidelity to the product's shape, proportions, label, type, color, and branding. No distortion or redesign. Clean product-to-background separation.
+
+Lighting and finish: soft controlled studio lighting, subtle highlights, realistic shadows, ultra-sharp focus, high dynamic range, editorial luxury aesthetic.
+
+Mood: polished, modern, hyperreal, aspirational. Built for brand sites, social grids, and digital billboards.
+```
+
 ## 🧪 Comparison & Community Examples
 
-> **28 curated cases** — [Explore all Comparison & Community Examples →](cases/comparison.md)
+> **29 curated cases** — [Explore all Comparison & Community Examples →](cases/comparison.md)
 
 <!-- Case 80: Sam Altman Bear Selfie (by @JustinGorya) -->
 ### Case 80: [Sam Altman Bear Selfie](https://x.com/JustinGorya/status/2046510831832006970) (by [@JustinGorya](https://x.com/JustinGorya))
@@ -11278,6 +11573,55 @@ Avoid all exaggerated or stylized effects.
 A cinematic 6-panel storyboard sheet on a clean dark charcoal background, arranged in a 3-column by 2-row grid of widescreen 16:9 panels with thin neutral gray borders and a small white number label in the top-left corner of each panel. Photorealistic film stills, naturalistic dawn lighting, shallow depth of field, natural skin texture with subtle imperfections, candid composition, muted naturalistic color grade. Unifying concept: an ordinary morning where gravity has quietly stopped working — everyday objects and people drifting weightlessly. Panel 1: a bedroom at dawn, soft blue light, a sleeping person and their duvet drifting an inch above the mattress, dust motes hanging perfectly still in the air. Panel 2: a kitchen close-up, dark coffee pouring upward out of a white mug in a slow liquid ribbon, steam curling downward toward the counter. Panel 3: a bathroom, a toothbrush hovering mid-air with a pearl-like blob of toothpaste suspended beside it, scattered water droplets frozen around a reaching hand. Panel 4: a breakfast table, cereal pieces and milk orbiting a bowl in a lazy floating halo, a single spoon chasing one drifting cereal O. Panel 5: an entryway, keys, coins and a wallet frozen in a constellation above a doormat, a hand sweeping slowly through them. Panel 6: a front door swinging open onto an ordinary busy street below, a person floating out unbothered while sipping from an upside-down coffee cup. Each panel a distinct camera framing, photoreal textures. Small white label text — EXACT TEXT: '1','2','3','4','5','6' — one number per panel, no extra text, no duplicate text.
 ```
 
+
+<!-- Case 111: Pretzel Maker Storyboard (by @TechieBySA) -->
+### Case 111: [Pretzel Maker Storyboard](https://x.com/TechieBySA/status/2069811464324460679) (by [@TechieBySA](https://x.com/TechieBySA))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case111/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pretzel Maker Storyboard"></a> |
+
+**Prompt:**
+
+```
+“Create a crisp, clean infographic storyboard poster for THE PRETZEL MAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — deep golden brown pretzel crust, warm caramel tones, coarse white salt crystals, rich wood textures, warm Bavarian daylight.
+Top header:
+THE PRETZEL MAKER
+TOTAL VIDEO TIME: 12 SECONDS
+8 SHOTS · GOLDEN · TWISTED · STRAIGHT FROM BAVARIA
+Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT
+Same Pixar-style middle-aged Bavarian male baker throughout — warm round face, thick blonde mustache, traditional lederhosen with suspenders, white shirt, small charming wooden pretzel stand, string lights overhead, wooden beer barrels nearby, warm daylight, charming German town square or beer garden visible behind him.
+8 panels:
+Panel 1 — THE OPENER: Wide shot. Baker stands behind his wooden pretzel stand, warm daylight flooding the scene, string lights hanging above, traditional German buildings softly visible behind him. He spreads his arms wide and says "Fresh Pretzel!" with a massive proud smile. His world established. You know exactly what's coming.
+Panel 2 — THE ROPE: Close-up. Both hands rolling a length of soft pale dough into a long even rope on the wooden counter — rolling back and forth with practiced rhythm, the rope stretching longer and thinner with each pass.
+Panel 3 — THE TWIST: Hero craft frame. Close-up dramatic. Both hands lifting the dough rope and crossing it into the iconic pretzel shape — looping the ends, twisting them together, folding them down onto the body to form the classic pretzel knot. The most unique hand motion in the entire series. Nobody has shown this in Pixar style.
+Panel 4 — THE BATH: Close-up. The shaped pretzel dipped into a pot of bubbling baking soda water — briefly submerged, lifted back out glistening and slightly darkened, ready for the oven. The step that gives pretzels their signature deep color and chew.
+Panel 5 — THE SALT: Close-up dramatic. Coarse white salt crystals scattered generously over the wet pretzel surface — sticking instantly, catching the daylight, vivid white against the pale dough.
+Panel 6 — THE OVEN: Wide medium with him visible. Baker slides the tray of pretzels into the glowing oven, closes the door. Steps back with a satisfied nod. The wait begins.
+Panel 7 — THE REVEAL: The hero frame. Oven door opens — pretzels emerging deep golden brown, glossy, perfectly twisted, steam rising. He lifts the tray with both hands, eyes lighting up with pride. The most beautiful pretzels you have ever seen.
+Panel 8 — THE TEAR: Wide warm shot. Baker tears a warm pretzel apart with both hands — soft warm interior revealed, steam escaping, salt crystals visible on the golden crust. Eyes closing in pure satisfaction. String lights and the warm Bavarian square glowing behind him.
+Footer:
+VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. Dough rope to the tear.
+CAMERA TIPS: wide on the stand opener, close-up for the rope roll, close-up dramatic for the twist, close-up for the baking soda bath, close-up dramatic for the salt, wide medium for the oven, hero wide for the reveal, wide warm for the tear
+LIGHT & STYLE: warm Bavarian daylight throughout, deep golden pretzel crust, coarse white salt, rich wood textures, traditional lederhosen, string lights, Pixar vivid warm colors throughout
+BAKER NOTES: one baker, one stand, one perfect pretzel. Golden, twisted, and straight from Bavaria.”
+```
+
+<!-- Case 112: Bird Nest Chair Concept Board (by @iamaiistudio) -->
+### Case 112: [Bird Nest Chair Concept Board](https://x.com/iamaiistudio/status/2069779689074561192) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case112/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bird Nest Chair Concept Board"></a> |
+
+**Prompt:**
+
+```
+Design concept board: bird nest weaving methods as the inspiration for a sculptural lounge chair. Four-stage sequence from nest-building reference photos to construction diagrams, then organic form abstraction, then the finished product. Interlocking woven frame forms the seat and backrest. Natural fiber upholstery with soft cushioning. Earthy warm tones with a polished, refined surface. Sustainable luxury aesthetic. Presentation layout with process sketches in the top half, final rendered chair in the bottom half. Warm natural lighting.
+
+AR 4:3
+```
+
 ## Ingredient Preparation Rules
 
 * Maguro: clean block slicing into uniform nigiri portions
@@ -11394,6 +11738,19 @@ Finished Pergola: Fully built wooden pergola in a real garden, matching the exac
 
 ```
 A photorealistic split-frame composition divided precisely down the center. Left half: a detailed dog bone resting against the dividing edge, set against a bright blue sky with soft clouds. Right half: the bone organically morphs into a breathtaking futuristic spacecraft, its silhouette and form continuing the exact contours of the bone into a deep starfield. The transition across the centerline is seamless, making the organic structure flow naturally into the mechanical, set against a clean neutral backdrop to draw full focus to both subjects.
+```
+
+<!-- Case 110: Pencil Shaving Diorama Grid (by @Gdgtify) -->
+### Case 110: [Pencil Shaving Diorama Grid](https://x.com/Gdgtify/status/2069543521045143580) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case110/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pencil Shaving Diorama Grid"></a> |
+
+**Prompt:**
+
+```
+2x2 grid, do this for 4 days $ scenes that made humans proud: Input = Pencil Shaving Category. Identify 4 distinct shavings (e.g., Graphite Shavings, Red Pencil Shavings, Yellow Pencil Shavings, Green Pencil Shavings). > Function Draw($ Pencil_Shaving, $ scene) > Anchor: [scene]:: [Pencil_Shaving]::4 > Morphology: A stunning 3D [scene] composed of [Pencil_Shaving] — full detailed > Material Physics: The thin curled wood, painted color edge, and fine grain of [$Pencil_Shaving] under warm window light
 ```
 
 ## 🤝 How to Contribute

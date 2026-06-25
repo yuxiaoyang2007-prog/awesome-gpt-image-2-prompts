@@ -1455,3 +1455,30 @@ FINAL FEEL:
 
 This must look like a creative direction board for a global campaign. Not a clean layout, not a grid, not minimal. It must feel alive, layered, and brand-heavy, a visual identity snapshot that is highly shareable and scroll-stopping.
 ```
+
+<!-- Case 202: Anuncio del telescopio cósmico de STARKIDZ (by @Strength04_X) -->
+### Case 202: [Anuncio del telescopio cósmico de STARKIDZ](https://x.com/Strength04_X/status/2069448983651787177) (by [@Strength04_X](https://x.com/Strength04_X))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case202/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anuncio del telescopio cósmico de STARKIDZ"></a> |
+
+**Prompt:**
+
+```
+A magical science advertisement poster. A curious young boy age 10 in a NASA tshirt gazes up in total wonder beside a giant shiny silver telescope 3x his height pointed toward a breathtaking galaxy view above, "STARKIDZ" written in glowing white font on the telescope body. Deep dark space background with milky way galaxy colorful nebula clouds and shooting stars. Glowing cosmic typography "STARKIDZ" in white and blue filling the background. Tagline bottom: "Explore the universe." Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, magical kids science product commercial, dramatic deep space galaxy lighting.
+```
+
+
+<!-- Case 203: Anuncio de moda con reloj monumental (by @iamaiistudio) -->
+### Case 203: [Anuncio de moda con reloj monumental](https://x.com/iamaiistudio/status/2069387162425205211) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case203/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anuncio de moda con reloj monumental"></a> |
+
+**Prompt:**
+
+```
+Oversized luxury wristwatch as a modern sculpture centerpiece, fashion model leaning against the dial face, monumental "TIME" typography looming in the background, deep emerald studio environment, reflective polished floor, Swiss high-end advertising aesthetic, cinematic editorial photography, ultra-clean minimalist composition, 1:1
+```

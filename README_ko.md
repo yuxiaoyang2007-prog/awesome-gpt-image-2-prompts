@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![936 Curated Prompts](https://img.shields.io/badge/Prompts-936_Curated_Cases-111111)](README.md)
+[![956 Curated Prompts](https://img.shields.io/badge/Prompts-956_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -81,8 +81,10 @@ OpenAI 표준 API 형식(`/v1/images/generations`)과 호환
 
 ## 📰 새 소식
 
+**2026년 6월 28일:** 일일 image-prompt 업데이트 루프에서 GPT-Image-2 신규 프롬프트 케이스 10건을 추가했습니다(포스터 4건, 캐릭터 3건, 포트레이트 2건, UI 1건). 의미 검토와 미디어 검증을 완료했습니다
 
-**2026년 6월 25일:** 일일 image-prompt 업데이트 루프에서 새로운 GPT-Image-2 프롬프트 케이스 10개 추가 (포스터 4개, 인물 2개, UI 2개, 비교 2개), 의미 검토 및 미디어 검증 완료
+
+AI 이미지 생성을 위해, **956개 이상의 고품질 GPT-Image-2 프롬프트**, API 활용 패턴, 재사용 가능한 비주얼 워크플로를 엄선해 모아두었습니다.
 
 **2026년 6월 23일:** 일일 image-prompt 업데이트 루프에서 새로운 GPT-Image-2 프롬프트 케이스 10개 추가 (광고 크리에이티브 3개, UI 4개, 포스터 1개, 비교 1개, 인물 1개), 의미 검토 및 미디어 검증 완료
 
@@ -1278,6 +1280,44 @@ Oversized luxury wristwatch as a modern sculpture centerpiece, fashion model lea
 ## 🍌 인물 및 사진 사례
 
 > **엄선된 사례 131개** — [모든 인물 프롬프트 보기 →](cases/portrait.md)
+
+<!-- Case 320: 모노크롬 스튜디오 포트레이트 그리드 (by @harboriis) -->
+### Case 320: [모노크롬 스튜디오 포트레이트 그리드](https://x.com/harboriis/status/2071068008341262538) (by [@harboriis](https://x.com/harboriis))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case320/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 모노크롬 스튜디오 포트레이트 그리드"></a> |
+
+**프롬프트:**
+
+```
+A premium fashion editorial portrait series featuring a stylish young man photographed inside a minimalist studio with warm beige walls and soft natural window light. The collection consists of nine unique portraits arranged in a clean 3×3 grid, each showing a different relaxed pose and expression while maintaining a cohesive luxury editorial aesthetic.
+The model has thick messy wavy dark hair, defined facial features, and wears an elegant monochrome wardrobe consisting entirely of black clothing, including fitted black shirts, tailored black trousers, lightweight knitwear, plain black t shirts, and a structured black blazer. A silver wristwatch subtly completes several looks.
+Each portrait captures a different emotion and pose. Resting his chin on his hand while sitting sideways on a wooden chair. Sleeping across the chair back in a quiet introspective moment. Looking away with a sharp jawline highlighted by side lighting. Reclining casually with one hand through his hair. Leaning forward with elbows on knees and an intense gaze. Resting his face against his hand in a thoughtful pose. Looking back over his shoulder while seated. Sitting with one fist against his lips in black and white. Relaxing with an open collar and confident posture.
+Soft diffused daylight enters from a large window, creating smooth shadows and subtle highlights that emphasize facial structure and fabric textures. The backgrounds remain clean and uncluttered with warm neutral tones throughout.
+Shot on an 85mm full frame lens at f/2.2, shallow depth of field, soft editorial lighting, muted color palette, subtle film grain, luxury magazine photography, photorealistic, ultra detailed skin texture, premium fashion campaign, minimalist composition, 8K HDR.
+```
+
+<!-- Case 321: 해안의 데이드림 필름 포트레이트 (by @mehvishs25) -->
+### Case 321: [해안의 데이드림 필름 포트레이트](https://x.com/mehvishs25/status/2071043508346183695) (by [@mehvishs25](https://x.com/mehvishs25))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case321/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 해안의 데이드림 필름 포트레이트"></a> |
+
+**프롬프트:**
+
+```
+Coastal Daydream
+Composition: Three-quarter close-up captured from slightly behind the shoulder, with wind-swept hair creating organic movement across the frame while the coastline softly recedes into mist.
+Prompt:
+Using the uploaded photo as the exact face reference. Preserve the face identity perfectly without modifying facial structure, proportions, expression anatomy, skin texture, or unique features. No beautification, no face reshaping, no artificial symmetry, no AI-generated appearance. Photorealistic candid photograph captured on a worn disposable film camera, monochrome cinematic photography, authentic 35mm grain, subtle exposure inconsistencies, natural imperfections, vintage analog character, documentary realism.
+The woman sits quietly on rugged coastal rocks damp from ocean spray, wearing a flowing white dress with soft fabric folds gathered naturally around her. Strong sea breeze moves through her voluminous hair, lifting sections into the air while delicate strands drift across her cheeks and lips. Her head is turned slightly toward the shoreline, eyes closed, wearing a calm reflective expression and a faint genuine smile as she enjoys the cool ocean wind.
+Behind her, towering sea cliffs disappear gradually into dense coastal fog beneath a dramatic cloud-filled sky. Waves break softly against distant rocks, adding subtle atmosphere without distracting from the subject. Diffused overcast daylight creates gentle tonal transitions across the face and dress, emphasizing realistic skin texture and natural film contrast.
+Shot with an 85mm lens, shallow depth of field, cinematic documentary framing, emotional editorial photography, realistic analog exposure, soft focus falloff. The composition captures her from just behind the shoulder, allowing wind-blown hair to partially veil the frame while the mist-covered coastline stretches into the background, creating a quiet sense of solitude and freedom.
+no ultra-clean digital sharpness, no CGI appearance, no beauty-retouching, no fashion-poster composition, no studio lighting, no centered framing, no black bars, no artificial skin smoothing, aspect ratio vertical.
+```
+
 
 <!-- Case 124: Convenience Store Neon Portrait (by @BubbleBrain) -->
 ### Case 124: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
@@ -3793,6 +3833,87 @@ Quality: ultra-realistic, analog film character, gentle grain, slight softness, 
 ## 🎨 포스터 및 일러스트 사례
 
 > **엄선된 사례 156개** — [모든 포스터 프롬프트 보기 →](cases/poster.md)
+
+<!-- Case 426: Moon Whisper 그래파이트 포트레이트 (by @AiwithLariab) -->
+### Case 426: [Moon Whisper 그래파이트 포트레이트](https://x.com/AiwithLariab/status/2071096245611872431) (by [@AiwithLariab](https://x.com/AiwithLariab))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case426/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Moon Whisper 그래파이트 포트레이트"></a> |
+
+**프롬프트:**
+
+```
+Create an ultra-detailed monochrome graphite pencil masterpiece featuring a graceful HALF-FACE portrait emerging from a pure white background. Position the face on the far right side of the composition, with eyes gently closed in peaceful reflection. The visible half of the face should be large, elegant, and highly detailed with realistic graphite shading and delicate pencil textures.
+
+Behind the subject, place a MASSIVE luminous full moon dominating the background, occupying nearly half of the artwork. Surround it with tiny graphite stars, subtle stardust, and soft celestial particles. Long flowing black hair dissolves into dreamy smoke-like wisps, delicate butterflies, and elegant swirling pencil strokes that blend into the moonlit atmosphere.
+
+Maintain a minimalist fine-art composition with generous negative space, museum-quality graphite rendering, ultra-realistic pencil textures, soft shadows, emotional elegance, ethereal beauty, luxury gallery artwork, vertical phone wallpaper, masterpiece, 8K, hyper-detailed, Moon Whisper theme.
+```
+
+<!-- Case 427: 그래피티 브레이크스루 포스터 (by @Sheldon056) -->
+### Case 427: [그래피티 브레이크스루 포스터](https://x.com/Sheldon056/status/2071082708512465062) (by [@Sheldon056](https://x.com/Sheldon056))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case427/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 그래피티 브레이크스루 포스터"></a> |
+
+**프롬프트:**
+
+```
+A portrait-oriented cinematic poster in the Graffiti Come to Life (Optical Illusion) style, where the cartoon character is not portrayed as a separate 3D figure standing beside the real person. Instead, the character exists as a highly detailed graffiti mural painted on a textured brick wall, while one or both of its hands appear to break through the wall as if coming to life, naturally wrapping around or interacting with the real subject standing in front of it. The illusion should feel seamless, convincing, and visually striking, blending realistic perspective, shadows, lighting, and depth to create the impression that the graffiti has become partially alive.
+
+The overall composition should feature a modern cinematic atmosphere with dynamic lighting, rich color contrast, and carefully balanced depth. Enhance the poster with stylish graffiti-inspired decorative elements such as spray paint splashes, urban textures, paint drips, stencil patterns, geometric accents, subtle wall cracks, layered graphic shapes, and contemporary street-art details that strengthen the visual identity without making the design feel overcrowded.
+
+The subject's pose must be completely different from the reference photo, appearing expressive, confident, and naturally dynamic rather than stiff or flat. The body language should resemble that of an international fashion model, conveying elegance, confidence, and effortless movement with a refined editorial aesthetic. The facial expression should feel lively, engaging, and full of personality, creating a stronger emotional connection with the viewer.
+
+The outfit should reflect modern casual fashion with a stylish, contemporary look. Combine clothing pieces with varied colors, textures, materials, and subtle patterns to avoid a repetitive or monotonous appearance. The styling should feel fashionable, youthful, and visually balanced while remaining realistic and naturally wearable.
+
+Every typography element within the poster should feature bold, premium, and eye-catching font styles that complement the graffiti concept. Use creative font treatments, layered text compositions, dynamic sizing, and modern graphic placement to ensure the typography becomes an integral part of the artwork rather than looking plain or generic.
+
+The overall poster should deliver a premium, high-end visual experience with a fresh contemporary aesthetic. Avoid ordinary layouts, repetitive compositions, mediocre design choices, or generic visual treatments. Every element should contribute to a vibrant, visually rich, and modern street-art inspired masterpiece rendered in ultra-high-definition 8K quality with exceptional sharpness, realistic textures, and professional cinematic finishing.
+```
+
+<!-- Case 428: Neon Shadow Muse (by @iamrealsnow) -->
+### Case 428: [Neon Shadow Muse](https://x.com/iamrealsnow/status/2071080066751312345) (by [@iamrealsnow](https://x.com/iamrealsnow))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case428/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Neon Shadow Muse"></a> |
+
+**프롬프트:**
+
+```
+Use the uploaded photo as the exact identity reference. Preserve the facial structure, hairstyle, beard, skin tone, facial proportions, eyebrows, lips, jawline, and overall likeness with photorealistic accuracy. Do not alter the identity.
+
+Convert the portrait into a premium high-contrast monochrome vector illustration with clean comic-book linework and sharp cel shading.
+
+The subject faces directly toward the camera with a confident expression and slight chin lift.
+
+Add vivid red neon rim lighting around the hair, ears, shoulders, and jawline.
+
+Wear an oversized black open shirt layered over a plain white crew-neck t-shirt, a thin silver square pendant necklace, luxury watch, and black sunglasses resting on top of the head.
+
+Pure black background with subtle floating particles and dramatic shadows.
+
+Ultra-clean vector lines, premium poster composition, luxury editorial style, crisp facial details, cinematic contrast, minimal color palette using only black, white, and glowing red.
+```
+
+<!-- Case 429: 차밭 스토리북 콜라주 (by @Sairah_0) -->
+### Case 429: [차밭 스토리북 콜라주](https://x.com/Sairah_0/status/2071076528532971692) (by [@Sairah_0](https://x.com/Sairah_0))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case429/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 차밭 스토리북 콜라주"></a> |
+
+**프롬프트:**
+
+```
+Create a whimsical, hand-painted storybook-style illustration inspired by three candid travel photos arranged vertically in a collage. Preserve the exact composition, poses, and framing from the reference: a young woman with long straight dark brown hair wearing an oversized off-white button-up shirt, black smartwatch, and round sunglasses, standing waist-deep in lush green tea plantations. The first panel shows her facing slightly left while gently brushing the tea leaves with both hands. The second panel captures her from behind with both arms stretched outward, walking peacefully through the tea bushes. The third panel shows her turned slightly to the right, smiling softly while touching the leaves.
+
+Transform the realistic tea estate into a dreamy, colorful illustrated landscape with rolling hills, playful stylized trees, blooming wildflowers, and vibrant foliage. Use soft pastel tones, rich greens, warm yellows, blush pinks, and teal accents. Add whimsical doodle elements around the composition such as hearts, stars, clouds, sunshine, sparkles, tiny flowers, and hand-drawn decorative marks on a warm cream paper background. Maintain the same vertical three-panel layout with generous spacing, rounded organic shapes, textured brush strokes, and a cozy children’s book aesthetic. The illustration should feel joyful, peaceful, and magical, with clean outlines, subtle paper texture, high detail, and a charming gouache/watercolor-inspired finish. No text, no watermark, high-resolution, portrait orientation.
+```
+
 
 <!-- Case 214: Peacock Botanical Vintage Symmetrical Art Print (by @dotey) -->
 ### Case 214: [Peacock Botanical Vintage Symmetrical Art Print](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
@@ -8279,6 +8400,81 @@ Swiss International design style, minimalist flat vector poster, vertical 9:16 f
 
 > **엄선된 사례 14개** — [모든 캐릭터 디자인 프롬프트 보기 →](cases/character.md)
 
+<!-- Case 31: 포근한 라이프스타일 스티커 그리드 (by @RuzainaMeer) -->
+### Case 31: [포근한 라이프스타일 스티커 그리드](https://x.com/RuzainaMeer/status/2071097968846057649) (by [@RuzainaMeer](https://x.com/RuzainaMeer))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/character_case31/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 포근한 라이프스타일 스티커 그리드"></a> |
+
+**프롬프트:**
+
+```
+A 3x3 grid collage of 9 illustrated sticker-style panels, all featuring the same young woman with curly brown hair styled in a messy bun, soft anime-inspired illustration style with warm pastel color palette (blush pink, cream, warm brown, soft teal). White background for each panel with subtle sparkle/heart decorations. Each panel shows her in a different cozy lifestyle activity:
+Panel 1 (top-left): Cooking in a cozy kitchen, wearing a cream knit sweater and apron, stirring a pink pot on the stove, tomatoes and herbs nearby, warm kitchen background.
+Panel 2 (top-center): Reading a book curled in a cozy chair, wearing a black oversized hoodie, wrapped in a pink blanket, coffee cup with heart on the side, bookshelf behind her.
+Panel 3 (top-right): Painting on a canvas easel, wearing white overalls, holding a paintbrush over a colorful palette, soft musical notes floating around.
+Panel 4 (middle-left): Gardening with floral gloves and denim overalls, planting flowers in terracotta pots, watering can beside her, pink flowers blooming.
+Panel 5 (middle-center): Doing yoga/stretching on a pink mat, wearing a pink crop top and black leggings, arm raised gracefully overhead, green plant in background, water bottle and dumbbells nearby.
+Panel 6 (middle-right): Hugging a golden retriever puppy, wearing a cream hoodie, surrounded by floating pink hearts, big happy smile.
+Panel 7 (bottom-left): Journaling at a desk, wearing a pink off-shoulder knit sweater, writing in a notebook, tulips in a vase, a lit candle, sparkle accents around her.
+Panel 8 (bottom-center): Playing acoustic guitar, wearing a black casual outfit, smiling joyfully, musical notes and golden sparkles floating around her.
+Panel 9 (bottom-right): Traveling with a backpack, wearing a straw hat, sunglasses, white tee, holding an open map, camera hanging around her neck, airplane trail in background.
+Consistent character design across all panels. Soft lineart, warm skin tone, expressive large eyes, cozy and aesthetic illustration style similar to Korean webtoon sticker art. Clean white background per panel, arranged in a 3x3 grid layout.
+```
+
+<!-- Case 32: 1990년대 애니 반항아 포트레이트 (by @oggii_0) -->
+### Case 32: [1990년대 애니 반항아 포트레이트](https://x.com/oggii_0/status/2071084089084613037) (by [@oggii_0](https://x.com/oggii_0))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/character_case32/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 1990년대 애니 반항아 포트레이트"></a> |
+
+**프롬프트:**
+
+```
+Take this photo and transform it into an illustration in the style of 1990s anime.
+
+Capture the authentic aesthetic of that era, with a particular focus on the visual style of male anime protagonists from the 90s. Use a muted, slightly desaturated color palette to evoke the look and feel of classic cel animation.
+
+Preserve the person's key facial features and likeness from the original photo, but adapt them naturally to the 90s anime style. Give the character a strong-willed, confident, and slightly rebellious personality. A cigarette in his mouth is acceptable as part of the character design.
+```
+
+<!-- Case 33: 월드컵 버블헤드 피규어 (by @SaasJunctionHQ) -->
+### Case 33: [월드컵 버블헤드 피규어](https://x.com/SaasJunctionHQ/status/2070943717238919211) (by [@SaasJunctionHQ](https://x.com/SaasJunctionHQ))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/character_case33/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 월드컵 버블헤드 피규어"></a> |
+
+**프롬프트:**
+
+```
+Turn any player into a collectible.
+
+Generate a photorealistic studio image of a custom bobble-head collectible figure modeled after [PLAYER NAME], based entirely on the attached reference photo. The reference image is the absolute and sole source of truth for all physical characteristics — do not rely on any prior knowledge, training data, or assumptions about how [PLAYER NAME] looks. Every visual decision must be driven exclusively by what is visible in the attached photo.
+Follow all of the rules below without exception:
+Likeness & Identity
+•Engrave the name ”[PLAYER NAME]” in clean white lettering on the front face of the two-tiered base beneath the figure.
+•Reproduce every distinctive facial feature — bone structure, eye shape, nose, lips, skin tone, and complexion — exactly as seen in the reference. Do not smooth, soften, generalize, or idealize any feature.
+•The hairstyle must match the reference with exact fidelity — preserve natural curl, wave, coil, frizz, volume, length, and direction. Never straighten, flatten, or restyle the hair.
+•Replicate facial hair (beard, mustache, stubble) at the precise density and pattern shown in the reference. If the subject appears clean-shaven, add absolutely no facial hair.
+•Include accessories such as glasses, earrings, or a hat only if they are visibly present in the reference photo. If no accessories appear, add none whatsoever.
+Figure Design & Style
+•The figure must follow a classic sporty bobble-head aesthetic — proportionally large head, compact body, and an overall collectible toy feel. This is not a Funko Pop, not a caricature, and not a hyper-stylized vinyl figure.
+•The neck must be short and thick in proportion, with absolutely no spring, coil, or hinge mechanism visible.
+•Dress the figure in the official national football kit that corresponds to [PLAYER NAME]’s country — use the correct jersey color, shorts, and socks as worn by their national team. Do not default to any generic or incorrect kit.
+Pose & Base
+•Pose the figure standing upright with one foot casually resting on top of a standard soccer ball, which sits directly on the base.
+•The base must be two-tiered, with a top surface that mimics the texture of matte natural grass — no gloss, no shine, no reflection of any kind.
+Background & Lighting
+•The background must show a football stadium that is softly blurred using a shallow depth-of-field bokeh effect, so the figure remains the clear focal point.
+•The stadium lighting must evoke a warm golden hour — rich amber and soft orange tones, low sun angle, cinematic warmth.
+Format
+•Final output must be in 4:5 portrait orientation.
+```
+
+
 <!-- Case 2: Persona5 Character Reference Card (by @iamrednightS) -->
 ### Case 2: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
 
@@ -8830,6 +9026,20 @@ A highly detailed collectible toy figure inspired by a LEGO-style minifigure, st
 ## 📱 UI 및 소셜 미디어 목업 사례
 
 > **엄선된 사례 46개** — [모든 UI 및 목업 프롬프트 보기 →](cases/ui.md)
+
+<!-- Case 197: 3D 뮤직 플레이어 아이콘 세트 (by @iamaiistudio) -->
+### Case 197: [3D 뮤직 플레이어 아이콘 세트](https://x.com/iamaiistudio/status/2071108428563697756) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case197/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D 뮤직 플레이어 아이콘 세트"></a> |
+
+**프롬프트:**
+
+```
+Design a complete set of 12 music-player homepage category icons in the style of a professional app UI designer. Icons should cover: music note, vinyl record, equalizer, headphones, liked music, music folder, video, microphone, playlist, speaker, CD, and radio. Render each in 3D skeuomorphic style with vibrant colorful accents, on white background rounded-corner cards.
+```
+
 
 <!-- Case 130: One-Prompt UI Design Generation (by @austinit) -->
 ### Case 130: [One-Prompt UI Design Generation](https://x.com/austinit/status/2044968740782272596) (by [@austinit](https://x.com/austinit))

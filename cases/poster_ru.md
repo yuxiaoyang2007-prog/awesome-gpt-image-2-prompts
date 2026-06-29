@@ -8475,3 +8475,84 @@ Create an airy city scene with large typography-safe negative space in the upper
 ```
 Swiss International design style, minimalist flat vector poster, vertical 9:16 format, diagonal-split layout. Top-left: Traditional Chinese headline in a serif typeface paired with flowing connected-script serif English. Bottom-right: key symbolic illustration — flat vector artwork with vivid fluorescent gradients, subtle grain texture, scattered pixel-art icons, cultural festival poster aesthetic, museum-quality graphic design. Theme: Infinite Love Marathon Concerts (floral motif). 4K.
 ```
+
+<!-- Case 426: Графитовый портрет Moon Whisper (by @AiwithLariab) -->
+### Case 426: [Графитовый портрет Moon Whisper](https://x.com/AiwithLariab/status/2071096245611872431) (by [@AiwithLariab](https://x.com/AiwithLariab))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case426/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Графитовый портрет Moon Whisper"></a> |
+
+**Prompt:**
+
+```
+Create an ultra-detailed monochrome graphite pencil masterpiece featuring a graceful HALF-FACE portrait emerging from a pure white background. Position the face on the far right side of the composition, with eyes gently closed in peaceful reflection. The visible half of the face should be large, elegant, and highly detailed with realistic graphite shading and delicate pencil textures.
+
+Behind the subject, place a MASSIVE luminous full moon dominating the background, occupying nearly half of the artwork. Surround it with tiny graphite stars, subtle stardust, and soft celestial particles. Long flowing black hair dissolves into dreamy smoke-like wisps, delicate butterflies, and elegant swirling pencil strokes that blend into the moonlit atmosphere.
+
+Maintain a minimalist fine-art composition with generous negative space, museum-quality graphite rendering, ultra-realistic pencil textures, soft shadows, emotional elegance, ethereal beauty, luxury gallery artwork, vertical phone wallpaper, masterpiece, 8K, hyper-detailed, Moon Whisper theme.
+```
+
+<!-- Case 427: Постер с прорывом граффити (by @Sheldon056) -->
+### Case 427: [Постер с прорывом граффити](https://x.com/Sheldon056/status/2071082708512465062) (by [@Sheldon056](https://x.com/Sheldon056))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case427/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Постер с прорывом граффити"></a> |
+
+**Prompt:**
+
+```
+A portrait-oriented cinematic poster in the Graffiti Come to Life (Optical Illusion) style, where the cartoon character is not portrayed as a separate 3D figure standing beside the real person. Instead, the character exists as a highly detailed graffiti mural painted on a textured brick wall, while one or both of its hands appear to break through the wall as if coming to life, naturally wrapping around or interacting with the real subject standing in front of it. The illusion should feel seamless, convincing, and visually striking, blending realistic perspective, shadows, lighting, and depth to create the impression that the graffiti has become partially alive.
+
+The overall composition should feature a modern cinematic atmosphere with dynamic lighting, rich color contrast, and carefully balanced depth. Enhance the poster with stylish graffiti-inspired decorative elements such as spray paint splashes, urban textures, paint drips, stencil patterns, geometric accents, subtle wall cracks, layered graphic shapes, and contemporary street-art details that strengthen the visual identity without making the design feel overcrowded.
+
+The subject's pose must be completely different from the reference photo, appearing expressive, confident, and naturally dynamic rather than stiff or flat. The body language should resemble that of an international fashion model, conveying elegance, confidence, and effortless movement with a refined editorial aesthetic. The facial expression should feel lively, engaging, and full of personality, creating a stronger emotional connection with the viewer.
+
+The outfit should reflect modern casual fashion with a stylish, contemporary look. Combine clothing pieces with varied colors, textures, materials, and subtle patterns to avoid a repetitive or monotonous appearance. The styling should feel fashionable, youthful, and visually balanced while remaining realistic and naturally wearable.
+
+Every typography element within the poster should feature bold, premium, and eye-catching font styles that complement the graffiti concept. Use creative font treatments, layered text compositions, dynamic sizing, and modern graphic placement to ensure the typography becomes an integral part of the artwork rather than looking plain or generic.
+
+The overall poster should deliver a premium, high-end visual experience with a fresh contemporary aesthetic. Avoid ordinary layouts, repetitive compositions, mediocre design choices, or generic visual treatments. Every element should contribute to a vibrant, visually rich, and modern street-art inspired masterpiece rendered in ultra-high-definition 8K quality with exceptional sharpness, realistic textures, and professional cinematic finishing.
+```
+
+<!-- Case 428: Neon Shadow Muse (by @iamrealsnow) -->
+### Case 428: [Neon Shadow Muse](https://x.com/iamrealsnow/status/2071080066751312345) (by [@iamrealsnow](https://x.com/iamrealsnow))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case428/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Neon Shadow Muse"></a> |
+
+**Prompt:**
+
+```
+Use the uploaded photo as the exact identity reference. Preserve the facial structure, hairstyle, beard, skin tone, facial proportions, eyebrows, lips, jawline, and overall likeness with photorealistic accuracy. Do not alter the identity.
+
+Convert the portrait into a premium high-contrast monochrome vector illustration with clean comic-book linework and sharp cel shading.
+
+The subject faces directly toward the camera with a confident expression and slight chin lift.
+
+Add vivid red neon rim lighting around the hair, ears, shoulders, and jawline.
+
+Wear an oversized black open shirt layered over a plain white crew-neck t-shirt, a thin silver square pendant necklace, luxury watch, and black sunglasses resting on top of the head.
+
+Pure black background with subtle floating particles and dramatic shadows.
+
+Ultra-clean vector lines, premium poster composition, luxury editorial style, crisp facial details, cinematic contrast, minimal color palette using only black, white, and glowing red.
+```
+
+<!-- Case 429: Коллаж в стиле сказки о чайной плантации (by @Sairah_0) -->
+### Case 429: [Коллаж в стиле сказки о чайной плантации](https://x.com/Sairah_0/status/2071076528532971692) (by [@Sairah_0](https://x.com/Sairah_0))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case429/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Коллаж в стиле сказки о чайной плантации"></a> |
+
+**Prompt:**
+
+```
+Create a whimsical, hand-painted storybook-style illustration inspired by three candid travel photos arranged vertically in a collage. Preserve the exact composition, poses, and framing from the reference: a young woman with long straight dark brown hair wearing an oversized off-white button-up shirt, black smartwatch, and round sunglasses, standing waist-deep in lush green tea plantations. The first panel shows her facing slightly left while gently brushing the tea leaves with both hands. The second panel captures her from behind with both arms stretched outward, walking peacefully through the tea bushes. The third panel shows her turned slightly to the right, smiling softly while touching the leaves.
+
+Transform the realistic tea estate into a dreamy, colorful illustrated landscape with rolling hills, playful stylized trees, blooming wildflowers, and vibrant foliage. Use soft pastel tones, rich greens, warm yellows, blush pinks, and teal accents. Add whimsical doodle elements around the composition such as hearts, stars, clouds, sunshine, sparkles, tiny flowers, and hand-drawn decorative marks on a warm cream paper background. Maintain the same vertical three-panel layout with generous spacing, rounded organic shapes, textured brush strokes, and a cozy children’s book aesthetic. The illustration should feel joyful, peaceful, and magical, with clean outlines, subtle paper texture, high detail, and a charming gouache/watercolor-inspired finish. No text, no watermark, high-resolution, portrait orientation.
+```
+

@@ -3234,3 +3234,17 @@ Lighting and finish: soft controlled studio lighting, subtle highlights, realist
 
 Mood: polished, modern, hyperreal, aspirational. Built for brand sites, social grids, and digital billboards.
 ```
+
+<!-- Case 197: 3D Müzik Çalar İkon Seti (by @iamaiistudio) -->
+### Case 197: [3D Müzik Çalar İkon Seti](https://x.com/iamaiistudio/status/2071108428563697756) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case197/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Müzik Çalar İkon Seti"></a> |
+
+**İstem:**
+
+```
+Design a complete set of 12 music-player homepage category icons in the style of a professional app UI designer. Icons should cover: music note, vinyl record, equalizer, headphones, liked music, music folder, video, microphone, playlist, speaker, CD, and radio. Render each in 3D skeuomorphic style with vibrant colorful accents, on white background rounded-corner cards.
+```
+

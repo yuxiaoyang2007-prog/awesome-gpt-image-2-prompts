@@ -11,6 +11,19 @@
 **プロンプト：**
 
 ```
+
+<!-- Case 197: 3D Music Player Icon Set (by @iamaiistudio) -->
+### Case 197: [3Dミュージックプレーヤーアイコンセット](https://x.com/iamaiistudio/status/2071108428563697756) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case197/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3Dミュージックプレーヤーアイコンセット"></a> |
+
+**プロンプト:**
+
+```
+Design a complete set of 12 music-player homepage category icons in the style of a professional app UI designer. Icons should cover: music note, vinyl record, equalizer, headphones, liked music, music folder, video, microphone, playlist, speaker, CD, and radio. Render each in 3D skeuomorphic style with vibrant colorful accents, on white background rounded-corner cards.
+```
 用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它
 ```
 ### Case 2: [Amateur iPhone Keynote Snapshot](https://x.com/patrickassale/status/2044687244368441742) (by [@patrickassale](https://x.com/patrickassale))
@@ -3234,3 +3247,17 @@ Lighting and finish: soft controlled studio lighting, subtle highlights, realist
 
 Mood: polished, modern, hyperreal, aspirational. Built for brand sites, social grids, and digital billboards.
 ```
+
+<!-- Case 197: 3Dミュージックプレーヤー・アイコンセット (by @iamaiistudio) -->
+### Case 197: [3Dミュージックプレーヤー・アイコンセット](https://x.com/iamaiistudio/status/2071108428563697756) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case197/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3Dミュージックプレーヤー・アイコンセット"></a> |
+
+**プロンプト:**
+
+```
+Design a complete set of 12 music-player homepage category icons in the style of a professional app UI designer. Icons should cover: music note, vinyl record, equalizer, headphones, liked music, music folder, video, microphone, playlist, speaker, CD, and radio. Render each in 3D skeuomorphic style with vibrant colorful accents, on white background rounded-corner cards.
+```
+

@@ -4011,3 +4011,40 @@ Quality: ultra-realistic, analog film character, gentle grain, slight softness, 
 ```
 3D render, stylized full-body side-view portrait of an elderly male hiker with a long white beard, walking right. Solid seamless deep-teal studio background with soft floor reflections. He wears a brown wide-brim felt hat, a gray-blue plaid shirt, cuffed brown corduroy trousers, and scuffed dark work boots. Large canvas-and-wicker backpack with leather straps on his back. Right hand holds a lit vintage hurricane lantern (brass frame, glass globe) casting a warm amber glow. Left hand grips a plain wooden walking stick. Textured matte finish, soft diffused studio lighting, vertical composition with generous negative space above.
 ```
+
+<!-- Case 320: Monochromes Studio-Porträtraster (by @harboriis) -->
+### Case 320: [Monochromes Studio-Porträtraster](https://x.com/harboriis/status/2071068008341262538) (by [@harboriis](https://x.com/harboriis))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case320/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Monochromes Studio-Porträtraster"></a> |
+
+**Prompt:**
+
+```
+A premium fashion editorial portrait series featuring a stylish young man photographed inside a minimalist studio with warm beige walls and soft natural window light. The collection consists of nine unique portraits arranged in a clean 3×3 grid, each showing a different relaxed pose and expression while maintaining a cohesive luxury editorial aesthetic.
+The model has thick messy wavy dark hair, defined facial features, and wears an elegant monochrome wardrobe consisting entirely of black clothing, including fitted black shirts, tailored black trousers, lightweight knitwear, plain black t shirts, and a structured black blazer. A silver wristwatch subtly completes several looks.
+Each portrait captures a different emotion and pose. Resting his chin on his hand while sitting sideways on a wooden chair. Sleeping across the chair back in a quiet introspective moment. Looking away with a sharp jawline highlighted by side lighting. Reclining casually with one hand through his hair. Leaning forward with elbows on knees and an intense gaze. Resting his face against his hand in a thoughtful pose. Looking back over his shoulder while seated. Sitting with one fist against his lips in black and white. Relaxing with an open collar and confident posture.
+Soft diffused daylight enters from a large window, creating smooth shadows and subtle highlights that emphasize facial structure and fabric textures. The backgrounds remain clean and uncluttered with warm neutral tones throughout.
+Shot on an 85mm full frame lens at f/2.2, shallow depth of field, soft editorial lighting, muted color palette, subtle film grain, luxury magazine photography, photorealistic, ultra detailed skin texture, premium fashion campaign, minimalist composition, 8K HDR.
+```
+
+<!-- Case 321: Filmisches Küsten-Tagtraum-Porträt (by @mehvishs25) -->
+### Case 321: [Filmisches Küsten-Tagtraum-Porträt](https://x.com/mehvishs25/status/2071043508346183695) (by [@mehvishs25](https://x.com/mehvishs25))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case321/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Filmisches Küsten-Tagtraum-Porträt"></a> |
+
+**Prompt:**
+
+```
+Coastal Daydream
+Composition: Three-quarter close-up captured from slightly behind the shoulder, with wind-swept hair creating organic movement across the frame while the coastline softly recedes into mist.
+Prompt:
+Using the uploaded photo as the exact face reference. Preserve the face identity perfectly without modifying facial structure, proportions, expression anatomy, skin texture, or unique features. No beautification, no face reshaping, no artificial symmetry, no AI-generated appearance. Photorealistic candid photograph captured on a worn disposable film camera, monochrome cinematic photography, authentic 35mm grain, subtle exposure inconsistencies, natural imperfections, vintage analog character, documentary realism.
+The woman sits quietly on rugged coastal rocks damp from ocean spray, wearing a flowing white dress with soft fabric folds gathered naturally around her. Strong sea breeze moves through her voluminous hair, lifting sections into the air while delicate strands drift across her cheeks and lips. Her head is turned slightly toward the shoreline, eyes closed, wearing a calm reflective expression and a faint genuine smile as she enjoys the cool ocean wind.
+Behind her, towering sea cliffs disappear gradually into dense coastal fog beneath a dramatic cloud-filled sky. Waves break softly against distant rocks, adding subtle atmosphere without distracting from the subject. Diffused overcast daylight creates gentle tonal transitions across the face and dress, emphasizing realistic skin texture and natural film contrast.
+Shot with an 85mm lens, shallow depth of field, cinematic documentary framing, emotional editorial photography, realistic analog exposure, soft focus falloff. The composition captures her from just behind the shoulder, allowing wind-blown hair to partially veil the frame while the mist-covered coastline stretches into the background, creating a quiet sense of solitude and freedom.
+no ultra-clean digital sharpness, no CGI appearance, no beauty-retouching, no fashion-poster composition, no studio lighting, no centered framing, no black bars, no artificial skin smoothing, aspect ratio vertical.
+```

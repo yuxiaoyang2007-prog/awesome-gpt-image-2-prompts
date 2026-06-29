@@ -752,3 +752,77 @@ Cute minimalist pastel doodle illustration, kawaii character standing side-by-si
 A highly detailed collectible toy figure inspired by a LEGO-style minifigure, standing in a professional studio. The figure has a realistic young woman’s face with porcelain skin, straight jet-black hair, blunt bangs, and a single striking white streak running through the hair. She wears small silver earrings and maintains a calm, confident expression. The body is a glossy plastic brick-toy minifigure wearing a soccer jersey with the number 10, matching shorts, and national-team-inspired colors. Full-body composition, centered framing, shallow depth of field, premium product photography, ultra-clean lighting, reflective plastic surfaces, realistic shadows, sharp focus, luxury collectible aesthetic, high-end commercial advertising style, photorealistic face blended seamlessly with toy body, 8K resolution, vibrant color grading, studio backdrop matching the jersey color theme.
 ```
 
+<!-- Case 31: Sıcacık Yaşam Tarzı Sticker Izgarası (by @RuzainaMeer) -->
+### Case 31: [Sıcacık Yaşam Tarzı Sticker Izgarası](https://x.com/RuzainaMeer/status/2071097968846057649) (by [@RuzainaMeer](https://x.com/RuzainaMeer))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case31/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sıcacık Yaşam Tarzı Sticker Izgarası"></a> |
+
+**İstem:**
+
+```
+A 3x3 grid collage of 9 illustrated sticker-style panels, all featuring the same young woman with curly brown hair styled in a messy bun, soft anime-inspired illustration style with warm pastel color palette (blush pink, cream, warm brown, soft teal). White background for each panel with subtle sparkle/heart decorations. Each panel shows her in a different cozy lifestyle activity:
+Panel 1 (top-left): Cooking in a cozy kitchen, wearing a cream knit sweater and apron, stirring a pink pot on the stove, tomatoes and herbs nearby, warm kitchen background.
+Panel 2 (top-center): Reading a book curled in a cozy chair, wearing a black oversized hoodie, wrapped in a pink blanket, coffee cup with heart on the side, bookshelf behind her.
+Panel 3 (top-right): Painting on a canvas easel, wearing white overalls, holding a paintbrush over a colorful palette, soft musical notes floating around.
+Panel 4 (middle-left): Gardening with floral gloves and denim overalls, planting flowers in terracotta pots, watering can beside her, pink flowers blooming.
+Panel 5 (middle-center): Doing yoga/stretching on a pink mat, wearing a pink crop top and black leggings, arm raised gracefully overhead, green plant in background, water bottle and dumbbells nearby.
+Panel 6 (middle-right): Hugging a golden retriever puppy, wearing a cream hoodie, surrounded by floating pink hearts, big happy smile.
+Panel 7 (bottom-left): Journaling at a desk, wearing a pink off-shoulder knit sweater, writing in a notebook, tulips in a vase, a lit candle, sparkle accents around her.
+Panel 8 (bottom-center): Playing acoustic guitar, wearing a black casual outfit, smiling joyfully, musical notes and golden sparkles floating around her.
+Panel 9 (bottom-right): Traveling with a backpack, wearing a straw hat, sunglasses, white tee, holding an open map, camera hanging around her neck, airplane trail in background.
+Consistent character design across all panels. Soft lineart, warm skin tone, expressive large eyes, cozy and aesthetic illustration style similar to Korean webtoon sticker art. Clean white background per panel, arranged in a 3x3 grid layout.
+```
+
+<!-- Case 32: 1990'lar Anime Asi Portresi (by @oggii_0) -->
+### Case 32: [1990'lar Anime Asi Portresi](https://x.com/oggii_0/status/2071084089084613037) (by [@oggii_0](https://x.com/oggii_0))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case32/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 1990'lar Anime Asi Portresi"></a> |
+
+**İstem:**
+
+```
+Take this photo and transform it into an illustration in the style of 1990s anime.
+
+Capture the authentic aesthetic of that era, with a particular focus on the visual style of male anime protagonists from the 90s. Use a muted, slightly desaturated color palette to evoke the look and feel of classic cel animation.
+
+Preserve the person's key facial features and likeness from the original photo, but adapt them naturally to the 90s anime style. Give the character a strong-willed, confident, and slightly rebellious personality. A cigarette in his mouth is acceptable as part of the character design.
+```
+
+<!-- Case 33: Dünya Kupası Bobblehead Figürü (by @SaasJunctionHQ) -->
+### Case 33: [Dünya Kupası Bobblehead Figürü](https://x.com/SaasJunctionHQ/status/2070943717238919211) (by [@SaasJunctionHQ](https://x.com/SaasJunctionHQ))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case33/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dünya Kupası Bobblehead Figürü"></a> |
+
+**İstem:**
+
+```
+Turn any player into a collectible.
+
+Generate a photorealistic studio image of a custom bobble-head collectible figure modeled after [PLAYER NAME], based entirely on the attached reference photo. The reference image is the absolute and sole source of truth for all physical characteristics — do not rely on any prior knowledge, training data, or assumptions about how [PLAYER NAME] looks. Every visual decision must be driven exclusively by what is visible in the attached photo.
+Follow all of the rules below without exception:
+Likeness & Identity
+•Engrave the name ”[PLAYER NAME]” in clean white lettering on the front face of the two-tiered base beneath the figure.
+•Reproduce every distinctive facial feature — bone structure, eye shape, nose, lips, skin tone, and complexion — exactly as seen in the reference. Do not smooth, soften, generalize, or idealize any feature.
+•The hairstyle must match the reference with exact fidelity — preserve natural curl, wave, coil, frizz, volume, length, and direction. Never straighten, flatten, or restyle the hair.
+•Replicate facial hair (beard, mustache, stubble) at the precise density and pattern shown in the reference. If the subject appears clean-shaven, add absolutely no facial hair.
+•Include accessories such as glasses, earrings, or a hat only if they are visibly present in the reference photo. If no accessories appear, add none whatsoever.
+Figure Design & Style
+•The figure must follow a classic sporty bobble-head aesthetic — proportionally large head, compact body, and an overall collectible toy feel. This is not a Funko Pop, not a caricature, and not a hyper-stylized vinyl figure.
+•The neck must be short and thick in proportion, with absolutely no spring, coil, or hinge mechanism visible.
+•Dress the figure in the official national football kit that corresponds to [PLAYER NAME]’s country — use the correct jersey color, shorts, and socks as worn by their national team. Do not default to any generic or incorrect kit.
+Pose & Base
+•Pose the figure standing upright with one foot casually resting on top of a standard soccer ball, which sits directly on the base.
+•The base must be two-tiered, with a top surface that mimics the texture of matte natural grass — no gloss, no shine, no reflection of any kind.
+Background & Lighting
+•The background must show a football stadium that is softly blurred using a shallow depth-of-field bokeh effect, so the figure remains the clear focal point.
+•The stadium lighting must evoke a warm golden hour — rich amber and soft orange tones, low sun angle, cinematic warmth.
+Format
+•Final output must be in 4:5 portrait orientation.
+```
+
